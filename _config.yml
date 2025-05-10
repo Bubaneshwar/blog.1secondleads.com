@@ -14,12 +14,12 @@ timezone: America/New_York
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 1SecondLeads Blog # the main title
+title: 1SecondLeads Blog - B2B Lead Gen Step by Step # the main title
 
-tagline: How we generate hundreds of qualified B2B sales appointments each month. # it will display as the subtitle
+tagline: Archive of our free SOPs, guides on B2B lead gen and sales, and case studies. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  How we generate hundreds of qualified B2B sales appointments each month.
+  Archive of our free SOPs, guides on B2B lead gen and sales, and case studies.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -38,8 +38,8 @@ social:
   email: ivan@1secondleads.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://x.com/IvanMalinovski # change to your Twitter homepage
+    # - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -126,7 +126,7 @@ comments:
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
-    lang: # optional, default to the value of `site.lang`
+    lang: en-US
     reactions_enabled: # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
