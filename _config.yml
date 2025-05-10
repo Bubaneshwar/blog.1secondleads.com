@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "" # Or remove this line entirely if it was, for example, "/blog.1secondleads.com"
 
 # ------------ The following options are not recommended to be modified ------------------
 
