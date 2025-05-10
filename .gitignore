@@ -25,3 +25,20 @@ package-lock.json
 # Misc
 _sass/vendors
 assets/js/dist
+
+# Bundler
+.bundle/
+vendor/bundle/
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock # Optional, see note below
+
+# Other common ignores (add as needed)
+# .DS_Store
+# node_modules/
+# *.log
+# tmp/
