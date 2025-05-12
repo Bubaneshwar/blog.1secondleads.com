@@ -3,7 +3,7 @@ title: "Powering Codelii's Growth Engine"
 date: 2025-05-10
 layout: post # Add this if Chirpy requires it
 ---
-
+start
 **Client:** Codelii – Custom Web Design & Development Agency ([codelii.com](https://codelii.com/))
 
 **Timeline:** 6-Month Engagement
