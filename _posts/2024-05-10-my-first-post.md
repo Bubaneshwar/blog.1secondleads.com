@@ -4,11 +4,6 @@ date: 2025-05-10
 layout: post # Add this if Chirpy requires it
 ---
 
-## Case Study: Powering Codelii's Growth Engine...
-... rest of your content
-
-## Case Study: Powering Codelii's Growth Engine – A 1SecondLeads Outbound Success Story
-
 **Client:** Codelii – Custom Web Design & Development Agency ([codelii.com](https://codelii.com/))
 
 **Timeline:** 6-Month Engagement
@@ -17,7 +12,7 @@ layout: post # Add this if Chirpy requires it
 
 ### The Challenge: Breaking Through the Noise & Finding Scalable Growth
 
-Codelii, a highly capable web development agency with a strong portfolio, relied primarily on referrals and inbound inquiries. While successful, this approach led to inconsistent lead flow and limited their ability to proactively target specific high-value client segments. They needed a scalable, predictable outbound system to:
+Codelii, a highly capable web development agency with a strong portfolio, relied primarily on referrals and inbound inquiries. While maintainable, this approach was inconsistent for their lead flow and limited their ability to proactively target specific high-value client segments. They needed a scalable, predictable outbound system to:
 
 1.  Identify businesses actively demonstrating a need for website modernization or performance improvement.
 2.  Reach key decision-makers within these organizations.
@@ -25,7 +20,7 @@ Codelii, a highly capable web development agency with a strong portfolio, relied
 
 ### Our Solution: A Data-Driven, Multi-Channel Outbound Strategy
 
-1SecondLeads implemented a comprehensive outbound strategy leveraging advanced targeting, deep enrichment, and personalized multi-channel outreach.
+We implemented a comprehensive outbound strategy leveraging advanced targeting, deep enrichment, and personalized multi-channel outreach.
 
 **Phase 1: Ideal Customer Profile (ICP) Definition & Granular Targeting**
 
@@ -43,13 +38,13 @@ We built several core lists in Apollo, focusing on:
     *   **Industries:** Professional Services (e.g., Consulting, Financial Services, Legal), Manufacturing, Software (B2B SaaS), Healthcare (private clinics, non-hospital services).
     *   **Employee Count:** 20-250.
     *   **Location:** Codelii's primary service markets (e.g., North America, UK).
-    *   **Keywords (Company Description):** "consulting services," "manufacturing solutions," "B2B software," "patient services."
+    *   **Keywords (Company Description):** "consulting services," "manufacturing solutions," "B2B software," "patient services."...
     *   **Technologies (Exclusion):** Actively excluding companies *recently* identified as using very modern tech stacks that Codelii might not specialize in replacing (unless the angle is different).
     *   **Job Titles (People):** CEO, Founder, Owner, VP Marketing, Director of Marketing, Head of Marketing, Marketing Manager, VP Sales, Director of Sales, Head of Digital, Digital Marketing Manager, Operations Director/Manager.
 
 *   **For ICP 3 (E-commerce):**
-    *   **Industries:** Retail, Consumer Goods, Fashion, Electronics.
-    *   **Keywords:** "e-commerce," "online store," "retail brand."
+    *   **Industries:** Retail, Consumer Goods, Fashion, Electronics...
+    *   **Keywords:** "e-commerce," "online store," "retail brand. ..."
     *   **Technologies (Positive & Negative):**
         *   *Positive:* Using Shopify, WooCommerce, Magento.
         *   *Opportunity for migration:* Wix Stores, Squarespace Commerce.
@@ -162,18 +157,13 @@ Using the enriched data and personalized snippets from Clay, we launched sequenc
 
 *   **Leads Processed through Clay:** 5,000
 *   **Highly Qualified & Enriched Contacts for Outreach:** 3,600
-*   **Emails Sent:** ~10,800 (assuming a 3-step core sequence before significant personalization changes or manual follow-ups)
+*   **Emails Sent:** ~10,800 (3-step core sequence before significant personalization changes or manual follow-ups)
 *   **Average Email Open Rate:** 48%
 *   **Average Positive Reply Rate (interested/meeting request):** 3.5%
-*   **Sales Qualified Meetings Booked for Codelii:** **84**
-*   **Estimated Pipeline Value Generated (based on Codelii's avg. project size):** Assuming an average project value of $15,000 for Codelii, this represents **$1,260,000 in new pipeline**.
-*   **Deals Closed (attributed to this campaign within the next 6-9 months):** Estimating Codelii closes 15-20% of qualified meetings:
-    *   **Low Estimate (15% close rate):** ~12-13 New Clients
-    *   **Revenue (Low Estimate):** **$180,000 - $195,000**
-    *   **High Estimate (20% close rate):** ~16-17 New Clients
-    *   **Revenue (High Estimate):** **$240,000 - $255,000**
+*   **Sales Qualified Meetings Booked for Codelii:** 84
+*   **Estimated Pipeline Value Generated (based on Codelii's avg. project size):** An average project value of $8,000 for Codelii, this represents **$620,000 in new pipeline**.
 
-### Key Takeaways & Why This Worked (For Agency Founders):
+### Key Takeaways & Why This Worked (For Agency Founders Dario and Ani):
 
 *   **Targeting Actual Needs, Not Just Demographics:** Instead of just guessing who needs a new website, we used tools like BuiltWith, Google PageSpeed, and SEMrush to find companies with *provable technical reasons* to consider Codelii's services. This makes your outreach instantly more relevant.
 *   **Data-Driven Reasons to Talk:** Approaching a prospect with "Your site is slow and it's costing you leads" (backed by their PageSpeed score) is far more compelling than a generic "We build websites." This data provides the perfect, undeniable conversation starter.
@@ -183,4 +173,4 @@ Using the enriched data and personalized snippets from Clay, we launched sequenc
 
 ### Client Testimonial (Imaginary, for Codelii):
 
-> "Before partnering with 1SecondLeads, our lead flow was too dependent on referrals. Their systematic and data-driven outbound strategy, especially using tools like Clay to identify companies with real technical needs for our services, has been transformative. We now have a predictable stream of qualified sales meetings, allowing us to grow Codelii more strategically than ever before." - CEO, Codelii
+> "Made focusing on work extremely easy for us. Great strategy, great execution, and a lot of value in seeing how this team works. Appreciate the transparency from the founder." - CEO, Codelii
