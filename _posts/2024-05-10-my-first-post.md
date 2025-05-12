@@ -4,11 +4,6 @@ date: 2025-05-10
 layout: post # Add this if Chirpy requires it
 ---
 
-## Case Study: Powering Codelii's Growth Engine...
-... rest of your content
-
-## Case Study: Powering Codelii's Growth Engine – A 1SecondLeads Outbound Success Story
-
 **Client:** Codelii – Custom Web Design & Development Agency ([codelii.com](https://codelii.com/))
 
 **Timeline:** 6-Month Engagement
