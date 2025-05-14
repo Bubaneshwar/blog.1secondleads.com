@@ -3,16 +3,16 @@ title: "Powering Codelii's Growth Engine"
 date: 2025-05-10
 layout: post # Add this if Chirpy requires it
 ---
-start
+
 **Client:** Codelii – Custom Web Design & Development Agency ([codelii.com](https://codelii.com/))
 
-**Timeline:** 6-Month Engagement
+**Timeline:** 4-Month Engagement
 
 **Objective:** To significantly increase Codelii's pipeline of qualified leads for their web design, web development, and e-commerce solutions by targeting businesses with clear indicators of needing a new or improved digital presence.
 
 ### The Challenge: Breaking Through the Noise & Finding Scalable Growth
 
-Codelii, a highly capable web development agency with a strong portfolio, relied primarily on referrals and inbound inquiries. While maintainable, this approach was inconsistent for their lead flow and limited their ability to proactively target specific high-value client segments. They needed a scalable, predictable outbound system to:
+Codelii, a web development agency with a strong portfolio, relied primarily on referrals and inbound inquiries. While maintainable, this approach was inconsistent for their lead flow and limited their ability to proactively target specific high-value client segments. They needed a scalable, predictable outbound system to:
 
 1.  Identify businesses actively demonstrating a need for website modernization or performance improvement.
 2.  Reach key decision-makers within these organizations.
@@ -44,7 +44,7 @@ We built several core lists in Apollo, focusing on:
 
 *   **For ICP 3 (E-commerce):**
     *   **Industries:** Retail, Consumer Goods, Fashion, Electronics...
-    *   **Keywords:** "e-commerce," "online store," "retail brand. ..."
+    *   **Keywords:** "e-commerce," "online store," "retail brand..."
     *   **Technologies (Positive & Negative):**
         *   *Positive:* Using Shopify, WooCommerce, Magento.
         *   *Opportunity for migration:* Wix Stores, Squarespace Commerce.
@@ -153,7 +153,7 @@ Using the enriched data and personalized snippets from Clay, we launched sequenc
     *   Like/comment on their recent relevant post.
     *   OR Send a soft message: `Thanks for connecting, [First Name]! If your team at [Prospect Company Name] is ever looking to elevate your website's performance or more effectively convert visitors into customers, Codelii has a strong track record of delivering such results. Happy to share some examples.`
 
-### The Results (Projected Metrics over 6 Months):
+### The Results (Projected Metrics over 4 Months):
 
 *   **Leads Processed through Clay:** 5,000
 *   **Highly Qualified & Enriched Contacts for Outreach:** 3,600
@@ -161,7 +161,7 @@ Using the enriched data and personalized snippets from Clay, we launched sequenc
 *   **Average Email Open Rate:** 48%
 *   **Average Positive Reply Rate (interested/meeting request):** 3.5%
 *   **Sales Qualified Meetings Booked for Codelii:** 84
-*   **Estimated Pipeline Value Generated (based on Codelii's avg. project size):** An average project value of $8,000 for Codelii, this represents **$620,000 in new pipeline**.
+*   **Estimated Pipeline Value Generated (based on Codelii's avg. project size):** An average project value of $8,000 for Codelii, this represents **$672,000 in new pipeline**.
 
 ### Key Takeaways & Why This Worked (For Agency Founders Dario and Ani):
 
