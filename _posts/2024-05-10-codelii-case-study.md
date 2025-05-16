@@ -1,12 +1,16 @@
 ---
-title: "Powering Codelii's Growth Engine"
+title: "Codelii (web design & development agency)"
+slug: codelii-case-study
 date: 2025-05-10
 layout: post # Add this if Chirpy requires it
+categories: case-study
+tags:
+  - for web agencies
 ---
 
 **Client:** Codelii – Custom Web Design & Development Agency ([codelii.com](https://codelii.com/))
 
-**Timeline:** 6-Month Engagement
+**Timeline:** 3-Month Engagement
 
 **Objective:** To significantly increase Codelii's pipeline of qualified leads for their web design, web development, and e-commerce solutions by targeting businesses with clear indicators of needing a new or improved digital presence.
 
@@ -153,7 +157,7 @@ Using the enriched data and personalized snippets from Clay, we launched sequenc
     *   Like/comment on their recent relevant post.
     *   OR Send a soft message: `Thanks for connecting, [First Name]! If your team at [Prospect Company Name] is ever looking to elevate your website's performance or more effectively convert visitors into customers, Codelii has a strong track record of delivering such results. Happy to share some examples.`
 
-### The Results (Projected Metrics over 6 Months):
+### The Results (Projected Metrics over 3 Months):
 
 *   **Leads Processed through Clay:** 5,000
 *   **Highly Qualified & Enriched Contacts for Outreach:** 3,600
@@ -161,12 +165,7 @@ Using the enriched data and personalized snippets from Clay, we launched sequenc
 *   **Average Email Open Rate:** 48%
 *   **Average Positive Reply Rate (interested/meeting request):** 3.5%
 *   **Sales Qualified Meetings Booked for Codelii:** **84**
-*   **Estimated Pipeline Value Generated (based on Codelii's avg. project size):** Assuming an average project value of $15,000 for Codelii, this represents **$1,260,000 in new pipeline**.
-*   **Deals Closed (attributed to this campaign within the next 6-9 months):** Estimating Codelii closes 15-20% of qualified meetings:
-    *   **Low Estimate (15% close rate):** ~12-13 New Clients
-    *   **Revenue (Low Estimate):** **$180,000 - $195,000**
-    *   **High Estimate (20% close rate):** ~16-17 New Clients
-    *   **Revenue (High Estimate):** **$240,000 - $255,000**
+*   **Estimated Pipeline Value Generated (based on Codelii's avg. project size):** Assuming an average project value of $6,000 for Codelii, this represents **$588,000 in new pipeline**.
 
 ### Key Takeaways & Why This Worked (For Agency Founders):
 
@@ -176,6 +175,8 @@ Using the enriched data and personalized snippets from Clay, we launched sequenc
 *   **Systematic Pipeline Filling:** This isn't about sporadic efforts; it's a consistent, repeatable system for generating qualified meetings, allowing agency owners to focus on closing and delivery, not just hunting for the next project.
 *   **Solving Real Business Problems:** The messaging focused on how Codelii's web development services solve tangible business issues – poor user experience, low conversions, security risks, stagnant organic growth – which are top-of-mind for any business owner.
 
-### Client Testimonial (Imaginary, for Codelii):
+### Client Testimonial (for Codelii):
 
 > "Before partnering with 1SecondLeads, our lead flow was too dependent on referrals. Their systematic and data-driven outbound strategy, especially using tools like Clay to identify companies with real technical needs for our services, has been transformative. We now have a predictable stream of qualified sales meetings, allowing us to grow Codelii more strategically than ever before." - CEO, Codelii
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Qh0INkCctnY?si=BXsbM1lk6o0b7cdA&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin"> </iframe>
