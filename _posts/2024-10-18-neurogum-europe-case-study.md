@@ -1,6 +1,6 @@
 ---
 title: "NeuroGum Europe (Influencer / Creator acquisition to affiliate program)"
-slug: codelii-case-study
+slug: neurogum-europe-case-study
 date: 2024-10-18
 layout: post # Add this if Chirpy requires it
 categories: case-study
