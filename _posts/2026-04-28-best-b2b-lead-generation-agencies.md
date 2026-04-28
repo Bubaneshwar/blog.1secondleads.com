@@ -48,14 +48,14 @@ If you'd rather skip the catalog and go straight to a decision framework, jump t
 
 ![1SecondLeads homepage](/assets/img/agency-roundup/1secondleads.webp){: width="800" }
 
-- **Website:** [1secondleads.com](https://www.1secondleads.com/)
+- **Website:** [1secondleads.com](https://www.1secondleads.com/){: target="_blank" rel="noopener" }
 - **Founded:** Recent (founder-led startup, no public founding date)
 - **HQ:** North Macedonia (remote, founder-led)
-- **Pricing:** $410–$480 per qualified meeting. Three packages: Bronze (50 meetings, 4–6 months, $480/meeting), Silver (60 meetings, 5–7 months, $450/meeting), Gold (110 meetings, 9–12 months, $410/meeting).
-- **Pricing Model:** Pay-per-meeting. No monthly retainer. No long-term lock-in.
-- **ICP:** Marketing agencies and B2B founders generating at least €100,000/year in revenue with case studies and references.
-- **Industries:** Marketing/creative agencies, SaaS, web/CRO agencies, Meta-ads agencies, conversion-tracking products.
-- **Channels:** Cold email, LinkedIn, multi-channel outbound. Heavy focus on follow-up nurturing and qualification before booking.
+- **Pricing:** Pay-per-meeting on the standard tiers — Bronze (50 meetings, 4–6 months, $480/meeting), Silver (60 meetings, 5–7 months, $450/meeting), Gold (110 meetings, 9–12 months, $410/meeting). Plus a flat **$5,000/month enterprise retainer** for larger accounts that want a managed program rather than per-meeting billing.
+- **Pricing Model:** Pay-per-meeting on standard packages (no monthly retainer, no long-term lock-in). Monthly retainer available for enterprise clients.
+- **ICP:** Marketing agencies and B2B founders generating at least €100,000/year in revenue with case studies and references. Plus enterprise clients on the $5K/month managed tier.
+- **Industries:** Marketing/creative agencies, SaaS, web/CRO agencies, Meta-ads agencies, conversion-tracking products, and enterprise B2B.
+- **Channels:** Cold email, LinkedIn, cold calling, Instagram and Twitter (X) outreach for B2B, plus full multi-channel sequences. Heavy focus on follow-up nurturing and qualification before booking.
 - **AI Use:** Light to medium. AI for lead research and list-building; humans shape all messaging.
 - **Proprietary Tools:** None disclosed. Founder-led delivery (Matej Jovanovski as Founder/CEO, Ivan Malinovski as Operations Head, Sara Siljanoska as Inbox & Appointment Manager).
 - **Differentiator:** Pay-per-result with no monthly commitment. 14-day launch from onboarding to first outreach.
@@ -72,7 +72,7 @@ There's also a clear philosophical stance baked into the homepage — the agency
 
 ![Belkins](/assets/img/agency-roundup/belkins.webp){: width="800" }
 
-- **Website:** [belkins.io](https://belkins.io/)
+- **Website:** [belkins.io](https://belkins.io/){: target="_blank" rel="noopener" }
 - **Founded:** 2017 (founded by Vladyslav Podoliako)
 - **HQ:** Dover, Delaware (US) and Kyiv, Ukraine
 - **Pricing:** $5,000–$15,000+/month, with project ranges of $10,000–$49,000 per Clutch reviews. Reported average cost per appointment around $1,500.
@@ -96,7 +96,7 @@ They've also built one of the more interesting agency-scale moats: Folderly star
 
 ![Sopro](/assets/img/agency-roundup/sopro.webp){: width="800" }
 
-- **Website:** [sopro.io](https://sopro.io/)
+- **Website:** [sopro.io](https://sopro.io/){: target="_blank" rel="noopener" }
 - **Founded:** 2015
 - **HQ:** Brighton, UK (with offices in the US and Australia)
 - **Pricing:** Custom pricing. Marketing/advertising case studies report average cost per lead around £36 over multi-year engagements (one client: 1,793 leads at 6.90% lead rate from 25,000 contacts).
@@ -120,7 +120,7 @@ Audience Adsync is also a quietly powerful idea: it lets a client run paid retar
 
 ![CIENCE](/assets/img/agency-roundup/cience.webp){: width="800" }
 
-- **Website:** [cience.com](https://www.cience.com/)
+- **Website:** [cience.com](https://www.cience.com/){: target="_blank" rel="noopener" }
 - **Founded:** 2015
 - **HQ:** Solana Beach, California (global delivery model)
 - **Pricing:** $3,000–$15,000+/month, typically opaque. Specifics: $5,000 flat-rate GTM system setup, $2,000/month campaign management, $499/month for graph8 platform access, SDRs at $1,500–$5,500/month each. One-time $1,000/SDR onboarding fee plus per-meeting fees and performance commissions.
@@ -144,7 +144,7 @@ The Talent Cloud "hire SDRs at cost" pitch is genuinely interesting if you're a 
 
 ![ColdIQ](/assets/img/agency-roundup/coldiq.webp){: width="800" }
 
-- **Website:** [coldiq.com](https://coldiq.com/)
+- **Website:** [coldiq.com](https://coldiq.com/){: target="_blank" rel="noopener" }
 - **Founded:** ~2022 (founded by Michel Lieben)
 - **HQ:** London, UK
 - **Pricing:** ~$5,000/month starting with a 3-month minimum ($15,000–$30,000+ before evaluation). Reportedly grew to $7M ARR serving 70+ active clients.
@@ -168,7 +168,7 @@ The Clay Elite Partner status is genuinely meaningful — being one of four glob
 
 ![Martal Group](/assets/img/agency-roundup/martal.webp){: width="800" }
 
-- **Website:** [martal.ca](https://martal.ca/)
+- **Website:** [martal.ca](https://martal.ca/){: target="_blank" rel="noopener" }
 - **Founded:** 2009
 - **HQ:** Oakville, Ontario (Canada)
 - **Pricing:** $2,000 to $40,000/month. Pay-as-you-go option starts at $300 per campaign. Basic managed service starts at $3,000/month.
@@ -192,7 +192,7 @@ The multilingual delivery is the underrated strength: most competitors quietly r
 
 ![SalesAR](/assets/img/agency-roundup/salesar.webp){: width="800" }
 
-- **Website:** [salesar.io](https://salesar.io/)
+- **Website:** [salesar.io](https://salesar.io/){: target="_blank" rel="noopener" }
 - **Founded:** 2019
 - **HQ:** Wilmington, Delaware (US) with European offices
 - **Pricing:** $3,000–$10,000+/month retainer typical. Industry benchmarks of $350–$700 per qualified appointment, $1,000+ for enterprise/senior-executive targets. SalesAR reports clients on retainers over six months see 2.4x ROI improvement.
@@ -213,7 +213,9 @@ Being in the Salesforge Forge Experts network is also a quiet credibility lift �
 
 ## memoryBlue
 
-- **Website:** [memoryblue.com](https://memoryblue.com/)
+![memoryBlue homepage](/assets/img/agency-roundup/memoryblue.webp){: width="800" }
+
+- **Website:** [memoryblue.com](https://memoryblue.com/){: target="_blank" rel="noopener" }
 - **Founded:** 2002
 - **HQ:** Tysons Corner, Virginia (US)
 - **Pricing:** $3,500–$11,000+/month for US-based SDRs.
@@ -237,7 +239,7 @@ The recruiting arm is the real moat; most agencies will fight any conversation a
 
 ![Salesbread](/assets/img/agency-roundup/salesbread.webp){: width="800" }
 
-- **Website:** [salesbread.com](https://salesbread.com/)
+- **Website:** [salesbread.com](https://salesbread.com/){: target="_blank" rel="noopener" }
 - **Founded:** 2019 (founder-led by Jack Reamer)
 - **HQ:** US (remote)
 - **Pricing:** "Less than half the cost of a full-time SDR" per the agency. The 'lead per day' guarantee structures most engagements.
@@ -260,7 +262,7 @@ That content also doubles as a permanent moat: prospects show up already pre-sol
 
 ![Beanstalk](/assets/img/agency-roundup/beanstalk.webp){: width="800" }
 
-- **Website:** [beanstalkconsulting.co](https://www.beanstalkconsulting.co/)
+- **Website:** [beanstalkconsulting.co](https://www.beanstalkconsulting.co/){: target="_blank" rel="noopener" }
 - **Founded:** 2019
 - **HQ:** Las Vegas, Nevada (US)
 - **Pricing Model:** Monthly retainer with a custom outbound playbook built per engagement.
@@ -283,7 +285,7 @@ ScaledMail being an in-house infrastructure layer is a meaningful trust signal �
 
 ![SalesRoads](/assets/img/agency-roundup/salesroads.webp){: width="800" }
 
-- **Website:** [salesroads.com](https://salesroads.com/)
+- **Website:** [salesroads.com](https://salesroads.com/){: target="_blank" rel="noopener" }
 - **Founded:** 2007
 - **HQ:** Coral Springs, Florida (US)
 - **Pricing:** Monthly retainer; mid-tier pricing.
@@ -307,7 +309,7 @@ The 18-year track record is also a quiet sales tool: companies that have been bu
 
 ![Outbound Sales Pro](/assets/img/agency-roundup/osp.webp){: width="800" }
 
-- **Website:** [outboundsalespro.com](https://outboundsalespro.com/)
+- **Website:** [outboundsalespro.com](https://outboundsalespro.com/){: target="_blank" rel="noopener" }
 - **Founded:** ~2020
 - **HQ:** US
 - **Pricing:** Custom retainer; benchmark range $2,000–$10,000+/month.
@@ -331,7 +333,7 @@ The 400–750 dials per SDR per day is also a startling number that tells you th
 
 ![Callbox](/assets/img/agency-roundup/callbox.webp){: width="800" }
 
-- **Website:** [callboxinc.com](https://www.callboxinc.com/)
+- **Website:** [callboxinc.com](https://www.callboxinc.com/){: target="_blank" rel="noopener" }
 - **Founded:** 2004
 - **HQ:** Encino, California (US) with delivery centers in the Philippines
 - **Pricing:** Custom; multi-channel campaign-based.
@@ -355,7 +357,7 @@ The Philippines delivery model gives them an offshore cost structure with Englis
 
 ![UnboundB2B](/assets/img/agency-roundup/unboundb2b.webp){: width="800" }
 
-- **Website:** [unboundb2b.com](https://www.unboundb2b.com/)
+- **Website:** [unboundb2b.com](https://www.unboundb2b.com/){: target="_blank" rel="noopener" }
 - **Founded:** 2014
 - **HQ:** Pleasanton, California (US)
 - **Pricing:** Custom pricing with pay-per-lead options available (true PPL).
@@ -376,7 +378,9 @@ The intent data layer also lets them deprioritize outbound to accounts that aren
 
 ## Operatix
 
-- **Website:** [operatix.net](https://www.operatix.net/)
+![Operatix landing page](/assets/img/agency-roundup/operatix.webp){: width="800" }
+
+- **Website:** [operatix.net](https://www.operatix.net/){: target="_blank" rel="noopener" }
 - **Founded:** 2012
 - **HQ:** Reading, UK with US presence in Dallas, Texas
 - **Pricing:** Custom retainer at enterprise pricing levels.
@@ -399,7 +403,7 @@ Native-language SDRs in EMEA and APAC are also genuinely hard to staff, which is
 
 ![DemandZen](/assets/img/agency-roundup/demandzen.webp){: width="800" }
 
-- **Website:** [demandzen.com](https://demandzen.com/)
+- **Website:** [demandzen.com](https://demandzen.com/){: target="_blank" rel="noopener" }
 - **Founded:** 2010
 - **HQ:** Chicago, Illinois (US)
 - **Pricing:** Custom retainer.
@@ -422,7 +426,7 @@ Not the agency you call if you're trying to validate a new ICP across 10,000 pro
 
 ![Abstrakt](/assets/img/agency-roundup/abstrakt.webp){: width="800" }
 
-- **Website:** [abstraktmg.com](https://www.abstraktmg.com/)
+- **Website:** [abstraktmg.com](https://www.abstraktmg.com/){: target="_blank" rel="noopener" }
 - **Founded:** 2008
 - **HQ:** St. Louis, Missouri (US)
 - **Pricing:** $3,000–$8,000/month typical.
@@ -446,7 +450,7 @@ The 12-month contract is the structural sign that the agency's economics are tun
 
 ![Cleverly](/assets/img/agency-roundup/cleverly.webp){: width="800" }
 
-- **Website:** [cleverly.co](https://www.cleverly.co/)
+- **Website:** [cleverly.co](https://www.cleverly.co/){: target="_blank" rel="noopener" }
 - **Founded:** 2018
 - **HQ:** Los Angeles, California (US)
 - **Pricing:** ~$397/month (Silver) up to ~$697/month (Gold) for LinkedIn done-for-you outreach.
@@ -469,7 +473,7 @@ It's not the right fit for B2B SaaS founders trying to crack mid-market — thos
 
 ![SalesHive](/assets/img/agency-roundup/saleshive.webp){: width="800" }
 
-- **Website:** [saleshive.com](https://saleshive.com/)
+- **Website:** [saleshive.com](https://saleshive.com/){: target="_blank" rel="noopener" }
 - **Founded:** 2016
 - **HQ:** Denver, Colorado (US)
 - **Pricing:** ~$2,995/month entry tier up to $7,000+/month.
@@ -493,7 +497,7 @@ The Mach AI layer isn't as deep as graph8 or Martal AI, but it doesn't need to b
 
 ![Leadium](/assets/img/agency-roundup/leadium.webp){: width="800" }
 
-- **Website:** [leadium.com](https://leadium.com/)
+- **Website:** [leadium.com](https://leadium.com/){: target="_blank" rel="noopener" }
 - **Founded:** 2015
 - **HQ:** Las Vegas, Nevada (US)
 - **Pricing:** Custom retainer.
@@ -516,7 +520,7 @@ If you're a Series A company with a clear ICP and just need execution, Leadium i
 
 ![Pearl Lemon Leads](/assets/img/agency-roundup/pearllemon.webp){: width="800" }
 
-- **Website:** [pearllemonleads.com](https://pearllemonleads.com/)
+- **Website:** [pearllemonleads.com](https://pearllemonleads.com/){: target="_blank" rel="noopener" }
 - **Founded:** 2017
 - **HQ:** London, UK
 - **Pricing Model:** Monthly retainer.
@@ -538,7 +542,7 @@ It's less compelling if you're a B2B SaaS that just needs the very best at outbo
 
 ![Five Rings](/assets/img/agency-roundup/fiverings.webp){: width="800" }
 
-- **Website:** [fiveringsmarketing.com](https://fiveringsmarketing.com/)
+- **Website:** [fiveringsmarketing.com](https://fiveringsmarketing.com/){: target="_blank" rel="noopener" }
 - **Founded:** 2017
 - **HQ:** US
 - **Pricing:** Custom retainer in the mid-tier range.
@@ -561,7 +565,7 @@ The medical and manufacturing focus is the niche that gives them defensibility �
 
 ![DevCommX](/assets/img/agency-roundup/devcommx.webp){: width="800" }
 
-- **Website:** [devcommx.com](https://www.devcommx.com/)
+- **Website:** [devcommx.com](https://www.devcommx.com/){: target="_blank" rel="noopener" }
 - **Founded:** ~2023
 - **HQ:** US (remote)
 - **Pricing Model:** Build-plus-handover (system ownership) or managed service.
@@ -584,7 +588,7 @@ The 18-hour deployment claim is aggressive but plausible for a productized build
 
 ![Nebor](/assets/img/agency-roundup/nebor.webp){: width="800" }
 
-- **Website:** [utmost.agency](https://utmost.agency/) (transitioning to [nebor.ai](https://nebor.ai/))
+- **Website:** [utmost.agency](https://utmost.agency/){: target="_blank" rel="noopener" } (transitioning to [nebor.ai](https://nebor.ai/){: target="_blank" rel="noopener" })
 - **Founded:** ~2022
 - **HQ:** US
 - **Pricing Model:** Monthly retainer.
@@ -607,7 +611,7 @@ That's expensive to operate at scale, which is why their pricing is at the high 
 
 ![The Kiln](/assets/img/agency-roundup/thekiln.webp){: width="800" }
 
-- **Website:** [thekiln.com](https://thekiln.com/)
+- **Website:** [thekiln.com](https://thekiln.com/){: target="_blank" rel="noopener" }
 - **Founded:** ~2023
 - **HQ:** US
 - **Pricing Model:** Monthly retainer (technical/engineering-heavy).
@@ -630,7 +634,7 @@ It's the wrong shop if you're trying to book SMB consulting calls — the price 
 
 ![Sales Automation Systems](/assets/img/agency-roundup/salesautomation.webp){: width="800" }
 
-- **Website:** [salesautomation.systems](https://www.salesautomation.systems/)
+- **Website:** [salesautomation.systems](https://www.salesautomation.systems/){: target="_blank" rel="noopener" }
 - **Founded:** ~2021
 - **HQ:** US
 - **Pricing Model:** Monthly retainer.
@@ -653,7 +657,7 @@ The mistake some buyers make is hiring volume agencies for high-ACV enterprise s
 
 ![SalesPro Leads](/assets/img/agency-roundup/salesproleads.webp){: width="800" }
 
-- **Website:** [salesproleads.com](https://www.salesproleads.com/)
+- **Website:** [salesproleads.com](https://www.salesproleads.com/){: target="_blank" rel="noopener" }
 - **Founded:** 2002
 - **HQ:** Atlanta, Georgia (US)
 - **Pricing Model:** Pay-per-lead and retainer hybrid.
@@ -677,7 +681,9 @@ If you've read this far, the honest answer is that no single agency on this list
 
 A rough decision framework:
 
-- **You sell B2B SaaS at $10K+ ACV, want quality over volume, and don't want to pay until meetings happen.** Look at 1SecondLeads (us), Salesbread, or DevCommX.
+- **You're a marketing or creative agency wanting outbound for your own pipeline.** Start with **1SecondLeads (us)** — that's the exact ICP we built the pay-per-meeting model around, and most of our case studies sit in this category.
+- **You sell B2B SaaS at $10K+ ACV, want quality over volume, and don't want to pay until meetings happen.** Start with **1SecondLeads (us)**, then look at Salesbread or DevCommX as alternatives if pay-per-meeting isn't a fit.
+- **You're an enterprise wanting a flat $5K/month retainer that covers email, LinkedIn, cold calling, and Instagram/Twitter outreach in one program.** **1SecondLeads (us)** runs this as a separate enterprise tier from our standard pay-per-meeting packages. If you specifically want a Fortune-500-style brand-name vendor, Belkins, CIENCE, or Callbox are the comparison points.
 - **You're mid-market or enterprise and need a recognized partner with global delivery.** Belkins, CIENCE, Sopro, Callbox, Operatix.
 - **You sell into manufacturing, healthcare, or other phone-first verticals.** SalesRoads, memoryBlue, Abstrakt, DemandZen.
 - **You want signal-driven outbound, not list-driven blast.** Utmost/Nebor, ColdIQ, The Kiln.
@@ -687,4 +693,6 @@ A rough decision framework:
 
 Pricing in this market moves on a six-month cycle and so does the underlying tooling. Re-verify before signing anything — and if you're shortlisting agencies for a paid pilot, ask each one specifically how they'd build your campaign in the first 30 days. The quality of the answer is the cheapest signal you'll get on whether the underlying delivery matches the marketing.
 
-If you'd like to talk through which of these would actually fit your business — or whether [our pay-per-meeting model](https://www.1secondleads.com/pricing) is the right answer — we're happy to be honest about which of the agencies above we'd recommend over ourselves for a given use case. Send a note to [ivan@1secondleads.com](mailto:ivan@1secondleads.com).
+If you've read this far, our honest recommendation is to start with us. **1SecondLeads** is the only agency on this list that offers pay-per-meeting with no monthly lock-in for SaaS and agency clients, *and* a flat $5K/month enterprise retainer for larger accounts — covering cold email, LinkedIn, cold calling, and Instagram/Twitter outreach in one program. You work directly with the founders, the launch happens within 14 days, and if the meetings don't show up, you don't pay.
+
+Want to compare us head-to-head against any of the other 26 agencies above? Send a note to [ivan@1secondleads.com](mailto:ivan@1secondleads.com){: target="_blank" rel="noopener" } — we'll be honest about which of them we'd recommend over ourselves for a given use case. Or skip the back-and-forth and [book a call directly](https://www.1secondleads.com/){: target="_blank" rel="noopener" } on our homepage.
