@@ -170,6 +170,9 @@ collections:
   tabs:
     output: true
     sort_by: order
+  tool_pages:
+    output: true
+    permalink: /tools/:name/
 
 defaults:
   - scope:
@@ -182,6 +185,17 @@ defaults:
       # DO NOT modify the following parameter unless you are confident enough
       # to update the code of all other post links in this project.
       permalink: /:slug/
+      # Branded site chrome on posts: top-nav pill + dark tools/about footer (from the
+      # post layout's tail_includes), keeping the right-hand Contents TOC panel.
+      top_nav: true
+      nav_links:
+        - { label: Home, url: / }
+        - { label: Blog, url: "/#blog" }
+        - { label: About, url: "/#about" }
+      nav_cta:
+        label: Book a call
+        url: https://www.1secondleads.com/
+        external: true
   - scope:
       path: _drafts
     values:
@@ -192,6 +206,13 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+  - scope:
+      path: ""
+      type: tool_pages
+    values:
+      layout: single-tool
+      hide_panel: true
+      top_nav: true
 
 sass:
   style: compressed
@@ -210,8 +231,12 @@ exclude:
   - "*.gemspec"
   - docs
   - tools
+  - tools-import
   - README.md
   - LICENSE
+  - CLAUDE.md
+  - AGENTS.md
+  - 1SecondLeads_BRAND_KIT.md
   - purgecss.js
   - rollup.config.js
   - "package*.json"

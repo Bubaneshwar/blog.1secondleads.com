@@ -1,0 +1,10 @@
+{
+  "description": "Warmbox is an email warm-up tool that builds sender reputation with realistic inbox activity, helping cold email land in the inbox instead of spam.",
+  "tagline": "Warm up your cold email inbox",
+  "overview": "Warmbox warms up sending inboxes by simulating realistic email interactions across a private network, improving sender reputation and inbox placement for cold campaigns.",
+  "what_is": [
+    "Warmbox is an email warm-up tool that improves inbox reputation and deliverability. It automatically sends and interacts with your emails inside a private network so cold campaigns are less likely to land in spam, and it works with inboxes from any provider.",
+    "It suits sales and marketing teams running cold email, with better inbox placement and open rates usually appearing within days. The realistic interactions build sender reputation so more messages reach real prospects.",
+    "Warmbox integrates with providers like Gmail, Outlook, Yahoo, and many SMTP services. It is focused solely on warming up inboxes rather than acting as a CRM or enrichment tool, so it complements your sending stack."
+  ]
+}

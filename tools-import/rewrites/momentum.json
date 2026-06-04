@@ -1,0 +1,10 @@
+{
+  "description": "Momentum is a RevOps automation platform that uses AI to capture data from calls and emails, auto-update the CRM, and route deal insights to the right people.",
+  "tagline": "RevOps automation platform",
+  "overview": "Momentum turns customer conversations into structured CRM data, using AI to summarize calls, update fields in real time, and notify stakeholders about deal changes.",
+  "what_is": [
+    "Momentum is an AI revenue-operations platform that captures and structures data from every customer interaction. It updates CRM fields in real time and shares call highlights automatically, so pipeline data stays clean without reps doing extra admin.",
+    "It is strongest for sales and customer success teams that need quick summaries, task automation, and clear routing of deal updates. Real-time updates and AI follow-ups reduce manual work from the first call through renewal.",
+    "Momentum integrates with Salesforce and Slack to enrich CRM data and automate workflow. It is not a standalone meeting recorder or analytics suite; its strength is automating data capture and execution inside RevOps."
+  ]
+}

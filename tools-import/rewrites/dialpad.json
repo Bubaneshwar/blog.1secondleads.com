@@ -1,0 +1,10 @@
+{
+  "description": "Dialpad is an AI-powered customer communication platform that unifies calls, messaging, and contact-center workflows with real-time transcription and insights.",
+  "tagline": "AI customer communication platform",
+  "overview": "Dialpad runs business phone systems and contact centers with AI, unifying calls, chat, SMS, and email and adding real-time transcription, automation, and insights.",
+  "what_is": [
+    "Dialpad is an AI communication platform for phone systems and contact centers. It brings calls, chat, SMS, and email into one place and uses AI for live transcription, automation, and insights, which helps teams handle high interaction volume without losing quality.",
+    "It is strongest in sales and support environments that manage many conversations at once. Real-time AI features improve response times and call handling, and most teams see workflow gains soon after setup.",
+    "Dialpad integrates with CRMs like Salesforce, help desks like Zendesk, and collaboration tools like Microsoft Teams. It is built for scalable, AI-assisted business communication rather than basic personal calling."
+  ]
+}

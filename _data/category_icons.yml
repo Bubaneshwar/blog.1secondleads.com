@@ -1,0 +1,492 @@
+# Maps category name → { name, color }, where `name` is a Lucide icon id
+# (outline/line style). Keep keys exactly matching the category strings used
+# in tools.yml / tool_categories.yml. Rendered as <i data-lucide="{name}">.
+# Verify new icon ids against https://lucide.dev/icons before adding.
+
+default:
+  name: 'tag'
+  color: '#6366f1'
+
+# Featured strip (values referenced by _includes/tools/featured-tools.html)
+'Best Sales Tools':
+  name: 'trophy'
+  color: '#f59e0b'
+'Sales Assistant':
+  name: 'bot'
+  color: '#6366f1'
+'AI Multichannel Outreach':
+  name: 'megaphone'
+  color: '#ef4444'
+'CRMs':
+  name: 'contact'
+  color: '#14b8a6'
+'LinkedIn Automation':
+  name: 'linkedin'
+  color: '#0a66c2'
+'Deliverability Infrastructure':
+  name: 'shield-check'
+  color: '#10b981'
+'Waterfall Enrichment':
+  name: 'layers'
+  color: '#8b5cf6'
+'Prospecting Database':
+  name: 'database'
+  color: '#3b82f6'
+'Integrations & Workflows':
+  name: 'workflow'
+  color: '#ec4899'
+'Web Scrapers':
+  name: 'scan-search'
+  color: '#475569'
+
+# Full taxonomy (matches _data/tool_categories.yml)
+'Email Finder':
+  name: 'search'
+  color: '#2563eb'
+'Email Sender':
+  name: 'send'
+  color: '#0ea5e9'
+'Multichannel Outreach':
+  name: 'megaphone'
+  color: '#ef4444'
+'LinkedIn Extension':
+  name: 'linkedin'
+  color: '#0a66c2'
+'Email Warmer':
+  name: 'flame'
+  color: '#f97316'
+'Video Outreach':
+  name: 'video'
+  color: '#db2777'
+'Email Spam Tester':
+  name: 'bug'
+  color: '#b91c1c'
+'Visitor Identification':
+  name: 'eye'
+  color: '#0ea5e9'
+'Scraping':
+  name: 'scan-search'
+  color: '#475569'
+'Technology Lookup':
+  name: 'cpu'
+  color: '#06b6d4'
+'Prospect Insights':
+  name: 'lightbulb'
+  color: '#eab308'
+'Workflow Visualization':
+  name: 'workflow'
+  color: '#14b8a6'
+'Twitter Automation':
+  name: 'twitter'
+  color: '#0f172a'
+'Workflow Automation':
+  name: 'workflow'
+  color: '#ec4899'
+'Email Verification':
+  name: 'mail-check'
+  color: '#22c55e'
+'AI Writing Assistants':
+  name: 'pen-line'
+  color: '#8b5cf6'
+'Catch-all verification':
+  name: 'check-check'
+  color: '#16a34a'
+'Data Attribution':
+  name: 'tags'
+  color: '#6366f1'
+'Sales Reporting':
+  name: 'chart-column'
+  color: '#0891b2'
+'E-Meeting':
+  name: 'video'
+  color: '#db2777'
+'Account Research':
+  name: 'search'
+  color: '#2563eb'
+'Proposals':
+  name: 'file-text'
+  color: '#ca8a04'
+'AI Avatars':
+  name: 'user-round'
+  color: '#6366f1'
+'Phone Verification':
+  name: 'phone-call'
+  color: '#22c55e'
+'Sales Coaching':
+  name: 'graduation-cap'
+  color: '#7c3aed'
+'Phone Dialers':
+  name: 'phone'
+  color: '#16a34a'
+'Postal Mail Outreach':
+  name: 'mail'
+  color: '#ea580c'
+'Warm Intro':
+  name: 'handshake'
+  color: '#f97316'
+'Prospect Gifting':
+  name: 'gift'
+  color: '#e11d48'
+'Sales Funnel':
+  name: 'funnel'
+  color: '#0d9488'
+'E-Signature':
+  name: 'signature'
+  color: '#1e40af'
+'Network Growth/Engagement':
+  name: 'network'
+  color: '#0e7490'
+'Demo':
+  name: 'monitor-play'
+  color: '#475569'
+'Buyer Engagement':
+  name: 'users'
+  color: '#d946ef'
+'Social Listening':
+  name: 'ear'
+  color: '#2563eb'
+'Inbox Management':
+  name: 'inbox'
+  color: '#0ea5e9'
+'Copywriting':
+  name: 'feather'
+  color: '#7c3aed'
+'Customer Service':
+  name: 'headset'
+  color: '#0d9488'
+'Phone Number Finders':
+  name: 'phone-outgoing'
+  color: '#16a34a'
+'LinkedIn Scraping':
+  name: 'linkedin'
+  color: '#0a66c2'
+'Data Enrichment':
+  name: 'database-zap'
+  color: '#2563eb'
+'Intent Signals':
+  name: 'radar'
+  color: '#f59e0b'
+'Contact Syncing & CRM Integration':
+  name: 'refresh-cw'
+  color: '#14b8a6'
+'Data Scrapers':
+  name: 'scan-search'
+  color: '#475569'
+'Digital Sales Rooms':
+  name: 'store'
+  color: '#be185d'
+'Lookalike Finders':
+  name: 'users-round'
+  color: '#4338ca'
+'LinkedIn Outreach at Scale':
+  name: 'linkedin'
+  color: '#0a66c2'
+'CRM APIs':
+  name: 'plug'
+  color: '#2563eb'
+'CRM Enrichment APIs':
+  name: 'plug-zap'
+  color: '#0ea5e9'
+'Lead Generation APIs':
+  name: 'code'
+  color: '#16a34a'
+'DATA SOURCES':
+  name: 'database'
+  color: '#3b82f6'
+'LINKEDIN TOOLS':
+  name: 'linkedin'
+  color: '#0a66c2'
+'AI SALES TOOLS':
+  name: 'sparkles'
+  color: '#6366f1'
+'GTM TOOLS':
+  name: 'rocket'
+  color: '#ef4444'
+'AI Sales Extension':
+  name: 'puzzle'
+  color: '#6366f1'
+'AI Data Scraping':
+  name: 'scan-search'
+  color: '#475569'
+'AI Data Provider':
+  name: 'database'
+  color: '#2563eb'
+'AI Personalization':
+  name: 'sparkles'
+  color: '#8b5cf6'
+'Live Data Sources':
+  name: 'radio'
+  color: '#f59e0b'
+'Competitive Intelligence':
+  name: 'swords'
+  color: '#b91c1c'
+'AI List Building':
+  name: 'list-checks'
+  color: '#16a34a'
+'Job Changes':
+  name: 'briefcase'
+  color: '#ca8a04'
+'Chrome Extensions':
+  name: 'blocks'
+  color: '#4285f4'
+'AI Account Research':
+  name: 'search'
+  color: '#2563eb'
+'Best Data Sources':
+  name: 'database'
+  color: '#3b82f6'
+'AI Lead Intelligence':
+  name: 'brain'
+  color: '#8b5cf6'
+'AI Lead Enrichment':
+  name: 'sparkles'
+  color: '#2563eb'
+'Business Information APIs':
+  name: 'building-2'
+  color: '#0891b2'
+'Company Data APIs':
+  name: 'building'
+  color: '#2563eb'
+'Company Enrichment APIs':
+  name: 'building-2'
+  color: '#0ea5e9'
+'B2B Contact APIs':
+  name: 'contact'
+  color: '#14b8a6'
+'B2B Data APIs':
+  name: 'database'
+  color: '#3b82f6'
+'MCPs For Enterprise':
+  name: 'server'
+  color: '#475569'
+'Contact Data APIs':
+  name: 'contact'
+  color: '#14b8a6'
+'Job Change Data APIs':
+  name: 'briefcase'
+  color: '#ca8a04'
+'Linkedin Data APIs':
+  name: 'linkedin'
+  color: '#0a66c2'
+'Firmographic Data APIs':
+  name: 'building-2'
+  color: '#0891b2'
+'B2B Data Enrichment APIs':
+  name: 'database-zap'
+  color: '#2563eb'
+'Best B2B Enrichment APIs':
+  name: 'database'
+  color: '#16a34a'
+'People Enrichment APIs':
+  name: 'user-search'
+  color: '#2563eb'
+'Lead Scraping & Data Extraction':
+  name: 'scan-search'
+  color: '#475569'
+'AI Data Enrichment':
+  name: 'sparkles'
+  color: '#2563eb'
+'B2B Databases':
+  name: 'database'
+  color: '#3b82f6'
+'People Search APIs':
+  name: 'user-search'
+  color: '#2563eb'
+'LinkedIn Commerce & B2B':
+  name: 'linkedin'
+  color: '#0a66c2'
+'Email Lookup APIs':
+  name: 'at-sign'
+  color: '#2563eb'
+'Email Finder APIs':
+  name: 'at-sign'
+  color: '#0ea5e9'
+'Audience Targeting & Segmentation':
+  name: 'target'
+  color: '#d946ef'
+'Lead Scraping':
+  name: 'scan-search'
+  color: '#475569'
+'Linkedin Profile Lookup APIs':
+  name: 'linkedin'
+  color: '#0a66c2'
+'Linkedin Scraping APIs':
+  name: 'linkedin'
+  color: '#0a66c2'
+'AI Data Insights':
+  name: 'chart-line'
+  color: '#14b8a6'
+'AI Deal Intelligence':
+  name: 'brain'
+  color: '#8b5cf6'
+'Market Intelligence Tools':
+  name: 'trending-up'
+  color: '#0891b2'
+'Sales Agents':
+  name: 'bot'
+  color: '#6366f1'
+'Lead Generation Agents':
+  name: 'bot'
+  color: '#16a34a'
+'Cold Outreach AI Agents':
+  name: 'bot'
+  color: '#ef4444'
+'AI Sales Enablement Agents':
+  name: 'bot'
+  color: '#8b5cf6'
+'AI SDR':
+  name: 'bot'
+  color: '#6366f1'
+'AI CRM':
+  name: 'contact'
+  color: '#14b8a6'
+'AI Sales Ops Tools':
+  name: 'settings'
+  color: '#0891b2'
+'LinkedIn Outreach Automation':
+  name: 'linkedin'
+  color: '#0a66c2'
+'Email APIs':
+  name: 'at-sign'
+  color: '#0ea5e9'
+
+# Extra categories used by individual tools / alternatives in tools.yml and
+# _tool_pages front matter (beyond the master tool_categories.yml taxonomy).
+'Prospecting':
+  name: 'search'
+  color: '#2563eb'
+'LinkedIn':
+  name: 'linkedin'
+  color: '#0a66c2'
+'LinkedIn Prospecting Tools':
+  name: 'linkedin'
+  color: '#0a66c2'
+'Email Outreach':
+  name: 'send'
+  color: '#0ea5e9'
+'Automated Email Campaigns':
+  name: 'send'
+  color: '#0ea5e9'
+'Email Automation AI Agents':
+  name: 'send'
+  color: '#6366f1'
+'Automation':
+  name: 'workflow'
+  color: '#ec4899'
+'GTM Automation':
+  name: 'rocket'
+  color: '#ef4444'
+'Social Media Automation':
+  name: 'share-2'
+  color: '#2563eb'
+'Deliverability':
+  name: 'shield-check'
+  color: '#10b981'
+'Data Provider':
+  name: 'database'
+  color: '#2563eb'
+'Data Validation & Verification':
+  name: 'check-check'
+  color: '#16a34a'
+'Customer Segmentation & Scoring':
+  name: 'chart-pie'
+  color: '#0891b2'
+'Sales Triggers & Intelligence':
+  name: 'zap'
+  color: '#f59e0b'
+'Website Chatbots':
+  name: 'message-circle'
+  color: '#0ea5e9'
+'Meeting Assistants':
+  name: 'calendar-check'
+  color: '#7c3aed'
+'Digital Workers':
+  name: 'bot'
+  color: '#6366f1'
+'AI Agents':
+  name: 'bot'
+  color: '#6366f1'
+'AI Agent Builders':
+  name: 'blocks'
+  color: '#6366f1'
+'AI BDR':
+  name: 'bot'
+  color: '#16a34a'
+'AI Sales Assistant':
+  name: 'bot'
+  color: '#6366f1'
+'AI Automation':
+  name: 'workflow'
+  color: '#ec4899'
+'AI Sales Workflow':
+  name: 'workflow'
+  color: '#ec4899'
+'AI All-in-One Prospecting':
+  name: 'telescope'
+  color: '#2563eb'
+'AI Email Outreach':
+  name: 'send'
+  color: '#0ea5e9'
+'AI Omnichannel Outreach':
+  name: 'megaphone'
+  color: '#ef4444'
+'AI LinkedIn Outreach':
+  name: 'linkedin'
+  color: '#0a66c2'
+'AI Competitive Intelligence':
+  name: 'swords'
+  color: '#b91c1c'
+'AI Intent Signals':
+  name: 'radar'
+  color: '#f59e0b'
+'AI Lead Management':
+  name: 'user-check'
+  color: '#16a34a'
+'AI Visitor Identification':
+  name: 'eye'
+  color: '#0ea5e9'
+'AI Visitor Tracking':
+  name: 'footprints'
+  color: '#0ea5e9'
+'AI Customer Success':
+  name: 'heart-handshake'
+  color: '#0d9488'
+'AI Sales Coaching':
+  name: 'graduation-cap'
+  color: '#7c3aed'
+'AI Sales Training':
+  name: 'graduation-cap'
+  color: '#7c3aed'
+'AI Sales Enablement':
+  name: 'rocket'
+  color: '#8b5cf6'
+'AI Sales Forecasting':
+  name: 'trending-up'
+  color: '#0891b2'
+'AI Research Assistants':
+  name: 'flask-conical'
+  color: '#8b5cf6'
+'AI Meeting Notes':
+  name: 'notebook-pen'
+  color: '#7c3aed'
+'AI Meeting Recorders':
+  name: 'mic'
+  color: '#db2777'
+'AI Note-Taking Tools':
+  name: 'notebook'
+  color: '#7c3aed'
+'AI Voice Note Prospecting':
+  name: 'mic'
+  color: '#db2777'
+'Email Checker APIs':
+  name: 'mail-check'
+  color: '#22c55e'
+'Email Validation APIs':
+  name: 'mail-check'
+  color: '#22c55e'
+'Email Verification APIs':
+  name: 'mail-check'
+  color: '#22c55e'
+'Lead Enrichment APIs':
+  name: 'database-zap'
+  color: '#2563eb'

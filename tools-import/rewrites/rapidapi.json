@@ -1,0 +1,9 @@
+{
+  "description": "RapidAPI (now Nokia API Hub) is an API marketplace for discovering, publishing, and managing thousands of APIs.",
+  "tagline": "Discover, publish, and monetize APIs",
+  "overview": "RapidAPI, now Nokia API Hub, is a large public API marketplace where developers and enterprises discover, test, publish, and integrate APIs, including many data and enrichment APIs.",
+  "what_is": [
+    "RapidAPI, now Nokia API Hub, is a large public API marketplace for discovering, publishing, and using APIs. It connects developers and enterprises to a catalog of more than 94,000 APIs, with discovery features that help users find and start integrating the right ones quickly.",
+    "It is most useful when teams want to streamline API consumption or create new revenue by publishing their own APIs, including data and enrichment APIs used in go-to-market workflows. It is built for API discovery and integration rather than full API lifecycle management."
+  ]
+}

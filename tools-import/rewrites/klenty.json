@@ -1,0 +1,10 @@
+{
+  "description": "Klenty is a sales engagement platform that automates multichannel cadences across email, LinkedIn, SMS, and phone, with AI dialers and SDR agents.",
+  "tagline": "Multichannel sales engagement",
+  "overview": "Klenty automates outbound cadences across email, LinkedIn, SMS, and dialer, using AI to research accounts, personalize messages, and power parallel and power dialing for sales teams.",
+  "what_is": [
+    "Klenty is a sales engagement platform that builds and runs multichannel outreach. It researches accounts, personalizes emails, and sequences touches across phone, email, SMS, and messaging, with AI dialers and SDR agents that take on repetitive work.",
+    "It is strongest for outbound and cold-calling teams that want more call volume and email replies without adding headcount. Reps focus on conversations while automation handles list building, follow-ups, and dialing; results tend to show within days.",
+    "Klenty integrates deeply with CRMs and the wider sales stack to keep data in sync. It is not a CRM replacement or a basic email tool; it complements those by powering outreach and dialing at scale while keeping personalization intact."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "description": "Topo is an AI SDR that finds and engages qualified leads across email and LinkedIn to book meetings for sales teams.",
+  "tagline": "AI SDR for outbound prospecting",
+  "overview": "Topo automates outbound prospecting with custom AI sales agents that find, qualify, and contact leads across email and LinkedIn, booking meetings for the sales team.",
+  "what_is": [
+    "Topo is an AI-powered sales tool that automates outbound prospecting and lead generation. It blends custom AI sales agents with human sales effort to find, qualify, and contact leads in a scalable, personalized way.",
+    "It is strongest when you want to train custom AI agents, launch targeted campaigns, and engage prospects across email and LinkedIn, surfacing leads with strong buying signals and booking meetings. Topo integrates with CRMs like HubSpot and tools like Slack, and focuses on generating and qualifying leads rather than managing entire sales cycles."
+  ]
+}

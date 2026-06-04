@@ -1,0 +1,9 @@
+{
+  "description": "PipeLaunch is a Salesforce-native data enrichment app with one-click enrichment, email verification, and GDPR-compliant data.",
+  "tagline": "Native Salesforce data enrichment",
+  "overview": "PipeLaunch is a Salesforce-native app that enriches CRM data with one click, adding verified, GDPR-compliant prospect data and email verification directly inside Salesforce.",
+  "what_is": [
+    "PipeLaunch is a Salesforce-native app that enriches CRM data for sales, marketing, and recruitment teams. It pushes website data straight into Salesforce with one click, cutting manual copy-pasting and keeping records clean.",
+    "It is strongest for lead generation, email verification, and reliable prospect insights, with quick setup and GDPR-compliant data. PipeLaunch fits the stack as a CRM enrichment and sales-acceleration layer inside Salesforce, rather than a full marketing automation or analytics platform."
+  ]
+}

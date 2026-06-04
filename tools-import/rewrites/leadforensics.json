@@ -1,0 +1,10 @@
+{
+  "description": "Lead Forensics identifies anonymous B2B website visitors using a large IP database, turning site traffic into named company leads with alerts and CRM routing.",
+  "tagline": "B2B website visitor identification",
+  "overview": "Lead Forensics reveals the companies behind anonymous website visits using a large IP database, delivering visitor alerts and routing high-value leads into CRM and marketing workflows.",
+  "what_is": [
+    "Lead Forensics is a B2B website visitor identification tool. It matches anonymous traffic to companies using a large IP database, turning visits into leads that sales, marketing, and account teams can act on.",
+    "It is strongest at lead discovery, account management, and campaign analysis, with alerts when key prospects visit so teams can follow up fast. That speeds pipeline growth for B2B-focused businesses.",
+    "Lead Forensics integrates with CRM and marketing automation to route high-value leads to sales or nurture them in marketing. It is not a full marketing or email platform; it adds real-time visitor data to the tools you already use."
+  ]
+}

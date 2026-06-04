@@ -1,0 +1,10 @@
+{
+  "description": "GetProspect is an email finder with a large verified B2B database, email verification, and enrichment, plus cold email tools and CRM integrations.",
+  "tagline": "Find and verify B2B emails",
+  "overview": "GetProspect finds verified business emails and phone numbers across a large B2B database, enriches prospects with dozens of attributes, and supports cold email and CRM sync.",
+  "what_is": [
+    "GetProspect is an email-finding tool for sales teams, recruiters, and marketers. It searches a large database of business contacts, verifies addresses, and can enrich each prospect with attributes like industry and location to sharpen targeting.",
+    "It is most useful for building lead lists, verifying emails to cut bounces, and running cold email campaigns from the same place. A few searches return usable contacts, which speeds the path from a target list to outreach.",
+    "GetProspect integrates with CRMs and sales platforms like HubSpot, Salesforce, and Outreach to automate lead management. It is meant for ethical B2B prospecting rather than mass consumer email, keeping outreach focused and compliant."
+  ]
+}

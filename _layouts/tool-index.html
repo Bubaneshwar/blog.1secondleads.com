@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+{% include lang.html %}
+{% include tools/structured-data.html %}
+
+<article class="px-1 tools-page">
+  {% include tools/hero.html %}
+  {% include tools/featured-tools.html %}
+  {% include tools/all-tools.html %}
+  {% include tools/cta.html %}
+  {% include tools/about.html %}
+</article>
+
+<script src="https://cdn.jsdelivr.net/npm/lucide@0.544.0/dist/umd/lucide.min.js"></script>
+<script>
+  (function () {
+    function renderIcons() {
+      if (window.lucide) window.lucide.createIcons();
+    }
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', renderIcons);
+    } else {
+      renderIcons();
+    }
+  })();
+</script>

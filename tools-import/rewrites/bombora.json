@@ -1,0 +1,10 @@
+{
+  "description": "Bombora is a B2B intent data provider that measures content consumption across thousands of sites to show which accounts are actively researching a purchase.",
+  "tagline": "B2B intent data",
+  "overview": "Bombora measures B2B content consumption across thousands of sites to reveal which companies are in-market, feeding intent data into CRM, marketing, and ad platforms.",
+  "what_is": [
+    "Bombora is a B2B intent-data provider. It aggregates content-consumption signals from a large cooperative of business sites and analyzes them to show which accounts are researching topics related to what you sell, so teams can engage at the right moment.",
+    "It is most useful for identifying in-market accounts, reducing churn risk, and tailoring messaging to what an audience is actually reading. Because data can be activated in real time, teams can prioritize and personalize campaigns quickly.",
+    "Bombora integrates with CRM, marketing automation, and ad platforms like HubSpot, Salesforce, and LinkedIn. It is explicitly a data provider rather than a standalone platform, so it relies on your existing systems to act on its signals."
+  ]
+}

@@ -1,0 +1,88 @@
+<header class="tools-top-nav" aria-label="Tools Navigation">
+  <a class="tools-top-nav__brand" href="{{ '/' | relative_url }}">
+    <strong>1SecondLeads Education</strong>
+  </a>
+
+  <button class="tools-top-nav__toggle" type="button"
+          aria-expanded="false" aria-controls="tools-top-nav-links"
+          aria-label="Toggle navigation menu"
+          data-tools-nav-toggle>
+    <span class="tools-top-nav__toggle-bar" aria-hidden="true"></span>
+    <span class="tools-top-nav__toggle-bar" aria-hidden="true"></span>
+    <span class="tools-top-nav__toggle-bar" aria-hidden="true"></span>
+  </button>
+
+  <nav class="tools-top-nav__links" id="tools-top-nav-links" aria-label="Primary">
+    {% if page.nav_links %}
+      {% for link in page.nav_links %}
+        <a href="{{ link.url | relative_url }}">{{ link.label }}</a>
+      {% endfor %}
+    {% else %}
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/tools/#featured-tools-title' | relative_url }}">Featured</a>
+      <a href="{{ '/tools/#all-tools-title' | relative_url }}">All Tools</a>
+      <a href="{{ '/tools/#tools-about-title' | relative_url }}">About</a>
+    {% endif %}
+    {% if page.nav_cta %}
+      <a class="tools-top-nav__cta" href="{{ page.nav_cta.url }}"{% if page.nav_cta.external %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ page.nav_cta.label }}</a>
+    {% endif %}
+  </nav>
+</header>
+
+<script>
+(function () {
+  var toggle = document.querySelector('[data-tools-nav-toggle]');
+  if (!toggle) return;
+  var menu = document.getElementById(toggle.getAttribute('aria-controls'));
+  if (!menu) return;
+
+  function setOpen(open) {
+    toggle.setAttribute('aria-expanded', String(open));
+    menu.classList.toggle('is-open', open);
+  }
+
+  toggle.addEventListener('click', function () {
+    setOpen(toggle.getAttribute('aria-expanded') !== 'true');
+  });
+
+  menu.querySelectorAll('a').forEach(function (link) {
+    link.addEventListener('click', function () { setOpen(false); });
+  });
+
+  document.addEventListener('click', function (event) {
+    if (toggle.getAttribute('aria-expanded') !== 'true') return;
+    if (toggle.contains(event.target) || menu.contains(event.target)) return;
+    setOpen(false);
+  });
+})();
+
+// Hide the nav once the reader scrolls past the first section: the home/tools
+// hero, the single-tool hero, or the post header. Reveals again at the top.
+(function () {
+  var nav = document.querySelector('.tools-top-nav');
+  if (!nav) return;
+  var anchor = document.querySelector('.single-tool-hero')
+    || document.querySelector('.tools-hero')
+    || document.querySelector('.hero')
+    || document.querySelector('article > header');
+
+  function threshold() {
+    if (anchor) {
+      return window.pageYOffset + anchor.getBoundingClientRect().bottom;
+    }
+    return window.innerHeight * 0.85;
+  }
+
+  var ticking = false;
+  function update() {
+    nav.classList.toggle('tools-top-nav--hidden', window.pageYOffset > threshold());
+    ticking = false;
+  }
+
+  window.addEventListener('scroll', function () {
+    if (!ticking) { ticking = true; window.requestAnimationFrame(update); }
+  }, { passive: true });
+  window.addEventListener('resize', update, { passive: true });
+  update();
+})();
+</script>

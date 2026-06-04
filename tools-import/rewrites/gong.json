@@ -1,0 +1,10 @@
+{
+  "description": "Gong is a revenue intelligence platform that records and analyzes sales calls, emails, and meetings with AI to sharpen forecasting, coaching, and win rates.",
+  "tagline": "Revenue intelligence from real conversations",
+  "overview": "Gong captures customer conversations across calls, email, and meetings, then applies AI to flag deal risk, improve forecast accuracy, and show reps what top performers do differently.",
+  "what_is": [
+    "Gong is a revenue AI platform built around what actually happens in deals. It records and transcribes calls, emails, and meetings, then turns that activity into insight teams can act on, from coaching cues to forecast signals and automatic CRM updates.",
+    "Sales, customer success, and marketing teams use it to understand why deals are won or lost, spot risk early, and replicate the behavior of their best reps. Because it works from real interactions rather than self-reported notes, the picture of the pipeline tends to be more honest.",
+    "It connects to your CRM, email, and calendar to centralize activity, and stays focused on revenue workflows. Gong is not a marketing-automation tool or a system of record; it sits on top of your stack to make sales execution and forecasting smarter."
+  ]
+}

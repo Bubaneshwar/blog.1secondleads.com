@@ -1,0 +1,10 @@
+{
+  "description": "Demodesk is an AI sales meeting tool that records, transcribes, and summarizes calls, automates CRM updates, and adds scheduling and real-time coaching.",
+  "tagline": "AI meetings, coaching, and scheduling",
+  "overview": "Demodesk records, transcribes, and analyzes sales calls, automates CRM updates, and adds scheduling and real-time coaching so reps spend more time selling.",
+  "what_is": [
+    "Demodesk is a sales meeting and enablement tool that uses AI to take work off calls. It records, transcribes, and analyzes conversations, automates CRM updates, and surfaces insights, so reps focus on the conversation instead of admin.",
+    "It is strongest at coaching, follow-ups, and pipeline visibility, which suits reps, managers, and RevOps. AI handles repetitive tasks and delivers insight right after calls, so value shows up quickly.",
+    "Demodesk integrates with major CRMs and email systems with minimal setup, keeping data accurate. It is an assistant layer rather than a standalone CRM or marketing-automation platform."
+  ]
+}

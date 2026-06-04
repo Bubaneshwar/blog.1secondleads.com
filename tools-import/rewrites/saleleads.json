@@ -1,0 +1,9 @@
+{
+  "description": "Saleleads is a LinkedIn data API that extracts public profile, company, and job data for lead generation.",
+  "tagline": "LinkedIn data extraction for lead generation",
+  "overview": "Saleleads is a LinkedIn data API that extracts public profile, company, and job data in real time, feeding lead generation for sales, marketing, and recruiting teams.",
+  "what_is": [
+    "Saleleads is a LinkedIn data API for extracting public LinkedIn data quickly. It delivers real-time profile, company, and job data without complex setup, giving teams easy access to insights for prospecting and decision-making.",
+    "It works best for sales teams, marketers, and recruiters who need targeted audience data, with results available right after integration. Saleleads integrates with CRMs, email platforms, and enrichment tools, focused on public LinkedIn data access rather than private profiles or background checks."
+  ]
+}

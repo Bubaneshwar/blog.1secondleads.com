@@ -1,0 +1,10 @@
+{
+  "description": "GMass turns Gmail into a cold email and mail-merge platform, sending personalized campaigns from Google Sheets with automated follow-ups and tracking.",
+  "tagline": "Mail merge and mass email for Gmail",
+  "overview": "GMass runs personalized cold email and mail-merge campaigns directly inside Gmail, pulling from Google Sheets with automated follow-ups, tracking, and higher sending limits.",
+  "what_is": [
+    "GMass is a cold email and mail-merge tool built into Gmail. It turns the Gmail compose window into a campaign sender, personalizing messages from Google Sheets and handling the sending limits that normally cap outreach from a regular inbox.",
+    "It is handy for newsletters, cold email campaigns, and personalized announcements, with automated follow-ups and list building. Because it lives in Gmail, there is little to learn and campaigns can go out almost immediately after setup.",
+    "GMass fits the stack as a Gmail and Google Sheets sending extension rather than a CRM or enrichment tool. It is best used purely for mass and personalized emailing inside Gmail."
+  ]
+}

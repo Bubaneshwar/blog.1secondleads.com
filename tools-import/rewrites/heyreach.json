@@ -1,0 +1,10 @@
+{
+  "description": "HeyReach automates LinkedIn outreach at scale for agencies and sales teams, rotating unlimited sender accounts into one unified inbox with agency reporting.",
+  "tagline": "Scale LinkedIn outreach without scaling the team",
+  "overview": "HeyReach runs LinkedIn outreach across multiple sender accounts under one plan, rotating sends, automating invites and messages, and pulling replies into a unified inbox.",
+  "what_is": [
+    "HeyReach is a LinkedIn automation tool built for agencies, sales teams, and GTM operators. It connects multiple LinkedIn accounts under one plan and rotates sends across them, which lets a small team run outreach at a volume that would normally need many seats.",
+    "It is strongest for outbound campaigns, lead nurturing, and managing replies, with connection requests, messages, and profile views automated through simple connected-based logic. A unified inbox keeps every conversation in one view.",
+    "HeyReach integrates with tools like HubSpot, Clay, and Zapier to fit the GTM stack for CRM sync and workflow automation. It is focused on LinkedIn outreach and engagement rather than general social-media management or mass marketing."
+  ]
+}

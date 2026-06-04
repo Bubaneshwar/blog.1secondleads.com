@@ -1,0 +1,67 @@
+# Maps review source name → { icon, domain, logoUrl, tagline }.
+# Used by _layouts/single-tool.html for the external reviews block.
+# Render priority for the logo:
+#   1. logoUrl (local file under /assets/img/reviews/) if set
+#   2. Favicon fetched from `domain` via Google's S2 favicon service
+#   3. Font Awesome `icon` fallback
+# `tagline` is the per-source description used when the review entry on a
+# tool page doesn't carry its own `description:` field.
+
+default:
+  icon: "fa-solid fa-star"
+  tagline: Read independent user reviews and ratings.
+
+"G2":
+  icon: "fa-solid fa-star-half-stroke"
+  domain: g2.com
+  tagline: Verified B2B software reviews from real buyers.
+
+"Capterra":
+  icon: "fa-solid fa-list-check"
+  domain: capterra.com
+  tagline: Buyer-focused reviews from software professionals.
+
+"Product Hunt":
+  icon: "fa-brands fa-product-hunt"
+  domain: producthunt.com
+  tagline: Community votes, comments, and launch feedback.
+
+"Trustpilot":
+  icon: "fa-solid fa-shield-halved"
+  domain: trustpilot.com
+  tagline: Independent consumer reviews and trust signals.
+
+"Chrome Store":
+  icon: "fa-brands fa-chrome"
+  domain: chromewebstore.google.com
+  tagline: Ratings and reviews from Chrome extension users.
+
+"GetApp":
+  icon: "fa-solid fa-mobile-screen"
+  domain: getapp.com
+  tagline: Side-by-side software comparisons and user reviews.
+
+"Software Advice":
+  icon: "fa-solid fa-lightbulb"
+  domain: softwareadvice.com
+  tagline: Expert advice and verified reviews for software buyers.
+
+"Reddit":
+  icon: "fa-brands fa-reddit"
+  domain: reddit.com
+  tagline: Unfiltered discussion threads from real users.
+
+"YouTube":
+  icon: "fa-brands fa-youtube"
+  domain: youtube.com
+  tagline: Video walkthroughs, tutorials, and demo reactions.
+
+"App Store":
+  icon: "fa-brands fa-app-store"
+  domain: apps.apple.com
+  tagline: User ratings and reviews from the Apple App Store.
+
+"Google Play":
+  icon: "fa-brands fa-google-play"
+  domain: play.google.com
+  tagline: User ratings and reviews from the Google Play Store.

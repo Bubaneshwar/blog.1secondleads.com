@@ -1,0 +1,10 @@
+{
+  "description": "Common Room is a customer intelligence platform that captures buying signals across 50+ sources, unifies them with AI, and automates personalized outreach.",
+  "tagline": "Customer intelligence for GTM",
+  "overview": "Common Room captures buying signals from many channels, unifies them with AI, and helps teams find the right prospects, know when to engage, and automate outreach.",
+  "what_is": [
+    "Common Room is a customer intelligence platform that helps sales and marketing teams act on buying signals. It pulls signals from many sources, identifies the right prospects, and uses AI to surface warm leads automatically, so teams know who to reach and when.",
+    "It is strongest at tracking signals like job changes, website visits, and product usage to grow pipeline and improve outbound. Teams typically see more meetings and pipeline within a quarter as the signals feed their workflow.",
+    "Common Room fits the GTM stack by enriching data, scoring leads, and automating outreach alongside CRMs and email tools. It is aimed at teams with real sales processes rather than basic CRM needs."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "description": "Orum is an AI live conversation platform that automates outbound dialing, lifts connect rates, drops voicemails, and logs calls to get reps into more conversations.",
+  "tagline": "More live sales conversations",
+  "overview": "Orum is an AI dialer that automates outbound calling, deciding who and when to call, dropping voicemails, and taking call notes so reps reach more live conversations.",
+  "what_is": [
+    "Orum is an AI-powered dialing platform for revenue teams. It speeds up outbound calling by handling who and when to call, leaving voicemails automatically, and capturing call notes, which raises connect rates and gets reps into more live conversations.",
+    "It is strongest in outbound sales and pipeline generation: reps spend less time dialing and waiting, and teams typically see more meetings booked within weeks. It works as both an assistant and an automated dialer to accelerate calling.",
+    "Orum fits the stack by enhancing dialing and coaching alongside CRMs and sales-engagement platforms. It is not a CRM, email tool, or data provider; it focuses on accelerating phone conversations."
+  ]
+}

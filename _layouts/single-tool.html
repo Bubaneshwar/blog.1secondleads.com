@@ -1,0 +1,452 @@
+---
+layout: default
+---
+
+{% include tools/structured-data.html %}
+
+{% assign related_tools = site.data.tools | where_exp: 'tool', 'page.related_tools contains tool.name' %}
+{% assign page_categories = page.categories | default: page.category %}
+
+<article class="px-1 single-tool-page">
+  <nav class="single-tool-breadcrumb" aria-label="Breadcrumb">
+    <a href="{{ '/tools/' | relative_url }}">Tools</a>
+    <span aria-hidden="true">/</span>
+    <span>{{ page.title }}</span>
+  </nav>
+
+  <div class="single-tool-layout">
+    <main class="single-tool-main">
+      <p class="single-tool-intro">{{ page.title }} Review</p>
+      <section class="single-tool-hero" aria-labelledby="single-tool-title">
+        <div class="single-tool-hero__title-row">
+          <span class="single-tool-hero__logo{% if page.logoUrl %} single-tool-hero__logo--image{% endif %}"{% if page.logoUrl %} style="background-image: url('{{ page.logoUrl | relative_url }}')"{% endif %} aria-hidden="true">
+            {% unless page.logoUrl %}{{ page.title | slice: 0 | upcase }}{% endunless %}
+          </span>
+          <div>
+            <h1 id="single-tool-title">{{ page.title }}</h1>
+            {% if page.tagline %}
+              <p class="single-tool-hero__tagline">{{ page.tagline }}</p>
+            {% endif %}
+          </div>
+        </div>
+
+        <p class="single-tool-hero__lead">{{ page.overview }}</p>
+
+        {% assign updated_date = page.last_modified_at | default: page.import.imported_at %}
+        {% if updated_date %}
+          <p class="single-tool-hero__updated"><i class="fa-regular fa-clock" aria-hidden="true"></i> Updated {{ updated_date | date: "%b %d, %Y" }}</p>
+        {% endif %}
+
+        {% if page_categories %}
+          <div class="single-tool-category-list" aria-label="{{ page.title }} categories">
+            {% assign hero_categories = page_categories | slice: 0, 10 %}
+            {% for category in hero_categories %}
+              {% assign category_icon = site.data.category_icons[category] | default: site.data.category_icons.default %}
+              <span class="single-tool-category-list__chip{% if forloop.index > 6 %} single-tool-category-list__chip--extra d-none{% endif %}"{% if forloop.index > 6 %} data-single-tool-extra-category{% endif %}>
+                <i data-lucide="{{ category_icon.name }}" style="color: {{ category_icon.color }}" aria-hidden="true"></i>
+                {{ category }}
+              </span>
+            {% endfor %}
+            {% if hero_categories.size > 6 %}
+              <button class="single-tool-category-list__more" type="button" data-single-tool-category-toggle aria-expanded="false">
+                +{{ hero_categories.size | minus: 6 }} more
+              </button>
+            {% endif %}
+          </div>
+        {% endif %}
+      </section>
+
+      {% if page.what_is %}
+        <section class="single-tool-section single-tool-what-is" aria-labelledby="single-tool-what-is-title">
+          <div class="single-tool-section__header single-tool-section__header--inside">
+            <h2 id="single-tool-what-is-title">{{ page.what_is.title }}</h2>
+            {% if page.what_is.description %}
+              {% if page.what_is.description.first.size > 3 %}
+                {% for paragraph in page.what_is.description %}
+                  <p>{{ paragraph }}</p>
+                {% endfor %}
+              {% else %}
+                <p>{{ page.what_is.description }}</p>
+              {% endif %}
+            {% endif %}
+          </div>
+          {% if page.what_is.embed_url %}
+            <div class="single-tool-video" aria-label="{{ page.what_is.video_label | default: page.what_is.title }}">
+              <iframe src="{{ page.what_is.embed_url }}" title="{{ page.what_is.video_label | default: page.what_is.title }}" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            </div>
+          {% endif %}
+        </section>
+      {% endif %}
+
+      {% comment %} Use cases: each card opens ChatGPT with a prompt that researches Reddit, reviews, and case studies for this tool + use case. {% endcomment %}
+      {% comment %} Tailored, per-tool scenarios live in _data/tool_scenarios.yml (keyed by tool name).
+         Fall back to the scraped use_cases / feature titles when a tool has none yet. {% endcomment %}
+      {% assign scenarios = site.data.tool_scenarios[page.title] %}
+      {% if scenarios == nil or scenarios == empty %}
+        {% assign scenarios = page.use_cases %}
+      {% endif %}
+      {% if scenarios == nil or scenarios == empty %}
+        {% assign scenarios = page.features | map: 'title' %}
+      {% endif %}
+      {% if scenarios == nil or scenarios == empty %}
+        {% assign scenarios = page.categories %}
+      {% endif %}
+      {% assign scenarios = scenarios | uniq %}
+
+      <section class="single-tool-section single-tool-use-cases" aria-labelledby="single-tool-use-cases-title">
+        <div class="single-tool-use-cases-list">
+          <h2 id="single-tool-use-cases-title">See how teams use {{ page.title }}</h2>
+
+          {% comment %} Tailored, real-world scenarios for this tool, as a compact two-column list (no per-item buttons). {% endcomment %}
+          <ul class="single-tool-use-cases__list">
+            {% for uc in scenarios limit: 6 %}
+              <li><i data-lucide="check" aria-hidden="true"></i><span>{{ uc }}</span></li>
+            {% endfor %}
+          </ul>
+
+          {% comment %} AI research actions, consolidated into shared rows instead of repeated on every use case. {% endcomment %}
+          <div class="single-tool-use-cases__rows">
+            {% capture uc_reddit_prompt %}You are researching what real users honestly think of {{ page.title }}. Never use emoji or em dashes.
+
+Search the web, especially Reddit, plus G2, Capterra, and Trustpilot, for real threads and quotes from people who actually used {{ page.title }}. Summarize the recurring pros, cons, and complaints with source links, and note whether sentiment differs by company size. Be honest about limitations.
+
+Explore more tools: https://blog.1secondleads.com/tools/{% endcapture %}
+            {% capture uc_reddit_title %}What Reddit says about {{ page.title }}{% endcapture %}
+            {% include tools/research-row.html title=uc_reddit_title prompt=uc_reddit_prompt %}
+
+            {% capture uc_strengths_prompt %}You are comparing {{ page.title }} to its main alternatives. Never use emoji or em dashes.
+
+Research {{ page.title }}'s main strengths and weaknesses versus its main competitors{% if page.alternatives and page.alternatives.size > 0 %}, such as {{ page.alternatives | map: 'name' | join: ', ' }}{% endif %}. Summarize where {{ page.title }} is genuinely better or worse with source links, and end with a short comparison table of each tool's main strength, starting price, and best-fit use case.
+
+Explore more tools: https://blog.1secondleads.com/tools/{% endcapture %}
+            {% capture uc_strengths_title %}Main strengths vs alternatives{% endcapture %}
+            {% include tools/research-row.html title=uc_strengths_title prompt=uc_strengths_prompt %}
+          </div>
+        </div>
+      </section>
+
+      <section class="single-tool-section single-tool-pros-cons" aria-label="Pros and cons">
+        <div>
+          <h2>Pros</h2>
+          <ul>
+            {% for pro in page.pros %}
+              <li>{{ pro }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+        <div>
+          <h2>Cons</h2>
+          <ul>
+            {% for con in page.cons %}
+              <li>{{ con }}</li>
+            {% endfor %}
+          </ul>
+        </div>
+      </section>
+
+      {% if page.review_links %}
+        <section class="single-tool-section single-tool-reviews-section" aria-labelledby="single-tool-reviews-title">
+          <div class="single-tool-reviews-list">
+            <h2 id="single-tool-reviews-title">What people say about {{ page.title }}</h2>
+            <ul class="single-tool-reviews single-tool-reviews--block">
+              {% for review in page.review_links %}
+                {% assign review_icon = site.data.review_source_icons[review.source] | default: site.data.review_source_icons.default %}
+                {% if review_icon.logoUrl %}
+                  {% assign review_logo = review_icon.logoUrl | relative_url %}
+                {% elsif review_icon.domain %}
+                  {% assign review_logo = 'https://www.google.com/s2/favicons?sz=64&domain=' | append: review_icon.domain %}
+                {% else %}
+                  {% assign review_logo = nil %}
+                {% endif %}
+                {% assign review_text = review.description | default: review_icon.tagline %}
+                <li class="single-tool-review single-tool-review--block">
+                  <div class="single-tool-review__head">
+                    {% if review.score %}
+                      <span class="single-tool-review__score">{{ review.score }}</span>
+                    {% endif %}
+                    <span class="single-tool-review__source">
+                      {% if review_logo %}
+                        <span class="single-tool-review__logo" style="background-image: url('{{ review_logo }}')" aria-hidden="true"></span>
+                      {% else %}
+                        <i class="{{ review_icon.icon }}" aria-hidden="true"></i>
+                      {% endif %}
+                      {{ review.source }}
+                    </span>
+                    {% if review.url %}
+                      <a class="single-tool-review__visit" href="{{ review.url }}" target="_blank" rel="noopener noreferrer">Read reviews</a>
+                    {% endif %}
+                  </div>
+                  {% if review_text %}
+                    <p class="single-tool-review__description">{{ review_text }}</p>
+                  {% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          </div>
+        </section>
+      {% endif %}
+
+      {% if page.faqs %}
+        <section class="single-tool-section single-tool-faq" aria-labelledby="single-tool-faq-title">
+          <div class="single-tool-faq-list">
+            <h2 id="single-tool-faq-title">Frequently asked questions</h2>
+            {% for faq in page.faqs %}
+              <details class="single-tool-faq-item">
+                <summary>{{ faq.question }}</summary>
+                <p>{{ faq.answer }}</p>
+              </details>
+            {% endfor %}
+          </div>
+        </section>
+      {% endif %}
+
+      {% if related_tools.size > 0 or page.alternatives %}
+        <section class="single-tool-section single-tool-alternatives" aria-labelledby="alternative-tools-title">
+          <div class="related-tool-list">
+            <h2 id="alternative-tools-title">Alternative tools</h2>
+            {% for tool in related_tools %}
+              {% assign tool_slug = tool.name | downcase | replace: ' ', '-' %}
+              {% assign target_url = '/tools/' | append: tool_slug | append: '/' %}
+              {% assign local_page = site.tool_pages | where: 'url', target_url | first %}
+              {% if local_page %}
+                {% assign view_href = local_page.url | relative_url %}
+                {% assign view_external = false %}
+              {% else %}
+                {% comment %} No local page yet: send visitors to our home page rather than an external directory. {% endcomment %}
+                {% assign view_href = '/' | relative_url %}
+                {% assign view_external = false %}
+              {% endif %}
+              {% assign trial_value = tool.trial %}
+              {% unless trial_value %}
+                {% assign tier_downcased = tool.pricing_tier | default: '' | downcase %}
+                {% if tier_downcased contains 'trial' or tier_downcased contains 'freemium' or tier_downcased contains 'free' %}
+                  {% assign trial_value = 'Available' %}
+                {% elsif tool.pricing_tier %}
+                  {% assign trial_value = 'Not available' %}
+                {% endif %}
+              {% endunless %}
+
+              <div class="related-tool-item">
+                <div class="related-tool-item__body">
+                  <div class="related-tool-item__header">
+                    <span class="related-tool-item__title">
+                      <span class="related-tool-item__logo{% if tool.logoUrl %} related-tool-item__logo--image{% endif %}"{% if tool.logoUrl %} style="background-image: url('{{ tool.logoUrl }}')"{% endif %} aria-hidden="true">
+                        {% unless tool.logoUrl %}{{ tool.name | slice: 0 | upcase }}{% endunless %}
+                      </span>
+                      <span class="related-tool-item__heading">
+                        <strong>{{ tool.name }}</strong>
+                        {% if tool.description %}
+                          <span class="related-tool-item__description">{{ tool.description }}</span>
+                        {% endif %}
+                      </span>
+                    </span>
+                  </div>
+                  {% if tool.pricing_starting_at %}
+                    {% assign starting_lower = tool.pricing_starting_at | downcase %}
+                    {% if starting_lower contains 'not listed' or starting_lower contains 'talk to sales' %}
+                      <small class="related-tool-item__pricing">Pricing: Not listed; talk to sales.</small>
+                    {% else %}
+                      <small class="related-tool-item__pricing">Pricing: Starting at {{ tool.pricing_starting_at }}</small>
+                    {% endif %}
+                  {% endif %}
+                  {% if trial_value %}
+                    <small class="related-tool-item__trial">Trial: {{ trial_value }}</small>
+                  {% endif %}
+                  {% assign tool_categories = tool.categories | default: tool.category %}
+                  {% if tool_categories %}
+                    {% assign visible_categories = tool_categories | slice: 0, 6 %}
+                    <span class="related-tool-item__categories">
+                      {% for category in visible_categories %}
+                        {% assign category_icon = site.data.category_icons[category] | default: site.data.category_icons.default %}
+                        <span>
+                          <i data-lucide="{{ category_icon.name }}" style="color: {{ category_icon.color }}" aria-hidden="true"></i>
+                          {{ category }}
+                        </span>
+                      {% endfor %}
+                    </span>
+                  {% endif %}
+                  {% if view_href %}
+                    <a class="related-tool-item__view" href="{{ view_href }}"{% if view_external %} target="_blank" rel="noopener noreferrer"{% endif %}>View</a>
+                  {% endif %}
+                </div>
+              </div>
+            {% endfor %}
+            {% for tool in page.alternatives %}
+              {% assign tool_slug = tool.name | downcase | replace: ' ', '-' %}
+              {% assign target_url = '/tools/' | append: tool_slug | append: '/' %}
+              {% assign local_page = site.tool_pages | where: 'url', target_url | first %}
+              {% if local_page %}
+                {% assign view_href = local_page.url | relative_url %}
+                {% assign view_external = false %}
+              {% else %}
+                {% comment %} No local page yet: send visitors to our home page rather than an external directory. {% endcomment %}
+                {% assign view_href = '/' | relative_url %}
+                {% assign view_external = false %}
+              {% endif %}
+              {% assign trial_value = tool.trial %}
+              {% unless trial_value %}
+                {% assign tier_downcased = tool.pricing_tier | default: '' | downcase %}
+                {% if tier_downcased contains 'trial' or tier_downcased contains 'freemium' or tier_downcased contains 'free' %}
+                  {% assign trial_value = 'Available' %}
+                {% elsif tool.pricing_tier %}
+                  {% assign trial_value = 'Not available' %}
+                {% endif %}
+              {% endunless %}
+
+              <div class="related-tool-item">
+                <div class="related-tool-item__body">
+                  <div class="related-tool-item__header">
+                    <span class="related-tool-item__title">
+                      <span class="related-tool-item__logo{% if tool.logoUrl %} related-tool-item__logo--image{% endif %}"{% if tool.logoUrl %} style="background-image: url('{{ tool.logoUrl }}')"{% endif %} aria-hidden="true">
+                        {% unless tool.logoUrl %}{{ tool.name | slice: 0 | upcase }}{% endunless %}
+                      </span>
+                      <span class="related-tool-item__heading">
+                        <strong>{{ tool.name }}</strong>
+                        {% if tool.description %}
+                          <span class="related-tool-item__description">{{ tool.description }}</span>
+                        {% endif %}
+                      </span>
+                    </span>
+                  </div>
+                  {% if tool.pricing_starting_at %}
+                    {% assign starting_lower = tool.pricing_starting_at | downcase %}
+                    {% if starting_lower contains 'not listed' or starting_lower contains 'talk to sales' %}
+                      <small class="related-tool-item__pricing">Pricing: Not listed; talk to sales.</small>
+                    {% else %}
+                      <small class="related-tool-item__pricing">Pricing: Starting at {{ tool.pricing_starting_at }}</small>
+                    {% endif %}
+                  {% endif %}
+                  {% if trial_value %}
+                    <small class="related-tool-item__trial">Trial: {{ trial_value }}</small>
+                  {% endif %}
+                  {% if tool.categories %}
+                    {% assign visible_categories = tool.categories | slice: 0, 6 %}
+                    <span class="related-tool-item__categories">
+                      {% for category in visible_categories %}
+                        {% assign category_icon = site.data.category_icons[category] | default: site.data.category_icons.default %}
+                        <span>
+                          <i data-lucide="{{ category_icon.name }}" style="color: {{ category_icon.color }}" aria-hidden="true"></i>
+                          {{ category }}
+                        </span>
+                      {% endfor %}
+                    </span>
+                  {% endif %}
+                  {% if view_href %}
+                    <a class="related-tool-item__view" href="{{ view_href }}"{% if view_external %} target="_blank" rel="noopener noreferrer"{% endif %}>View</a>
+                  {% endif %}
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+        </section>
+      {% endif %}
+
+    </main>
+
+    <aside class="single-tool-sidebar" aria-label="{{ page.title }} details">
+      <div class="single-tool-panel">
+        {% if page.website %}
+          <a class="single-tool-panel__cta single-tool-hero__visit" href="{{ page.website }}" target="_blank" rel="noopener noreferrer">Visit {{ page.title }}</a>
+        {% endif %}
+
+        {% if page.pricing %}
+          <div class="single-tool-panel__block single-tool-panel__block--first">
+            <h3>Pricing</h3>
+            <dl class="single-tool-panel__facts">
+              {% if page.pricing.starting_at %}
+                {% assign starting_lower = page.pricing.starting_at | downcase %}
+                {% if starting_lower contains 'not listed' or starting_lower contains 'talk to sales' %}
+                  <div>
+                    <dt>Pricing</dt>
+                    <dd>Not listed; talk to sales.</dd>
+                  </div>
+                {% else %}
+                  <div>
+                    <dt>Starts at</dt>
+                    <dd>{{ page.pricing.starting_at }}</dd>
+                  </div>
+                {% endif %}
+              {% endif %}
+              {% if page.pricing.billing %}
+                <div>
+                  <dt>Billing</dt>
+                  <dd>{{ page.pricing.billing }}</dd>
+                </div>
+              {% endif %}
+              {% if page.pricing.trial %}
+                <div>
+                  <dt>Trial</dt>
+                  <dd>{{ page.pricing.trial }}</dd>
+                </div>
+              {% endif %}
+            </dl>
+          </div>
+        {% endif %}
+
+        {% if page.social %}
+          <div class="single-tool-panel__block single-tool-panel__block--social">
+            <h3>Social</h3>
+            <div class="single-tool-panel__links">
+              {% for social in page.social %}
+                <a href="{{ social.url }}" target="_blank" rel="noopener noreferrer">
+                  {% assign social_label = social.label | downcase %}
+                  {% if social_label contains 'linkedin' %}
+                    <i class="fa-brands fa-linkedin" aria-hidden="true"></i>
+                  {% elsif social_label contains 'twitter' or social_label contains 'x /' %}
+                    <i class="fa-brands fa-x-twitter" aria-hidden="true"></i>
+                  {% elsif social_label contains 'youtube' %}
+                    <i class="fa-brands fa-youtube" aria-hidden="true"></i>
+                  {% else %}
+                    <i class="fa-solid fa-link" aria-hidden="true"></i>
+                  {% endif %}
+                  {{ social.label }}
+                </a>
+              {% endfor %}
+            </div>
+          </div>
+        {% endif %}
+
+        {% if page.sidebar.best_for %}
+          <div class="single-tool-panel__block">
+            <h3>Who is {{ page.title }} for?</h3>
+            <ul>
+              {% for item in page.sidebar.best_for %}
+                <li>{{ item }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+
+        <section class="single-tool-cta single-tool-cta--panel" aria-labelledby="single-tool-cta-title">
+          <div>
+            <p class="tools-eyebrow">Need implementation help?</p>
+            <h2 id="single-tool-cta-title">Turn tools into booked meetings</h2>
+            <p>We help B2B teams choose the stack, build the workflows, and launch outbound systems that create pipeline.</p>
+          </div>
+          <a href="https://www.1secondleads.com/" target="_blank" rel="noopener noreferrer">Talk to 1SecondLeads</a>
+        </section>
+
+      </div>
+    </aside>
+  </div>
+
+  {% if page.website %}
+    <a class="single-tool-mobile-cta" href="{{ page.website }}" target="_blank" rel="noopener noreferrer">Visit {{ page.title }}</a>
+  {% endif %}
+
+  {% include tools/about.html %}
+</article>
+
+<script src="https://cdn.jsdelivr.net/npm/lucide@0.544.0/dist/umd/lucide.min.js"></script>
+<script>
+  (function () {
+    function renderIcons() {
+      if (window.lucide) window.lucide.createIcons();
+    }
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', renderIcons);
+    } else {
+      renderIcons();
+    }
+  })();
+</script>

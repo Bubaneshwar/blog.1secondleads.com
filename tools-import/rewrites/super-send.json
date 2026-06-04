@@ -1,0 +1,9 @@
+{
+  "description": "Super Send automates cold outbound across email, LinkedIn, and Twitter, with managed sending infrastructure and warmup.",
+  "tagline": "Automate cold outreach across LinkedIn, Twitter, and email",
+  "overview": "Super Send helps teams grow pipeline by automating multichannel outbound campaigns, managing sending infrastructure and warmup to keep deliverability high.",
+  "what_is": [
+    "SuperSend is a cold outbound platform that helps sales and marketing teams scale outreach safely. It manages the sending infrastructure, including domains, inboxes, and warmup, to keep deliverability high even at large volumes.",
+    "It is strongest for multichannel campaigns across email, LinkedIn, and Twitter, with automated warmup, smart throttling, and personalization at scale. SuperSend integrates with CRMs like HubSpot and Pipedrive plus enrichment and reporting tools, focusing on cold outbound and deliverability rather than full marketing automation."
+  ]
+}

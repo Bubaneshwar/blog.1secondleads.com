@@ -1,0 +1,949 @@
+# Tailored, per-tool use-case scenarios for the "See how teams use {tool}" section.
+# Keyed by the tool page title (must match `title:` in _tool_pages/*.md exactly).
+# Each tool lists up to 6 concrete, real-world scenarios. The single-tool layout
+# renders these as research cards and falls back to scraped use_cases when a tool
+# has no entry here. Keep each scenario short, specific, and recognizable.
+
+"11x":
+  - Replace manual SDR prospecting with an AI worker
+  - Automate multichannel follow-ups end to end
+  - Qualify inbound leads around the clock
+  - Launch outbound in a new market quickly
+  - Run prospecting in multiple languages
+  - Scale outreach without hiring more reps
+
+"6Sense":
+  - Find in-market accounts before they fill a form
+  - Prioritize ABM target lists by buying stage
+  - Time outreach to active buying windows
+  - Align sales and marketing on one account list
+  - Run ABM ads to high-intent accounts
+  - Surface anonymous buyers researching your category
+
+"Adapt":
+  - Build a targeted prospect list by industry
+  - Enrich CRM records with verified contacts
+  - Find decision-makers at target accounts
+  - Pull contacts while browsing LinkedIn
+  - Refresh a stale lead list before a campaign
+  - Identify high-growth companies to target
+
+"Aircall":
+  - Set up a sales calling line for a new team
+  - Coach reps with live call listening
+  - Auto-log calls to the CRM
+  - Route inbound calls to the right rep
+  - Review call recordings for QA
+  - Automate follow-up after missed calls
+
+"AiSDR":
+  - Hand cold outreach to an AI SDR
+  - Book meetings while reps focus on closing
+  - Personalize emails using HubSpot data
+  - Follow up leads across email and LinkedIn
+  - Target prospects showing buying intent
+  - Add AI-driven texting to outreach
+
+"Albacross":
+  - Identify companies visiting your site
+  - Turn anonymous traffic into named leads
+  - Auto-engage warm visitors with sequences
+  - Segment site visitors by buying intent
+  - Get alerts when target accounts visit
+  - Route website leads into the CRM
+
+"Allegrow":
+  - Keep cold email out of the spam folder
+  - Monitor inbox placement across providers
+  - Verify a list before a big send
+  - Test email content for spam triggers
+  - Track deliverability across the team
+  - Catch deliverability drops early
+
+"Amplemarket":
+  - Run personalized multichannel outbound
+  - Protect deliverability while scaling sends
+  - Find leads matching your ICP
+  - Act on real-time buying signals
+  - Automate sequences across email and LinkedIn
+  - Consolidate prospecting into one platform
+
+"Artisan":
+  - Automate prospecting with an AI BDR
+  - Replace manual list-building and research
+  - Run hyper-personalized email sequences
+  - Trigger outreach from website visits
+  - Launch outbound from a built-in database
+  - Combine email and LinkedIn in one flow
+
+"Attio":
+  - Build a custom CRM for how your team sells
+  - Migrate off a rigid legacy CRM
+  - Automate pipeline updates and workflows
+  - Sync and enrich contact data automatically
+  - Report on deals with custom views
+  - Set up a CRM for a fast-growing startup
+
+"Avoma":
+  - Auto-record and summarize sales calls
+  - Update the CRM straight from call notes
+  - Coach reps with conversation insights
+  - Capture action items from every meeting
+  - Forecast deals from call signals
+  - Schedule and route inbound meetings
+
+"BetterContact":
+  - Find verified emails across many providers
+  - Enrich a list and pay only for valid data
+  - Add mobile numbers to a prospect list
+  - Verify contacts before importing to CRM
+  - Run waterfall enrichment on a cold list
+  - Export enriched leads in one click
+
+"Bombora":
+  - Find accounts researching your category
+  - Add intent data to your ABM targeting
+  - Prioritize outreach by surging topics
+  - Build audiences from content consumption
+  - Time campaigns to active buying interest
+  - Feed intent signals into the sales workflow
+
+"Breakcold":
+  - Manage email and LinkedIn from one inbox
+  - Run a social-selling pipeline
+  - Warm up leads with social engagement
+  - Move deals through a visual pipeline
+  - Automate follow-ups with AI
+  - Track prospect activity before reaching out
+
+"Calendly":
+  - Cut back-and-forth scheduling emails
+  - Let prospects book meetings instantly
+  - Reduce no-shows with reminders
+  - Route meetings to the right rep
+  - Embed booking on a landing page
+  - Capture demo requests on autopilot
+
+"Captain Data":
+  - Automate LinkedIn scraping at scale
+  - Enrich leads through a unified API
+  - Build a data pipeline for prospecting
+  - Pull intent signals into a workflow
+  - Power sales workflows with clean data
+  - Feed enriched data to AI agents
+
+"Chili Piper":
+  - Book inbound demos instantly from forms
+  - Route leads to the right rep by rules
+  - Qualify form fills in real time
+  - Hand off SDR meetings to AEs
+  - Schedule meetings from chat
+  - Lift inbound conversion with instant booking
+
+"Clearbit":
+  - Enrich inbound leads with company data
+  - Score and route leads automatically
+  - Shorten forms with autofill
+  - Reveal buying intent on accounts
+  - Add firmographics to CRM records
+  - Target lookalike accounts
+
+"Close":
+  - Manage a small team's full sales pipeline
+  - Call, email, and text from one CRM
+  - Automate follow-up reminders
+  - Log all communication automatically
+  - Run outbound sequences inside the CRM
+  - Close deals faster with built-in calling
+
+"Closely":
+  - Automate LinkedIn and email outreach
+  - Run safe LinkedIn connection campaigns
+  - Find verified emails while prospecting
+  - Manage replies in one unified inbox
+  - Sync leads and replies to the CRM
+  - Send AI-personalized LinkedIn messages
+
+"Cognism":
+  - Get phone-verified mobile numbers
+  - Prospect compliantly across the US and EMEA
+  - Build a list of decision-makers
+  - Add buyer intent to target accounts
+  - Enrich CRM with compliant contact data
+  - Reach prospects by direct dial
+
+"Common Room":
+  - Capture buying signals across many sources
+  - Identify people behind product signups
+  - Automate outbound from intent signals
+  - Enrich and score the pipeline
+  - Trigger plays when accounts show interest
+  - Unify community and product signals
+
+"Copper":
+  - Run a CRM inside Gmail and Workspace
+  - Track deals without leaving your inbox
+  - Automate follow-up tasks from email
+  - Centralize contacts across the team
+  - Manage a pipeline visually
+  - Log Google activity automatically
+
+"Datagma":
+  - Find verified emails and mobiles in real time
+  - Enrich leads from a Chrome extension
+  - Bulk-enrich an uploaded list
+  - Detect job changes in your contacts
+  - Add direct dials to a prospect list
+  - Enrich CRM records via API
+
+"Dealfront":
+  - Find in-market accounts in Europe
+  - Reveal companies visiting your site
+  - Build audiences with firmographic filters
+  - Prioritize high-fit, in-market buyers
+  - Focus ad spend on interested accounts
+  - Access a Europe-focused contact database
+
+"Default":
+  - Route and schedule inbound leads
+  - Qualify and assign form fills
+  - Identify anonymous website visitors
+  - Keep CRM data clean automatically
+  - Automate inbound with AI workflows
+  - Book meetings with qualified leads
+
+"Demandbase":
+  - Identify and prioritize target accounts
+  - Read buying signals across accounts
+  - Orchestrate ABM ads and sales outreach
+  - Surface buying groups within accounts
+  - Unify account data in one view
+  - Time outreach to in-market accounts
+
+"Demodesk":
+  - Record and summarize demo calls
+  - Coach reps in real time on calls
+  - Automate CRM updates from meetings
+  - Schedule and run product demos
+  - Build a searchable call library
+  - Capture follow-ups from every meeting
+
+"Dialpad":
+  - Unify calls and messaging in one platform
+  - Transcribe customer calls in real time
+  - Scale a contact center with AI
+  - Surface insights from conversations
+  - Resolve support queries automatically
+  - Coach agents with live transcription
+
+"Dreamdata":
+  - Map the full B2B customer journey
+  - See which campaigns drive pipeline
+  - Attribute revenue across channels
+  - Sync conversions to ad platforms
+  - Report ROI on marketing spend
+  - Identify intent signals in the journey
+
+"Dripify":
+  - Run automated LinkedIn drip campaigns
+  - Generate leads on LinkedIn autopilot
+  - Send personalized LinkedIn sequences
+  - Find prospects' business emails
+  - Track LinkedIn campaign performance
+  - Scale LinkedIn outreach for an agency
+
+"Dubb":
+  - Send personalized sales videos
+  - Add video to email and LinkedIn outreach
+  - Track who watches your videos
+  - Record quick video pitches on any device
+  - Run video email and SMS campaigns
+  - Embed video on landing pages
+
+"Dux-Soup":
+  - Automate LinkedIn connection requests
+  - Run profile visits and messaging on autopilot
+  - Generate and manage LinkedIn leads
+  - Personalize LinkedIn campaigns at scale
+  - Sync LinkedIn leads to a CRM
+  - Track LinkedIn campaign stats
+
+"Emelia":
+  - Run affordable cold email campaigns
+  - Warm up inboxes before sending
+  - Find verified emails for prospects
+  - Scrape leads from Sales Navigator
+  - Add LinkedIn steps to outreach
+  - Find phone numbers for prospects
+
+"Evaboot":
+  - Export clean lead lists from Sales Navigator
+  - Find verified emails from Sales Navigator
+  - Clean messy names and titles in one click
+  - Build a targeted list from a saved search
+  - Filter out off-target leads automatically
+  - Turn a Sales Nav search into a CRM-ready list
+
+"Expandi":
+  - Run safe LinkedIn outreach sequences
+  - Combine LinkedIn and email follow-ups
+  - Bypass LinkedIn limits safely
+  - Personalize images and GIFs in outreach
+  - Track follow-up performance
+  - Scale LinkedIn campaigns for an agency
+
+"Factors":
+  - Identify anonymous website visitors
+  - Score accounts by cross-channel intent
+  - Optimize LinkedIn and Google ad spend
+  - Prioritize accounts ready to buy
+  - Attribute pipeline across channels
+  - Track every touch in the buyer journey
+
+"Fathom":
+  - Auto-record and summarize meetings
+  - Capture action items from calls
+  - Sync call highlights to the CRM
+  - Search past meeting transcripts
+  - Share call summaries with the team
+  - Skip manual note-taking on demos
+
+"Findthatlead":
+  - Find verified emails by industry and title
+  - Build prospect lists from filters
+  - Run cold email campaigns from found leads
+  - Extract leads with a Chrome extension
+  - Find emails by company domain
+  - Enrich a list with missing emails
+
+"Fireflies":
+  - Record and transcribe every sales call
+  - Summarize meetings automatically
+  - Search across past call transcripts
+  - Analyze conversations for coaching
+  - Automate CRM notes from calls
+  - Capture multilingual meeting notes
+
+"Folderly":
+  - Diagnose why cold email lands in spam
+  - Analyze sending infrastructure and DNS
+  - Monitor mailbox health daily
+  - Fix deliverability before a campaign
+  - Get real-time spam placement alerts
+  - Boost sender reputation over time
+
+"Folk":
+  - Run a lightweight CRM for a small team
+  - Enrich contacts in one click
+  - Send bulk email campaigns from the CRM
+  - Pull contacts from LinkedIn
+  - Manage partnership and sales pipelines
+  - Automate lead research and follow-up
+
+"GetProspect":
+  - Find emails in a large B2B database
+  - Verify emails in bulk before sending
+  - Build a list and export in one click
+  - Enrich contacts with accurate data
+  - Send AI-personalized cold emails
+  - Find decision-maker emails by company
+
+"Gmass":
+  - Turn Gmail into a cold email platform
+  - Mail-merge campaigns from Google Sheets
+  - Send automated follow-ups from Gmail
+  - Break Gmail's sending limits safely
+  - Verify lists and reduce spam
+  - Track open and reply rates in Gmail
+
+"Gong":
+  - Analyze sales calls to improve win rates
+  - Coach reps with call insights
+  - Forecast deals from conversation data
+  - Spot deal risk early
+  - Capture follow-ups and pipeline edits
+  - See what top reps do differently
+
+"Groove":
+  - Manage support conversations in one inbox
+  - Automate repetitive support replies
+  - Summarize tickets with AI
+  - Route tickets by sentiment
+  - Set SLAs and custom workflows
+  - Centralize customer email support
+
+"Growbots":
+  - Build an outbound engine end to end
+  - Find prospects in a built-in database
+  - Run automated email sequences
+  - Warm up inboxes before sending
+  - Generate targeted lead lists with AI
+  - Launch outbound without extra tools
+
+"Happierleads":
+  - Identify anonymous B2B website visitors
+  - Reveal person and company-level visitors
+  - Turn site traffic into qualified leads
+  - Push website leads to CRM and Slack
+  - Auto-email visitors on autopilot
+  - Filter out bots and ISP noise
+
+"HeyReach":
+  - Run LinkedIn outreach across many accounts
+  - Rotate multiple LinkedIn senders safely
+  - Manage all replies in one inbox
+  - Scale LinkedIn for an agency
+  - Import qualified leads from other tools
+  - Report on LinkedIn campaigns per client
+
+"HockeyStack":
+  - Connect marketing and sales data to revenue
+  - Build custom GTM reports fast
+  - Attribute pipeline across touchpoints
+  - Get AI-powered account insights
+  - Centralize all GTM data
+  - Measure campaign ROI end to end
+
+"HubSpot":
+  - Run CRM, marketing, and sales in one place
+  - Automate marketing and sales workflows
+  - Build a single view of every customer
+  - Nurture leads with email automation
+  - Manage tickets and service workflows
+  - Scale a growing team on one platform
+
+"Humanlinker":
+  - Hyper-personalize cold outreach at scale
+  - Run 360-degree prospect research
+  - Use personality insights to tailor messages
+  - Automate personalized LinkedIn and email
+  - Enrich prospects with emails and phones
+  - Manage replies in a unified inbox
+
+"Hunter":
+  - Find verified emails for a target account list
+  - Build a prospect list from a company domain
+  - Verify an old list before a cold campaign
+  - Bulk-find emails for an event attendee list
+  - Run a simple cold email campaign
+  - Check email deliverability before sending
+
+"Hyperbound":
+  - Practice cold calls against AI buyers
+  - Ramp new reps faster with roleplays
+  - Score discovery calls automatically
+  - Get instant coaching feedback
+  - Rehearse objection handling safely
+  - Build a custom roleplay for your pitch
+
+"Insightly":
+  - Centralize customer data in one CRM
+  - Manage pipelines and deals
+  - Automate sales and marketing workflows
+  - Build customer journeys
+  - Handle support tickets
+  - Integrate the CRM with other apps
+
+"Instantly":
+  - Warm up fresh inboxes before a launch
+  - Run cold email across many mailboxes
+  - Consolidate replies into one inbox
+  - Scale send volume without hurting deliverability
+  - Set up a new client's sending infrastructure
+  - Manage leads and sequences in one workspace
+
+"Kaspr":
+  - Reveal B2B emails and phones on LinkedIn
+  - Prospect compliantly with a Chrome extension
+  - Bulk-enrich leads with verified data
+  - Build a list while browsing LinkedIn
+  - Sync prospects to the CRM
+  - Get GDPR-compliant contact data
+
+"Kixie":
+  - Power-dial a calling list faster
+  - Add SMS to sales outreach
+  - Lift connect rates with local presence
+  - Log calls to the CRM automatically
+  - Coach reps with call intelligence
+  - Route inbound sales calls
+
+"Klenty":
+  - Run multichannel cadences across channels
+  - Add power dialing to outreach
+  - Personalize emails with AI
+  - Automate email, LinkedIn, SMS, and calls
+  - Hand routine outreach to an AI SDR
+  - Sync sequence activity to the CRM
+
+"Koala":
+  - Identify companies behind site traffic
+  - Prioritize high-intent accounts
+  - Unify first- and third-party signals
+  - Send personalized emails to warm accounts
+  - Score accounts by fit and intent
+  - Run AI research on target accounts
+
+"LaGrowthMachine":
+  - Run outbound across LinkedIn, email, and X
+  - Build and enrich a lead list
+  - Engage leads on multiple channels
+  - Manage all replies in one inbox
+  - Add voice notes to LinkedIn outreach
+  - Find emails for decision-makers
+
+"Leadforensics":
+  - Identify anonymous B2B website visitors
+  - Turn site traffic into named company leads
+  - Get instant alerts on hot visitors
+  - Route website leads into the CRM
+  - Capture marketing insights from traffic
+  - Prioritize companies showing interest
+
+"LeadIQ":
+  - Capture verified contacts from LinkedIn
+  - Push prospects straight to the CRM
+  - Track job changes in your contacts
+  - Build pipeline with cleaner prospecting
+  - Enrich CRM records automatically
+  - Prospect from the browser in one click
+
+"LeadMagic":
+  - Validate and fill in missing emails
+  - Add mobile numbers to a list in real time
+  - Enrich company and profile data
+  - Pay only for valid data
+  - Get job-posting alerts on accounts
+  - Protect against gray-list email risk
+
+"lemwarm":
+  - Warm up a new sending domain
+  - Build sender reputation before a campaign
+  - Monitor sending health daily
+  - Check technical deliverability setup
+  - Get alerts when deliverability drops
+  - Keep cold email in the inbox
+
+"Linked Helper":
+  - Automate LinkedIn connections and messages
+  - Build LinkedIn message sequences
+  - Scrape and export LinkedIn profile data
+  - Personalize outreach with custom variables
+  - Sync LinkedIn leads to a CRM
+  - Run safe LinkedIn outreach at scale
+
+"Loom":
+  - Send async video sales pitches
+  - Record quick screen-share walkthroughs
+  - Replace status meetings with video updates
+  - Share product demos by video
+  - Embed video in outreach emails
+  - Add a personal video to follow-ups
+
+"Lusha":
+  - Get direct dials and verified emails
+  - Build prospect lists while browsing
+  - Enrich CRM records with contact data
+  - Add buyer intent to target accounts
+  - Prospect with a LinkedIn Chrome extension
+  - Reach decision-makers by phone
+
+"Lyne":
+  - Write personalized cold email openers
+  - Generate tailored intros at scale
+  - Lift cold email open and reply rates
+  - Save time per lead on personalization
+  - Scale personalized outbound campaigns
+  - Add AI intros to a sequence
+
+"Mailmeteor":
+  - Send personalized mass emails from Gmail
+  - Mail-merge campaigns from Google Sheets
+  - Schedule and automate follow-ups
+  - Track opens and clicks in real time
+  - Keep mass email out of spam
+  - Run privacy-friendly email campaigns
+
+"Mailshake":
+  - Automate cold email and LinkedIn outreach
+  - Write outreach emails with AI
+  - Score leads from engagement
+  - Run email sequences with follow-ups
+  - Manage outreach from one tool
+  - Track pipeline from campaigns
+
+"Meet Alfred":
+  - Automate LinkedIn, email, and X outreach
+  - Run personalized multichannel campaigns
+  - Manage conversations in a built-in CRM
+  - Find high-quality leads
+  - Collaborate on outreach as a team
+  - Send AI-personalized messages
+
+"Mixmax":
+  - Add tracking and templates to Gmail
+  - Run sequences from your inbox
+  - Schedule meetings without leaving Gmail
+  - Prioritize prospects with AI scores
+  - Sync email activity to the CRM
+  - Automate personalized follow-ups
+
+"Momentum":
+  - Auto-update the CRM from calls and emails
+  - Capture call data without manual notes
+  - Route deal insights to the right people
+  - Summarize deals automatically
+  - Spin up deal rooms in Slack
+  - Keep Salesforce fields current
+
+"Nooks":
+  - Get reps into more live conversations
+  - Automate dialing and call tasks
+  - Research prospects before dialing
+  - Coach reps on a virtual sales floor
+  - Build prospect lists for calling
+  - Draft relevant emails after calls
+
+"Nutshell":
+  - Manage a pipeline for a small team
+  - Add email marketing to the CRM
+  - Automate sales tasks and follow-ups
+  - Track quotes and deals
+  - Centralize contact management
+  - Reduce CRM busywork
+
+"Octave":
+  - Turn your ICP into live messaging
+  - Research accounts with AI agents
+  - Personalize campaigns at scale
+  - Keep messaging aligned to positioning
+  - Build context-aware outreach
+  - Adapt messaging to market shifts
+
+"Orum":
+  - Lift connect rates on outbound calls
+  - Automate dialing to reach more buyers
+  - Auto-drop voicemails on no-answers
+  - Get reps into more conversations
+  - Log calls and notes automatically
+  - Coach reps with AI on calls
+
+"Outplay":
+  - Run multichannel outreach for an SMB team
+  - Automate email, phone, social, and chat
+  - Trigger sequences from prospect actions
+  - Add conversation intelligence to calls
+  - Sync outreach to the CRM both ways
+  - Find emails inside the platform
+
+"Outreach":
+  - Run prospecting sequences at scale
+  - Manage deals and pipeline in one place
+  - Forecast revenue with AI
+  - Coach reps with conversation intelligence
+  - Generate follow-up action items automatically
+  - Standardize the team's sales process
+
+"Persana":
+  - Enrich leads from 100+ data sources
+  - Track buyer signals in real time
+  - Automate personalized outreach with AI
+  - Enrich the CRM automatically
+  - Send and warm up email natively
+  - Build multi-tool workflows
+
+"Pipedrive":
+  - Track leads and deals in a visual pipeline
+  - Automate follow-ups and reminders
+  - Manage deals with AI assistance
+  - Report on sales activity
+  - Customize pipelines for your process
+  - Connect 500+ apps to the CRM
+
+"Pocus":
+  - Prioritize accounts with AI guidance
+  - Tell reps the next best action
+  - Unify signals into account intelligence
+  - Surface daily priorities for reps
+  - Capture and analyze buying signals
+  - Prospect from a Chrome extension
+
+"Prospeo":
+  - Find verified emails by domain
+  - Export contacts from Sales Navigator
+  - Find B2B mobile numbers
+  - Verify email deliverability before sending
+  - Bulk-process a prospect list
+  - Pull contact data via API
+
+"Quickmail":
+  - Run cold email and LinkedIn campaigns
+  - Rotate unlimited inboxes for volume
+  - Manage all replies centrally
+  - A/B test campaigns with advanced stats
+  - Protect deliverability automatically
+  - Connect outreach via API
+
+"RB2B":
+  - Identify the people behind US site traffic
+  - Push person-level leads to Slack in real time
+  - Route hot website leads to reps
+  - Follow up identified visitors fast
+  - Connect site visitors via LinkedIn and email
+  - Filter and prioritize identified leads
+
+"ReachInbox":
+  - Find prospects and run cold campaigns
+  - Automate warm-up and follow-ups
+  - Personalize campaigns with AI
+  - Manage replies in a unified inbox
+  - Monitor deliverability in real time
+  - Verify lists automatically before sending
+
+"Regie":
+  - Unify calling, email, and social outreach
+  - Research leads with AI agents
+  - Personalize prospecting at scale
+  - Enrich leads automatically
+  - Prioritize leads for reps
+  - Simplify the outreach tech stack
+
+"Reply.io":
+  - Run multichannel sequences across email and LinkedIn
+  - Book more meetings with automated outreach
+  - Generate sequences with AI
+  - Warm up inboxes before sending
+  - Find prospects with built-in data search
+  - Handle replies with AI responses
+
+"Rocketreach":
+  - Find emails, phones, and social profiles
+  - Build prospect lists from a huge database
+  - Get AI outreach recommendations
+  - Automate prospecting with Autopilot
+  - Enrich the CRM with contact data
+  - Pull contact info from the browser
+
+"SalesBlink":
+  - Automate personalized cold email sequences
+  - Warm up inboxes before sending
+  - Schedule meetings from campaigns
+  - Manage leads in a unified inbox
+  - Improve deliverability with built-in tools
+  - Write sequences with AI
+
+"Salesflare":
+  - Run a CRM that fills itself in
+  - Auto-track every customer interaction
+  - Send automated email sequences
+  - Get AI follow-up suggestions
+  - Manage a visual sales pipeline
+  - Sync LinkedIn, Gmail, and Outlook
+
+"Saleshandy":
+  - Find verified B2B leads and email them
+  - Send cold email from unlimited inboxes
+  - Automate personalized outreach
+  - Protect deliverability at scale
+  - Manage deals and pipeline
+  - Track outreach performance
+
+"Salesken":
+  - Analyze and score every sales call
+  - Coach reps in real time
+  - Predict deal outcomes from calls
+  - Automate call quality assurance
+  - Auto-log calls to the CRM
+  - Support multilingual call analysis
+
+"Salesloft":
+  - Run prospecting cadences at scale
+  - Get AI guidance through deals
+  - Add conversation intelligence to calls
+  - Manage and forecast the pipeline
+  - Engage buyers across channels
+  - Standardize the team's selling motion
+
+"Salesmate":
+  - Unify sales, marketing, and support
+  - Automate tasks with AI
+  - Manage pipelines for a small team
+  - Run marketing automation from the CRM
+  - Close deals with built-in tools
+  - Integrate the CRM with other apps
+
+"Scratchpad":
+  - Update Salesforce without the busywork
+  - Take call notes that sync to the CRM
+  - Spot risky deals early
+  - Keep pipeline data clean
+  - Generate instant deal summaries
+  - Hand off deals with full context
+
+"Seamless":
+  - Find verified B2B emails and phones
+  - Build prospect lists in real time
+  - Automate list-building
+  - Keep contact data up to date
+  - Track job changes in contacts
+  - Export prospects to the CRM
+
+"Sendspark":
+  - Personalize one video for every prospect
+  - Add video to sales sequences
+  - Record a single video for a campaign
+  - Embed video in outreach emails
+  - Track video engagement
+  - Use custom landing pages for videos
+
+"Skrapp":
+  - Find business emails on LinkedIn
+  - Build targeted B2B lead lists
+  - Verify emails before sending
+  - Enrich leads with company data
+  - Automate LinkedIn profile processing
+  - Sync leads to the CRM
+
+"SmartWriter":
+  - Generate personalized cold emails
+  - Personalize outreach with real-time data
+  - Lift reply rates with tailored copy
+  - Find verified leads to write to
+  - Create campaign follow-ups automatically
+  - Automate backlink outreach
+
+"Snitcher":
+  - Identify companies behind site traffic
+  - Turn anonymous visitors into leads
+  - Score and prioritize accounts by intent
+  - Unlock key stakeholder contacts
+  - Sync qualified leads to the CRM
+  - Automate follow-up on warm visitors
+
+"Snov":
+  - Find and verify email addresses
+  - Run automated email and LinkedIn sequences
+  - Reduce bounce rates with verification
+  - Warm up a mailbox before sending
+  - Track deals in a built-in CRM
+  - Build pre-verified lead lists
+
+"Streak":
+  - Run a CRM inside Gmail
+  - Manage deals without leaving the inbox
+  - Capture emails to pipelines automatically
+  - Mail-merge from Gmail
+  - Track email opens
+  - Customize pipelines for any process
+
+"Surfe":
+  - Capture LinkedIn contacts into the CRM
+  - Enrich contacts with verified data
+  - Get job-change alerts on contacts
+  - Export from Sales Navigator
+  - Sync LinkedIn prospects in one click
+  - Enrich records via API
+
+"Sybill":
+  - Automate meeting prep and call notes
+  - Draft follow-up emails after calls
+  - Autofill the CRM on every deal
+  - Get pre-meeting briefs
+  - Summarize calls and deals
+  - Ask an AI assistant about a deal
+
+"Taplio":
+  - Grow a personal brand on LinkedIn
+  - Create LinkedIn posts with AI
+  - Schedule and plan LinkedIn content
+  - Build pipeline from a LinkedIn presence
+  - Engage prospects from a Chrome extension
+  - Track LinkedIn content performance
+
+"Trigify":
+  - Find leads from social engagement
+  - Monitor target accounts' social activity
+  - Build lists from keyword engagement
+  - Spot buying signals in real time
+  - Track profile and account activity
+  - Feed social signals into the stack
+
+"TrulyInbox":
+  - Warm up inboxes before cold sending
+  - Build sender reputation gradually
+  - Monitor a deliverability score
+  - Increase sending limits safely
+  - Warm up multiple email accounts
+  - Keep cold email out of spam
+
+"Uplead":
+  - Build prospect lists from 50+ filters
+  - Get real-time verified contacts
+  - Add direct dials and mobiles
+  - Enrich CRM records
+  - Add intent data to prospecting
+  - Bulk-look up contacts
+
+"Vector":
+  - De-anonymize website visitors
+  - Build ad audiences from buyer intent
+  - Activate ads on real-time behavior
+  - Sync audiences to LinkedIn and Google
+  - Target buyers showing intent
+  - Reach contacts on high-intent pages
+
+"Vidyard":
+  - Send personalized sales videos
+  - Generate AI videos at scale
+  - Track video engagement
+  - Host and share sales videos
+  - Add video to outreach sequences
+  - See real-time viewer insights
+
+"Waalaxy":
+  - Run safe LinkedIn outreach campaigns
+  - Find professional emails automatically
+  - Import leads with a Chrome extension
+  - Sync leads to the CRM
+  - Manage conversations with tags
+  - Combine LinkedIn and email steps
+
+"Warmbox":
+  - Warm up an inbox from any provider
+  - Get cold email out of the spam folder
+  - Build sender reputation automatically
+  - Monitor email deliverability
+  - Use a large warm-up network
+  - Customize a warm-up schedule
+
+"Warmly AI":
+  - De-anonymize website visitors in real time
+  - Engage in-market accounts at the right time
+  - Combine intent signals for warm outbound
+  - Route and prioritize hot leads
+  - Get visitor insights in Slack
+  - Align sales and marketing on warm leads
+
+"Wiza":
+  - Turn Sales Navigator searches into emails
+  - Export verified contact lists from LinkedIn
+  - Find emails and phones for a list
+  - Reduce manual data entry
+  - Export clean prospects to the CRM
+  - Build a list from a LinkedIn search
+
+"Woodpecker":
+  - Send personalized cold email at scale
+  - Verify emails before sending
+  - Warm up inboxes automatically
+  - Add LinkedIn steps to campaigns
+  - Manage client campaigns as an agency
+  - Prevent deliverability issues
+
+"Yesware":
+  - Track emails from your inbox
+  - Run sequences from Gmail or Outlook
+  - Use templates for outreach
+  - Schedule meetings from email
+  - Log activity to Salesforce
+  - Get real-time open notifications

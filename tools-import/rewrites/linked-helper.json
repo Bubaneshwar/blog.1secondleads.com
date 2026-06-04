@@ -1,0 +1,10 @@
+{
+  "description": "Linked Helper is a standalone LinkedIn automation app that runs connection requests, message sequences, and data scraping safely, with CRM integrations.",
+  "tagline": "LinkedIn automation for lead generation",
+  "overview": "Linked Helper automates LinkedIn connection requests, message sequences, and profile engagement from a standalone app, with scraping and CRM sync for safer outreach.",
+  "what_is": [
+    "Linked Helper is a LinkedIn automation tool that runs as a standalone app rather than a browser extension, which it uses as a safety advantage. It automates connection requests, messaging sequences, and profile engagement across a broad set of features.",
+    "It is strongest for lead generation and managing LinkedIn outreach funnels, with smart reply detection and workflows that lift acceptance and response rates. Teams can set up campaigns and see results within days.",
+    "Linked Helper integrates with CRMs like HubSpot and Salesforce for data syncing, fitting the sales and marketing stack. It is focused on LinkedIn automation and enrichment rather than email marketing or other channels."
+  ]
+}

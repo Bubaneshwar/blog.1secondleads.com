@@ -1,0 +1,10 @@
+{
+  "description": "Woodpecker is cold email software that sends personalized outreach at scale with built-in verification and warm-up to protect deliverability for sales teams and agencies.",
+  "tagline": "Cold email for sales and agencies",
+  "overview": "Woodpecker sends personalized cold email at scale and protects deliverability with email verification, automated warm-up, and adaptive sending, plus CRM integrations.",
+  "what_is": [
+    "Woodpecker is a cold email tool built for B2B outreach and lead generation. It sends personalized emails to prospects while working to keep messages out of spam, combining sending, warm-up, and verification in one platform so teams do not need separate tools for each.",
+    "It works best for sales teams and agencies running cold email campaigns to win new clients. After connecting a domain and warming up the inbox, campaigns can start quickly, and agencies can manage multiple client campaigns from one place.",
+    "Woodpecker fits the sales stack by integrating with email services and CRMs. It is built for one-to-one personalized outreach rather than mass marketing or transactional email, which helps keep campaigns effective without overwhelming recipients."
+  ]
+}

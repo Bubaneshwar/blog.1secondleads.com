@@ -1,0 +1,10 @@
+{
+  "description": "Kixie is a sales calling and SMS platform with AI dialing, automation, and 25+ CRM integrations that helps revenue teams connect with more leads.",
+  "tagline": "Sales dialer and SMS for revenue teams",
+  "overview": "Kixie streamlines sales calls and texts with AI-powered dialing, multi-line calling, shared SMS inboxes, and automation, integrating with HubSpot, Salesforce, and more.",
+  "what_is": [
+    "Kixie is a sales communication platform that helps revenue teams connect with leads faster. It simplifies calls, texts, and the workflows around them, with AI dialing, real-time insights, and automation aimed at lifting pipeline and retention.",
+    "It suits sales, business development, and RevOps teams that want to call multiple leads at once, skip voicemail drops, and manage shared SMS inboxes. Teams usually see faster connections and better conversion soon after adopting it.",
+    "Kixie integrates with 25+ CRMs and productivity tools like HubSpot, Salesforce, and Slack, fitting the stack as a communication hub. It is not a full CRM or email-marketing platform and works best paired with those."
+  ]
+}

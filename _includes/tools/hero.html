@@ -1,0 +1,19 @@
+{% assign total_tools = site.data.tools | size %}
+
+<section class="tools-hero" id="hero" aria-labelledby="tools-title">
+  <div class="tools-hero__content">
+    <div class="tools-hero__topline">
+      <p class="tools-hero__brand">1SL</p>
+      <p class="tools-eyebrow">1SecondLeads Tool Index</p>
+    </div>
+    <h1 id="tools-title">B2B Sales <span>Tools</span> Directory</h1>
+    <p class="tools-hero__lead">
+      Find the right tools for prospecting, enrichment, outbound, deliverability,
+      automation, CRM, LinkedIn, AI GTM, and data workflows.
+    </p>
+    <p class="tools-hero__meta">
+      {{ total_tools }} tools indexed across GTM, outbound, data, and sales.
+    </p>
+    {% include tools/search.html %}
+  </div>
+</section>

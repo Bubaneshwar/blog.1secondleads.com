@@ -1,0 +1,9 @@
+{
+  "description": "Lima Data is a B2B data API delivering real-time verified people and company data for prospecting and enrichment.",
+  "tagline": "B2B data APIs and infrastructure",
+  "overview": "Lima Data provides real-time people and company enrichment through APIs, delivering verified emails, mobile numbers, and company detail for sales and recruiting teams.",
+  "what_is": [
+    "Lima Data is a data enrichment tool for real-time people and company insights. It pulls data live from multiple sources to avoid stale records, delivering accurate contact and company information for sales and recruiting.",
+    "It is strongest when you need verified emails, mobile numbers, or company detail quickly, with results in seconds via bulk upload or API. Lima Data integrates with CRMs and marketing tools to enrich contacts, working as a contact data source rather than a long-term database or analytics platform."
+  ]
+}

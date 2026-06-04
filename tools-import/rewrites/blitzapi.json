@@ -1,0 +1,10 @@
+{
+  "description": "BlitzAPI is a B2B data API delivering verified contact and company data with real-time email and phone validation.",
+  "tagline": "Verified B2B data, delivered by API",
+  "overview": "BlitzAPI provides growth and operations teams with clean, verified B2B contact and company data, including real-time email and phone validation.",
+  "what_is": [
+    "BlitzAPI is a data API for growth, revenue, and operations teams. It returns verified B2B contact and company data with real-time email and phone validation, so teams can enrich records at scale without paying for bad or outdated leads.",
+    "It is used for ICP targeting, lead enrichment, email validation, and phone number discovery to support outreach and scoring. It integrates with CRMs, marketing automation, and sales tools through platforms like Zapier and HubSpot.",
+    "BlitzAPI is a data layer rather than a full marketing platform or CRM, designed to feed verified information into existing go-to-market workflows."
+  ]
+}

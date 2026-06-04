@@ -1,0 +1,10 @@
+{
+  "description": "Pipedrive is a sales CRM for tracking leads and deals, with visual pipelines, automated follow-ups, reporting, and 500+ integrations, built for small teams.",
+  "tagline": "Sales CRM and pipeline management",
+  "overview": "Pipedrive helps sales teams manage leads and deals with visual pipelines, automated follow-ups, and real-time reporting, integrating with email, calendars, and hundreds of apps.",
+  "what_is": [
+    "Pipedrive is a sales CRM built to keep deals moving. It centers on visual pipelines, organized customer data, and automated follow-ups, with AI features that speed up everyday sales work, and it is known for being easy to adopt.",
+    "It is strongest at managing sales workflows, nurturing leads automatically, and surfacing real-time insight. Setup is quick and the integrations are ready to go, so teams usually see value within days and spend less time on admin.",
+    "Pipedrive sits in the stack as the CRM core, connecting with email, calendars, and 500+ apps. It is not built for ERP or heavily customized enterprise workflows; it suits sales teams wanting a straightforward, capable CRM."
+  ]
+}

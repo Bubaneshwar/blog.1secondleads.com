@@ -1,0 +1,11 @@
+{% assign blog_posts = "" | split: "" %}
+{% for post in site.posts %}
+  {% unless post.categories contains "education" %}
+    {% assign blog_posts = blog_posts | push: post %}
+  {% endunless %}
+{% endfor %}
+{% include home/post-section.html
+  posts=blog_posts
+  id="blog"
+  title='From the <span class="brand-accent">blog</span>.'
+  lead="Research, comparisons, and field notes on B2B outbound and lead generation." %}

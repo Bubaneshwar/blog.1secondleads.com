@@ -1,0 +1,6 @@
+{% comment %}
+  Footer for blog posts: the dark "About 1SecondLeads" band WITH the call-to-action
+  button. Used via the post layout's tail_includes (which can't pass include params),
+  so this wrapper sets cta=true. Other pages include tools/about.html directly.
+{% endcomment %}
+{% include tools/about.html cta=true %}

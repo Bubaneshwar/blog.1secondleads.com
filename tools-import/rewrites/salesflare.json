@@ -1,0 +1,10 @@
+{
+  "description": "Salesflare is a simple B2B CRM that auto-fills contact data, tracks interactions, and adds email sequences and reminders, built for small and mid-size teams.",
+  "tagline": "Simple CRM for small B2B teams",
+  "overview": "Salesflare automatically captures and enriches contact data, tracks customer interactions, and adds email sequences and reminders, giving small B2B teams a clear pipeline with less data entry.",
+  "what_is": [
+    "Salesflare is a CRM for small and mid-size B2B teams that dislikes manual data entry. It fills in contact and company data semi-automatically and offers AI suggestions, so following up is easy and records stay current without much effort.",
+    "It is strongest at tracking pipelines with visual boards and automated reminders. Teams tend to see better follow-up and stronger relationships within weeks, with little of the upkeep a traditional CRM demands.",
+    "Salesflare integrates with Gmail, Outlook, LinkedIn, and enrichment tools to fit the GTM stack. It is built for ease and speed for growing teams rather than very large enterprises with complex custom workflows."
+  ]
+}

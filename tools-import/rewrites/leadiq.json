@@ -1,0 +1,10 @@
+{
+  "description": "LeadIQ captures verified contact data from LinkedIn into your CRM, tracks job changes, and helps SDRs build pipeline with cleaner prospecting workflows.",
+  "tagline": "Capture prospects and build pipeline",
+  "overview": "LeadIQ lets reps capture accurate contact data from LinkedIn straight into the CRM, enrich records, and track job changes, with integrations to Salesforce, Outreach, and Salesloft.",
+  "what_is": [
+    "LeadIQ is a prospecting tool focused on capturing accurate contact data and keeping the CRM clean. Reps grab verified details from LinkedIn without manual searching, and the data flows into the tools they already use for outreach.",
+    "It is built for SDRs and BDRs who need to identify high-fit accounts, track when key contacts change jobs, and personalize outreach at scale. Used consistently, it saves hours of manual entry and keeps pipeline data current.",
+    "LeadIQ integrates with major CRM and sales-engagement platforms like Salesforce, HubSpot, Outreach, and Salesloft, sitting in the stack as a capture and enrichment layer. It is not a full marketing-automation or analytics suite; it streamlines lead capture and data quality."
+  ]
+}

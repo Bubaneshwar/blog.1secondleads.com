@@ -1,0 +1,10 @@
+{
+  "description": "Evaboot exports clean, filtered lead lists and verified emails from LinkedIn Sales Navigator, tidying names, titles, and companies in one click.",
+  "tagline": "Export clean leads from Sales Navigator",
+  "overview": "Evaboot scrapes LinkedIn Sales Navigator searches into clean lead lists with verified emails, automatically tidying job titles, names, and company names and checking leads against your filters.",
+  "what_is": [
+    "Evaboot is a LinkedIn Sales Navigator scraper that turns a saved search into a clean, structured lead list. It strips the formatting noise from names, titles, and companies and checks each lead against your search filters, so the export is ready to use.",
+    "It is built for sales and marketing teams that prospect from Sales Navigator and want targeted email lists in minutes. Exports run in a click, which removes the manual cleanup that usually follows a scrape.",
+    "Evaboot fits the stack as a data-extraction and enrichment step that feeds CRMs and email tools. It is not a CRM or outreach platform; its job is clean data export from LinkedIn."
+  ]
+}

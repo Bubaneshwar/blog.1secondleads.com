@@ -1,0 +1,10 @@
+{
+  "description": "Attio is an AI-native, highly customizable CRM that connects your data, automates workflows, and adapts to how your team sells, built for startups and B2B SaaS.",
+  "tagline": "Flexible, AI-native CRM",
+  "overview": "Attio is a flexible, AI-native CRM that connects data sources, automates workflows, and adapts to each team's process, with reporting and AI for tasks like prospecting.",
+  "what_is": [
+    "Attio is an AI-native CRM built for flexibility. Rather than forcing teams into a fixed structure, it lets them shape the CRM around their own process, building workflows, automating tasks, and generating reports from one platform.",
+    "It suits B2B SaaS companies and growing startups, and is strong at managing outreach, tracking deals, and nurturing leads with AI-driven insight. Syncing with email, calendar, and other data sources means it is useful soon after setup.",
+    "Attio connects with tools like Gmail, Slack, and data warehouses to enrich records and support engagement. It is not aimed at large enterprises needing deep ERP customization; it fits teams wanting a fast, adaptable CRM with smart automation."
+  ]
+}

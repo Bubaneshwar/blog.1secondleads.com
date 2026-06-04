@@ -1,0 +1,10 @@
+{
+  "description": "Findymail is a B2B email finder and verifier that locates business emails and phone numbers with low bounce rates.",
+  "tagline": "Verified B2B emails and phone numbers",
+  "overview": "Findymail helps sales teams find verified B2B email addresses and phone numbers, with verification that keeps bounce rates low and exports from major prospecting tools.",
+  "what_is": [
+    "Findymail is a B2B email and phone data tool for sales teams. It finds verified business emails and phone numbers with strong coverage and verification that keeps invalid emails and bounce rates low.",
+    "It is most useful for building lead lists, enriching contacts, and verifying emails quickly, and it can automate exports from large prospecting platforms to save time. Findymail integrates with CRMs and email sequencers like HubSpot, Pipedrive, and lemlist.",
+    "It is built for B2B contact data rather than consumer or personal email lookups, making it a fit for teams that need clean, deliverable lists."
+  ]
+}

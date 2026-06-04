@@ -1,0 +1,10 @@
+{
+  "description": "Instantly is cold email software for sending outbound at scale, with unlimited sending inboxes, automated warm-up, and lead and reply management in one workspace.",
+  "tagline": "Send cold email at scale",
+  "overview": "Instantly lets outbound teams connect unlimited sending inboxes, warm them automatically, and run high-volume campaigns while managing leads and replies from a single inbox.",
+  "what_is": [
+    "Instantly is a cold email platform built for volume without wrecking deliverability. Teams connect many sending inboxes, keep them warm automatically, and launch campaigns from one workspace, with a unified inbox for handling the replies that come back.",
+    "It is aimed at agencies and outbound teams that send a lot and need their domains to stay healthy. Warm-up, sending limits, and campaign tooling sit together, so the operational side of scaling cold email is handled in one place rather than across separate apps.",
+    "Beyond sending, Instantly adds lead sourcing and reply management so a campaign runs end to end. It is focused on cold email execution and deliverability rather than full CRM or marketing automation, and it fits alongside those tools in a go-to-market stack."
+  ]
+}

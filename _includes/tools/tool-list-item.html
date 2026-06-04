@@ -1,0 +1,29 @@
+{% assign tool = include.tool %}
+{% if tool.categories %}
+  {% assign tool_categories = tool.categories %}
+{% else %}
+  {% assign tool_categories = tool.category | split: '||' %}
+{% endif %}
+{% assign categories_text = tool_categories | join: ' ' %}
+{% assign categories_data = tool_categories | join: '|' %}
+{% assign use_cases_text = tool.use_cases | join: ' ' %}
+{% capture search_text %}
+  {{ tool.name }} {{ categories_text }} {{ tool.pricing_tier }} {{ use_cases_text }} {{ tool.description }}
+{% endcapture %}
+
+<div
+  class="tool-list-item"
+  data-name="{{ tool.name | downcase | escape }}"
+  data-category="{{ categories_data | downcase | escape }}"
+  data-pricing="{{ tool.pricing_tier | downcase | escape }}"
+  data-use-cases="{{ use_cases_text | downcase | escape }}"
+  data-search="{{ search_text | strip | downcase | escape }}"
+>
+  <span class="tool-list-item__logo{% if tool.logoUrl %} tool-list-item__logo--image{% endif %}"{% if tool.logoUrl %} style="background-image: url('{{ tool.logoUrl | relative_url }}')"{% endif %} aria-hidden="true">
+    {% unless tool.logoUrl %}{{ tool.name | slice: 0 | upcase }}{% endunless %}
+  </span>
+  {% comment %} No local page yet (external/ColdIQ url): keep visitors on our site. {% endcomment %}
+  {% assign nav_url = tool.url | default: '/' %}
+  {% if nav_url contains '://' %}{% assign nav_url = '/' %}{% endif %}
+  <a class="tool-list-item__name" href="{{ nav_url | relative_url }}">{{ tool.name }}</a>
+</div>

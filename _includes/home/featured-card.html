@@ -1,0 +1,18 @@
+{% comment %} Large horizontal lead card for the newest post in a section. Param: post {% endcomment %}
+{% assign post = include.post %}
+{% if post.image %}{% assign img = post.image.path | default: post.image %}{% endif %}
+<a class="home-featured" href="{{ post.url | relative_url }}">
+  <span class="home-featured__media{% unless img %} home-featured__media--placeholder{% endunless %}"{% if img %} style="background-image: url('{{ img | relative_url }}')"{% endif %} aria-hidden="true">
+    {% unless img %}{{ post.title | slice: 0 | upcase }}{% endunless %}
+  </span>
+  <span class="home-featured__body">
+    {% assign cat = post.categories | first %}
+    {% if cat %}<span class="home-card__cat">{{ cat }}</span>{% endif %}
+    <span class="home-featured__title">{{ post.title }}</span>
+    {% if post.description %}<span class="home-featured__desc">{{ post.description | strip_html | truncate: 220 }}</span>{% endif %}
+    <span class="home-featured__foot">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%b %d, %Y' }}</time>
+      <span class="home-featured__more">Read article <i data-lucide="arrow-right" aria-hidden="true"></i></span>
+    </span>
+  </span>
+</a>

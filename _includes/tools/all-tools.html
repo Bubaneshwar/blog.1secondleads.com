@@ -1,0 +1,67 @@
+{% assign categories = site.data.tool_categories %}
+{% assign tools_with_pricing = site.data.tools | where_exp: 'tool', 'tool.pricing_tier' %}
+{% assign pricing_tiers = tools_with_pricing | map: 'pricing_tier' | uniq | sort %}
+{% assign total_tools = site.data.tools | size %}
+
+<section class="tools-section" id="all-tools-section" aria-labelledby="all-tools-title">
+  <h2 id="all-tools-title" class="tools-section__title-center">The Ultimate B2B Sales Tools Directory for 2026</h2>
+
+  <input id="all-category-filter" type="hidden" data-filter-group="all" data-filter-type="category" value="">
+
+  <div class="tools-directory-layout">
+    <div class="tools-directory-aside">
+      <div class="tools-filter-row" aria-label="All tools filters">
+        <label>
+          <span>Pricing</span>
+          <select id="all-pricing-filter" data-filter-group="all" data-filter-type="pricing">
+            <option value="">All Pricing Tiers</option>
+            {% for tier in pricing_tiers %}
+              <option value="{{ tier | downcase | escape }}">{{ tier }}</option>
+            {% endfor %}
+          </select>
+        </label>
+        <button type="button" class="tools-clear d-none" data-clear-group="all"><span class="tools-clear__icon" aria-hidden="true">X</span> Clear Filter</button>
+      </div>
+
+      <aside class="tools-category-sidebar" aria-label="All tools categories">
+        <p>Sales Tools by Category</p>
+        <button type="button" class="tools-category-toggle is-active" data-category-toggle-clear>All Categories</button>
+        {% for category in categories %}
+          {% assign icon = site.data.category_icons[category] | default: site.data.category_icons.default %}
+          <button type="button" class="tools-category-toggle" data-category-toggle="{{ category | downcase | escape }}" title="{{ category | escape }}">
+            <i data-lucide="{{ icon.name }}" class="tools-category-toggle__icon" aria-hidden="true"></i>
+            <span>{{ category }}</span>
+          </button>
+        {% endfor %}
+      </aside>
+    </div>
+
+    <div class="tools-category-columns" id="all-tools">
+      {% for category in categories %}
+        {% if category != '' %}
+        {% assign group_icon = site.data.category_icons[category] | default: site.data.category_icons.default %}
+        <section class="tools-category-group" id="tools-category-{{ category | slugify }}" data-category-group="{{ category | downcase | escape }}">
+          <a class="tools-category-group__header" href="#tools-category-{{ category | slugify }}">
+            <span class="tools-category-group__icon" aria-hidden="true" style="color: {{ group_icon.color }};"><i data-lucide="{{ group_icon.name }}"></i></span>
+            <span>{{ category }}</span>
+          </a>
+          <div class="tools-category-group__items">
+            {% for tool in site.data.tools %}
+              {% if tool.categories %}
+                {% if tool.categories contains category %}
+                  {% include tools/tool-list-item.html tool=tool %}
+                {% endif %}
+              {% elsif tool.category == category %}
+                {% include tools/tool-list-item.html tool=tool %}
+              {% endif %}
+            {% endfor %}
+          </div>
+        </section>
+        {% endif %}
+      {% endfor %}
+      <p class="tools-category-placeholder d-none" id="tools-category-placeholder">Select one or more categories to show tools.</p>
+    </div>
+  </div>
+
+  <p class="tools-empty d-none" id="all-tools-empty">No tools match those filters. Try clearing one filter.</p>
+</section>

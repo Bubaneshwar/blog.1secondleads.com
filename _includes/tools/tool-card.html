@@ -1,0 +1,52 @@
+{% assign tool = include.tool %}
+{% if tool.categories %}
+  {% assign tool_categories = tool.categories %}
+{% else %}
+  {% assign tool_categories = tool.category | split: '||' %}
+{% endif %}
+{% assign categories_text = tool_categories | join: ' ' %}
+{% assign categories_data = tool_categories | join: '|' %}
+{% assign use_cases_text = tool.use_cases | join: ' ' %}
+{% capture search_text %}
+  {{ tool.name }} {{ categories_text }} {{ tool.pricing_tier }} {{ use_cases_text }} {{ tool.description }}
+{% endcapture %}
+
+<article
+  class="tool-card{% if include.featured %} tool-card--featured{% endif %}{% if include.stretch %} tool-card--clickable{% endif %}"
+  data-name="{{ tool.name | downcase | escape }}"
+  data-category="{{ categories_data | downcase | escape }}"
+  data-pricing="{{ tool.pricing_tier | downcase | escape }}"
+  data-use-cases="{{ use_cases_text | downcase | escape }}"
+  data-search="{{ search_text | strip | downcase | escape }}"
+>
+  <div class="tool-card__topline">
+    <span class="tool-card__category">{{ tool_categories | first }}</span>
+    {% if include.featured %}
+      <span class="tool-card__badge">Featured</span>
+    {% endif %}
+  </div>
+
+  <div class="tool-card__title-row">
+    <span class="tool-card__logo{% if tool.logoUrl %} tool-card__logo--image{% endif %}"{% if tool.logoUrl %} style="background-image: url('{{ tool.logoUrl | relative_url }}')"{% endif %} aria-hidden="true">
+      {% unless tool.logoUrl %}{{ tool.name | slice: 0 | upcase }}{% endunless %}
+    </span>
+    <h3>{{ tool.name }}</h3>
+  </div>
+  <p>{{ tool.description }}</p>
+
+  <div class="tool-card__meta" aria-label="Tool metadata">
+    <span>{{ tool.pricing_tier }}</span>
+    {% if tool.use_cases and tool.use_cases.size > 0 %}
+      <span>{{ tool.use_cases | first }}</span>
+    {% endif %}
+  </div>
+
+  {% if include.href %}
+    <a href="{{ include.href | relative_url }}"{% if include.stretch %} class="stretched-link"{% endif %}>{{ include.cta_label | default: 'View tool' }}</a>
+  {% else %}
+    {% comment %} No local page yet (external/ColdIQ url): keep visitors on our site. {% endcomment %}
+    {% assign nav_url = tool.url | default: '/' %}
+    {% if nav_url contains '://' %}{% assign nav_url = '/' %}{% endif %}
+    <a href="{{ nav_url | relative_url }}">View tool</a>
+  {% endif %}
+</article>

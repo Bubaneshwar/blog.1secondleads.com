@@ -1,0 +1,10 @@
+{
+  "description": "AiSDR is an AI sales rep that books meetings with personalized email, text, and LinkedIn outreach, using intent signals and HubSpot data to target prospects.",
+  "tagline": "Your first AI SDR",
+  "overview": "AiSDR automates outbound with personalized email, text, and LinkedIn messages, drawing on many data sources and HubSpot activity to reach prospects likely to buy.",
+  "what_is": [
+    "AiSDR is an AI outreach platform that automates lead generation and meeting booking. It generates highly personalized messages using a wide range of data sources, aiming at prospects who are more likely to respond and improving outreach quality.",
+    "It is strongest in outbound: building precise lead lists, reading real-time intent, and running multichannel sequences across email, LinkedIn, and text. Some teams book meetings within days of launching.",
+    "AiSDR integrates with CRMs like HubSpot and tools like Aircall to enrich workflows with live call and lead data. It complements the sales stack with research-driven outreach and scheduling rather than replacing a CRM or handling forecasting."
+  ]
+}

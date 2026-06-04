@@ -6,7 +6,7 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta
     name="viewport"
-    content="width=device-width, user-scalable=no initial-scale=1, shrink-to-fit=no, viewport-fit=cover"
+    content="width=device-width, initial-scale=1, shrink-to-fit=no, viewport-fit=cover"
   >
 
   {%- capture seo_tags -%}
@@ -48,13 +48,27 @@
     {% assign seo_tags = seo_tags | replace: old_meta_clip, new_meta_clip %}
   {% endif %}
 
+  {%- comment -%}
+    On the tools directory and single-tool pages, jekyll-seo-tag emits a generic
+    BlogPosting JSON-LD. Strip just that <script> block (all meta/OG tags stay) so
+    the layouts can emit accurate SoftwareApplication / FAQPage / ItemList schema.
+  {%- endcomment -%}
+  {% if page.layout == 'single-tool' or page.layout == 'tool-index' %}
+    {% assign _ld = seo_tags | split: '<script type="application/ld+json">' %}
+    {% if _ld.size > 1 %}
+      {% assign _ld_tail = _ld[1] | split: '</script>' %}
+      {% capture seo_tags %}{{ _ld[0] }}{{ _ld_tail[1] }}{% endcapture %}
+    {% endif %}
+  {% endif %}
+
   {{ seo_tags }}
 
   <title>
-    {%- unless page.layout == 'home' -%}
-      {{ page.title | append: ' | ' }}
-    {%- endunless -%}
-    {{ site.title }}
+    {%- if page.layout == 'home' -%}
+      {{ page.title | default: site.title }}
+    {%- else -%}
+      {{ page.title | append: ' | ' }}{{ site.title }}
+    {%- endif -%}
   </title>
 
   {% include_cached favicons.html %}

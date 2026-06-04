@@ -1,0 +1,10 @@
+{
+  "description": "FullEnrich is a waterfall contact enrichment tool that finds B2B emails and mobile numbers from 15+ data vendors.",
+  "tagline": "Waterfall B2B contact enrichment",
+  "overview": "FullEnrich aggregates more than 15 data vendors to find verified emails and mobile phone numbers for prospects, boosting reach for sales and marketing teams.",
+  "what_is": [
+    "FullEnrich is a lead enrichment tool that finds prospect emails and phone numbers using waterfall enrichment across more than 15 data vendors. Pulling from many sources gives it a high find rate, which makes it easier to reach and convert leads.",
+    "It is especially useful when you need verified mobile numbers and emails for outreach, and it can enrich hundreds of leads in minutes. It fits sales and marketing teams that want better contact accuracy without manual lookups.",
+    "FullEnrich integrates with CRMs and automation platforms and enriches data through its API. It focuses on contact enrichment rather than full marketing automation or CRM, so it works best alongside the rest of a GTM stack."
+  ]
+}

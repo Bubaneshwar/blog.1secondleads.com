@@ -1,0 +1,10 @@
+{
+  "description": "Reply.io is a sales engagement platform that automates multichannel outreach across email and LinkedIn so teams can run sequences and book more meetings.",
+  "tagline": "Multichannel sales engagement",
+  "overview": "Reply.io automates outbound sequences across email and LinkedIn, helping sales teams reach prospects, follow up automatically, and manage replies from one place.",
+  "what_is": [
+    "Reply.io is a sales engagement platform for automating outbound outreach. It lets teams build multichannel sequences across email and LinkedIn, schedule automatic follow-ups, and manage prospect responses without juggling separate tools.",
+    "It suits sales and lead-generation teams that run repeatable outreach campaigns and want to spend less time on manual sending and follow-up. Sequences keep running on schedule, and replies are tracked so reps can pick up conversations at the right moment.",
+    "Reply.io connects with CRMs and other sales tools, fitting into a go-to-market stack as the outreach and follow-up layer. It focuses on engagement and prospecting rather than acting as a full CRM or data-enrichment source."
+  ]
+}

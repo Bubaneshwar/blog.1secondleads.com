@@ -1,0 +1,10 @@
+{
+  "description": "Lusha is a B2B contact data tool with direct dials, verified emails, and buyer intent, plus a Chrome extension that builds prospect lists as you browse.",
+  "tagline": "One-click B2B contact data",
+  "overview": "Lusha surfaces verified emails, direct-dial numbers, and buyer intent for sales and recruiting teams, with a Chrome extension and CRM integrations that turn browsing into enriched lists.",
+  "what_is": [
+    "Lusha is a prospecting data tool that hands sales and recruiting teams verified B2B contacts, including direct dials and validated emails, drawn from a large, compliance-minded database. You can start on a free tier and pull data that feeds outbound straight away.",
+    "It fits sales, marketing, RevOps, and recruiting teams that want accurate, real-time leads with buyer-intent signals. A single prompt can assemble an enriched list, while the Chrome extension surfaces contact details on LinkedIn and company sites as you browse.",
+    "Integrations push that data into your CRM and email tools, so Lusha slots in as the contact-data source in a GTM stack. It is not a CRM or a marketing-automation platform on its own; it concentrates on high-quality data and list building."
+  ]
+}

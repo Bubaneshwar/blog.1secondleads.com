@@ -1,0 +1,10 @@
+{
+  "description": "FindThatLead is a B2B prospecting tool that finds verified emails and phone numbers by industry, title, and location, with a Chrome extension and cold email sender.",
+  "tagline": "B2B lead generation in seconds",
+  "overview": "FindThatLead finds verified business emails and phone numbers filtered by industry, title, and location, with a Chrome extension to pull contacts and a built-in cold email sender.",
+  "what_is": [
+    "FindThatLead is a B2B prospecting tool for quickly building contact lists. You can target by industry, job title, and location to get verified emails and phone numbers, and it is GDPR-conscious with a free way to start.",
+    "It is most useful for lead generation, cold email campaigns, and prospecting calls. A Chrome extension pulls contacts from LinkedIn and websites, and built-in campaign templates let you go from a list to a send quickly.",
+    "FindThatLead works in the sales stack as a combined lead-search, verification, and sending tool. It complements CRMs and marketing automation rather than replacing them, staying focused on contact discovery and outreach."
+  ]
+}

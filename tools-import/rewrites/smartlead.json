@@ -1,0 +1,12 @@
+{
+  "website": "https://www.smartlead.ai",
+  "primary_category": "Email Outreach",
+  "description": "Smartlead is a cold email platform with unlimited mailboxes, automated warmups, and a unified inbox to scale outreach.",
+  "tagline": "Unlimited cold email with AI warmups",
+  "overview": "Smartlead helps sales teams and agencies run cold email at scale with unlimited sending accounts, automated warmups, and a single inbox to manage every reply.",
+  "what_is": [
+    "Smartlead is a cold email outreach platform built to scale lead generation. It offers unlimited email accounts, automated inbox warmups, and a unified master inbox, which makes managing high-volume campaigns and protecting deliverability much simpler.",
+    "It is strongest for large cold email programs that rotate many mailboxes and automate follow-ups, and it is popular with lead gen agencies, marketers, and sales teams focused on reply rates. Smartlead integrates with CRMs like HubSpot, Salesforce, and Pipedrive, plus enrichment and automation tools through its API and webhooks.",
+    "Smartlead is not a lead sourcing database or a full CRM, so teams pair it with separate prospecting and contact management tools."
+  ]
+}

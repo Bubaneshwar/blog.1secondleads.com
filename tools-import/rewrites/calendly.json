@@ -1,0 +1,10 @@
+{
+  "description": "Calendly is scheduling software that automates meeting booking from real-time availability, cutting back-and-forth email and reducing no-shows for teams.",
+  "tagline": "Automated meeting scheduling",
+  "overview": "Calendly automates meeting scheduling by sharing real-time availability, connecting calendars, customizing event types, and integrating with conferencing and CRM tools.",
+  "what_is": [
+    "Calendly is a scheduling tool that removes the back-and-forth of booking meetings. It connects to calendars like Google and Microsoft, shows real-time availability through a shareable link, and sends reminders to reduce no-shows.",
+    "It is widely used for sales calls, client check-ins, and team meetings. Sharing a booking link saves hours of coordination, and value shows up immediately after setup.",
+    "In a go-to-market stack, Calendly integrates with CRM, email, video conferencing, and productivity tools to streamline handoffs. It focuses on scheduling rather than project management or broader communication."
+  ]
+}

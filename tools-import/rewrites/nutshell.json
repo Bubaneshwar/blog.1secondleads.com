@@ -1,0 +1,10 @@
+{
+  "description": "Nutshell is a B2B CRM with built-in email marketing and sales automation, helping small and mid-size teams manage pipelines and close deals with less busywork.",
+  "tagline": "CRM and email marketing for B2B teams",
+  "overview": "Nutshell combines CRM, sales automation, and email marketing in one platform, helping teams manage contacts, automate outreach, and track deals through a clean interface.",
+  "what_is": [
+    "Nutshell is a CRM that bundles contact management, sales automation, and email marketing. It aims to replace a patchwork of tools with one affordable system, and is known for a clean interface and strong automation that saves time.",
+    "It is best for teams that want simple lead tracking, pipeline management, and automation, including those moving off spreadsheets or another CRM. With live support and quick setup, teams tend to close faster within weeks.",
+    "Nutshell fits the GTM stack as a CRM with built-in email marketing and quotes plus contact enrichment. It is not a full ERP or standalone email platform, so it suits small to mid-size businesses rather than complex enterprise workflows."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "description": "Rows is an AI-powered spreadsheet that combines data from 50+ sources for fast analysis, enrichment, and reporting.",
+  "tagline": "The spreadsheet where teams work faster",
+  "overview": "Rows is a spreadsheet tool that brings business data together with AI assistance, connecting 50+ sources to analyze data, enrich records, and build reports quickly.",
+  "what_is": [
+    "Rows is an all-in-one spreadsheet that brings business data together, analyzes it, and builds easy-to-read reports with AI support. It speeds up spreadsheet work by letting users ask AI for insights, models, and real-world data enrichment instead of wrestling with formulas.",
+    "It suits teams that need quick analysis, report building, or scenario planning, combining live data from more than 50 sources with automated refresh. Rows acts as a hub connecting CRM, advertising, and back-office data, working as a collaborative spreadsheet rather than a replacement for advanced statistical software or databases."
+  ]
+}

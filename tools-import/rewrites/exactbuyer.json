@@ -1,0 +1,9 @@
+{
+  "description": "ExactBuyer is an AI prospecting tool that enriches CRM contacts with 115+ attributes and builds target audiences in real time.",
+  "tagline": "AI-powered business search for prospecting teams",
+  "overview": "ExactBuyer helps B2B sales and recruiting teams find and engage high-value prospects, enriching CRM contacts with 115+ attributes and building target audiences in real time.",
+  "what_is": [
+    "ExactBuyer is an AI-powered outbound tool for sales, recruiting, marketing, and data teams. It enriches CRM contacts with more than 115 data attributes and offers real-time audience building, next-best-action insights, and personalized outreach.",
+    "It is strongest for identifying cold, warm, and hot leads, launching AI-personalized campaigns, and supporting hiring, with campaigns ready in minutes. ExactBuyer integrates with CRMs and ATS platforms, complementing them with enrichment and segmentation rather than replacing them."
+  ]
+}

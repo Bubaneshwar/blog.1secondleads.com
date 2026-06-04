@@ -1,0 +1,9 @@
+{
+  "description": "Dropcontact is a GDPR-compliant B2B email finder and enrichment tool with 98%+ email validity and native CRM integrations.",
+  "tagline": "Correct and enrich CRM and B2B contact files",
+  "overview": "Dropcontact finds and verifies B2B email addresses and enriches contact data using proprietary algorithms, with full GDPR compliance and native CRM integrations.",
+  "what_is": [
+    "Dropcontact is a B2B email finder and data enrichment tool that helps sales and marketing teams find and verify business emails. It is fully GDPR-compliant, uses proprietary algorithms rather than storing or reselling personal data, and enriches contacts with details like LinkedIn profiles, company size, and industry, guaranteeing over 98% email validity.",
+    "It is most useful for cleaning and enriching CRM data, updating contact lists, and automating enrichment, with results in minutes via upload or API. Dropcontact integrates natively with CRMs like HubSpot and Pipedrive and connects to Zapier and n8n, and it is specialized for B2B contact enrichment rather than broad marketing automation."
+  ]
+}

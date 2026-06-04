@@ -1,0 +1,10 @@
+{
+  "description": "Allegrow is an email deliverability tool for sales teams that verifies contacts, monitors spam placement, and improves inbox placement for outbound campaigns.",
+  "tagline": "Inbox placement and deliverability",
+  "overview": "Allegrow helps sales teams and SDRs reach the primary inbox by verifying contacts, monitoring spam rates, automating positive mailbox interactions, and testing authentication.",
+  "what_is": [
+    "Allegrow is a B2B email deliverability tool focused on outbound. It verifies contacts without credit limits, catches hidden risks like spam traps and dead addresses, and monitors authentication to improve inbox placement, surfacing issues other tools miss.",
+    "It is best for sales teams, marketing ops, and leaders who want a stronger sender reputation and lower spam rates. Hourly checks and ongoing analysis help teams avoid delivery problems from the start.",
+    "Allegrow integrates with sales engagement platforms like HubSpot, Outreach, and Salesloft. It is built to scale with growing B2B pipelines that need ongoing verification and deliverability monitoring rather than casual sending."
+  ]
+}

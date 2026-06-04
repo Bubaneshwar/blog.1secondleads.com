@@ -1,0 +1,10 @@
+{
+  "description": "BetterContact is a waterfall enrichment tool that finds and verifies emails and mobile numbers across 20+ data providers, charging only for valid contacts.",
+  "tagline": "AI waterfall contact enrichment",
+  "overview": "BetterContact runs a waterfall across 20+ data providers to find and verify emails and mobile numbers, charging only for valid contacts and exporting into CRMs and outreach tools.",
+  "what_is": [
+    "BetterContact is a data enrichment tool that improves the contact details you already have. Instead of relying on one source, it queries more than 20 data providers in a waterfall and validates the results, and it only charges for contacts that come back valid.",
+    "It is most useful when you have a list of leads but need accurate emails and mobile numbers to reach them. Uploads are enriched and verified within minutes through AI and multi-layer checks, which shortens the path from raw list to outreach.",
+    "BetterContact integrates with CRMs, outreach tools, and no-code platforms for easy export. It focuses on validating and enriching contact data rather than generating leads or providing deeper customer insight, so it pairs with your prospecting and sending tools."
+  ]
+}

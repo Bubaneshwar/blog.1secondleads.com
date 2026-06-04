@@ -1,0 +1,10 @@
+{
+  "description": "n8n is a workflow automation platform with 500+ integrations, code-level control, and self-hosting for technical teams.",
+  "tagline": "Powerful, flexible workflow automation",
+  "overview": "n8n is a low-code automation platform that connects apps and builds multi-step AI workflows, with 500+ integrations and self-hosting for full data control.",
+  "what_is": [
+    "n8n is a flexible workflow automation platform for technical teams. It combines drag-and-drop building with full coding control, so users can build custom, multi-step AI workflows quickly, and it can be self-hosted for data control with over 500 app integrations.",
+    "It is used to automate IT, security, development, and sales tasks, from employee onboarding to enriching tickets and generating customer insights. Ready-made templates and quick API connections mean teams often see results within hours.",
+    "n8n connects to CRM, communication, data storage, and AI systems. It is aimed at technical users building flexible automations rather than non-technical users who need simple one-step, no-code tools."
+  ]
+}

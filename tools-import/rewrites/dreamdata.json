@@ -1,0 +1,10 @@
+{
+  "description": "Dreamdata is a B2B revenue attribution platform that maps customer journeys end to end, showing which campaigns and channels actually drive pipeline and revenue.",
+  "tagline": "B2B revenue attribution",
+  "overview": "Dreamdata collects and models B2B go-to-market data into a full view of the customer journey, revealing the ROI of campaigns and syncing conversion data back to ad platforms.",
+  "what_is": [
+    "Dreamdata is a B2B marketing analytics platform focused on attribution. It maps the entire customer journey and connects activity to revenue, so marketers can see which campaigns and channels are actually working rather than guessing.",
+    "It is strongest at analyzing all marketing activity, building precise audiences, and spotting buying intent early, with ROI reports and interactive journey timelines that speed up decisions. It also syncs conversion data back to ad platforms to sharpen targeting.",
+    "Dreamdata connects to ad platforms, CRMs, and tools like Slack and Teams, acting as a central data hub for attribution and activation. It is not an email or CRM tool; it focuses on journey mapping and revenue analytics."
+  ]
+}

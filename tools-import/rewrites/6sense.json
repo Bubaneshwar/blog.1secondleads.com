@@ -1,0 +1,10 @@
+{
+  "description": "6sense is an AI revenue intelligence and ABM platform that surfaces in-market B2B buyers so sales and marketing can engage the right accounts at the right time.",
+  "tagline": "ABM platform powered by revenue AI",
+  "overview": "6sense brings your data, channels, and teams onto one platform, reading buying signals to predict which accounts are in-market and when sales and marketing should reach out.",
+  "what_is": [
+    "6sense is a revenue intelligence platform that helps sales and marketing teams find and prioritize accounts that are actively researching a purchase. It analyzes intent and engagement signals across the web to estimate where each account sits in its buying journey, so teams can focus effort where it is most likely to convert.",
+    "It is built for go-to-market teams running account-based programs across both inbound and outbound. Common uses include prioritizing accounts for outreach, personalizing email and ads, and targeting competitor or look-alike accounts, with AI handling much of the research and timing.",
+    "6sense sits alongside your CRM, email, and enrichment tools as the intelligence layer rather than a replacement for them. It informs and automates campaigns with account-level data, but you still run messaging and pipeline management in your existing stack."
+  ]
+}

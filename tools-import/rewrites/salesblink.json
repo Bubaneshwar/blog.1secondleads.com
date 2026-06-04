@@ -1,0 +1,10 @@
+{
+  "description": "SalesBlink is an AI cold email tool that automates personalized sequences and follow-ups, with email warm-up, a meeting scheduler, and a unified inbox.",
+  "tagline": "AI cold email outreach",
+  "overview": "SalesBlink automates AI-assisted cold email campaigns with personalized follow-ups, warm-up to protect deliverability, a meeting scheduler, and a unified reply inbox.",
+  "what_is": [
+    "SalesBlink is an AI cold email platform that runs consistent outreach for sales teams. It generates and customizes sequences, automates follow-ups, and includes warm-up so messages land in the inbox rather than spam.",
+    "It is strongest at booking meetings and managing leads for B2B outreach. Teams can launch automated sequences and schedule calls without back-and-forth email, and the warm-up feature protects sender reputation as volume grows.",
+    "SalesBlink fits the GTM stack as an outreach and email-automation tool, integrating with calendars and inboxes. It is not built for complex CRM or deep data enrichment; it focuses on cold email and scheduling."
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "website": "https://www.apollo.io",
+  "primary_category": "Prospecting",
+  "description": "Apollo.io is a B2B sales platform with a 275M+ contact database, email and phone finding, sequences, and a built-in dialer.",
+  "tagline": "Find, engage, and close your ideal buyers",
+  "overview": "Apollo.io combines a large B2B contact database with outbound tools so sales teams can find prospects, enrich records, and run multichannel sequences from one place.",
+  "what_is": [
+    "Apollo.io is a sales intelligence and engagement platform built for outbound teams. It pairs a contact and company database of more than 275 million records with email finding, phone numbers, and CRM enrichment, so reps can build targeted lists without juggling separate data tools.",
+    "Teams use Apollo to prospect, verify contact data, and run email and call sequences, then sync everything back to their CRM. It fits sales development and full-cycle reps who want lead data and outreach in a single workflow.",
+    "Apollo is not a full marketing automation suite or a replacement for a primary CRM, but it works alongside tools like HubSpot and Salesforce to keep pipeline data current and outreach moving."
+  ]
+}

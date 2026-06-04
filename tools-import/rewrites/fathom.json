@@ -1,0 +1,10 @@
+{
+  "description": "Fathom is an AI notetaker that records, transcribes, and summarizes meetings with action items and searchable transcripts, syncing highlights to your CRM.",
+  "tagline": "AI notes for every call",
+  "overview": "Fathom records, transcribes, and summarizes meetings automatically, delivering action items and searchable transcripts and syncing insights into CRMs and tools like Slack.",
+  "what_is": [
+    "Fathom is an AI notetaker that lets people stay present on calls. It records, transcribes, and summarizes meetings in real time, sending accurate summaries and action items so no one is stuck typing notes during the conversation.",
+    "It fits sales, success, operations, and product teams that meet often and need clear next steps fast. Summaries are tailored to the team's priorities, and most users save several hours a week on follow-up work.",
+    "Fathom integrates with Zoom, Google Meet, Slack, Salesforce, and Asana to fit the workflow. It is not a project manager or CRM; it makes meeting data more accessible and actionable inside the tools you already use."
+  ]
+}

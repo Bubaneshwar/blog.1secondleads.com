@@ -1,0 +1,9 @@
+{
+  "description": "Tactic is a GTM data automation platform that uses AI to build target accounts and customer insights from multiple sources.",
+  "tagline": "GTM data automation platform",
+  "overview": "Tactic uses AI to generate high-fit target accounts and customer insights, automating research across web, internal, and third-party data to sharpen targeting.",
+  "what_is": [
+    "Tactic is an AI-powered platform for generating target accounts and customer insights, sitting in the sales intelligence and market research space. It uses web, internal, and third-party data to improve targeting and cut research time for sales and marketing teams.",
+    "It is strongest for account targeting, sales intelligence, and market research, with a no-code interface and automation that returns results in hours. Tactic integrates with CRMs like Salesforce and pulls from sources like Google, LinkedIn, and job posts, working as a data-driven accelerator rather than a customer communication tool."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "description": "Salesken is a conversation intelligence tool that analyzes every sales call, scores conversations, predicts deal outcomes, and coaches reps in real time.",
+  "tagline": "AI conversation intelligence and coaching",
+  "overview": "Salesken analyzes 100% of sales calls to summarize deal status, surface customer feedback, forecast closures, and give reps personalized real-time coaching.",
+  "what_is": [
+    "Salesken is a revenue-intelligence and real-time coaching tool. It automatically analyzes sales calls, scores conversations, gives reps live prompts, and predicts deal outcomes, so managers can coach at scale and teams improve every interaction.",
+    "It is useful for outbound prospecting, quality assurance, coaching, and pipeline visibility, and value tends to appear within days. It suits sales, RevOps, support, and compliance teams that want to optimize conversations and make revenue more predictable.",
+    "Salesken integrates with CRMs by auto-logging transcripts, summaries, and action items, which cuts admin. It focuses on sales call analysis and coaching rather than marketing automation or non-sales channels."
+  ]
+}

@@ -1,0 +1,60 @@
+# Maps scraped category names into the directory taxonomy used by the tools pages.
+# Keys are canonical site categories. Values are scraped aliases that should resolve to the key.
+Email Finder:
+  - Email Finder
+  - Email Lookup APIs
+  - Email Finder APIs
+Phone Number Finders:
+  - Phone Number Finders
+  - Phone Lookup APIs
+  - Phone Verification
+Data Enrichment:
+  - Data Enrichment
+  - AI Data Enrichment
+  - Lead Enrichment APIs
+  - Contact Enrichment APIs
+  - Lead Enrichment
+Prospecting Database:
+  - Prospecting Database
+  - B2B Databases
+  - People Search APIs
+Scraping:
+  - Scraping
+  - Lead Scraping
+  - Lead Scraping & Data Extraction
+  - Data Scrapers
+  - Web Scrapers
+LinkedIn Scraping:
+  - LinkedIn Scraping
+  - LinkedIn Scraping APIs
+  - Linkedin Scraping APIs
+  - LinkedIn Prospecting Tools
+  - Linkedin Profile Lookup APIs
+Contact Syncing & CRM Integration:
+  - Contact Syncing & CRM Integration
+CRM APIs:
+  - CRM APIs
+CRM Enrichment APIs:
+  - CRM Enrichment APIs
+Lead Generation APIs:
+  - Lead Generation APIs
+Intent Signals:
+  - Intent Signals
+  - Sales Triggers & Intelligence
+  - Sales Intelligence & Buyer Intent
+Account Research:
+  - Account Research
+Technology Lookup:
+  - Technology Lookup
+Live Data Sources:
+  - Live Data Sources
+Business Information APIs:
+  - Business Information APIs
+Company Data APIs:
+  - Company Data APIs
+Company Enrichment APIs:
+  - Company Enrichment APIs
+Contact Data APIs:
+  - Contact Data APIs
+B2B Data APIs:
+  - B2B Data APIs

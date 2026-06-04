@@ -1,0 +1,10 @@
+{
+  "description": "Taplio is a LinkedIn content tool with AI post creation, scheduling, engagement, and analytics to help founders and teams grow a personal brand and pipeline.",
+  "tagline": "Grow your personal brand on LinkedIn",
+  "overview": "Taplio helps people grow a LinkedIn presence with AI-assisted post creation, scheduling, engagement tools, and analytics, plus a Chrome extension for quick insights.",
+  "what_is": [
+    "Taplio is an all-in-one LinkedIn content tool for building a personal or company brand. It helps you write, schedule, and manage posts, with AI content help and inspiration drawn from high-performing posts so ideas and drafts come faster.",
+    "It works best for creators, solopreneurs, and teams that want to win clients and build engagement on LinkedIn. Scheduling, analytics, and follower tracking make it easier to stay consistent and see what content is actually landing.",
+    "In a go-to-market stack, Taplio sits as a LinkedIn content and engagement layer that complements CRM and outreach tools by turning content into pipeline. It is not a CRM or email-marketing platform; its focus is consistent LinkedIn content and audience growth."
+  ]
+}

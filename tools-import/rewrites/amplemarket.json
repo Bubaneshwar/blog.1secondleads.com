@@ -1,0 +1,10 @@
+{
+  "description": "Amplemarket is an AI sales platform that finds leads, runs personalized multichannel outreach, and protects deliverability so outbound teams book more meetings.",
+  "tagline": "AI copilot for outbound sales",
+  "overview": "Amplemarket gives sales teams an AI copilot to find the right prospects, reach them across channels, and tune deliverability, cutting research time and lifting reply rates.",
+  "what_is": [
+    "Amplemarket is an AI-powered sales platform built for outbound. It pairs prospect data with AI to help teams find the right buyers, build targeted sequences, and run personalized outreach from a single interface, with deliverability tooling that keeps emails landing in the inbox.",
+    "It works best for sales reps, leaders, and marketers who want to automate the busywork of prospecting. The platform handles research, sequence building, and buying-signal alerts, so teams spend less time on manual list work and more time in live conversations.",
+    "Amplemarket connects to your CRM, email, and enrichment tools as the hub for outbound prospecting and engagement. It is focused on finding and reaching new prospects rather than managing inbound pipelines or full account management."
+  ]
+}

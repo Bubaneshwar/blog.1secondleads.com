@@ -1,0 +1,9 @@
+{
+  "description": "Scrupp is a LinkedIn, Sales Navigator, and Apollo scraper that exports leads in bulk with verified emails.",
+  "tagline": "LinkedIn and Sales Navigator scraper",
+  "overview": "Scrupp extracts targeted leads and verified emails from LinkedIn Sales Navigator and Apollo, exporting thousands of cleaned records for outreach.",
+  "what_is": [
+    "Scrupp is a lead scraping tool that extracts targeted leads and verified emails from LinkedIn Sales Navigator and Apollo.io. It can export up to 2,500 LinkedIn leads and 50,000 Apollo leads at once, with built-in data cleaning and verified email finding.",
+    "It suits sales teams, recruiters, and marketers gathering large volumes of leads, processing thousands per day and delivering results via CSV or email. Cloud-based and integrating with CRMs and email platforms, Scrupp focuses on lead extraction and enrichment rather than analytics or engagement."
+  ]
+}

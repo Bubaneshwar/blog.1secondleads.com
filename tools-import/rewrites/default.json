@@ -1,0 +1,10 @@
+{
+  "description": "Default is an inbound automation platform that routes and schedules leads, enriches data, and automates revenue workflows with forms and CRM automation.",
+  "tagline": "Inbound lead routing and automation",
+  "overview": "Default helps GTM and RevOps teams automate lead routing, scheduling, and enrichment, combining forms, CRM automation, and qualification in one platform to convert inbound faster.",
+  "what_is": [
+    "Default is an inbound automation platform that streamlines how leads are handled. It combines forms, enrichment, routing, and scheduling so qualified leads get to the right rep and onto the calendar quickly, with CRM data kept clean automatically.",
+    "It is strongest at scheduling meetings with qualified leads, routing inbound fairly, and enriching records, which shortens lead-to-meeting time and lifts conversion. Workflows are quick to build, so teams see results without heavy implementation.",
+    "Default integrates with CRMs, calendars, sales engagement tools, and web forms to fit existing GTM stacks. It focuses on lead handling and scheduling rather than acting as a full CRM or marketing-automation platform."
+  ]
+}

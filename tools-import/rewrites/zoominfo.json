@@ -1,0 +1,11 @@
+{
+  "primary_category": "Data Provider",
+  "description": "ZoomInfo is a B2B go-to-market platform with contact and company data, buyer intent, and enrichment for sales and marketing.",
+  "tagline": "B2B contact data and buyer intelligence",
+  "overview": "ZoomInfo gives B2B sales and marketing teams accurate contact and company data, buyer intent signals, and enrichment to find and reach their ideal customers.",
+  "what_is": [
+    "ZoomInfo is a go-to-market intelligence platform that helps B2B companies find, connect with, and close their ideal customers. It combines a large database of business contacts and company data with buyer intent and AI-driven automation, so sales and marketing teams can target accounts with current information.",
+    "It is widely used for lead generation, account prioritization, and real-time intent insights across sales development, account management, demand generation, and revenue operations. Teams typically use it to speed pipeline growth and keep CRM records enriched.",
+    "ZoomInfo integrates with CRM, email, and marketing platforms to enrich data and sync workflows. It is not a standalone CRM or marketing automation suite, so it works best paired with those systems for full funnel coverage."
+  ]
+}

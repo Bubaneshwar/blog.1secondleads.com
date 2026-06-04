@@ -1,0 +1,10 @@
+{
+  "description": "Close is a sales CRM with built-in calling, email, and SMS plus AI automation, designed to help small and mid-size teams manage leads and close faster.",
+  "tagline": "CRM with built-in calling and email",
+  "overview": "Close is a CRM that combines calling, email, and SMS in one place with AI-assisted notes and follow-ups, helping small and mid-size sales teams move deals faster.",
+  "what_is": [
+    "Close is a sales CRM that puts outreach and pipeline management in one app. Calls, emails, and texts live alongside the deal record, and AI handles notes and follow-ups, so reps close without juggling separate tools.",
+    "It works best for small to mid-size sales teams that want fast, clear outreach. You can import leads and start working deals within about an hour, with built-in automation keeping the pipeline moving.",
+    "Close fits the stack as a CRM with native communication and integrations to marketing and calendar tools. It is not aimed at very large enterprises or highly complex CRM workflows; its strength is a focused, fast sales platform."
+  ]
+}

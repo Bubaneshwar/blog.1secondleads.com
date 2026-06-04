@@ -1,0 +1,10 @@
+{
+  "description": "Lyne is an AI tool that writes personalized cold email intros at scale, generating tailored openers in a click to lift open and reply rates for outbound teams.",
+  "tagline": "AI cold email personalization",
+  "overview": "Lyne generates personalized cold email intros at scale, producing tailored openers in one click so SDRs and agencies can scale outbound without writing each line by hand.",
+  "what_is": [
+    "Lyne is an AI personalization tool for cold email. It creates tailored intro lines for each prospect in a click, so reps can keep the personal feel of one-to-one outreach while sending at volume.",
+    "It is strongest when scaling outbound campaigns quickly: users save several minutes per lead and can produce many personalized openers per hour, which suits agencies, consultants, and SDRs focused on cold outreach.",
+    "Lyne fits into CRM and email workflows as a personalization assistant rather than a full CRM or email-marketing platform. It is best paired with a sending tool to run the campaigns."
+  ]
+}

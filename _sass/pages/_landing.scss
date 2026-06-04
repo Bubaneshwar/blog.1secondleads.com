@@ -1,0 +1,371 @@
+@use '../abstracts/variables' as v;
+@use '../abstracts/breakpoints' as bp;
+
+// =====================================================================
+// Home landing — reuses the /tools/ DESIGN LANGUAGE.
+// Shared from _tools.scss (not redefined here): the dark `.tools-hero`-style
+// hero, `.tools-section` / `.tools-section__title-center` headers, the
+// `.tool-card` + `.tools-grid` boxes (faint `--main-border-color` borders,
+// `--card-bg`, 10px radius, blue `--link-color` accent, lucide icons, 1rem
+// gaps), the `.home-cta` blue button, and the dark `.tools-about` footer.
+// This partial only styles what is home-specific: the hero content, the blog
+// cards (mirroring `.tool-card` tokens), and section leads.
+// =====================================================================
+
+// Serif-italic accent word in section titles (brand touch).
+.home-landing .brand-accent {
+  color: #673ae4;
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.home-landing .home-section {
+  margin-top: 4rem;
+
+  @include bp.lg {
+    margin-top: 5rem;
+  }
+}
+
+// Extra breathing room between the (dark) hero and the directory section.
+.home-landing #directory {
+  margin-top: 6.5rem;
+
+  @include bp.lg {
+    margin-top: 8rem;
+  }
+}
+
+.home-landing .home-section__lead {
+  max-width: 42rem;
+  margin: -1rem auto 2rem;
+  color: var(--text-muted-color);
+  text-align: center;
+}
+
+.home-cta-row {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+}
+
+// ===============================================================
+// HERO — same treatment as the dark `.tools-hero` (purple glow on black).
+// ===============================================================
+// Nav: every top_nav page uses the shared base `.tools-top-nav` (the wide dark
+// bar attached to the top edge, defined in _tools.scss). No per-layout overrides,
+// so the home / tools / single-tool / blog navs are all the same long dark bar.
+
+// Full-bleed, FLAT dark hero section (not a bordered card, no glow/gradient).
+// Pulled up behind the floating nav so the glass pill sits on the dark hero.
+.home-landing .hero {
+  position: relative;
+  width: 100vw;
+  left: 50%;
+  margin: -4.6rem 0 0 -50vw;
+  overflow: hidden;
+  padding: 7rem 1.5rem 3.5rem;
+  background: #0a0a0a;
+  color: #fff;
+  text-align: center;
+
+  @include bp.md {
+    padding: 8rem 2rem 4.5rem;
+  }
+}
+
+.hero__inner {
+  position: relative;
+  z-index: 1;
+  max-width: 52rem;
+  margin: 0 auto;
+}
+
+.hero__eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 1.4rem;
+  color: #888;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.hero__badge {
+  display: inline-flex;
+  padding: 0.34rem 0.7rem;
+  border: 1px solid rgba(103, 58, 228, 0.6);
+  border-radius: 999px;
+  background: rgba(103, 58, 228, 0.18);
+  color: #fff;
+  font-family: 'Satoshi', 'Plus Jakarta Sans', sans-serif;
+  font-size: 0.74rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+}
+
+.hero__title {
+  margin: 0;
+  color: #fff;
+  font-family: 'Satoshi', 'Plus Jakarta Sans', sans-serif;
+  font-size: 2.15rem;
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  line-height: 1.1;
+
+  @include bp.md {
+    font-size: 3rem;
+  }
+}
+
+.hero__accent {
+  color: #673ae4;
+  font-family: 'Instrument Serif', serif;
+  font-style: italic;
+  font-weight: 400;
+}
+
+.hero__lead {
+  max-width: 40rem;
+  margin: 1.1rem auto 0;
+  color: #b8b8c0;
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+
+.hero__actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.7rem;
+  margin-top: 1.7rem;
+}
+
+// Ghost (secondary) button on the dark hero. Kept clearly visible against the
+// near-black background so it reads as a real action next to the blue primary.
+.home-landing .hero .home-cta--ghost {
+  background: rgba(255, 255, 255, 0.12);
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.65);
+
+  &:hover,
+  &:focus {
+    background: rgba(255, 255, 255, 0.2);
+    box-shadow: inset 0 0 0 1px #fff;
+    transform: translateY(-2px);
+  }
+}
+
+// ===============================================================
+// Blog cards — mirror the `.tool-card` token system exactly.
+// ===============================================================
+.home-landing .home-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr;
+
+  @include bp.md {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  @include bp.lg {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.home-grid--rest {
+  margin-top: 1rem;
+}
+
+// When a section has a single post, the lone featured card stretched across the
+// full container reads as empty/unbalanced. Cap and center it so it looks
+// deliberate until there are enough posts to fill the grid below.
+.home-section--solo .home-featured {
+  max-width: 60rem;
+  margin-inline: auto;
+}
+
+// Shared box treatment (same tokens as .tool-card).
+.home-landing .home-featured,
+.home-landing .home-card {
+  overflow: hidden;
+  border: 1px solid var(--tools-border);
+  border-radius: v.$radius-lg;
+  background: var(--card-bg);
+  box-shadow: var(--ucard-shadow);
+  color: var(--text-color);
+  text-decoration: none;
+  transition: border-color 0.16s ease, box-shadow 0.16s ease;
+
+  &:hover,
+  &:focus {
+    border-color: var(--link-color);
+    box-shadow: var(--ucard-shadow-hover);
+    color: var(--text-color);
+    text-decoration: none;
+  }
+}
+
+// Category pill — same as .tool-card__category.
+.home-landing .home-card__cat {
+  align-self: flex-start;
+  border: 1px solid var(--tools-border);
+  border-radius: 999px;
+  padding: 0.25rem 0.55rem;
+  color: var(--tools-muted);
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+
+// Featured lead card (image + text).
+.home-landing .home-featured {
+  display: grid;
+  grid-template-columns: 1fr;
+
+  @include bp.md {
+    grid-template-columns: 1.05fr 1fr;
+  }
+
+  .home-featured__media {
+    min-height: 12rem;
+    background-color: var(--main-bg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    @include bp.md {
+      min-height: 100%;
+      border-right: 1px solid var(--tools-border);
+    }
+
+    &--placeholder {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(135deg, #1a1a1a, #2a2a2a);
+      color: #fff;
+      font-family: 'Satoshi', sans-serif;
+      font-size: 3rem;
+      font-weight: 800;
+    }
+  }
+
+  .home-featured__body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.55rem;
+    padding: 1.4rem 1.5rem 1.5rem;
+
+    @include bp.lg {
+      padding: 1.9rem 2rem;
+    }
+  }
+
+  .home-featured__title {
+    color: var(--heading-color);
+    font-family: 'Satoshi', 'Plus Jakarta Sans', sans-serif;
+    font-size: 1.45rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    line-height: 1.2;
+
+    @include bp.lg {
+      font-size: 1.7rem;
+    }
+  }
+
+  .home-featured__desc {
+    color: var(--text-color);
+    line-height: 1.5;
+  }
+
+  .home-featured__foot {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-top: 0.4rem;
+    color: var(--tools-muted);
+    font-size: 0.85rem;
+  }
+
+  .home-featured__more {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    color: var(--link-color);
+    font-weight: 700;
+
+    i,
+    svg {
+      width: 1rem;
+      height: 1rem;
+    }
+  }
+}
+
+// Small post cards.
+.home-landing .home-card {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+
+  .home-card__media {
+    aspect-ratio: 16 / 9;
+    background-color: var(--main-bg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-bottom: 1px solid var(--tools-border);
+
+    &--placeholder {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: linear-gradient(135deg, #1a1a1a, #2a2a2a);
+      color: #fff;
+      font-family: 'Satoshi', sans-serif;
+      font-size: 2rem;
+      font-weight: 800;
+    }
+  }
+
+  .home-card__body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.45rem;
+    padding: 0.85rem;
+  }
+
+  .home-card__title {
+    color: var(--heading-color);
+    font-family: 'Satoshi', 'Plus Jakarta Sans', sans-serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    line-height: 1.3;
+  }
+
+  .home-card__desc,
+  .home-card__date {
+    color: var(--tools-muted);
+    font-size: 0.85rem;
+    line-height: 1.5;
+  }
+}
+
+.home-empty {
+  color: var(--tools-muted);
+  text-align: center;
+}
+
+// Card border + soft shadow are now shared site-wide via `--ucard-shadow` and
+// `--tools-border` (defined on `.tools-page` / `.single-tool-page`), so the home
+// directory cards, blog cards, /tools/ grid, and single-tool cards all match.
+
+// Whole-card click target for the home directory teaser (Bootstrap stretched-link).
+.home-landing .tool-card--clickable {
+  position: relative;
+  cursor: pointer;
+}

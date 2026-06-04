@@ -1,0 +1,10 @@
+{
+  "description": "Lavender is an AI email coaching assistant that scores sales emails and suggests real-time improvements to lift reply rates.",
+  "tagline": "Real-time coaching for sales emails",
+  "overview": "Lavender helps reps write better sales emails with an AI score, instant improvement suggestions, and personalization tips drawn from billions of data points.",
+  "what_is": [
+    "Lavender is an AI email assistant for sales teams. It scores each email for reply potential and suggests real-time improvements and personalization, helping reps write messages that get more responses.",
+    "It is used by sales reps, managers, and recruiters for high-impact email outreach, and it gives managers coaching and performance tracking across a team. Teams often see more replies and meetings within weeks.",
+    "Lavender works inside email and CRM tools like Gmail, Outlook, Salesloft, and HubSpot. It focuses on email quality rather than being a full sales platform, so it complements the rest of an outbound stack."
+  ]
+}

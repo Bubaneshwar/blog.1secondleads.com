@@ -1,0 +1,3527 @@
+- name: Apollo.io
+  logoUrl: "/assets/img/tools/apollo.webp"
+  categories:
+  - Prospecting
+  - AI Data Enrichment
+  - AI Multichannel Outreach
+  - AI Data Provider
+  - AI Personalization
+  - AI All-in-One Prospecting
+  - AI Email Outreach
+  - Email Finder
+  - Email Sender
+  - Prospecting Database
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - Find and research leads
+  - Personalize messaging fast
+  - Launch campaigns quickly
+  description: Apollo.io is a B2B sales platform with a 275M+ contact database, email
+    and phone finding, sequences, and a built-in dialer.
+  url: "/tools/apollo-io/"
+  featured: true
+- name: Clay
+  logoUrl: "/assets/img/tools/clay.webp"
+  categories:
+  - GTM Automation
+  - AI Agents
+  - AI Sales Assistant
+  - AI Sales Workflow
+  - AI Lead Management
+  - AI Deal Intelligence
+  - AI Data Enrichment
+  - AI Intent Signals
+  - AI Data Scraping
+  - AI Data Provider
+  pricing_tier: Free Trial
+  pricing_starting_at: "$149.00"
+  use_cases:
+  - Recurring workflows
+  - CRM enrichment and hygiene
+  - Targeted lead list building
+  description: Clay is a data enrichment and GTM automation tool that pulls from 100+
+    sources and AI agents to build and update lead lists.
+  url: "/tools/clay/"
+  featured: true
+- name: Instantly
+  logoUrl: "/assets/img/tools/instantly.jpg"
+  categories:
+  - Email Outreach
+  - Deliverability
+  - Automation
+  pricing_tier: Free Trial
+  pricing_starting_at: "$37/mo"
+  use_cases:
+  - Send cold emails
+  - Improve deliverability
+  - Manage pipeline
+  description: Cold email software for scaling outbound campaigns and managing sending
+    infrastructure.
+  url: "/tools/instantly/"
+  featured: true
+- name: Smartlead
+  logoUrl: "/assets/img/tools/smartlead.webp"
+  categories:
+  - Email Outreach
+  - AI Email Outreach
+  - AI Email Deliverability
+  - Email Warmer
+  - Email Sender
+  - Automated Email Campaigns
+  - MCPs For Sales AI Agents
+  - MCPs For Marketing
+  pricing_tier: Free Trial
+  pricing_starting_at: "$39.00"
+  use_cases:
+  - Unlimited mailboxes for outreach
+  - Automated email warmups with AI
+  - Unified inbox for sales
+  description: Smartlead is a cold email platform with unlimited mailboxes, automated
+    warmups, and a unified inbox to scale outreach.
+  url: "/tools/smartlead/"
+  featured: true
+- name: ZoomInfo
+  logoUrl: "/assets/img/tools/zoominfo.webp"
+  categories:
+  - Data Provider
+  - AI All-in-One Prospecting
+  - Email Finder
+  - Prospecting Database
+  - Data Enrichment
+  - Phone Number Finders
+  - B2B Databases
+  - LinkedIn Commerce & B2B
+  - Business Information APIs
+  - Company Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - High-quality B2B data
+  - AI-driven sales intelligence
+  - Automated lead routing workflows
+  description: ZoomInfo is a B2B go-to-market platform with contact and company data,
+    buyer intent, and enrichment for sales and marketing.
+  url: "/tools/zoominfo/"
+  featured: true
+- name: Lemlist
+  logoUrl: "/assets/img/tools/lemlist.webp"
+  categories:
+  - Multichannel Outreach
+  - AI Voice Note Prospecting
+  - AI Data Enrichment
+  - AI Intent Signals
+  - AI Multichannel Outreach
+  - AI Data Scraping
+  - AI Data Provider
+  - AI Personalization
+  - AI All-in-One Prospecting
+  - AI Email Outreach
+  pricing_tier: Free Trial
+  pricing_starting_at: "$55.00"
+  use_cases:
+  - Find qualified leads fast
+  - Enrich contact info automatically
+  - Personalize outreach at scale
+  description: Lemlist is a sales engagement platform for multichannel outreach across
+    email, LinkedIn, and calls with built-in personalization.
+  url: "/tools/lemlist/"
+  featured: true
+- name: BlitzAPI
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-blitzapi-image-MAA8Usj1USQvf4IXQzfmOLh7YrcpwO.png
+  categories:
+  - Data Enrichment
+  pricing_tier: Free Trial
+  pricing_starting_at: "$399.00"
+  use_cases:
+  - Clean B2B data access
+  - Verified email and phone enrichment
+  - Real-time catch-all email validation
+  description: BlitzAPI is a B2B data API delivering verified contact and company
+    data with real-time email and phone validation.
+  url: "/tools/blitzapi/"
+  featured: false
+- name: CompanyEnrich
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-companyenrich-image-bY6UkgFe1JvY8roGeYyeib2FV454AM.png
+  categories:
+  - Data Enrichment
+  - Data Enrichment Bots
+  - B2B Databases
+  - Lookalike Finders
+  - Prospecting Database
+  - Account Research
+  - Best Data Sources
+  - Best Sales Tools
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - Real-time B2B data access
+  - Verified company and profile data
+  - Semantic search capabilities
+  description: CompanyEnrich is a B2B data API with real-time company and contact
+    insights on millions of businesses and profiles.
+  url: "/tools/companyenrich/"
+  featured: false
+- name: Findymail
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-findymail-image-YrrxGcLO22SRbOxuqVGNtcOnDaSMLn.avif
+  categories:
+  - Email Finder
+  - Lead Scraping & Data Extraction
+  - Lead Scraping
+  - Email Lookup APIs
+  - Email Finder APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - B2B email and phone data
+  - Built-in email verification
+  - Automated data exports
+  description: Findymail is a B2B email finder and verifier that locates business
+    emails and phone numbers with low bounce rates.
+  url: "/tools/findymail/"
+  featured: false
+- name: FullEnrich
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-fullenrich-image-ZyXS548oJ0z50gStU5xU5eTbyrVMCj.avif
+  categories:
+  - AI Data Enrichment
+  - AI Data Scraping
+  - AI Data Provider
+  - AI Sales Extension
+  - Email Finder
+  - LinkedIn Scraping
+  - Waterfall Enrichment
+  - Prospecting Database
+  - LinkedIn Extension
+  - Data Enrichment
+  pricing_tier: Free Trial
+  pricing_starting_at: "$26.00"
+  use_cases:
+  - Find emails and phone numbers
+  - Waterfall enrichment with high find rate
+  - Integrate with over thousand apps
+  description: FullEnrich is a waterfall contact enrichment tool that finds B2B emails
+    and mobile numbers from 15+ data vendors.
+  url: "/tools/fullenrich/"
+  featured: false
+- name: Wiza
+  logoUrl: "/assets/img/tools/wiza.webp"
+  categories:
+  - Phone Number Finders
+  - Email Finder
+  - Lead Scraping & Data Extraction
+  - AI Data Enrichment
+  - AI Sales Extension
+  - AI Data Scraping
+  - AI Data Provider
+  - AI Personalization
+  - Prospecting Database
+  - LinkedIn Scraping
+  pricing_tier: Free Trial
+  pricing_starting_at: "$83.00"
+  use_cases:
+  - Phone Number Finders
+  - Email Finder
+  - Lead Scraping & Data Extraction
+  description: Wiza turns LinkedIn and Sales Navigator searches into verified emails
+    and phone numbers, exporting clean prospect lists straight to your CRM.
+  url: "/tools/wiza/"
+  featured: false
+- name: Lavender
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-lavender-image-sbfOHIex8L0XK2j3pLycZyLbuIy7Mx.avif
+  categories:
+  - AI Personalization
+  - AI Email Outreach
+  - AI Sales Extension
+  - AI Copywriting
+  - Copywriting
+  - AI Content Writing
+  pricing_tier: Free Trial
+  pricing_starting_at: "$27.00"
+  use_cases:
+  - AI sales email scoring
+  - Personalization assistant for inbox
+  - Real-time email coaching updates
+  description: Lavender is an AI email coaching assistant that scores sales emails
+    and suggests real-time improvements to lift reply rates.
+  url: "/tools/lavender/"
+  featured: false
+- name: PhantomBuster
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-phantombuster-image-LrA0TiM95jRrx2KGZPSRSkwiQXS3Uh.avif
+  categories:
+  - AI Data Enrichment
+  - AI Data Scraping
+  - AI Automation
+  - LinkedIn Automation
+  - LinkedIn Scraping
+  - Workflow Automation
+  - LinkedIn Extension
+  - Web Scrapers
+  - Lead Scraping & Data Extraction
+  - Best AI Marketing Tools
+  pricing_tier: Free Trial
+  pricing_starting_at: "$56.00"
+  use_cases:
+  - Automate lead generation workflows
+  - Extract live data from platforms
+  - Enrich lists with data points
+  description: PhantomBuster automates lead generation and outreach by extracting
+    real-time data from LinkedIn and other platforms.
+  url: "/tools/phantombuster/"
+  featured: false
+- name: Mailreach
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-mailreach-image-dUgaVgMQxA35AGbvhPbpVTv9f2l3gI.avif
+  categories:
+  - AI Email Deliverability
+  - Email Warmer
+  - Email Spam Tester
+  - AI Email Personalization
+  pricing_tier: Free Trial
+  pricing_starting_at: "$25.00"
+  use_cases:
+  - Email warmup with high-reputation accounts
+  - Continuous spam testing and monitoring
+  - Automated reputation repair and maintenance
+  description: MailReach is an email deliverability tool that warms up inboxes and
+    runs spam tests to land cold emails in the inbox.
+  url: "/tools/mailreach/"
+  featured: false
+- name: n8n
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-n8n-image-gDZjiRQc4tdGGlTJnILQnzHWzWWOr7.avif
+  categories:
+  - AI Agents
+  - AI Automation
+  - Workflow Automation
+  - Integrations & Workflows
+  - Best AI Agents
+  - Best AI Marketing Tools
+  - AI Agent Builders
+  - MCPs For Enterprise
+  - MCPs For Workflow Automation
+  pricing_tier: Free Trial
+  pricing_starting_at: "$20.00"
+  use_cases:
+  - Flexible AI workflow automation
+  - Host on-prem or cloud
+  - Integrate 500+ apps easily
+  description: n8n is a workflow automation platform with 500+ integrations, code-level
+    control, and self-hosting for technical teams.
+  url: "/tools/n8n/"
+  featured: false
+- name: Cognism
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-cognism-image-W4qGTJv37581pOKj07BsrbJg87fLyo.png
+  categories:
+  - Prospecting Database
+  - Phone Number Finders
+  - B2B Databases
+  - Business Information APIs
+  - Company Data APIs
+  - People Search APIs
+  - B2B Contact APIs
+  - Lead Generation APIs
+  - B2B Data APIs
+  - Contact Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - Prospecting Database
+  - Phone Number Finders
+  - B2B Databases
+  description: Cognism is B2B sales intelligence with phone-verified mobile numbers,
+    buyer intent, and compliant contact data, built for prospecting across the US
+    and EMEA.
+  url: "/tools/cognism/"
+  featured: false
+- name: Hunter
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-hunter-image-XTSpN8GN8R4U6p4yUbkSBRv4zDmydF.avif
+  categories:
+  - Email Finder
+  - LinkedIn Commerce & B2B
+  - Email Lookup APIs
+  - Email Finder APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$34.00"
+  use_cases:
+  - Email Finder
+  - LinkedIn Commerce & B2B
+  - Email Lookup APIs
+  description: Hunter finds and verifies professional email addresses by domain or
+    name and runs simple cold email campaigns, helping teams build accurate outreach
+    lists fast.
+  url: "/tools/hunter/"
+  featured: false
+- name: Lusha
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-lusha-image-eclgk8XDbTxNpu1uoNTLKHBaFx7bGV.svg
+  categories:
+  - LinkedIn Extension
+  - Data Enrichment
+  - Phone Number Finders
+  - Email Finder
+  - Lead Scraping & Data Extraction
+  - Audience Targeting & Segmentation
+  - Lead Scraping
+  - Linkedin Profile Lookup APIs
+  - Linkedin Scraping APIs
+  - Email Lookup APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$22.45"
+  use_cases:
+  - LinkedIn Extension
+  - Data Enrichment
+  - Phone Number Finders
+  description: Lusha is a B2B contact data tool with direct dials, verified emails,
+    and buyer intent, plus a Chrome extension that builds prospect lists as you browse.
+  url: "/tools/lusha/"
+  featured: false
+- name: Gong
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-gong-image-VT22Tq5pWuqrk5pMkw0mWIOuyhTkf9.avif
+  categories:
+  - AI Data Insights
+  - AI Deal Intelligence
+  - Prospect Insights
+  - Market Intelligence Tools
+  - Sales Agents
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - AI Data Insights
+  - AI Deal Intelligence
+  - Prospect Insights
+  description: Gong is a revenue intelligence platform that records and analyzes sales
+    calls, emails, and meetings with AI to sharpen forecasting, coaching, and win
+    rates.
+  url: "/tools/gong/"
+  featured: false
+- name: Salesloft
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-salesloft-image-7hOXH2UTTPNkRz4YfLvPrhg0ee29qr.avif
+  categories:
+  - Email Sender
+  - Sales Agents
+  - Lead Generation Agents
+  - Cold Outreach AI Agents
+  - AI Sales Enablement Agents
+  - AI SDR
+  - AI CRM
+  - AI Sales Ops Tools
+  - CRM APIs
+  - Lead Generation APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - Email Sender
+  - Sales Agents
+  - Lead Generation Agents
+  description: Salesloft is a sales engagement platform with cadences, AI guidance,
+    and conversation intelligence that helps revenue teams prospect, manage deals,
+    and forecast.
+  url: "/tools/salesloft/"
+  featured: false
+- name: Snov
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-snov-image-zTn6hnVCdpz4HWVAiU4mYXuhBw3xl8.svg
+  categories:
+  - Email Finder
+  - Email Sender
+  - LinkedIn Outreach Automation
+  - AI CRM
+  - Email APIs
+  - Email Lookup APIs
+  - Email Finder APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$29.25"
+  use_cases:
+  - Email Finder
+  - Email Sender
+  - LinkedIn Outreach Automation
+  description: Snov.io is an outreach platform that finds and verifies emails, runs
+    automated email and LinkedIn sequences, and tracks deals in a built-in sales CRM.
+  url: "/tools/snov/"
+  featured: false
+- name: 6Sense
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-6sense-image-gWiIWa64M0yM2XxU2cKGz2im7MADwb.avif
+  categories:
+  - AI Intent Signals
+  - AI Sales Extension
+  - Intent Signals
+  - Audience Targeting & Segmentation
+  - AI Visitor Identification
+  - AI Buyer Signals
+  - AI Visitor Tracking
+  - LinkedIn Commerce & B2B
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - AI Intent Signals
+  - AI Sales Extension
+  - Intent Signals
+  description: 6sense is an AI revenue intelligence and ABM platform that surfaces
+    in-market B2B buyers so sales and marketing can engage the right accounts at the
+    right time.
+  url: "/tools/6sense/"
+  featured: false
+- name: Amplemarket
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-amplemarket-image-e2kDL1waI6x2fiQmBCaesm0gBkIOEX.avif
+  categories:
+  - AI Lead Management
+  - AI Data Enrichment
+  - AI Intent Signals
+  - AI Multichannel Outreach
+  - AI Automation
+  - AI All-in-One Prospecting
+  - AI Email Outreach
+  - AI Email Deliverability
+  - AI LinkedIn Outreach
+  - AI Sales Enablement
+  pricing_tier: Free Trial
+  pricing_starting_at: "$600.00"
+  use_cases:
+  - AI Lead Management
+  - AI Data Enrichment
+  - AI Intent Signals
+  description: Amplemarket is an AI sales platform that finds leads, runs personalized
+    multichannel outreach, and protects deliverability so outbound teams book more
+    meetings.
+  url: "/tools/amplemarket/"
+  featured: false
+- name: Clearbit
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-clearbit-image-iPy3nDJYxN0UpWZmSNCBiV0kJ5WxOr.avif
+  categories:
+  - AI Data Insights
+  - Prospecting Database
+  - Data Enrichment
+  - Customer Segmentation & Scoring
+  - AI Visitor Identification
+  - AI Visitor Tracking
+  - LinkedIn Commerce & B2B
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - AI Data Insights
+  - Prospecting Database
+  - Data Enrichment
+  description: Clearbit is a B2B data enrichment tool that adds accurate company and
+    contact details to leads, so sales and marketing teams can score, route, and target
+    the
+  url: "/tools/clearbit/"
+  featured: false
+- name: Dripify
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-dripify-image-vxHqCSKAwGJpkj43QjFMPf8ITEmusE.avif
+  categories:
+  - LinkedIn Automation
+  - LinkedIn Prospecting Tools
+  - LinkedIn Outreach Automation
+  - LinkedIn Outreach at Scale
+  pricing_tier: Free Trial
+  pricing_starting_at: "$39.00"
+  use_cases:
+  - LinkedIn Automation
+  - LinkedIn Prospecting Tools
+  - LinkedIn Outreach Automation
+  description: Dripify is a cloud-based LinkedIn automation tool that runs drip outreach
+    campaigns, so sales teams, agencies, and recruiters can generate leads on autopilot.
+  url: "/tools/dripify/"
+  featured: false
+- name: Expandi
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-expandi-image-y3aAyJicyFIkmelga4bYmIFjkDPCrs.avif
+  categories:
+  - AI Multichannel Outreach
+  - AI Data Scraping
+  - AI All-in-One Prospecting
+  - AI Email Outreach
+  - AI LinkedIn Outreach
+  - LinkedIn Automation
+  - LinkedIn Scraping
+  - Email Sender
+  - Multichannel Outreach
+  - LinkedIn Extension
+  pricing_tier: Free Trial
+  pricing_starting_at: "$99.00"
+  use_cases:
+  - AI Multichannel Outreach
+  - AI Data Scraping
+  - AI All-in-One Prospecting
+  description: Expandi is a cloud-based LinkedIn automation tool that runs safe connection
+    and follow-up sequences across LinkedIn and email for sales and marketing teams.
+  url: "/tools/expandi/"
+  featured: false
+- name: LaGrowthMachine
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-lagrowthmachine-image-u0bCeGNSUi8NHOndbXnmkjOXOYHQuA.avif
+  categories:
+  - AI Voice Note Prospecting
+  - AI Multichannel Outreach
+  - AI Email Outreach
+  - AI LinkedIn Outreach
+  - LinkedIn Automation
+  - Twitter Automation
+  - Email Sender
+  - Multichannel Outreach
+  - Cold Outreach AI Agents
+  - Sales Agents
+  pricing_tier: Free Trial
+  pricing_starting_at: "$50.00"
+  use_cases:
+  - AI Voice Note Prospecting
+  - AI Multichannel Outreach
+  - AI Email Outreach
+  description: La Growth Machine is a multichannel sales automation tool that runs
+    outbound sequences across LinkedIn, email, and X to help teams generate and engage
+    leads.
+  url: "/tools/lagrowthmachine/"
+  featured: false
+- name: Outreach
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-outreach-image-tskXnoeTqVUhHtCCE125Ppxo2xyt0s.avif
+  categories:
+  - Email Sender
+  - Copywriting
+  - LinkedIn Commerce & B2B
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - Email Sender
+  - Copywriting
+  - LinkedIn Commerce & B2B
+  description: Outreach is a sales execution platform with AI-powered workflows for
+    prospecting, deal management, forecasting, and coaching, built to help revenue
+    teams close
+  url: "/tools/outreach/"
+  featured: false
+- name: Reply.io
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-reply-image-7gepKf3ojEazG9bCUA0bZ6GrfXpODK.avif
+  categories:
+  - AI Phone Dialing
+  - AI Multichannel Outreach
+  - AI All-in-One Prospecting
+  - AI Email Outreach
+  - AI LinkedIn Outreach
+  - Email Finder
+  - LinkedIn Automation
+  - LinkedIn Scraping
+  - Email Sender
+  - Prospecting Database
+  pricing_tier: Free Trial
+  pricing_starting_at: "$89.00"
+  use_cases:
+  - AI Phone Dialing
+  - AI Multichannel Outreach
+  - AI All-in-One Prospecting
+  description: Reply.io is a sales engagement platform that automates multichannel
+    outreach across email and LinkedIn so teams can run sequences and book more meetings.
+  url: "/tools/reply-io/"
+  featured: false
+- name: Seamless
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-seamless-image-X4d3LUd2nd8D4GlyjfIBo2C3WMvkgP.avif
+  categories:
+  - AI Data Enrichment
+  - AI Intent Signals
+  - AI Data Provider
+  - Technology Lookup
+  - Prospecting Database
+  - B2B Databases
+  - AI Research Assistants
+  - AI Lead Enrichment
+  - AI Buyer Signals
+  - Technographic Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - AI Data Enrichment
+  - AI Intent Signals
+  - AI Data Provider
+  description: Seamless.AI is a real-time sales intelligence tool that finds verified
+    B2B emails and phone numbers, helping sales teams build accurate prospect lists
+    fast.
+  url: "/tools/seamless/"
+  featured: false
+- name: Woodpecker
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-woodpecker-image-wSnmVanBzykhaEM7au5LjpuuLegBXK.avif
+  categories:
+  - AI Email Outreach
+  - Email Warmer
+  - Email Sender
+  - Email Finder
+  - Best Sales Tools
+  - Email APIs
+  - Email Tracking APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$20.00"
+  use_cases:
+  - AI Email Outreach
+  - Email Warmer
+  - Email Sender
+  description: Woodpecker is cold email software that sends personalized outreach
+    at scale with built-in verification and warm-up to protect deliverability for
+    sales teams
+  url: "/tools/woodpecker/"
+  featured: false
+- name: Aircall
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-aircall-image-CwjyfU94qLz4eR5VG6LQMLjkWKZ5CI.avif
+  categories:
+  - Phone Dialers
+  pricing_tier: Free Trial
+  pricing_starting_at: "$30.00"
+  use_cases:
+  - Phone Dialers
+  description: Aircall is a cloud phone system for sales and support teams, with call
+    workflows, AI conversation intelligence, and CRM and help-desk integrations.
+  url: "/tools/aircall/"
+  featured: false
+- name: Demandbase
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-demandbase-image-iyTCfkUqNjlENJNqOBPyrFauOQrxbd.avif
+  categories:
+  - AI Intent Signals
+  - Intent Signals
+  - Account-Based Selling
+  - Audience Targeting & Segmentation
+  - AI Buyer Signals
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - AI Intent Signals
+  - Intent Signals
+  - Account-Based Selling
+  description: Demandbase is an account-based GTM platform that identifies target
+    accounts, reads buying signals, and orchestrates advertising and sales outreach
+    to grow
+  url: "/tools/demandbase/"
+  featured: false
+- name: Evaboot
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-evaboot-image-nAmmx02dmMiDJQM2TYtWRDCf6lU2ws.avif
+  categories:
+  - LinkedIn Scraping
+  - LinkedIn Extension
+  - LinkedIn Prospecting Tools
+  - Lead Scraping & Data Extraction
+  - Lead Scraping
+  - Linkedin Profile Lookup APIs
+  - Linkedin Scraping APIs
+  - Job Change Data APIs
+  - Linkedin Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$9.00"
+  use_cases:
+  - LinkedIn Scraping
+  - LinkedIn Extension
+  - LinkedIn Prospecting Tools
+  description: Evaboot exports clean, filtered lead lists and verified emails from
+    LinkedIn Sales Navigator, tidying names, titles, and companies in one click.
+  url: "/tools/evaboot/"
+  featured: false
+- name: GetProspect
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-getprospect-image-I1lUefa8Gd6fWbi3oIKsafe6Jiyso5.avif
+  categories:
+  - Email Finder
+  - Email Lookup APIs
+  - Email Finder APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - Email Finder
+  - Email Lookup APIs
+  - Email Finder APIs
+  description: GetProspect is an email finder with a large verified B2B database,
+    email verification, and enrichment, plus cold email tools and CRM integrations.
+  url: "/tools/getprospect/"
+  featured: false
+- name: HeyReach
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-heyreach-image-BBsLv97yUCudLWPRhBBFSIghVGKT2T.avif
+  categories:
+  - AI LinkedIn Outreach
+  - LinkedIn Automation
+  - LinkedIn Scraping
+  - LinkedIn Outreach Automation
+  - Automated LinkedIn Messaging
+  - LinkedIn Outreach at Scale
+  - Linkedin Scraping APIs
+  - MCPs For Sales AI Agents
+  - Job Change Data APIs
+  - Linkedin Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$79.00"
+  use_cases:
+  - AI LinkedIn Outreach
+  - LinkedIn Automation
+  - LinkedIn Scraping
+  description: HeyReach automates LinkedIn outreach at scale for agencies and sales
+    teams, rotating unlimited sender accounts into one unified inbox with agency reporting.
+  url: "/tools/heyreach/"
+  featured: false
+- name: Kaspr
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-kaspr-image-qmd5D1ivArJE1JwwfsYt9k1DhE5xHa.avif
+  categories:
+  - Email Finder
+  - Phone Number Finders
+  - Linkedin Profile Lookup APIs
+  - Email Lookup APIs
+  - Email Finder APIs
+  - B2B Contact APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$45.00"
+  use_cases:
+  - Email Finder
+  - Phone Number Finders
+  - Linkedin Profile Lookup APIs
+  description: Kaspr is a LinkedIn prospecting tool with a Chrome extension that reveals
+    GDPR-compliant B2B emails and phone numbers, plus lead management and CRM sync.
+  url: "/tools/kaspr/"
+  featured: false
+- name: Klenty
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-klenty-image-T3mqBqnFhVRa04tLHQWDwP0X2jYe4A.avif
+  categories:
+  - Email Sender
+  - Multichannel Outreach
+  - AI SDR
+  pricing_tier: Free Trial
+  pricing_starting_at: "$50.00"
+  use_cases:
+  - Email Sender
+  - Multichannel Outreach
+  - AI SDR
+  description: Klenty is a sales engagement platform that automates multichannel cadences
+    across email, LinkedIn, SMS, and phone, with AI dialers and SDR agents.
+  url: "/tools/klenty/"
+  featured: false
+- name: Koala
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-koala-image-DTYDrnJykB75UYEDkG8tflgHHznpYi.avif
+  categories:
+  - Visitor Identification
+  - Sales Triggers & Intelligence
+  pricing_tier: Free Trial
+  pricing_starting_at: "$200.00"
+  use_cases:
+  - Visitor Identification
+  - Sales Triggers & Intelligence
+  description: Koala identifies the companies behind your website traffic, unifies
+    intent signals, and helps sales teams prioritize and engage high-intent accounts.
+  url: "/tools/koala/"
+  featured: false
+- name: LeadIQ
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-leadiq-image-6HmlJzjqkAXxDuDs7HkU4tzCzAKcO1.avif
+  categories:
+  - Phone Number Finders
+  - LinkedIn Prospecting Tools
+  - Email Finder
+  - AI Personalization
+  - Copywriting
+  - Lead Scraping & Data Extraction
+  - Lead Scraping
+  - Linkedin Profile Lookup APIs
+  - Linkedin Scraping APIs
+  - Email Lookup APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$200.00"
+  use_cases:
+  - Phone Number Finders
+  - LinkedIn Prospecting Tools
+  - Email Finder
+  description: LeadIQ captures verified contact data from LinkedIn into your CRM,
+    tracks job changes, and helps SDRs build pipeline with cleaner prospecting workflows.
+  url: "/tools/leadiq/"
+  featured: false
+- name: LeadMagic
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-leadmagic-image-NHO5yDrG0WebhHUhVAyG1Svd5dAB0Y.avif
+  categories:
+  - Email Finder
+  - Visitor Identification
+  - Data Enrichment
+  - Email Verification
+  - AI List Building
+  - AI Research Assistants
+  - Phone Number Finders
+  - Email APIs
+  - Linkedin Profile Lookup APIs
+  - Email Lookup APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$99.99"
+  use_cases:
+  - Email Finder
+  - Visitor Identification
+  - Data Enrichment
+  description: LeadMagic is a B2B data enrichment tool that validates and fills in
+    emails, mobile numbers, and company details in real time, with a pay-for-valid-data
+    model.
+  url: "/tools/leadmagic/"
+  featured: false
+- name: Mailshake
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-mailshake-image-z2bZShkPzmEzcFTAPeBEhja7k9uB9D.avif
+  categories:
+  - Email Sender
+  - LinkedIn Outreach Automation
+  - AI Email Personalization
+  pricing_tier: Free Trial
+  pricing_starting_at: "$29.25"
+  use_cases:
+  - Email Sender
+  - LinkedIn Outreach Automation
+  - AI Email Personalization
+  description: Mailshake is a sales engagement tool that automates personalized email
+    and LinkedIn outreach, with AI email writing, lead scoring, and pipeline analytics.
+  url: "/tools/mailshake/"
+  featured: false
+- name: Outplay
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-outplay-image-mRJ8Yhn4yY9oFMvm4xvX9hQhrzUqbz.avif
+  categories:
+  - AI Multichannel Outreach
+  - AI Email Outreach
+  - AI LinkedIn Outreach
+  - Email Finder
+  - Multichannel Outreach
+  - LinkedIn Outreach Automation
+  - AI Omnichannel Outreach
+  - Automated LinkedIn Messaging
+  pricing_tier: Free Trial
+  pricing_starting_at: "$39.00"
+  use_cases:
+  - AI Multichannel Outreach
+  - AI Email Outreach
+  - AI LinkedIn Outreach
+  description: Outplay is a multichannel sales engagement platform for SMB teams,
+    automating outreach across email, phone, social, and chat with CRM and scheduler
+  url: "/tools/outplay/"
+  featured: false
+- name: Prospeo
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-prospeo-image-lQ3ycax7G1LdjLRtAQSpNpRArQEcsU.avif
+  categories:
+  - AI Data Provider
+  - Email Finder
+  - LinkedIn Scraping
+  - Catch-all verification
+  - LinkedIn Extension
+  - Email Verification
+  - Firmographics
+  - Data Enrichment
+  - B2B Databases
+  - Phone Number Finders
+  pricing_tier: Free Trial
+  pricing_starting_at: "$39.00"
+  use_cases:
+  - AI Data Provider
+  - Email Finder
+  - LinkedIn Scraping
+  description: Prospeo is an email finder with domain search, a Sales Navigator export,
+    a mobile-number finder, and verification, built for accurate B2B outreach lists.
+  url: "/tools/prospeo/"
+  featured: false
+- name: Quickmail
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-quickmail-image-PhAhzpi5BMvcBUsY92jLxVT4cVz6Cy.avif
+  categories:
+  - Email Warmer
+  - Email Sender
+  - LinkedIn Outreach Automation
+  - LinkedIn Outreach at Scale
+  pricing_tier: Free Trial
+  pricing_starting_at: "$9.00"
+  use_cases:
+  - Email Warmer
+  - Email Sender
+  - LinkedIn Outreach Automation
+  description: QuickMail is a cold outreach tool for email and LinkedIn campaigns,
+    with unlimited connected accounts, inbox rotation, and deliverability features
+    to lift
+  url: "/tools/quickmail/"
+  featured: false
+- name: Rocketreach
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-rocketreach-image-ne8Uu03uuONvExg4k3tRcLITN9p1ZD.avif
+  categories:
+  - Phone Number Finders
+  - Email Finder
+  - LinkedIn Commerce & B2B
+  - Linkedin Profile Lookup APIs
+  - Email Lookup APIs
+  - Email Finder APIs
+  - B2B Contact APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$27.00"
+  use_cases:
+  - Phone Number Finders
+  - Email Finder
+  - LinkedIn Commerce & B2B
+  description: RocketReach is a B2B contact finder with emails, phone numbers, and
+    social profiles for hundreds of millions of professionals, plus CRM integrations.
+  url: "/tools/rocketreach/"
+  featured: false
+- name: Saleshandy
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-saleshandy-image-wYXFfAhTEYbccK5k6ie2gVaxnAVyIg.avif
+  categories:
+  - Email Warmer
+  - Email Sender
+  - AI SDR
+  - Lead Scraping & Data Extraction
+  - Lead Scraping
+  - Email APIs
+  - Email Marketing APIs
+  - Email Tracking APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$25.00"
+  use_cases:
+  - Email Warmer
+  - Email Sender
+  - AI SDR
+  description: Saleshandy is cold email software with a built-in lead finder, unlimited
+    sending inboxes, deliverability tools, and reply management to automate outreach.
+  url: "/tools/saleshandy/"
+  featured: false
+- name: Surfe
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-surfe-image-kCYKjdZfRuKovnoJGvC9Cg1xdG4EV9.avif
+  categories:
+  - CRMs
+  - LinkedIn Prospecting Tools
+  - CRM APIs
+  - Linkedin Scraping APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$29.00"
+  use_cases:
+  - CRMs
+  - LinkedIn Prospecting Tools
+  - CRM APIs
+  description: Surfe connects LinkedIn to your CRM, capturing and enriching contacts
+    in one click with multi-source verified data, plus job-change alerts for sales
+    teams.
+  url: "/tools/surfe/"
+  featured: false
+- name: Uplead
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-uplead-image-wTz7HplT6YNwzgqfTk7aCZyUQgZdLY.avif
+  categories:
+  - Prospecting Database
+  - Phone Number Finders
+  - B2B Databases
+  - Lead Scraping & Data Extraction
+  - Lead Scraping
+  - Business Information APIs
+  - Company Data APIs
+  - People Search APIs
+  - B2B Contact APIs
+  - Lead Generation APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$99.00"
+  use_cases:
+  - Prospecting Database
+  - Phone Number Finders
+  - B2B Databases
+  description: UpLead is a B2B contact database with verified emails, direct dials,
+    and buyer intent, plus 50+ filters and real-time verification for accurate prospecting.
+  url: "/tools/uplead/"
+  featured: false
+- name: Waalaxy
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-waalaxy-image-HVzDJFYKQyJbpzLVmf23468rgyWfAZ.avif
+  categories:
+  - LinkedIn Automation
+  - LinkedIn Prospecting Tools
+  - LinkedIn Outreach Automation
+  - Social Media Automation
+  - LinkedIn Outreach at Scale
+  pricing_tier: Free Trial
+  pricing_starting_at: "$19.00"
+  use_cases:
+  - LinkedIn Automation
+  - LinkedIn Prospecting Tools
+  - LinkedIn Outreach Automation
+  description: Waalaxy is a LinkedIn and email automation tool that runs safe outreach
+    campaigns with templates, a Chrome extension for importing leads, and CRM integrations.
+  url: "/tools/waalaxy/"
+  featured: false
+- name: Warmly AI
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-warmly-image-NQjMe4YqmgCfaQQbq2xDP5zjfvjwZt.avif
+  categories:
+  - AI Intent Signals
+  - AI Personalization
+  - Visitor Identification
+  - Intent Signals
+  - Lead Generation Agents
+  - AI Account Research
+  - Customer Segmentation & Scoring
+  - AI Visitor Identification
+  - AI Lead Intelligence
+  - AI Buyer Signals
+  pricing_tier: Free Trial
+  pricing_starting_at: "$10000.00"
+  use_cases:
+  - AI Intent Signals
+  - AI Personalization
+  - Visitor Identification
+  description: Warmly is a warm-outbound platform that de-anonymizes website visitors,
+    combines intent signals, and helps sales teams engage in-market accounts at the
+    right
+  url: "/tools/warmly-ai/"
+  featured: false
+- name: Adapt
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-adapt-image-XoBR0ztr3I6n53COPloqjAjZ8iUxMG.avif
+  categories:
+  - Audience Targeting & Segmentation
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - Audience Targeting & Segmentation
+  description: Adapt is a B2B lead intelligence database with verified contact data
+    and real-time enrichment, built to help sales and marketing teams target the right
+  url: "/tools/adapt/"
+  featured: false
+- name: Albacross
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-albacross-image-w6vCYmjJHDWkf3otD2jWyM3JOkC6KJ.avif
+  categories:
+  - Visitor Identification
+  - Customer Segmentation & Scoring
+  pricing_tier: Free Trial
+  pricing_starting_at: "$59.00"
+  use_cases:
+  - Visitor Identification
+  - Customer Segmentation & Scoring
+  description: Albacross identifies the companies visiting your website, segments
+    them by buying intent, and automates personalized email and LinkedIn outreach
+    to warm leads.
+  url: "/tools/albacross/"
+  featured: false
+- name: BetterContact
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-bettercontact-image-sBoZj7t397tEhcaiNBuBi6qEilbEwr.avif
+  categories:
+  - AI Data Enrichment
+  - AI Data Provider
+  - Email Finder
+  - Waterfall Enrichment
+  - Data Enrichment
+  - AI Lead Enrichment
+  - Lead Enrichment APIs
+  - People Search APIs
+  - Company Enrichment APIs
+  - B2B Contact APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$15.00"
+  use_cases:
+  - AI Data Enrichment
+  - AI Data Provider
+  - Email Finder
+  description: BetterContact is a waterfall enrichment tool that finds and verifies
+    emails and mobile numbers across 20+ data providers, charging only for valid contacts.
+  url: "/tools/bettercontact/"
+  featured: false
+- name: Bombora
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-bombora-image-MvOTML8IQ2WnXmIfdSGmvbfC4yL8XC.avif
+  categories:
+  - Intent Signals
+  - Audience Targeting & Segmentation
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - Intent Signals
+  - Audience Targeting & Segmentation
+  description: Bombora is a B2B intent data provider that measures content consumption
+    across thousands of sites to show which accounts are actively researching a purchase.
+  url: "/tools/bombora/"
+  featured: false
+- name: Captain Data
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-captain-data-image-s948RcrSeXReGJuopfeTwdjGhyWy8Z.avif
+  categories:
+  - LinkedIn Scraping
+  - Scraping
+  - Integrations & Workflows
+  - Lead Scraping & Data Extraction
+  - Workflow Automation
+  - Data Scrapers
+  - Lead Scraping
+  - Web Scraping APIs
+  - Linkedin Scraping APIs
+  - Data Scraping APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$37.49"
+  use_cases:
+  - LinkedIn Scraping
+  - Scraping
+  - Integrations & Workflows
+  description: Captain Data is a B2B data and automation platform with a unified API
+    for enriching leads, pulling intent signals, and powering sales workflows at scale.
+  url: "/tools/captain-data/"
+  featured: false
+- name: Closely
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-closely-image-idDclhJQ0DSO252fmuQAhrkqierBOx.avif
+  categories:
+  - Email Finder
+  - LinkedIn Automation
+  - Prospect Insights
+  - Prospecting Database
+  - Multichannel Outreach
+  - LinkedIn Extension
+  - LinkedIn Prospecting Tools
+  - LinkedIn Outreach Automation
+  - Social Media Automation
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - Email Finder
+  - LinkedIn Automation
+  - Prospect Insights
+  description: Closely automates personalized LinkedIn and email outreach with AI
+    sequences and built-in contact enrichment, syncing replies and leads to your CRM.
+  url: "/tools/closely/"
+  featured: false
+- name: Dealfront
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-dealfront-image-GftoBTJWobgf59otztnapDTjBeQhgU.png
+  categories:
+  - Visitor Identification
+  - Audience Targeting & Segmentation
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - Visitor Identification
+  - Audience Targeting & Segmentation
+  description: Dealfront is a B2B sales and marketing platform that combines a large
+    European-focused contact database with website intent to surface high-fit, in-market
+  url: "/tools/dealfront/"
+  featured: false
+- name: Dux-Soup
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-dux-soup-image-bHq6Nkn2RDY68m8RcPJj7EtjaVgWkD.avif
+  categories:
+  - LinkedIn Automation
+  - LinkedIn Extension
+  - LinkedIn Outreach Automation
+  - LinkedIn Outreach at Scale
+  pricing_tier: Free Trial
+  pricing_starting_at: "$14.99"
+  use_cases:
+  - LinkedIn Automation
+  - LinkedIn Extension
+  - LinkedIn Outreach Automation
+  description: Dux-Soup is a LinkedIn automation tool that handles connection requests,
+    profile visits, and messaging on autopilot, with CRM integrations for lead management.
+  url: "/tools/dux-soup/"
+  featured: false
+- name: Factors
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-factors-image-ztpaVuLj54wfx74pEVMid5kvWnsxpR.avif
+  categories:
+  - AI Lead Management
+  - AI Data Insights
+  - AI Account Research
+  - AI Sales Funnel
+  - Visitor Identification
+  - Sales Triggers & Intelligence
+  - Sales Intelligence & Buyer Intent
+  - Workflow Automation
+  - AI Visitor Identification
+  - AI Lead Intelligence
+  pricing_tier: Free Trial
+  pricing_starting_at: "$29.00"
+  use_cases:
+  - AI Lead Management
+  - AI Data Insights
+  - AI Account Research
+  description: Factors.ai is a B2B account intelligence platform that unifies cross-channel
+    intent signals, scores accounts, and optimizes LinkedIn ads to grow pipeline.
+  url: "/tools/factors/"
+  featured: false
+- name: Findthatlead
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-findthatlead-image-HgtdJAD124CmuyBeVkp0JO03mBL2xi.avif
+  categories:
+  - Email Finder
+  - Email Sender
+  - Prospecting Database
+  pricing_tier: Free Trial
+  pricing_starting_at: "$37.00"
+  use_cases:
+  - Email Finder
+  - Email Sender
+  - Prospecting Database
+  description: FindThatLead is a B2B prospecting tool that finds verified emails and
+    phone numbers by industry, title, and location, with a Chrome extension and cold
+    email
+  url: "/tools/findthatlead/"
+  featured: false
+- name: Gmass
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-gmass-image-mnb9PnGwMCxveDdMSopAdQouBT2ORq.avif
+  categories:
+  - Email Sender
+  - Email Automation AI Agents
+  - Cold Outreach AI Agents
+  - Email Spam Tester
+  pricing_tier: Free Trial
+  pricing_starting_at: "$18.00"
+  use_cases:
+  - Email Sender
+  - Email Automation AI Agents
+  - Cold Outreach AI Agents
+  description: GMass turns Gmail into a cold email and mail-merge platform, sending
+    personalized campaigns from Google Sheets with automated follow-ups and tracking.
+  url: "/tools/gmass/"
+  featured: false
+- name: Linked Helper
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-linked-helper-image-KKEva3DwiE4YEk6CjHBG5cOCRXFXej.avif
+  categories:
+  - LinkedIn Automation
+  - Sales Funnel
+  - LinkedIn Outreach Automation
+  - LinkedIn Outreach at Scale
+  pricing_tier: Free Trial
+  pricing_starting_at: "$15.00"
+  use_cases:
+  - LinkedIn Automation
+  - Sales Funnel
+  - LinkedIn Outreach Automation
+  description: Linked Helper is a standalone LinkedIn automation app that runs connection
+    requests, message sequences, and data scraping safely, with CRM integrations.
+  url: "/tools/linked-helper/"
+  featured: false
+- name: Meet Alfred
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-meet-alfred-image-pEAMSwyfmBB8MubpMnTdgm6uQOcDIP.avif
+  categories:
+  - AI Email Outreach
+  - LinkedIn Automation
+  - Multichannel Outreach
+  - LinkedIn Prospecting Tools
+  - LinkedIn Outreach Automation
+  - LinkedIn Outreach at Scale
+  pricing_tier: Free Trial
+  pricing_starting_at: "$29.00"
+  use_cases:
+  - AI Email Outreach
+  - LinkedIn Automation
+  - Multichannel Outreach
+  description: Meet Alfred is a multichannel automation tool that runs personalized
+    outreach across LinkedIn, email, and X, with a built-in CRM to manage sales pipelines.
+  url: "/tools/meet-alfred/"
+  featured: false
+- name: Mixmax
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-mixmax-image-FMlwyTBoeTBJCPkOLnJJuUnvrVztyg.avif
+  categories:
+  - Email Sender
+  pricing_tier: Free Trial
+  pricing_starting_at: "$29.00"
+  use_cases:
+  - Email Sender
+  description: Mixmax is an inbox-based sales engagement tool for Gmail that adds
+    tracking, templates, sequences, scheduling, and CRM sync to personalize and automate
+  url: "/tools/mixmax/"
+  featured: false
+- name: RB2B
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-rb2b-image-t4c3s08lNN1eUvtDb4joTARgBWJf7d.avif
+  categories:
+  - AI Intent Signals
+  - Visitor Identification
+  - Intent Signals
+  - Audience Targeting & Segmentation
+  - AI Visitor Identification
+  - AI Buyer Signals
+  - AI Visitor Tracking
+  pricing_tier: Free Trial
+  pricing_starting_at: "$149.00"
+  use_cases:
+  - AI Intent Signals
+  - Visitor Identification
+  - Intent Signals
+  description: RB2B identifies the people behind your US website traffic and pushes
+    person-level leads to Slack and your CRM in real time for fast follow-up.
+  url: "/tools/rb2b/"
+  featured: false
+- name: Skrapp
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-skrapp-image-AbWAIficNImqJA3NnE4MkTPQZZTxfp.avif
+  categories:
+  - Email Finder
+  - Linkedin Profile Lookup APIs
+  - Email Lookup APIs
+  - Email Finder APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$30.00"
+  use_cases:
+  - Email Finder
+  - Linkedin Profile Lookup APIs
+  - Email Lookup APIs
+  description: Skrapp is a B2B email finder and verifier that builds prospect lists
+    from LinkedIn and the web, with company data and CRM integrations for outreach.
+  url: "/tools/skrapp/"
+  featured: false
+- name: Streak
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-streak-image-qlnPHC2eSVoLfersp6H1uthENeyIww.avif
+  categories:
+  - Inbox Management
+  - CRMs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - Inbox Management
+  - CRMs
+  description: Streak is a CRM built inside Gmail, with customizable pipelines, automatic
+    email capture, tracking, and mail merge to manage deals without leaving the inbox.
+  url: "/tools/streak/"
+  featured: false
+- name: Taplio
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-taplio-image_override-CylHTgc6uvON8RngNnedQA3zDmigMc.png
+  categories:
+  - AI LinkedIn Outreach
+  - LinkedIn Growth Bots
+  - Content Creation Tools
+  - Social Media Automation
+  - Best AI Sales Tools
+  - Best LinkedIn Tools
+  - Automated LinkedIn Messaging
+  pricing_tier: Free Trial
+  pricing_starting_at: "$39.00"
+  use_cases:
+  - AI LinkedIn Outreach
+  - LinkedIn Growth Bots
+  - Content Creation Tools
+  description: Taplio is a LinkedIn content tool with AI post creation, scheduling,
+    engagement, and analytics to help founders and teams grow a personal brand and
+    pipeline.
+  url: "/tools/taplio/"
+  featured: false
+- name: Trigify
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-trigify-image-t7HyYf4Chm6R9ZY1vfuEinYReQyCXE.avif
+  categories:
+  - AI Intent Signals
+  - AI Automation
+  - Sales Triggers & Intelligence
+  - Sales Intelligence & Buyer Intent
+  - Social Listening
+  - Intent Signals
+  - AI Buyer Signals
+  - APIs Social Media Analytics
+  - Social Media Monitoring APIs
+  - Social Media Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$134.00"
+  use_cases:
+  - AI Intent Signals
+  - AI Automation
+  - Sales Triggers & Intelligence
+  description: Trigify is a social listening tool that scans real-time social activity
+    for buying signals, helping B2B teams find leads from engagement, keywords, and
+  url: "/tools/trigify/"
+  featured: false
+- name: Yesware
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-yesware-image-YnVg0hRMrVdxq4dGFmDSpJwzGHaaSX.avif
+  categories:
+  - AI Multichannel Outreach
+  - Email Sender
+  - Multichannel Outreach
+  - Integrations & Workflows
+  - AI Omnichannel Outreach
+  pricing_tier: Free Trial
+  pricing_starting_at: "$19.00"
+  use_cases:
+  - AI Multichannel Outreach
+  - Email Sender
+  - Multichannel Outreach
+  description: Yesware is an inbox-based sales tool that adds email tracking, templates,
+    sequences, and scheduling to Gmail and Outlook, with Salesforce and Dynamics sync.
+  url: "/tools/yesware/"
+  featured: false
+- name: 11x
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-11x-image-CzGMO9DLqI3IzEY4qzBlm6bprdLsPq.avif
+  categories:
+  - AI Agents
+  - AI All-in-One Prospecting
+  - AI BDR
+  - Digital Workers
+  - Sales Agents
+  - Lead Generation Agents
+  - Cold Outreach AI Agents
+  - Email Automation AI Agents
+  - AI SDR
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - AI Agents
+  - AI All-in-One Prospecting
+  - AI BDR
+  description: 11x builds AI digital workers that automate outbound prospecting end
+    to end, from finding and qualifying leads to multichannel engagement and follow-ups.
+  url: "/tools/11x/"
+  featured: false
+- name: AiSDR
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-aisdr-image-NX0Hi1yXr9iBxIRBjyItQ5bm4CKfoq.avif
+  categories:
+  - AI All-in-One Prospecting
+  - AI BDR
+  - Sales Assistant
+  - AI Agent Builders
+  - Sales Agents
+  - Lead Generation Agents
+  - Cold Outreach AI Agents
+  - Email Automation AI Agents
+  - AI SDR
+  pricing_tier: Free Trial
+  pricing_starting_at: "$900.00"
+  use_cases:
+  - AI All-in-One Prospecting
+  - AI BDR
+  - Sales Assistant
+  description: AiSDR is an AI sales rep that books meetings with personalized email,
+    text, and LinkedIn outreach, using intent signals and HubSpot data to target prospects.
+  url: "/tools/aisdr/"
+  featured: false
+- name: Artisan
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-artisan-image-R30b4cxWmBJFyW3EDy8ZzMbVZvf4jI.avif
+  categories:
+  - AI Agents
+  - AI Sales Assistant
+  - AI Sales Workflow
+  - AI Personalization
+  - AI All-in-One Prospecting
+  - AI Email Outreach
+  - AI BDR
+  - Email Warmer
+  - Workflow Automation
+  - Digital Workers
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - AI Agents
+  - AI Sales Assistant
+  - AI Sales Workflow
+  description: Artisan is an AI outbound platform with an AI BDR, Ava, that automates
+    prospecting, personalization, and email and LinkedIn outreach from a built-in
+    B2B
+  url: "/tools/artisan/"
+  featured: false
+- name: Attio
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-attio-image-xNWLtPmHWhSO4YZNeXFGkv2ljrWmNa.avif
+  categories:
+  - AI Lead Management
+  - AI Data Enrichment
+  - AI Account Research
+  - AI Sales Funnel
+  - AI CRM
+  - Sales Funnel
+  - CRMs
+  - Account Research
+  - Integrations & Workflows
+  - AI List Building
+  pricing_tier: Free Trial
+  pricing_starting_at: "$36.00"
+  use_cases:
+  - AI Lead Management
+  - AI Data Enrichment
+  - AI Account Research
+  description: Attio is an AI-native, highly customizable CRM that connects your data,
+    automates workflows, and adapts to how your team sells, built for startups and
+    B2B SaaS.
+  url: "/tools/attio/"
+  featured: false
+- name: Avoma
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-avoma-image-h4ZvmKZFCB8XQgaQT7qMa2Ae7nAZh3.avif
+  categories:
+  - AI Customer Success
+  - AI Sales Coaching
+  - AI Competitive Intelligence
+  - AI Sales Enablement
+  - AI Sales Forecasting
+  - AI Meeting Notes
+  - Meeting Assistants
+  - AI Competitor Analysis
+  - AI Sales Training
+  - AI Meeting Recorders
+  pricing_tier: Free Trial
+  pricing_starting_at: "$19.00"
+  use_cases:
+  - AI Customer Success
+  - AI Sales Coaching
+  - AI Competitive Intelligence
+  description: Avoma is an AI meeting assistant with conversation intelligence that
+    records and summarizes calls, automates CRM updates, and surfaces coaching and
+    deal
+  url: "/tools/avoma/"
+  featured: false
+- name: Calendly
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-calendly-image-Hx3VxAeQamY4rDYvUZ4CMfidbod8nW.avif
+  categories:
+  - E-Meeting
+  pricing_tier: Free Trial
+  pricing_starting_at: "$10.00"
+  use_cases:
+  - E-Meeting
+  description: Calendly is scheduling software that automates meeting booking from
+    real-time availability, cutting back-and-forth email and reducing no-shows for
+    teams.
+  url: "/tools/calendly/"
+  featured: false
+- name: Chili Piper
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-chili-piper-image-f351DU2FHyRIPGNPefowrdpNz5yyfQ.png
+  categories:
+  - Workflow Automation
+  - AI Sales Workflow
+  - Website Chatbots
+  pricing_tier: Free Trial
+  pricing_starting_at: "$15.00"
+  use_cases:
+  - Workflow Automation
+  - AI Sales Workflow
+  - Website Chatbots
+  description: Chili Piper qualifies, routes, and schedules inbound leads instantly
+    from forms, chat, and email, handing meetings to the right rep to lift conversion.
+  url: "/tools/chili-piper/"
+  featured: false
+- name: Close
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-close-image-5O26cUMPrF3d9fvV9srzSyLCzkmJ0n.avif
+  categories:
+  - CRMs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$9.00"
+  use_cases:
+  - CRMs
+  description: Close is a sales CRM with built-in calling, email, and SMS plus AI
+    automation, designed to help small and mid-size teams manage leads and close faster.
+  url: "/tools/close/"
+  featured: false
+- name: Dialpad
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-dialpad-image-bE8F4AKfV51aTWTp9FCUxkTGYy5SAm.avif
+  categories:
+  - AI Sales Coaching
+  - Sales Coaching
+  - E-Meeting
+  - AI Customer Service
+  - Customer Service
+  - AI Meeting Notes
+  - Customer Support Bots
+  - AI Customer Support Platforms
+  - AI Sales Training
+  - AI Meeting Recorders
+  pricing_tier: Free Trial
+  pricing_starting_at: "$15.00"
+  use_cases:
+  - AI Sales Coaching
+  - Sales Coaching
+  - E-Meeting
+  description: Dialpad is an AI-powered customer communication platform that unifies
+    calls, messaging, and contact-center workflows with real-time transcription and
+    insights.
+  url: "/tools/dialpad/"
+  featured: false
+- name: Fathom
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-fathom-image-ltJ3HUgL6bE1YRSkUOGEqWEEFWwsy6.avif
+  categories:
+  - AI Deal Intelligence
+  - AI Meeting Notes
+  - AI Meeting Recorders
+  - Financial Reporting & Analytics
+  pricing_tier: Free Trial
+  pricing_starting_at: "$14.00"
+  use_cases:
+  - AI Deal Intelligence
+  - AI Meeting Notes
+  - AI Meeting Recorders
+  description: Fathom is an AI notetaker that records, transcribes, and summarizes
+    meetings with action items and searchable transcripts, syncing highlights to your
+    CRM.
+  url: "/tools/fathom/"
+  featured: false
+- name: Fireflies
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-fireflies-image-HMaYnNWSOO1gJKrzBLv7zfwj4HZhdL.avif
+  categories:
+  - AI Deal Intelligence
+  - AI Meeting Notes
+  - Meeting Assistants
+  - AI Meeting Recorders
+  - AI Note-Taking Tools
+  pricing_tier: Free Trial
+  pricing_starting_at: "$10.00"
+  use_cases:
+  - AI Deal Intelligence
+  - AI Meeting Notes
+  - Meeting Assistants
+  description: Fireflies.ai is an AI meeting assistant that records, transcribes,
+    summarizes, and analyzes calls across 100+ languages, automating notes and CRM
+    tasks.
+  url: "/tools/fireflies/"
+  featured: false
+- name: Folk
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-folk-image-phV69gJ7DKswDq5o1AvQMozTErn6DC.avif
+  categories:
+  - AI Lead Management
+  - AI CRM
+  - CRMs
+  - CRM Built-In Data
+  - CRM APIs
+  - CRM Enrichment APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$20.00"
+  use_cases:
+  - AI Lead Management
+  - AI CRM
+  - CRMs
+  description: folk is an all-in-one CRM that connects to LinkedIn and other platforms,
+    enriches contacts in one click, and automates outreach for sales and partnership
+    teams.
+  url: "/tools/folk/"
+  featured: false
+- name: Groove
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-groove-image-NWPEmHwPtfsyoPjd70BFTKX33RRLyY.png
+  categories:
+  - Customer Support Bots
+  - Upsell & Cross-sell Engines
+  pricing_tier: Free Trial
+  pricing_starting_at: "$5.00"
+  use_cases:
+  - Customer Support Bots
+  - Upsell & Cross-sell Engines
+  description: Groove is a help-desk and shared-inbox tool that manages customer support
+    conversations in one place, with AI automation to speed up replies and ticket
+  url: "/tools/groove/"
+  featured: false
+- name: HubSpot
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-hubspot-image-DLFexGakPfWqlpjzrQzzkn40j2L0cs.avif
+  categories:
+  - AI CRM
+  - CRMs
+  - Sales Assistant
+  - Content Scheduling/Distribution
+  - Email Marketing Platforms
+  - Revenue Attribution Tools
+  - Marketing Automation
+  - LinkedIn Commerce & B2B
+  - CRM APIs
+  - Marketing Automation APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$9.00"
+  use_cases:
+  - AI CRM
+  - CRMs
+  - Sales Assistant
+  description: HubSpot is an all-in-one customer platform that unifies CRM, marketing,
+    sales, and service with built-in AI, giving teams one view to grow and retain
+    customers.
+  url: "/tools/hubspot/"
+  featured: false
+- name: Kixie
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-kixie-image-HdnJL6fKyRhfdb6Zm2uFCYn6SSdpHe.avif
+  categories:
+  - AI Phone Dialing
+  - Phone Dialers
+  - AI Dialer Software
+  pricing_tier: Free Trial
+  pricing_starting_at: "$30.00"
+  use_cases:
+  - AI Phone Dialing
+  - Phone Dialers
+  - AI Dialer Software
+  description: Kixie is a sales calling and SMS platform with AI dialing, automation,
+    and 25+ CRM integrations that helps revenue teams connect with more leads.
+  url: "/tools/kixie/"
+  featured: false
+- name: Nooks
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-nooks-image_override-9vy1Of4Smt6WhTADQIZJNV4pROOaDc.png
+  categories:
+  - AI Phone Dialing
+  - Phone Dialers
+  - AI Sales Enablement Agents
+  - AI Dialer Software
+  - AI Sales Ops Tools
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - AI Phone Dialing
+  - Phone Dialers
+  - AI Sales Enablement Agents
+  description: Nooks is an AI dialer and virtual sales floor that automates research,
+    dialing, and coaching to give reps more live conversations and faster ramp.
+  url: "/tools/nooks/"
+  featured: false
+- name: Orum
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-orum-image-EVAfi0UHbHGabdkr5bx931fjampCiw.avif
+  categories:
+  - AI Phone Dialing
+  - Phone Dialers
+  - AI Dialer Software
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - AI Phone Dialing
+  - Phone Dialers
+  - AI Dialer Software
+  description: Orum is an AI live conversation platform that automates outbound dialing,
+    lifts connect rates, drops voicemails, and logs calls to get reps into more
+  url: "/tools/orum/"
+  featured: false
+- name: Pipedrive
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-pipedrive-image-zx9jCCyifZdy5GqRK9Z8XnGFcQLEcC.avif
+  categories:
+  - CRMs
+  - LinkedIn Commerce & B2B
+  - CRM APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$14.00"
+  use_cases:
+  - CRMs
+  - LinkedIn Commerce & B2B
+  - CRM APIs
+  description: Pipedrive is a sales CRM for tracking leads and deals, with visual
+    pipelines, automated follow-ups, reporting, and 500+ integrations, built for small
+    teams.
+  url: "/tools/pipedrive/"
+  featured: false
+- name: Salesflare
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-salesflare-image-xEIbVyulf96vAu1qW7CrINKOXoUCd9.avif
+  categories:
+  - CRMs
+  - Contact Syncing & CRM Integration
+  pricing_tier: Free Trial
+  pricing_starting_at: "$29.00"
+  use_cases:
+  - CRMs
+  - Contact Syncing & CRM Integration
+  description: Salesflare is a simple B2B CRM that auto-fills contact data, tracks
+    interactions, and adds email sequences and reminders, built for small and mid-size
+    teams.
+  url: "/tools/salesflare/"
+  featured: false
+- name: Sybill
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-sybill-image-5Klv1BI8342uvnxBiuUjl2NHPD3tPO.avif
+  categories:
+  - AI Sales Assistant
+  - AI Lead Management
+  - AI Data Insights
+  - Prospect Insights
+  - Sales Assistant
+  - AI Meeting Notes
+  - AI Meeting Recorders
+  - AI Sales Copilot
+  pricing_tier: Free Trial
+  pricing_starting_at: "$19.00"
+  use_cases:
+  - AI Sales Assistant
+  - AI Lead Management
+  - AI Data Insights
+  description: Sybill is an AI assistant for sales reps that automates meeting prep,
+    call notes, follow-up emails, and CRM updates, built around sales deal workflows.
+  url: "/tools/sybill/"
+  featured: false
+- name: Allegrow
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-allegrow-image-HbL2X9LHnBabGlF0p11v7PVKKJG91K.avif
+  categories:
+  - Email Warmer
+  pricing_tier: Free Trial
+  pricing_starting_at: "$99.00"
+  use_cases:
+  - Email Warmer
+  description: Allegrow is an email deliverability tool for sales teams that verifies
+    contacts, monitors spam placement, and improves inbox placement for outbound campaigns.
+  url: "/tools/allegrow/"
+  featured: false
+- name: Breakcold
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-breakcold-image-x1SOlk1dFXxp1crEK44RfgkmlWpxQd.avif
+  categories:
+  - AI Lead Management
+  - AI Sales Funnel
+  - AI Sales Forecasting
+  - AI CRM
+  - CRMs
+  - CRM Built-In Data
+  - Contact Syncing & CRM Integration
+  - Best LinkedIn Tools
+  - Inbox Management
+  - AI Funnel Builders
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - AI Lead Management
+  - AI Sales Funnel
+  - AI Sales Forecasting
+  description: Breakcold is a sales CRM for email and LinkedIn power users, with a
+    unified social inbox, social listening, and AI that moves leads through the pipeline.
+  url: "/tools/breakcold/"
+  featured: false
+- name: Copper
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-copper-image-qVVPnU5T47DhM6oUwH5Wzi4UuTWdhb.avif
+  categories:
+  - CRMs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$9.00"
+  use_cases:
+  - CRMs
+  description: Copper is a CRM built for Google Workspace that centralizes contacts,
+    tracks deals, and automates follow-ups inside Gmail, Calendar, and Drive.
+  url: "/tools/copper/"
+  featured: false
+- name: Emelia
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-emelia-image-FL2Pr6bN5TnUTyLho3NZEct32eQorD.avif
+  categories:
+  - Email Sender
+  - AI SDR
+  - Lead Scraping & Data Extraction
+  - Lead Scraping
+  - Email APIs
+  - Lead Generation APIs
+  - Email Marketing APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$37.00"
+  use_cases:
+  - Email Sender
+  - AI SDR
+  - Lead Scraping & Data Extraction
+  description: Emelia is an affordable B2B prospecting tool for cold email and LinkedIn
+    outreach, with email warm-up, an email finder, and Sales Navigator scraping.
+  url: "/tools/emelia/"
+  featured: false
+- name: Folderly
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-folderly-image-9DBS634nC8a8Cmngg5SNJ8nvBwe59r.svg
+  categories:
+  - AI Email Deliverability
+  - Email Warmer
+  - Automated Email Campaigns
+  pricing_tier: Free Trial
+  pricing_starting_at: "$96.00"
+  use_cases:
+  - AI Email Deliverability
+  - Email Warmer
+  - Automated Email Campaigns
+  description: Folderly is an email deliverability platform that analyzes your sending
+    infrastructure, monitors spam placement, and fixes issues to keep email in the
+    inbox.
+  url: "/tools/folderly/"
+  featured: false
+- name: Humanlinker
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-humanlinker-image-SALbIGmQ6i6Wz0hR7FppnF7zCMTyvK.avif
+  categories:
+  - AI Sales Assistant
+  - AI Data Insights
+  - AI Intent Signals
+  - AI Personalization
+  - AI Sales Extension
+  - AI ICP Analysis
+  - Prospect Insights
+  - LinkedIn Extension
+  - Intent Signals
+  - Cold Outreach AI Agents
+  pricing_tier: Free Trial
+  pricing_starting_at: "$69.00"
+  use_cases:
+  - AI Sales Assistant
+  - AI Data Insights
+  - AI Intent Signals
+  description: Humanlinker is an AI sales tool for hyper-personalized prospecting,
+    with 360-degree prospect analysis, personality insights, and automated LinkedIn
+    and email
+  url: "/tools/humanlinker/"
+  featured: false
+- name: Insightly
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-insightly-image-85XTn2osZMtUigUmkD0VLwTsOsVa9K.avif
+  categories:
+  - CRMs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$29.00"
+  use_cases:
+  - CRMs
+  description: Insightly is a CRM with marketing automation that centralizes customer
+    data, manages pipelines, and automates workflows for sales, marketing, and service
+    teams.
+  url: "/tools/insightly/"
+  featured: false
+- name: Lyne
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-lyne-image-pRl2D2ahh5hPYMAAlbjRaas5Kq7ExN.avif
+  categories:
+  - AI Personalization
+  - Copywriting
+  - AI Email Personalization
+  pricing_tier: Free Trial
+  pricing_starting_at: "$120.00"
+  use_cases:
+  - AI Personalization
+  - Copywriting
+  - AI Email Personalization
+  description: Lyne is an AI tool that writes personalized cold email intros at scale,
+    generating tailored openers in a click to lift open and reply rates for outbound
+    teams.
+  url: "/tools/lyne/"
+  featured: false
+- name: Momentum
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-momentum-image-mZoznBVYCpvo0RfBuq0YZCU2OY9j0s.avif
+  categories:
+  - AI Data Insights
+  - AI Deal Intelligence
+  - Prospect Insights
+  - Workflow Automation
+  - AI Meeting Notes
+  - Account-Based Selling
+  - Sales Triggers & Intelligence
+  - Integrations & Workflows
+  - Workflow Automation Tools
+  - Best AI Sales Tools
+  pricing_tier: Free Trial
+  pricing_starting_at: "$69.00"
+  use_cases:
+  - AI Data Insights
+  - AI Deal Intelligence
+  - Prospect Insights
+  description: Momentum is a RevOps automation platform that uses AI to capture data
+    from calls and emails, auto-update the CRM, and route deal insights to the right
+    people.
+  url: "/tools/momentum/"
+  featured: false
+- name: Nutshell
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-nutshell-image-WaxX17JEbxnK9LNKmEccsdT187W2Vl.avif
+  categories:
+  - CRMs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$13.00"
+  use_cases:
+  - CRMs
+  description: Nutshell is a B2B CRM with built-in email marketing and sales automation,
+    helping small and mid-size teams manage pipelines and close deals with less busywork.
+  url: "/tools/nutshell/"
+  featured: false
+- name: Octave
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-octave-image-P2iYLlUwK5jRtBKrgMLvBQNaaELkDV.avif
+  categories:
+  - AI Agents
+  - AI Sales Workflow
+  - AI Data Provider
+  - AI Account Research
+  - AI ICP Analysis
+  - AI Copywriting
+  - Market Intelligence Tools
+  - AI Lead Intelligence
+  - AI Content Writing
+  pricing_tier: Free Trial
+  pricing_starting_at: "$119.00"
+  use_cases:
+  - AI Agents
+  - AI Sales Workflow
+  - AI Data Provider
+  description: Octave is a generative GTM platform that turns your ICP and positioning
+    into live, context-aware messaging, helping teams research accounts and personalize
+  url: "/tools/octave/"
+  featured: false
+- name: Persana
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-persana-image-uhEIksJuvtqCTzXDIE1QOBlEqq9fJa.avif
+  categories:
+  - AI Sales Workflow
+  - AI Data Enrichment
+  - AI Intent Signals
+  - AI Account Research
+  - AI Automation
+  - Workflow Automation
+  - AI Lead Intelligence
+  - AI Lead Enrichment
+  - AI Buyer Signals
+  - Lead Enrichment APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$68.00"
+  use_cases:
+  - AI Sales Workflow
+  - AI Data Enrichment
+  - AI Intent Signals
+  description: Persana AI is a GTM engine that unifies 100+ data sources to enrich
+    leads, track buying signals, and automate personalized outreach with AI agents.
+  url: "/tools/persana/"
+  featured: false
+- name: ReachInbox
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-reachinbox-image-j5xchHXgh5piiKHV2l0GKJ6SY9HLFH.png
+  categories:
+  - Automated Email Campaigns
+  pricing_tier: Free Trial
+  pricing_starting_at: "$30.00"
+  use_cases:
+  - Automated Email Campaigns
+  description: ReachInbox is an AI cold email platform that finds prospects, personalizes
+    campaigns, automates warm-up and follow-ups, and manages replies in a unified
+    inbox.
+  url: "/tools/reachinbox/"
+  featured: false
+- name: Regie
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-regie-image-3TA1kX5VbCcrRxYdFmPthAR9ImiZNg.avif
+  categories:
+  - AI Sales Assistant
+  - AI Lead Management
+  - AI Customer Success
+  - AI Intent Signals
+  - AI Automation
+  - AI Personalization
+  - AI LinkedIn Outreach
+  - Copywriting
+  - AI Sales Enablement Agents
+  - AI SDR
+  pricing_tier: Free Trial
+  pricing_starting_at: "$35000.00"
+  use_cases:
+  - AI Sales Assistant
+  - AI Lead Management
+  - AI Customer Success
+  description: Regie is an AI sales engagement platform that unifies calling, email,
+    and social outreach, using AI agents to research leads and personalize prospecting.
+  url: "/tools/regie/"
+  featured: false
+- name: SalesBlink
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-salesblink-image-Ai0YDkf53znftEaW9FJiY6ShaGLJA2.avif
+  categories:
+  - Email Warmer
+  - Email Spam Tester
+  - Email Sender
+  pricing_tier: Free Trial
+  pricing_starting_at: "$25.00"
+  use_cases:
+  - Email Warmer
+  - Email Spam Tester
+  - Email Sender
+  description: SalesBlink is an AI cold email tool that automates personalized sequences
+    and follow-ups, with email warm-up, a meeting scheduler, and a unified inbox.
+  url: "/tools/salesblink/"
+  featured: false
+- name: Salesken
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-salesken-image-CAhKXjHQmvs4dqBmwUItPPYKkomu5h.avif
+  categories:
+  - AI Sales Assistant
+  - AI Sales Coaching
+  - Sales Coaching
+  - Sales Assistant
+  - AI Sales Training
+  - AI Sales Copilot
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - AI Sales Assistant
+  - AI Sales Coaching
+  - Sales Coaching
+  description: Salesken is a conversation intelligence tool that analyzes every sales
+    call, scores conversations, predicts deal outcomes, and coaches reps in real time.
+  url: "/tools/salesken/"
+  featured: false
+- name: Salesmate
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-salesmate-image-zgAEL6wahNtqBy6PYOKAIDY9WB1cI5.avif
+  categories:
+  - CRMs
+  - AI Sales Enablement Agents
+  - AI Sales Ops Tools
+  pricing_tier: Free Trial
+  pricing_starting_at: "$23.00"
+  use_cases:
+  - CRMs
+  - AI Sales Enablement Agents
+  - AI Sales Ops Tools
+  description: Salesmate is a CRM with built-in automation that unifies sales, marketing,
+    and support, helping small and mid-size teams manage pipelines and close deals
+  url: "/tools/salesmate/"
+  featured: false
+- name: Scratchpad
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-scratchpad-image-fk6YmbNt9dHxvsKPKZRlrCi6nYIcqD.avif
+  categories:
+  - Workflow Automation
+  - AI Meeting Notes
+  - AI Meeting Recorders
+  pricing_tier: Free Trial
+  pricing_starting_at: "$19.00"
+  use_cases:
+  - Workflow Automation
+  - AI Meeting Notes
+  - AI Meeting Recorders
+  description: Scratchpad is a Salesforce workspace that automates CRM updates and
+    note-taking, helping reps keep data clean and spend more time selling.
+  url: "/tools/scratchpad/"
+  featured: false
+- name: SmartWriter
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-smartwriter-image-FthwAVbPvfZ46B0uaFGTCGO6QAbkgJ.avif
+  categories:
+  - AI Personalization
+  - Copywriting
+  - Content Creation Tools
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - AI Personalization
+  - Copywriting
+  - Content Creation Tools
+  description: SmartWriter is an AI copywriting tool that generates personalized cold
+    emails and outreach using real-time data about each prospect to lift reply rates.
+  url: "/tools/smartwriter/"
+  featured: false
+- name: Warmbox
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-warmbox-image-RkPsIpJz8qbtuobfNDmZWylAxGk2Vc.avif
+  categories:
+  - AI Email Deliverability
+  - Email Warmer
+  pricing_tier: Free Trial
+  pricing_starting_at: "$15.00"
+  use_cases:
+  - AI Email Deliverability
+  - Email Warmer
+  description: Warmbox is an email warm-up tool that builds sender reputation with
+    realistic inbox activity, helping cold email land in the inbox instead of spam.
+  url: "/tools/warmbox/"
+  featured: false
+- name: Common Room
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-common-room-image-ClgIJ2eu91tG8e0ZOJP38Z76da0hQA.avif
+  categories:
+  - AI Agents
+  - AI Sales Workflow
+  - AI Lead Management
+  - AI Deal Intelligence
+  - AI Intent Signals
+  - AI Automation
+  - Visitor Identification
+  - Technology Lookup
+  - Workflow Automation
+  - Buyer Engagement
+  pricing_tier: Free Trial
+  pricing_starting_at: "$1000.00"
+  use_cases:
+  - AI Agents
+  - AI Sales Workflow
+  - AI Lead Management
+  description: Common Room is a customer intelligence platform that captures buying
+    signals across 50+ sources, unifies them with AI, and automates personalized outreach.
+  url: "/tools/common-room/"
+  featured: false
+- name: Datagma
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-datagma-image-R1Jxnj8qq643cMt28yD9grv7hulyww.avif
+  categories:
+  - Data Enrichment
+  - Phone Number Finders
+  - Email Finder
+  - Linkedin Profile Lookup APIs
+  - Email Lookup APIs
+  - Lead Enrichment APIs
+  - People Search APIs
+  - Email Finder APIs
+  - B2B Contact APIs
+  - Contact Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$39.00"
+  use_cases:
+  - Data Enrichment
+  - Phone Number Finders
+  - Email Finder
+  description: Datagma is a real-time B2B enrichment tool that finds verified emails
+    and mobile numbers via a Chrome extension, API, or upload, charging only for valid
+    data.
+  url: "/tools/datagma/"
+  featured: false
+- name: Default
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-default-image-1KXR3yhbHElq6vbtiQPSf61sQM6QzL.avif
+  categories:
+  - AI Sales Workflow
+  - AI Data Enrichment
+  - Workflow Automation
+  - Data Enrichment
+  - AI Lead Enrichment
+  pricing_tier: Free Trial
+  pricing_starting_at: "$500.00"
+  use_cases:
+  - AI Sales Workflow
+  - AI Data Enrichment
+  - Workflow Automation
+  description: Default is an inbound automation platform that routes and schedules
+    leads, enriches data, and automates revenue workflows with forms and CRM automation.
+  url: "/tools/default/"
+  featured: false
+- name: Demodesk
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-demodesk-image-MVPeVav1Jc8Dpl1ZNjVe15Tf4K6x8A.avif
+  categories:
+  - AI Sales Coaching
+  - Sales Coaching
+  - E-Meeting
+  - AI Meeting Notes
+  - AI Sales Training
+  - AI Meeting Recorders
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - AI Sales Coaching
+  - Sales Coaching
+  - E-Meeting
+  description: Demodesk is an AI sales meeting tool that records, transcribes, and
+    summarizes calls, automates CRM updates, and adds scheduling and real-time coaching.
+  url: "/tools/demodesk/"
+  featured: false
+- name: Dreamdata
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-dreamdata-image-DeqAKL8nUq3i1j6E7Vgf23sG6pogFw.avif
+  categories:
+  - Data Attribution
+  - Catch-all verification
+  - Revenue Attribution Tools
+  pricing_tier: Free Trial
+  pricing_starting_at: "$750.00"
+  use_cases:
+  - Data Attribution
+  - Catch-all verification
+  - Revenue Attribution Tools
+  description: Dreamdata is a B2B revenue attribution platform that maps customer
+    journeys end to end, showing which campaigns and channels actually drive pipeline
+    and
+  url: "/tools/dreamdata/"
+  featured: false
+- name: Dubb
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-dubb-image-HQrntDxLFA7g19sWLLtVDoOYQhtm9h.avif
+  categories:
+  - AI Video Prospecting
+  - Video Outreach
+  pricing_tier: Free Trial
+  pricing_starting_at: "$42.00"
+  use_cases:
+  - AI Video Prospecting
+  - Video Outreach
+  description: Dubb is a video sales platform for recording, sharing, and tracking
+    personalized videos across email, SMS, and LinkedIn, with landing pages and CRM
+  url: "/tools/dubb/"
+  featured: false
+- name: Growbots
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-growbots-image-PS7Pmbc0aZ3KZDixsSpERliN5LP2Cs.avif
+  categories:
+  - AI Data Provider
+  - AI Email Outreach
+  - AI Email Deliverability
+  - Email Warmer
+  - Workflow Automation
+  - Prospecting Database
+  - AI SDR
+  pricing_tier: Free Trial
+  pricing_starting_at: "$29.00"
+  use_cases:
+  - AI Data Provider
+  - AI Email Outreach
+  - AI Email Deliverability
+  description: Growbots is an all-in-one outbound sales platform with a large prospect
+    database, AI targeting, and automated email outreach for small and mid-size teams.
+  url: "/tools/growbots/"
+  featured: false
+- name: Happierleads
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-happierleads-image-NhxM82wcgZ5DwpKOM9s3gK7F5C0gEk.png
+  categories:
+  - Visitor Identification
+  - Customer Segmentation & Scoring
+  pricing_tier: Free Trial
+  pricing_starting_at: "$99.00"
+  use_cases:
+  - Visitor Identification
+  - Customer Segmentation & Scoring
+  description: Happierleads identifies anonymous B2B website visitors at the person
+    and company level, turning traffic into qualified leads with CRM and Slack integrations.
+  url: "/tools/happierleads/"
+  featured: false
+- name: HockeyStack
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-hockeystack-image-6r8y9nW71QXfIxxeBATpE23GOQQDlA.avif
+  categories:
+  - Data Attribution
+  - Catch-all verification
+  - Reporting & BI Agents
+  - AI Dashboards & Reporting
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - Data Attribution
+  - Catch-all verification
+  - Reporting & BI Agents
+  description: HockeyStack is a B2B GTM analytics and attribution platform that connects
+    marketing and sales data from impressions to revenue with AI-powered reporting.
+  url: "/tools/hockeystack/"
+  featured: false
+- name: Hyperbound
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-hyperbound-image-d7sXDWnxdTvaDHnhyYclRAPw6S0mTd.avif
+  categories:
+  - AI Personalization
+  - AI ICP Analysis
+  - Copywriting
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - AI Personalization
+  - AI ICP Analysis
+  - Copywriting
+  description: Hyperbound is an AI sales roleplay and coaching tool where reps practice
+    cold, warm, and discovery calls against realistic AI buyers and get instant feedback.
+  url: "/tools/hyperbound/"
+  featured: false
+- name: Leadforensics
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-leadforensics-image-kCE5VSBJoeNIFBo4v3GOCXlUSQFfXf.avif
+  categories:
+  - Visitor Identification
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - Visitor Identification
+  description: Lead Forensics identifies anonymous B2B website visitors using a large
+    IP database, turning site traffic into named company leads with alerts and CRM
+    routing.
+  url: "/tools/leadforensics/"
+  featured: false
+- name: lemwarm
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-lemwarm-image-0bn9ewwZuyehcyWVZoDL0lzTBUZ3or.png
+  categories:
+  - Email Warmer
+  - AI Dashboards & Reporting
+  pricing_tier: Free Trial
+  pricing_starting_at: "$29.24"
+  use_cases:
+  - Email Warmer
+  - AI Dashboards & Reporting
+  description: lemwarm is an email warm-up and deliverability tool that builds sender
+    reputation through a large network of inboxes and monitors your sending health
+    daily.
+  url: "/tools/lemwarm/"
+  featured: false
+- name: Loom
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-loom-image-zbPqyjL1Ryy411WFyeCteMcaJM0ZZi.avif
+  categories:
+  - AI Meeting Notes
+  - AI Meeting Recorders
+  - Video Outreach
+  - Video Marketing Tools
+  - Video APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$15.00"
+  use_cases:
+  - AI Meeting Notes
+  - AI Meeting Recorders
+  - Video Outreach
+  description: Loom is a video messaging tool for recording and sharing quick screen
+    and camera videos, useful for sales pitches, support, and async team updates.
+  url: "/tools/loom/"
+  featured: false
+- name: Mailmeteor
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-mailmeteor-image-Jdy011v8gwOuWsFU7TNmqkrzqdlUSe.avif
+  categories:
+  - Email Spam Tester
+  - Email Sender
+  pricing_tier: Free Trial
+  pricing_starting_at: "$4.99"
+  use_cases:
+  - Email Spam Tester
+  - Email Sender
+  description: Mailmeteor is a privacy-friendly mail-merge tool for Gmail and Outlook
+    that sends personalized mass emails from Google Sheets with tracking and follow-ups.
+  url: "/tools/mailmeteor/"
+  featured: false
+- name: Pocus
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-pocus-image-PMu6nFX0FItqNKpMtzrGZeQ6zmprjk.avif
+  categories:
+  - AI Data Insights
+  - Prospect Insights
+  - Sales Triggers & Intelligence
+  - AI Account Research
+  - AI Intent Signals
+  - AI Lead Intelligence
+  - AI Buyer Signals
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - AI Data Insights
+  - Prospect Insights
+  - Sales Triggers & Intelligence
+  description: Pocus is a revenue data platform that unifies signals and uses AI to
+    prioritize accounts and tell reps the next best action, surfacing it in their
+    daily
+  url: "/tools/pocus/"
+  featured: false
+- name: Sendspark
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-sendspark-image-Ri1mZb8qxWNIk9ZiJzRN8ojBemutr8.png
+  categories:
+  - AI Video Prospecting
+  - Video Outreach
+  - AI Video Editors
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - AI Video Prospecting
+  - Video Outreach
+  - AI Video Editors
+  description: Sendspark is a personalized video tool that uses AI to customize one
+    recording for each prospect at scale, embedding videos in sales sequences and
+    emails.
+  url: "/tools/sendspark/"
+  featured: false
+- name: Snitcher
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-snitcher-image-jobbTcrITJbD443mzu5szHmIK7q4SG.svg
+  categories:
+  - Visitor Identification
+  pricing_tier: Free Trial
+  pricing_starting_at: "$69.00"
+  use_cases:
+  - Visitor Identification
+  description: Snitcher identifies the companies behind anonymous website traffic
+    in real time, enriches them, and syncs qualified leads to your CRM to automate
+    follow-up.
+  url: "/tools/snitcher/"
+  featured: false
+- name: TrulyInbox
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-trulyinbox-image-SEHrHPQRGkAXVHHdvA7d7Z28pMDOsW.avif
+  categories:
+  - Email Warmer
+  pricing_tier: Free Trial
+  pricing_starting_at: "$22.00"
+  use_cases:
+  - Email Warmer
+  description: TrulyInbox is an AI email warm-up tool that builds sender reputation
+    with realistic inbox activity and tracks a deliverability score to lift inbox
+    placement.
+  url: "/tools/trulyinbox/"
+  featured: false
+- name: Vector
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-vector-image-LaLQfbmmO4DwJlplmoGT7wa93Ar4A9.avif
+  categories:
+  - Warm Intro
+  - Live Data Sources
+  - Audience Targeting & Segmentation
+  - AI Visitor Identification
+  - AI Visitor Tracking
+  pricing_tier: Free Trial
+  pricing_starting_at: "$399.00"
+  use_cases:
+  - Warm Intro
+  - Live Data Sources
+  - Audience Targeting & Segmentation
+  description: Vector is a contact-level intent tool that de-anonymizes website visitors
+    and builds dynamic ad audiences from real buyer signals across LinkedIn, Google,
+    and
+  url: "/tools/vector/"
+  featured: false
+- name: Vidyard
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-vidyard-image-tYl5GJrK89H8L65j4UeFQCTVwjUkbj.avif
+  categories:
+  - AI Video Prospecting
+  - Video Outreach
+  - AI Avatars
+  - AI Video Editors
+  pricing_tier: Free Trial
+  pricing_starting_at: "$59.00"
+  use_cases:
+  - AI Video Prospecting
+  - Video Outreach
+  - AI Avatars
+  description: Vidyard is a video selling platform with AI-generated personalized
+    videos, hosting, and engagement tracking that helps sales teams stand out and
+    book more
+  url: "/tools/vidyard/"
+  featured: false
+- name: Genesy
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-genesy-image-UgPO9RIbFtyWHh9XcQgB0ZGum5UMy7.avif
+  categories:
+  - AI Data Enrichment
+  - AI Email Outreach
+  - AI LinkedIn Outreach
+  - Multichannel Outreach
+  - Data Enrichment
+  - AI SDR
+  - Phone Number Finders
+  - AI Lead Enrichment
+  - Automated LinkedIn Messaging
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - Find leads and prospect automatically
+  - Enrich CRM with reliable data
+  - Automate multi-channel sales campaigns
+  description: Genesy is an AI sales platform that sources targeted lead lists and
+    runs AI agents for personalized multichannel outreach.
+  url: "/tools/genesy/"
+  featured: false
+- name: Overloop.ai
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-overloopai-image-Tb2XkdPEQHfsjzeLOl4pzQqkFN0Iut.svg
+  categories:
+  - AI Sales Assistant
+  - AI Sales Workflow
+  - AI Multichannel Outreach
+  - AI All-in-One Prospecting
+  - AI Email Outreach
+  - AI LinkedIn Outreach
+  - AI BDR
+  - LinkedIn Automation
+  - Multichannel Outreach
+  - Cold Outreach AI Agents
+  pricing_tier: Free Trial
+  pricing_starting_at: "$69.00"
+  use_cases:
+  - AI-powered personalized email writing
+  - Multichannel campaigns with email and LinkedIn
+  - Large database of verified contacts
+  description: Overloop.ai is an AI outbound prospecting platform with 450M+ contacts
+    and AI-written, personalized email and LinkedIn campaigns.
+  url: "/tools/overloop-ai/"
+  featured: false
+- name: Swordfish
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-swordfish-image-ZWqtZQylNx4dvCeKjYrwqPwBeCljCU.avif
+  categories:
+  - Phone Number Finders
+  - Data Enrichment
+  - Email Finder
+  - Linkedin Profile Lookup APIs
+  - Email Lookup APIs
+  - People Search APIs
+  - Email Finder APIs
+  - B2B Contact APIs
+  - Contact Data APIs
+  - People Enrichment APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$99.00"
+  use_cases:
+  - Unlimited mobiles & emails
+  - Find contact info anywhere
+  - Bulk prospect search filters
+  description: Swordfish is a contact finder for cell phone numbers and emails, with
+    a Chrome extension, reverse lookup, and an API.
+  url: "/tools/swordfish/"
+  featured: false
+- name: People Data Labs
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-people-data-labs-image-WVCEjQjyVonFjxfrnG4y9dDVFnumnz.avif
+  categories:
+  - AI Data Enrichment
+  - AI Data Provider
+  - Data Enrichment
+  - B2B Databases
+  - AI Lead Enrichment
+  - Company Data APIs
+  - Lead Enrichment APIs
+  - People Search APIs
+  - Company Enrichment APIs
+  - B2B Contact APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$98.00"
+  use_cases:
+  - Build workforce data easily
+  - Access fresh resume and contact data
+  - License data feeds via cloud
+  description: People Data Labs is a B2B data provider offering people and company
+    datasets via API for sales, HR, and investment teams.
+  url: "/tools/people-data-labs/"
+  featured: false
+- name: Dropcontact
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-dropcontact-image-ujMQzF0nHWenBO90dhLIOYtt5MyflX.avif
+  categories:
+  - Email Finder
+  - Data Enrichment
+  - AI CRM
+  - Linkedin Profile Lookup APIs
+  - Company Enrichment APIs
+  - B2B Contact APIs
+  - CRM Enrichment APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$29.00"
+  use_cases:
+  - Enrich with confirmed email addresses
+  - Add civilities and LinkedIn profiles
+  - Clean and merge duplicates automatically
+  description: Dropcontact is a GDPR-compliant B2B email finder and enrichment tool
+    with 98%+ email validity and native CRM integrations.
+  url: "/tools/dropcontact/"
+  featured: false
+- name: Clodura
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-clodura-image-q5uY4KhgCOJtMfMFUJACMcAr3b43l8.avif
+  categories:
+  - AI Phone Dialing
+  - AI Data Enrichment
+  - AI Intent Signals
+  - AI Data Provider
+  - AI Personalization
+  - AI Email Outreach
+  - AI Email Deliverability
+  - Technology Lookup
+  - Email Sender
+  - Prospecting Database
+  pricing_tier: Free Trial
+  pricing_starting_at: "$90.00"
+  use_cases:
+  - All-in-one GTM platform
+  - Real-time email verification
+  - AI-powered outreach
+  description: Clodura is an AI lead generation platform with a B2B contact database,
+    email verification, buyer intent, and a built-in dialer.
+  url: "/tools/clodura/"
+  featured: false
+- name: Enrich Layer
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-enrich-layer-image-75humjK9PmrvIpBm8ai809R7eNxuDW.png
+  categories:
+  - Data Enrichment
+  - AI Data Enrichment
+  - B2B Databases
+  - Company Data APIs
+  - Lead Enrichment APIs
+  - People Search APIs
+  - Company Enrichment APIs
+  - B2B Data APIs
+  - Contact Data APIs
+  - Firmographic Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$588.00"
+  use_cases:
+  - Access comprehensive people data
+  - Find verified contact information
+  - Explore detailed school data
+  description: Enrich Layer is a data enrichment API with over a billion verified
+    people and company records, refreshed monthly.
+  url: "/tools/enrich-layer/"
+  featured: false
+- name: Zeliq
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-zeliq-image-sEymYpD893RuyqURqAATpSV396tEHp.avif
+  categories:
+  - AI Multichannel Outreach
+  - AI Data Provider
+  - AI All-in-One Prospecting
+  - Email Sender
+  - Multichannel Outreach
+  - Data Enrichment
+  - AI Account Research
+  - LinkedIn Outreach Automation
+  - Influencer Discovery & Outreach
+  - AI Lead Intelligence
+  pricing_tier: Free Trial
+  pricing_starting_at: "$59.00"
+  use_cases:
+  - Connect your CRM
+  - Find leads fast
+  - Enrich emails and numbers
+  description: Zeliq is a sales prospecting tool with 450M+ contacts, verified emails
+    and phones, and automated multichannel sequences.
+  url: "/tools/zeliq/"
+  featured: false
+- name: Valley
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-valley-image_override-VKRWprziK8qa4LN4GahoYX2YzKXoex.png
+  categories:
+  - AI LinkedIn Outreach
+  - LinkedIn Automation
+  - LinkedIn Prospecting Tools
+  - Sales Intelligence & Buyer Intent
+  - LinkedIn Outreach Automation
+  - Social Listening
+  - Social Media Automation
+  - AI BDR
+  - Best AI Sales Tools
+  - Best LinkedIn Tools
+  pricing_tier: Free Trial
+  pricing_starting_at: "$500.00"
+  use_cases:
+  - Identify anonymous website visitors
+  - Research prospects using intent data
+  - Craft hyper-personalized LinkedIn messages
+  description: Valley identifies anonymous B2B website visitors and books sales calls
+    with AI-personalized LinkedIn outreach.
+  url: "/tools/valley/"
+  featured: false
+- name: Super Send
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-super-send-image-x0C3G63UmhX3CgZbxV7kQNCkanDj2Z.avif
+  categories:
+  - AI Multichannel Outreach
+  - AI Email Outreach
+  - AI LinkedIn Outreach
+  - LinkedIn Automation
+  - Email Sender
+  - Multichannel Outreach
+  - Workflow Automation
+  - AI Omnichannel Outreach
+  - Automated LinkedIn Messaging
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - Multi-channel sequences
+  - Automated email warm-up
+  - Personalization at scale
+  description: Super Send automates cold outbound across email, LinkedIn, and Twitter,
+    with managed sending infrastructure and warmup.
+  url: "/tools/super-send/"
+  featured: false
+- name: Bizzy
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-bizzy-image-CISB4J6kJPcPVGQzCjo1f5m5YQSzBv.avif
+  categories:
+  - AI Data Enrichment
+  - AI Data Provider
+  - Prospecting Database
+  - Data Enrichment
+  - Market Intelligence Tools
+  - AI Lead Enrichment
+  - Company Data APIs
+  - Lead Enrichment APIs
+  - People Search APIs
+  - Company Enrichment APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - Automatically finds and qualifies leads
+  - Tracks market signals and buying intent
+  - Provides verified contact data
+  description: Bizzy is an AI B2B database that helps sales teams find ICP-matched
+    leads and track buying signals like hiring and funding.
+  url: "/tools/bizzy/"
+  featured: false
+- name: Scalelist
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-scalelist-image-vzgCBkysT8XmYrurg8SICiJKEEe75n.avif
+  categories:
+  - AI Data Enrichment
+  - AI Data Scraping
+  - AI Data Provider
+  - Email Finder
+  - Phone Number Finders
+  - Lead Scraping & Data Extraction
+  - AI Lead Enrichment
+  - Lead Scraping
+  pricing_tier: Free Trial
+  pricing_starting_at: "$19.00"
+  use_cases:
+  - Verified work emails
+  - Mobile numbers enrichment
+  - Automated prospect monitoring
+  description: Scalelist extracts LinkedIn Sales Navigator leads and exports them
+    with verified emails and phone numbers.
+  url: "/tools/scalelist/"
+  featured: false
+- name: RapidAPI
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-rapidapi-image-R0gU1fb9U6QRc84OrJkLnOeb7v1WCt.png
+  categories:
+  - Data Enrichment
+  - Business Information APIs
+  - Linkedin Profile Lookup APIs
+  - Linkedin Scraping APIs
+  - Email Lookup APIs
+  - Lead Enrichment APIs
+  - Company Enrichment APIs
+  - Email Finder APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - Find the perfect API easily
+  - Publish your own APIs
+  - Drive new API revenue streams
+  description: RapidAPI (now Nokia API Hub) is an API marketplace for discovering,
+    publishing, and managing thousands of APIs.
+  url: "/tools/rapidapi/"
+  featured: false
+- name: Scout
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-scout-image-wGK9L4rS8MjwPxsqNotFLuNyQbgRiw.avif
+  categories:
+  - AI Personalization
+  - AI Email Outreach
+  - Email Finder
+  - LinkedIn Extension
+  - Phone Number Finders
+  - AI Account Research
+  - Lead Scraping & Data Extraction
+  - AI Lead Intelligence
+  - Lead Scraping
+  pricing_tier: Free Trial
+  pricing_starting_at: "$79.00"
+  use_cases:
+  - Import contacts from LinkedIn
+  - Find accurate contact information
+  - AI-personalize email content
+  description: Scout is an AI B2B prospecting tool with one-click LinkedIn import,
+    accurate contact data, and AI-personalized emails.
+  url: "/tools/scout/"
+  featured: false
+- name: We-Connect
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-we-connect-image-0rdCzKhTL1yrpgUhe7t0kVBMYkAvv4.avif
+  categories:
+  - AI LinkedIn Outreach
+  - LinkedIn Automation
+  - LinkedIn Outreach Automation
+  - Social Media Automation
+  - Automated LinkedIn Messaging
+  - Linkedin Scraping APIs
+  - Linkedin Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$69.00"
+  use_cases:
+  - Automated LinkedIn lead generation
+  - AI personalized messaging
+  - Multi-channel email automation
+  description: We-Connect is a LinkedIn automation tool for personalized connection
+    requests, follow-ups, and multichannel outreach.
+  url: "/tools/we-connect/"
+  featured: false
+- name: Ocean.io
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-oceanio-image-EcbDLGdGNZaTyorCWe5vPFjuyfbyKj.avif
+  categories:
+  - AI Data Enrichment
+  - AI Intent Signals
+  - AI Data Provider
+  - Email Finder
+  - Technology Lookup
+  - Prospecting Database
+  - Intent Signals
+  - Firmographics
+  - Audience Targeting & Segmentation
+  - Best Data Sources
+  pricing_tier: Free Trial
+  pricing_starting_at: "$79.00"
+  use_cases:
+  - Company lookalike search
+  - People lookalikes search
+  - APIs to transfer data
+  description: Ocean.io is a B2B prospecting tool that finds lookalike companies from
+    a URL using 35M+ company and 250M+ LinkedIn profiles.
+  url: "/tools/ocean-io/"
+  featured: false
+- name: Success
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-success-image-7aTGAeOQkYz8bJK3V8xx4iQFnsy1N0.jpg
+  categories:
+  - AI Email Outreach
+  - AI Email Deliverability
+  - Lead Generation Agents
+  - Sales Agents
+  - B2B Databases
+  - Automated Email Campaigns
+  - Marketing Automation APIs
+  - Lead Generation APIs
+  - Email Tracking APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$37.00"
+  use_cases:
+  - Unlimited access to B2B leads
+  - AI-powered email writer
+  - Multi-channel outreach tools
+  description: Success.ai is a cold email platform with 700M+ verified contacts, email
+    warmup, and AI writing for B2B outreach.
+  url: "/tools/success/"
+  featured: false
+- name: Harmonic
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-harmonic-image-42QkhwZ54KOWxtqMAys7ll28A32lQs.avif
+  categories:
+  - AI Data Enrichment
+  - AI Data Provider
+  - Prospecting Database
+  - AI Account Research
+  - AI Lead Intelligence
+  - AI Lead Enrichment
+  - Lead Enrichment APIs
+  - Company Enrichment APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - Discover hidden gems
+  - Create hyper-specific searches
+  - Uncover fast growing companies
+  description: Harmonic is a startup discovery database with 30M+ companies and 190M+
+    people, with AI search and real-time alerts.
+  url: "/tools/harmonic/"
+  featured: false
+- name: ReachStream
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-reachstream-image-IKQMQNQmagU4VhXXTpQCIhF8szJN1Q.png
+  categories:
+  - Prospecting Database
+  - B2B Databases
+  - LinkedIn Outreach Automation
+  - Business Information APIs
+  - Company Data APIs
+  - B2B Contact APIs
+  - Lead Generation APIs
+  - B2B Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$29.00"
+  use_cases:
+  - B2B verified contacts instantly
+  - Advanced reachAPI integration
+  - Built-in email verifier
+  description: ReachStream is a B2B data platform with 120M+ verified contacts, advanced
+    filters, and a built-in email verifier.
+  url: "/tools/reachstream/"
+  featured: false
+- name: Topo
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-topo-image-A8dvNoRvXEwTBhe4Y3EauhBDaJa61J.avif
+  categories:
+  - AI Agents
+  - AI All-in-One Prospecting
+  - AI BDR
+  - Buyer Engagement
+  - Cold Outreach AI Agents
+  - AI LinkedIn Outreach
+  - AI SDR
+  - Automated LinkedIn Messaging
+  pricing_tier: Free Trial
+  pricing_starting_at: "$900.00"
+  use_cases:
+  - Audience building with complex criteria
+  - Identify high-value buying signals
+  - Lead qualification and vetting
+  description: Topo is an AI SDR that finds and engages qualified leads across email
+    and LinkedIn to book meetings for sales teams.
+  url: "/tools/topo/"
+  featured: false
+- name: Airscale
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-airscale-image-9Qv2gQZgP9iFpoxdfdx5fYNv0U0o1s.png
+  categories:
+  - Data Enrichment
+  - AI Agents
+  - B2B Databases
+  - Audience Targeting & Segmentation
+  - Company Data APIs
+  - Lead Enrichment APIs
+  - B2B Data APIs
+  - B2B Data Enrichment APIs
+  - Best B2B Enrichment APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - Build targeted leads lists
+  - Find verified phone numbers
+  - Find verified emails
+  description: Airscale is a lead list builder and enrichment tool that sources verified
+    contacts from 30+ data providers in real time.
+  url: "/tools/airscale/"
+  featured: false
+- name: LinkedCamp
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-linkedcamp-image-iOtOgWzD7bBC9eKbqzlee5VsPc5s2S.avif
+  categories:
+  - LinkedIn Automation
+  - Email Sender
+  - Multichannel Outreach
+  - LinkedIn Prospecting Tools
+  - Social Media Automation
+  - Linkedin Scraping APIs
+  - Linkedin Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$69.00"
+  use_cases:
+  - AI-powered multi-channel outreach
+  - Smart appointment scheduling
+  - Predictive analytics insights
+  description: LinkedCamp is a LinkedIn automation tool that runs personalized connection
+    requests, follow-ups, and AI scheduling at scale.
+  url: "/tools/linkedcamp/"
+  featured: false
+- name: Vayne
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-vayne-image-JAyF2WnKnusiSu4rRVhYOYB1BFI7By.png
+  categories:
+  - LinkedIn Prospecting Tools
+  - Lead Scraping & Data Extraction
+  - Lead Scraping
+  - Linkedin Profile Lookup APIs
+  - Linkedin Scraping APIs
+  - Linkedin Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$29.00"
+  use_cases:
+  - Scrape over daily profile limits
+  - Clean and export precise LinkedIn filters
+  - Schedule extractions in advance
+  description: Vayne is a LinkedIn scraper with email enrichment that exports clean,
+    ready-to-use profile data in bulk.
+  url: "/tools/vayne/"
+  featured: false
+- name: Meetz
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-meetz-image-V6dJmAJLX3mQC9g8qcoLDlDGbFd62G.avif
+  categories:
+  - AI Phone Dialing
+  - AI Data Provider
+  - AI Personalization
+  - AI All-in-One Prospecting
+  - AI Email Outreach
+  - AI BDR
+  - Copywriting
+  - AI SDR
+  - AI Dialer Software
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - AI personalized outreach flows
+  - Parallel dialer with AI guidance
+  - Robust email sending system
+  description: Meetz is an AI lead generation tool with a parallel dialer, personalized
+    email outreach, and automated meeting scheduling.
+  url: "/tools/meetz/"
+  featured: false
+- name: Cargo
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-cargo-image-xjQubF2Y1FFcB7i1rzhlmdPX82Iyjm.avif
+  categories:
+  - AI Sales Workflow
+  - AI Data Enrichment
+  - AI Automation
+  - Workflow Automation
+  - Data Enrichment
+  - Integrations & Workflows
+  - AI Lead Enrichment
+  - Lead Enrichment APIs
+  - Company Enrichment APIs
+  - Contact Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$0.14"
+  use_cases:
+  - Manage AI agents for leads
+  - Multi-agent workflows for GTM
+  - Real-time lead data insights
+  description: Cargo is a revenue orchestration platform that builds AI workflows
+    to unify GTM data, enrich CRM records, and prioritize leads.
+  url: "/tools/cargo/"
+  featured: false
+- name: Scrupp
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-scrupp-image-hzo522KlLMuyQtJnz5PGAe6I6NnFVa.avif
+  categories:
+  - Email Finder
+  - LinkedIn Scraping
+  - Web Scrapers
+  - Lead Scraping & Data Extraction
+  - Lead Scraping
+  - Web Scraping APIs
+  - Linkedin Profile Lookup APIs
+  - Linkedin Scraping APIs
+  - Data Scraping APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$990.00"
+  use_cases:
+  - Extract leads from LinkedIn
+  - Find verified emails quickly
+  - Export leads to CSV
+  description: Scrupp is a LinkedIn, Sales Navigator, and Apollo scraper that exports
+    leads in bulk with verified emails.
+  url: "/tools/scrupp/"
+  featured: false
+- name: AroundDeal
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-arounddeal-image-kK3DIjKKExBrbRO2rAD62MIXPWFrDU.avif
+  categories:
+  - AI Data Insights
+  - AI Data Enrichment
+  - AI Data Provider
+  - AI Sales Extension
+  - Prospect Insights
+  - Prospecting Database
+  - Multichannel Outreach
+  - AI Lead Enrichment
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - Access global verified B2B contacts
+  - Comprehensive company data insights
+  - AI-powered browser extension
+  description: AroundDeal is a global B2B database with 160M+ verified contacts and
+    a LinkedIn extension for finding emails and phone numbers.
+  url: "/tools/arounddeal/"
+  featured: false
+- name: SalesIntel
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-salesintel-image-2VxorGS1ZhKufvR6bTQUf3blVXiFjV.avif
+  categories:
+  - Technology Lookup
+  - Prospect Insights
+  - Prospecting Database
+  - Intent Signals
+  - B2B Databases
+  - Technographic Data APIs
+  - Business Information APIs
+  - Company Data APIs
+  - B2B Contact APIs
+  - B2B Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - Human-verified B2B data
+  - Highest accuracy accounts and contacts
+  - Actionable buyer intent data
+  description: SalesIntel is a B2B data provider with human-verified contacts, business
+    emails, and mobile numbers for pipeline generation.
+  url: "/tools/salesintel/"
+  featured: false
+- name: Jason AI SDR
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-jason-ai-sdr-image-lWolcigb5OgYlNDL7qyI8G2VBO1UEu.avif
+  categories:
+  - AI Sales Assistant
+  - AI All-in-One Prospecting
+  - AI BDR
+  - Sales Assistant
+  - Sales Agents
+  - Lead Generation Agents
+  - Cold Outreach AI Agents
+  - Email Automation AI Agents
+  - AI SDR
+  - AI Sales Copilot
+  pricing_tier: Free Trial
+  pricing_starting_at: "$500.00"
+  use_cases:
+  - Learns your product and strategy
+  - Finds ideal customers
+  - Personalizes outreach across channels
+  description: Jason AI SDR is an AI sales agent that finds prospects and runs personalized
+    email and LinkedIn outreach to book meetings.
+  url: "/tools/jason-ai-sdr/"
+  featured: false
+- name: Salesforce
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-salesforce-image-8KjAyo5x8AMfEpOp1kHa4OkdqJrH32.avif
+  categories:
+  - CRMs
+  - Sales Assistant
+  - CRM Built-In Data
+  - AI CRM
+  - LinkedIn Commerce & B2B
+  - CRM APIs
+  - MCPs For Sales AI Agents
+  - CRM Enrichment APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$325.00"
+  use_cases:
+  - Capture and track customer data
+  - Build and customise AI agents
+  - Manage customer support cases
+  description: Salesforce is a CRM platform that unifies sales, service, and marketing
+    with AI, automation, and a deep integration ecosystem.
+  url: "/tools/salesforce/"
+  featured: false
+- name: PipeLaunch
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-pipelaunch-image-Bt6Vke36saHoe0KWCOhJKkBXtryAZu.png
+  categories:
+  - Data Enrichment
+  - AI Data Enrichment
+  - Lead Scraping & Data Extraction
+  - AI Lead Enrichment
+  - Lead Scraping
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - One-click extraction
+  - New leads finder
+  - Prospect insights
+  description: PipeLaunch is a Salesforce-native data enrichment app with one-click
+    enrichment, email verification, and GDPR-compliant data.
+  url: "/tools/pipelaunch/"
+  featured: false
+- name: Cerebria Tech (Hello Dexter)
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-cerebria-tech-image-navbPgP9u5GSthDPUkeJobN1wp3mYk.avif
+  categories:
+  - AI Data Enrichment
+  - AI Data Provider
+  - AI Personalization
+  - AI Email Outreach
+  - Prospecting Database
+  - Audience Targeting & Segmentation
+  - AI Lead Enrichment
+  pricing_tier: Free Trial
+  pricing_starting_at: "$299.00"
+  use_cases:
+  - Triple-verified data accuracy
+  - Unlimited exports allowed
+  - Unlimited searches available
+  description: Cerebria Tech (Hello Dexter) is a B2B contact database built for sales
+    lead generation and prospecting.
+  url: "/tools/cerebria-tech-hello-dexter/"
+  featured: false
+- name: Golden Leads
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-golden-leads-image-11p5sPFBs3ew834ykRTeCWFBlNZX0c.png
+  categories:
+  - AI Data Provider
+  - Prospecting Database
+  - Email Finder
+  - Lead Scraping & Data Extraction
+  - Lead Scraping
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - Secure high-volume LinkedIn data extractor
+  - Real-time accurate lead enrichment
+  - Restriction-proof virtual accounts
+  description: Golden Leads is a cloud-based LinkedIn Sales Navigator extractor that
+    pulls real-time lead data with no search limits.
+  url: "/tools/golden-leads/"
+  featured: false
+- name: Rows
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-rows-image-1dqOWxVCK6CaEDZ7i7m6gH9vvZ6XO0.avif
+  categories:
+  - AI Data Enrichment
+  - AI Data Provider
+  - AI Automation
+  - Workflow Automation
+  - Integrations & Workflows
+  - AI Lead Enrichment
+  - Lead Enrichment APIs
+  - Company Enrichment APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$6.00"
+  use_cases:
+  - AI data extraction and analysis
+  - Seamless tool integrations
+  - Automatic data refresh
+  description: Rows is an AI-powered spreadsheet that combines data from 50+ sources
+    for fast analysis, enrichment, and reporting.
+  url: "/tools/rows/"
+  featured: false
+- name: Salesrobot
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-salesrobot-image-7OLlu6X0OO2KLyhO1NKFpYrAOf3Pk3.avif
+  categories:
+  - AI LinkedIn Outreach
+  - Multichannel Outreach
+  - AI Copywriting
+  - LinkedIn Outreach Automation
+  - Social Media Automation
+  - AI Content Writing
+  - Automated LinkedIn Messaging
+  - Linkedin Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$39.00"
+  use_cases:
+  - LinkedIn and cold email automation
+  - AI personalized voice notes and videos
+  - AI inbox manager for meetings
+  description: Salesrobot is a LinkedIn and cold email automation tool for personalized
+    outreach with messages, voice notes, and videos.
+  url: "/tools/salesrobot/"
+  featured: false
+- name: Unify
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-unify-image-zIlBZdq730RIu3UgIaTJezlu7y8z6P.avif
+  categories:
+  - AI Agents
+  - AI Sales Assistant
+  - AI Sales Workflow
+  - AI Data Enrichment
+  - AI Intent Signals
+  - AI Multichannel Outreach
+  - AI Data Provider
+  - AI Automation
+  - AI Personalization
+  - AI All-in-One Prospecting
+  pricing_tier: Free Trial
+  pricing_starting_at: "$1460.00"
+  use_cases:
+  - Signals for person and company insights
+  - Build scalable repeatable plays
+  - Automate research and personalization
+  description: Unify is a warm outbound platform that combines intent signals, AI,
+    and automation to run personalized multichannel sequences.
+  url: "/tools/unify/"
+  featured: false
+- name: Tactic
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-tactic-image-y6wnQ0KbvgJwZxWscpnkPDayAsFVP5.avif
+  categories:
+  - AI Data Enrichment
+  - AI Data Provider
+  - Prospecting Database
+  - Intent Signals
+  - Account-Based Selling
+  - Market Intelligence Tools
+  - AI Lead Enrichment
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - Generate unique target accounts
+  - AI-driven customer insights
+  - No-code AI builder
+  description: Tactic is a GTM data automation platform that uses AI to build target
+    accounts and customer insights from multiple sources.
+  url: "/tools/tactic/"
+  featured: false
+- name: Tami AI
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-tami-ai-image-5KzHT4h0L6uTPxyDpKbluXzo0muDfO.png
+  categories:
+  - Prospecting Database
+  - AI All-in-One Prospecting
+  - B2B Databases
+  - Market Intelligence Tools
+  - Business Information APIs
+  - B2B Contact APIs
+  - Lead Generation APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$47.00"
+  use_cases:
+  - Accurate contact data refresh
+  - Real-time CRM contact alerts
+  - AI-powered market reports
+  description: TAMI AI is a B2B lead generation tool with real-time verified contact
+    data, company insights, and CRM integrations.
+  url: "/tools/tami-ai/"
+  featured: false
+- name: Ubico
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-ubico-image-EJi0F4nPa6NWOLhfAFwPYIatgzyAfq.avif
+  categories:
+  - AI Data Provider
+  - AI Email Outreach
+  - Technology Lookup
+  - Email Sender
+  - Prospecting Database
+  - AI CRM
+  pricing_tier: Free Trial
+  pricing_starting_at: "$100.00"
+  use_cases:
+  - AI-powered sales engagement
+  - Multi-channel personalized outreach
+  - Dozens of data integrations
+  description: Ubico is an AI sales engagement platform that finds leads and runs
+    personalized multichannel outreach from a unified inbox.
+  url: "/tools/ubico/"
+  featured: false
+- name: Teamfluence
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-teamfluence-image-L9X4W1dDAvkOjkqH8IVwjvLoWZjdNo.png
+  categories:
+  - LinkedIn Automation
+  - AI Sales Workflow
+  - LinkedIn Prospecting Tools
+  - LinkedIn Outreach Automation
+  - Linkedin Scraping APIs
+  - Linkedin Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$89.00"
+  use_cases:
+  - LinkedIn automation for sales teams
+  - Collect and enrich social signals
+  - Identify 100% LinkedIn traffic
+  description: Teamfluence is a LinkedIn tool that tracks social signals and enriches
+    leads to power sales outreach and social selling.
+  url: "/tools/teamfluence/"
+  featured: false
+- name: CUFinder
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-cufinder-image-XzyzVpNJKnqp7PT3aWo5XIywU0gQ4S.png
+  categories:
+  - Prospecting Database
+  - AI All-in-One Prospecting
+  - B2B Databases
+  - Business Information APIs
+  - Company Data APIs
+  - People Search APIs
+  - Lead Generation APIs
+  - B2B Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - Contact and account search
+  - Enrich company and person data
+  - Find business emails and phones
+  description: CUFinder is an all-in-one B2B sales intelligence and enrichment platform
+    with verified leads and company data.
+  url: "/tools/cufinder/"
+  featured: false
+- name: Lima Data
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-lima-data-image-c8ggjPoBaMz9Bukzjlb4OVVOD3Cdb2.png
+  categories:
+  - Prospecting Database
+  - AI Agent Builders
+  - B2B Databases
+  - Business Information APIs
+  - Company Data APIs
+  - People Search APIs
+  - B2B Contact APIs
+  - Lead Generation APIs
+  - B2B Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$50.00"
+  use_cases:
+  - Find verified emails instantly
+  - Deliver mobile numbers accurately
+  - Real-time contact data updates
+  description: Lima Data is a B2B data API delivering real-time verified people and
+    company data for prospecting and enrichment.
+  url: "/tools/lima-data/"
+  featured: false
+- name: Firmable
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-firmable-image-H4m6YO7N6ez5wUaThqwRTC76Joed1E.png
+  categories:
+  - Prospecting Database
+  - AI Agents
+  - AI Sales Intelligence Agents
+  - B2B Databases
+  - Business Information APIs
+  - Company Data APIs
+  - Lead Generation APIs
+  - B2B Data APIs
+  - Firmographic Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$149.00"
+  use_cases:
+  - Access verified ANZ companies and contacts
+  - Use AI to build ICP-matched lists
+  - Track buying signals and intent
+  description: Firmable is the largest AI-powered B2B database for Australia and New
+    Zealand, with buying signals and CRM integrations.
+  url: "/tools/firmable/"
+  featured: false
+- name: B2B Rocket
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-b2b-rocket-image-F8Vp89yOMBiJ8utfPx730YgODTsHf0.avif
+  categories:
+  - AI BDR
+  - Lead Generation Agents
+  - Sales Agents
+  - Cold Outreach AI Agents
+  - Email Automation AI Agents
+  - AI SDR
+  pricing_tier: Free Trial
+  pricing_starting_at: "$599.00"
+  use_cases:
+  - Unlimited AI agents build
+  - Advanced contact database search
+  - Multichannel outreach options
+  description: B2B Rocket is an AI sales platform that automates lead generation and
+    multichannel outreach with AI agents.
+  url: "/tools/b2b-rocket/"
+  featured: false
+- name: Saleleads
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-saleleads-image-cp9B928RuhqtMpoHlr5vsVnSt9QgLO.png
+  categories:
+  - LinkedIn Prospecting Tools
+  - Lead Scraping & Data Extraction
+  - Lead Scraping
+  - Linkedin Scraping APIs
+  - Data Scraping APIs
+  - Linkedin Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - Easily get public LinkedIn data
+  - LinkedIn data extraction API
+  - Access real-time LinkedIn insights
+  description: Saleleads is a LinkedIn data API that extracts public profile, company,
+    and job data for lead generation.
+  url: "/tools/saleleads/"
+  featured: false
+- name: LinkedIn Sales Navigator
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-linkedin-sales-navigator-image-F3wksUIM9Mwj2yBfrEUEPvEDw6cENo.avif
+  categories:
+  - Prospecting
+  - Email Finder
+  - Prospecting Database
+  - Lead Scraping & Data Extraction
+  - B2B Databases
+  - Lead Scraping
+  pricing_tier: Free Trial
+  pricing_starting_at: "$119.99"
+  use_cases:
+  - Find the right people quickly
+  - Engage with real-time lead alerts
+  - Add leads directly to CRM
+  description: LinkedIn Sales Navigator is a B2B prospecting tool with advanced search
+    filters, real-time alerts, and CRM sync.
+  url: "/tools/linkedin-sales-navigator/"
+  featured: false
+- name: Aimfox
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-aimfox-image-1YIcEK4jPoGTbB0Cmz4gCMWg1kwSzP.jpg
+  categories:
+  - LinkedIn Automation
+  - AI LinkedIn Outreach
+  - LinkedIn Outreach Automation
+  - LinkedIn Outreach at Scale
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - Unlimited LinkedIn profile access
+  - AI customization for messages
+  - Native rented LinkedIn profiles
+  description: Aimfox is a LinkedIn outreach tool that scales lead generation with
+    rented profiles, automation, and a unified inbox.
+  url: "/tools/aimfox/"
+  featured: false
+- name: KnowFirst
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-knowfirst-image-6uqNgWzgiXGDHmRGcP4jji5wKqAhLG.png
+  categories:
+  - Prospecting Database
+  - B2B Databases
+  - Business Information APIs
+  - Company Data APIs
+  - Lead Generation APIs
+  - B2B Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$0.30"
+  use_cases:
+  - Access Australia's largest B2B database
+  - Create highly targeted sales lists
+  - Enrich CRM with API & Zapier
+  description: KnowFirst is Australia's largest B2B business database, with monthly-updated
+    company and contact data and API access.
+  url: "/tools/knowfirst/"
+  featured: false
+- name: ExactBuyer
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-exactbuyer-image-YPpghLAYwUbCIOVxb0fyu5OlxaKL5z.svg
+  categories:
+  - AI Data Provider
+  - Prospecting Database
+  - B2B Databases
+  - Business Information APIs
+  - Company Data APIs
+  - B2B Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$79.00"
+  use_cases:
+  - AI-driven contact enrichment
+  - Real-time audience building
+  - Personalized outreach campaigns
+  description: ExactBuyer is an AI prospecting tool that enriches CRM contacts with
+    115+ attributes and builds target audiences in real time.
+  url: "/tools/exactbuyer/"
+  featured: false
+- name: Coresignal
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-coresignal-image-YgW4BrM9Dq7HKc6JftloWbB2AMB3DZ.avif
+  categories:
+  - Prospecting Database
+  - Data Enrichment
+  - Firmographics
+  - Company Data APIs
+  - Company Enrichment APIs
+  - B2B Data APIs
+  - Firmographic Data APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - Real-time company and employee data
+  - AI-enriched company profiles
+  - Comprehensive job posting database
+  description: Coresignal is a B2B data provider with 3B+ public records on companies,
+    employees, and jobs, delivered via datasets and APIs.
+  url: "/tools/coresignal/"
+  featured: false

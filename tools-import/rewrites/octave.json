@@ -1,0 +1,10 @@
+{
+  "description": "Octave is a generative GTM platform that turns your ICP and positioning into live, context-aware messaging, helping teams research accounts and personalize outreach.",
+  "tagline": "Generative GTM messaging",
+  "overview": "Octave helps go-to-market teams research accounts, qualify leads, and generate tailored messaging in real time, turning static ICP and positioning docs into a live engine.",
+  "what_is": [
+    "Octave is a generative GTM tool for sharper outbound. It helps teams research leads, qualify accounts, and produce tailored messaging on the fly, turning static ICP and positioning documents into a live, context-aware engine that powers personalized campaigns.",
+    "It is strongest at creating precise messaging, aligning teams on positioning, and quickly producing updated GTM playbooks. Because it generates from your own context, useful output appears within minutes of setup.",
+    "Octave integrates with CRMs, email sequencers, and orchestration tools through APIs to fit the stack. It is not a CRM or a basic marketing tool; it focuses on dynamic outbound strategy and messaging."
+  ]
+}

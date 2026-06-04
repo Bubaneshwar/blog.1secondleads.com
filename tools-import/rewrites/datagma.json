@@ -1,0 +1,10 @@
+{
+  "description": "Datagma is a real-time B2B enrichment tool that finds verified emails and mobile numbers via a Chrome extension, API, or upload, charging only for valid data.",
+  "tagline": "Find emails and enrich B2B data",
+  "overview": "Datagma finds verified business emails and mobile numbers in real time through a Chrome extension, API, and file upload, with GDPR compliance and pay-for-valid pricing.",
+  "what_is": [
+    "Datagma is a B2B enrichment tool that returns verified emails and mobile numbers in real time rather than from a static database. It is GDPR-conscious and charges only for the data that comes back valid, which keeps spend tied to usable contacts.",
+    "It is strongest at enriching contact lists, detecting job changes, extracting contacts from LinkedIn or X, and bulk-updating CRM records. Results are instant, so teams get fresh data into outreach quickly.",
+    "Datagma integrates through API, file upload, and a Chrome extension to enrich CRMs and tools like HubSpot. It focuses on enrichment rather than running campaigns or long-term storage, keeping your CRM current without replacing the stack."
+  ]
+}

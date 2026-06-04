@@ -1,0 +1,10 @@
+{
+  "description": "Pocus is a revenue data platform that unifies signals and uses AI to prioritize accounts and tell reps the next best action, surfacing it in their daily workflow.",
+  "tagline": "Revenue data platform for GTM",
+  "overview": "Pocus unifies go-to-market data and uses AI to prioritize opportunities, deliver clear next steps, and surface relevant accounts and messaging in reps' daily workflow.",
+  "what_is": [
+    "Pocus is a sales-focused AI platform that helps reps prioritize accounts and actions. Instead of dumping raw signals, it delivers clear next steps, which cuts the guesswork of what to work on next.",
+    "It is strongest for outbound teams suffering from tool overload and unclear priorities, with pipeline and workflow gains usually appearing within weeks. It suits teams that want guidance rather than another dashboard to interpret.",
+    "Pocus integrates with CRMs, sales engagement platforms, and email tools, surfacing relevant accounts and suggested messages in the rep's daily flow. It focuses on day-to-day sales decisions rather than standalone marketing automation or deep analytics."
+  ]
+}

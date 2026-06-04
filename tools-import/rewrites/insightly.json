@@ -1,0 +1,10 @@
+{
+  "description": "Insightly is a CRM with marketing automation that centralizes customer data, manages pipelines, and automates workflows for sales, marketing, and service teams.",
+  "tagline": "CRM and marketing automation",
+  "overview": "Insightly centralizes customer data, manages sales pipelines, runs marketing campaigns, and handles support tickets, with a no-code integration engine to connect other apps.",
+  "what_is": [
+    "Insightly is a CRM that keeps customer data, leads, and deals in one place and makes it easy to automate workflows. It spans sales, marketing, and support, so teams can track pipeline, run campaigns, and handle tickets without separate systems.",
+    "It is a good fit for teams that want quick setup and a no-credit-card trial, with faster sales velocity showing up soon after adoption. It works across sales, marketing, and service rather than just one function.",
+    "Insightly integrates with apps like Gmail, Slack, and QuickBooks to fit the GTM stack. It focuses on CRM and marketing automation rather than full ERP or accounting."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "description": "Cargo is a revenue orchestration platform that builds AI workflows to unify GTM data, enrich CRM records, and prioritize leads.",
+  "tagline": "Revenue orchestration on top of your data warehouse",
+  "overview": "Cargo lets go-to-market and RevOps teams build AI workflows that unify their stack, aggregate data, enrich CRM records, and surface the best opportunities to accelerate revenue.",
+  "what_is": [
+    "Cargo is an AI platform for go-to-market teams that turns data into action with multi-agent workflows for lead research, enrichment, scoring, and personalized multichannel engagement. It pulls from more than 30 data providers and scores leads in real time, so teams can focus on the right prospects without adding headcount.",
+    "It integrates with CRMs, email platforms, and third-party data sources, keeping the CRM updated and triggering personalized outreach automatically. Cargo is built for deep lead intelligence and automation rather than general project management or basic email marketing."
+  ]
+}

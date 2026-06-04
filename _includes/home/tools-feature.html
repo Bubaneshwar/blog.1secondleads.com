@@ -1,0 +1,23 @@
+{% comment %} Directory teaser — reuses the /tools/ card component & grid for an exact design match. {% endcomment %}
+{% assign featured_tools = site.data.tools | where: 'featured', true %}
+<section class="tools-section home-section" id="directory" aria-labelledby="home-feature-title">
+  <h2 id="home-feature-title" class="tools-section__title-center">The B2B sales tools, compared <span class="brand-accent">honestly</span>.</h2>
+  <p class="home-section__lead">
+    {{ site.data.tools | size }} tools across prospecting, enrichment, outbound, deliverability,
+    and AI GTM, with pricing, use cases, and real alternatives.
+  </p>
+
+  <div class="tools-grid tools-grid--featured">
+    {% for tool in featured_tools %}
+      {% comment %} Link each card to its own tool page; fall back to the directory if a
+         featured tool has no local page yet (external/empty url). {% endcomment %}
+      {% assign card_href = tool.url | default: '/tools/' %}
+      {% if card_href contains '://' %}{% assign card_href = '/tools/' %}{% endif %}
+      {% include tools/tool-card.html tool=tool href=card_href stretch=true %}
+    {% endfor %}
+  </div>
+
+  <div class="home-cta-row">
+    <a class="home-cta" href="{{ '/tools/' | relative_url }}">Browse all {{ site.data.tools | size }} tools</a>
+  </div>
+</section>

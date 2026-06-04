@@ -1,0 +1,9 @@
+{
+  "description": "Scalelist extracts LinkedIn Sales Navigator leads and exports them with verified emails and phone numbers.",
+  "tagline": "LinkedIn Sales Navigator scraper with verified emails",
+  "overview": "Scalelist extracts leads from LinkedIn Sales Navigator and exports them with verified emails and phone numbers, keeping data fresh with weekly updates.",
+  "what_is": [
+    "Scalelist is a B2B data tool that finds and verifies professional emails and mobile numbers from LinkedIn Sales Navigator. It delivers up to 90% verified contacts and refreshes data weekly to keep lists accurate.",
+    "It is strongest for building prospect lists, enriching contacts, and tracking job changes automatically, with ready-to-use data for your CRM or email outreach. Scalelist integrates with CRMs like HubSpot and Salesforce and stays focused on enrichment and outreach data rather than lead scoring or full marketing automation."
+  ]
+}

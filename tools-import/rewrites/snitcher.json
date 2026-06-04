@@ -1,0 +1,10 @@
+{
+  "description": "Snitcher identifies the companies behind anonymous website traffic in real time, enriches them, and syncs qualified leads to your CRM to automate follow-up.",
+  "tagline": "Identify anonymous website visitors",
+  "overview": "Snitcher reveals the companies visiting your site, enriches and scores them in real time, and syncs qualified leads into CRMs like HubSpot to automate outreach.",
+  "what_is": [
+    "Snitcher is a website visitor identification tool that shows which companies are behind your traffic. It identifies, enriches, and helps engage visitors in real time, turning anonymous clicks into qualified leads with buying intent.",
+    "It is strongest at uncovering hidden demand, reaching decision-makers, and automating lead scoring and workflows. Actionable leads appear within seconds of setup, so teams focus on closing rather than chasing cold lists.",
+    "Snitcher integrates with the GTM stack, syncing with CRMs like HubSpot to automate outreach and enrich data. It is built for B2B lead identification and account prioritization rather than chatbots or consumer-audience tracking."
+  ]
+}

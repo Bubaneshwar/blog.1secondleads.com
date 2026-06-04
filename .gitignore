@@ -42,3 +42,11 @@ Gemfile.lock # Optional, see note below
 # node_modules/
 # *.log
 # tmp/
+# Tool import raw data (regenerable; excluded from the built site)
+tools-import/scraped/
+tools-import/reports/
+tools-import/logs/
+tools-import/backup-prerewrite/
+
+# Editor temp files
+*.tmp.*

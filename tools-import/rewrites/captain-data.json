@@ -1,0 +1,10 @@
+{
+  "description": "Captain Data is a B2B data and automation platform with a unified API for enriching leads, pulling intent signals, and powering sales workflows at scale.",
+  "tagline": "B2B data and automation API",
+  "overview": "Captain Data gives sales and RevOps teams a unified API to enrich leads and companies, capture intent signals, and automate prospecting workflows at scale.",
+  "what_is": [
+    "Captain Data is a data and automation platform for sales and revenue operations. It exposes a single API to find and enrich leads, companies, and signals, so teams can pull high-quality B2B data into their systems without managing many separate integrations.",
+    "It is most useful for automating prospecting workflows, enriching buyer profiles, and detecting engagement signals at scale, including powering AI sales tools. Teams typically wire it into their go-to-market processes within days to feed real-time data downstream.",
+    "Captain Data complements CRMs and email systems by supplying clean profile and intent data and automating the steps around it. It is a data and workflow layer rather than a direct engagement platform or CRM."
+  ]
+}

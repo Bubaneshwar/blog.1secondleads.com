@@ -1,0 +1,10 @@
+{
+  "description": "Hunter finds and verifies professional email addresses by domain or name and runs simple cold email campaigns, helping teams build accurate outreach lists fast.",
+  "tagline": "Find and verify work emails",
+  "overview": "Hunter locates professional email addresses from a company domain or a person's name, verifies them to cut bounces, and runs straightforward cold email campaigns from the same place.",
+  "what_is": [
+    "Hunter is an email-finding and outreach tool. Give it a domain or a name and it returns likely professional addresses, then checks them so your list does not bounce. From there you can launch cold email campaigns without moving the data into another app.",
+    "It suits salespeople, recruiters, and marketers who need verified contacts quickly and want personalized cold outreach that still feels human. The interface is simple and there is a free tier, so a team can go from a domain to a sent campaign in minutes.",
+    "In a wider stack Hunter acts as an enrichment and sending layer, connecting to CRMs, Google Sheets, and other tools. It is not a heavy marketing-automation platform; its strength is building accurate lists and running targeted cold email."
+  ]
+}

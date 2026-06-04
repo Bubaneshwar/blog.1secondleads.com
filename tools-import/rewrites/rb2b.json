@@ -1,0 +1,10 @@
+{
+  "description": "RB2B identifies the people behind your US website traffic and pushes person-level leads to Slack and your CRM in real time for fast follow-up.",
+  "tagline": "Person-level website visitor identity",
+  "overview": "RB2B matches website visitors to real people and companies, pushing person-level leads to Slack and CRMs in real time, with filters for firmographic and behavioral data.",
+  "what_is": [
+    "RB2B is a website visitor identification tool that resolves traffic to person-level identity for US visitors and company-level identity more broadly. It turns anonymous visits into named leads you can follow up on, with real-time data pushed to tools like Slack and your CRM.",
+    "It is most useful for surfacing high-value leads filtered by attributes like company size, revenue, or location. Setup takes minutes, and leads start appearing in Slack almost immediately, so teams can act on intent without waiting.",
+    "RB2B integrates with many apps including Salesforce, HubSpot, and Slack, fitting the GTM stack for enrichment and outreach. Person-level identification is US-focused due to privacy rules like GDPR, so its sweet spot is fast US lead identification."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "description": "Sybill is an AI assistant for sales reps that automates meeting prep, call notes, follow-up emails, and CRM updates, built around sales deal workflows.",
+  "tagline": "AI personal assistant for sales reps",
+  "overview": "Sybill automates the admin around selling, handling meeting prep, call capture, follow-up emails, and CRM updates, with AI tuned to sales logic rather than generic notes.",
+  "what_is": [
+    "Sybill is an AI sales assistant for account executives. It supports the whole meeting cycle, preparing reps beforehand, capturing key details during the call, and drafting follow-ups and CRM updates afterward, which removes much of the manual admin.",
+    "It is built specifically for sales workflows and deal management, acting like a deal copilot rather than a generic transcription tool. Reps tend to see time saved and cleaner pipeline data within days.",
+    "Sybill integrates with email, calendar, Slack, and CRM systems to keep records accurate and workflows smooth. Its focus is sales-specific assistance, not basic call transcription."
+  ]
+}

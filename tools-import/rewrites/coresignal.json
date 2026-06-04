@@ -1,0 +1,9 @@
+{
+  "description": "Coresignal is a B2B data provider with 3B+ public records on companies, employees, and jobs, delivered via datasets and APIs.",
+  "tagline": "A steady stream of fresh company and people data",
+  "overview": "Coresignal provides fresh public web data on companies, employees, and jobs through datasets and APIs, aggregating billions of records for sales, investment, HR, and market research.",
+  "what_is": [
+    "Coresignal is a data provider offering real-time company, employee, and job posting data. It aggregates more than 3 billion public records from over 15 sources, delivering clean, enriched data for teams that need reliable public web data.",
+    "It is strongest for tracking company performance, generating leads, investment research, recruitment, and labor-market analysis, with records available in CSV or JSONL and AI-powered natural-language queries. Coresignal fits the stack as an enrichment and market-intelligence source for CRM, sales, and HR platforms, focused on ethical, publicly available data."
+  ]
+}

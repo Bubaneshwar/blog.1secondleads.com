@@ -1,0 +1,10 @@
+{
+  "description": "ReachInbox is an AI cold email platform that finds prospects, personalizes campaigns, automates warm-up and follow-ups, and manages replies in a unified inbox.",
+  "tagline": "AI-powered cold email outreach",
+  "overview": "ReachInbox runs AI cold email outreach end to end, finding prospects, writing personalized campaigns, automating warm-up and follow-ups, and handling replies in one inbox.",
+  "what_is": [
+    "ReachInbox is an AI cold outreach tool that helps teams find prospects, write personalized cold emails, and keep messages out of spam. It combines lead generation, personalization, and deliverability warm-up in one platform.",
+    "It is strongest when you need to generate leads, book meetings, and scale outreach without manual effort, since it automates warm-up, personalization, and follow-ups. That suits B2B SaaS founders, startups, and sales teams.",
+    "ReachInbox works with any email provider and fits the GTM stack alongside CRMs and enrichment tools via APIs and webhooks. It is focused on cold email and reply management in a unified inbox rather than full CRM or multichannel marketing."
+  ]
+}

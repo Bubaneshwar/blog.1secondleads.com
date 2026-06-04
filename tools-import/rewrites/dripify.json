@@ -1,0 +1,10 @@
+{
+  "description": "Dripify is a cloud-based LinkedIn automation tool that runs drip outreach campaigns, so sales teams, agencies, and recruiters can generate leads on autopilot.",
+  "tagline": "LinkedIn automation and prospecting",
+  "overview": "Dripify automates LinkedIn outreach with cloud-based drip campaigns, team management, performance analytics, and data export, helping teams prospect and follow up without manual work.",
+  "what_is": [
+    "Dripify is a sales automation tool that streamlines LinkedIn and email outreach. It connects with, messages, and follows up with prospects automatically, and personalizes messages using a wide set of variables to lift response rates.",
+    "It fits sales teams, business owners, recruiters, and agencies running lead-generation campaigns. Because it runs in the cloud, campaigns keep working without your machine on, and the analytics view shows how each sequence is performing.",
+    "Dripify integrates with CRMs, email tools, and enrichment platforms, slotting into a go-to-market stack as the outreach-automation layer. It is focused on prospecting and follow-up rather than full marketing automation or customer support."
+  ]
+}

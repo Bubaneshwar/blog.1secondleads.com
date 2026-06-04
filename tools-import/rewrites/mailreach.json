@@ -1,0 +1,10 @@
+{
+  "description": "MailReach is an email deliverability tool that warms up inboxes and runs spam tests to land cold emails in the inbox.",
+  "tagline": "Email warmup and deliverability",
+  "overview": "MailReach improves sender reputation and inbox placement with automated email warmup and spam testing, so cold campaigns reach the inbox.",
+  "what_is": [
+    "MailReach is an email deliverability tool focused on inbox placement. It handles email warmup and spam testing, using a network of high-reputation accounts and tested rules to maintain sender reputation automatically.",
+    "It suits founders, marketers, salespeople, and lead gen or recruitment agencies running cold outreach, with reply and deliverability improvements often visible within weeks. It works alongside any CRM and email provider as a dedicated deliverability layer.",
+    "MailReach supports any SMTP provider but is not a full campaign manager or list builder, since it focuses purely on warmup and spam testing."
+  ]
+}

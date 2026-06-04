@@ -1,0 +1,10 @@
+{
+  "description": "Groove is a help-desk and shared-inbox tool that manages customer support conversations in one place, with AI automation to speed up replies and ticket handling.",
+  "tagline": "Simple help desk with AI automation",
+  "overview": "Groove is a ticketing and shared-inbox tool for support teams, keeping customer conversations in one place and using AI to automate repetitive tasks and speed replies.",
+  "what_is": [
+    "Groove is a help-desk tool for customer support teams. It collects customer conversations into a shared inbox so a team can collaborate easily, and it automates repetitive tasks with AI features that speed up replies and ticket handling.",
+    "It is best for growing teams that need support organized across email and messages without heavy tooling. It is quick to set up, and teams report meaningful time savings and faster response once it is in place.",
+    "Groove integrates with CRM, Slack, Salesforce, HubSpot, and more to fit an existing stack. It is built specifically for support and ticketing rather than enterprise resource planning or deep analytics."
+  ]
+}

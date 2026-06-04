@@ -1,0 +1,10 @@
+{
+  "description": "SmartWriter is an AI copywriting tool that generates personalized cold emails and outreach using real-time data about each prospect to lift reply rates.",
+  "tagline": "AI personalization for cold email",
+  "overview": "SmartWriter writes personalized cold emails and outreach at scale, pulling real-time online data about each prospect so messages feel researched rather than generic.",
+  "what_is": [
+    "SmartWriter is an AI copywriting tool for personalized cold outreach. It generates tailored emails quickly by drawing on real-time data about the recipient, which makes each message feel specific and helps lift reply rates without manual research.",
+    "It is strongest for B2B sales, backlink outreach, and social content, especially when you need many unique emails with little effort. Teams typically get usable, personalized outreach within days of starting.",
+    "SmartWriter fits the stack by supplying verified emails and contextual messaging that feed CRMs and sequences. It focuses on English cold-outreach copy rather than long-form articles, so it pairs with your sending tools."
+  ]
+}

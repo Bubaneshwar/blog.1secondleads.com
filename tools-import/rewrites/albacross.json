@@ -1,0 +1,10 @@
+{
+  "description": "Albacross identifies the companies visiting your website, segments them by buying intent, and automates personalized email and LinkedIn outreach to warm leads.",
+  "tagline": "Website visitor identification and outreach",
+  "overview": "Albacross reveals the companies behind anonymous website visitors, segments them by intent, and triggers personalized email and LinkedIn sequences, syncing with CRMs.",
+  "what_is": [
+    "Albacross is a website visitor identification and intent tool for sales and marketing teams. It reveals the companies behind anonymous traffic and segments them by buying intent, so outreach targets accounts that are actually showing interest.",
+    "Its strength is focusing effort on the warmest visitors and shortening sales cycles. A tracking snippet takes minutes to install, after which it segments visitors automatically and can trigger personalized email and LinkedIn sequences so reps work only the leads worth their time.",
+    "Albacross fits the GTM stack by syncing with CRMs like Salesforce and HubSpot, email platforms, and LinkedIn, and enriches visitor data with firmographics. It is an intent-driven lead-gen and engagement tool rather than a platform for managing all customer communication or deep analytics."
+  ]
+}

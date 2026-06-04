@@ -1,0 +1,10 @@
+{
+  "description": "Hyperbound is an AI sales roleplay and coaching tool where reps practice cold, warm, and discovery calls against realistic AI buyers and get instant feedback.",
+  "tagline": "AI roleplay and call coaching",
+  "overview": "Hyperbound lets reps practice sales calls against realistic AI buyer personas, get AI feedback and scorecards, and follow personalized training plans to cut ramp time.",
+  "what_is": [
+    "Hyperbound is an AI sales coaching tool built around roleplay. Reps practice cold, warm, and discovery calls against realistic AI buyers and get actionable feedback, which scales coaching that would otherwise need a manager on every call.",
+    "It is strongest for onboarding new hires, practicing call types, and certifying reps on new messaging. Practice and feedback are available immediately without a live prospect, and its AI analyzes real calls to find skill gaps and recommend training.",
+    "Hyperbound integrates with call systems and CRMs to import calls and deliver scorecards. It is not a CRM or lead-generation tool; it focuses on improving rep performance through practice and coaching."
+  ]
+}

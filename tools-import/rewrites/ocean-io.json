@@ -1,0 +1,9 @@
+{
+  "description": "Ocean.io is a B2B prospecting tool that finds lookalike companies from a URL using 35M+ company and 250M+ LinkedIn profiles.",
+  "tagline": "B2B lookalike search for prospecting data",
+  "overview": "Ocean.io helps B2B teams find ideal prospects by identifying lookalike companies from a URL, improving targeting and conversion by focusing on companies most likely to need a solution.",
+  "what_is": [
+    "Ocean.io is a B2B data platform that helps sales and marketing teams find ideal customers and contacts quickly. It uses AI across more than 35 million company profiles and 250 million LinkedIn profiles to build fresh, relevant audience lists with precise targeting.",
+    "It is strongest for building lookalike audiences, creating targeted campaigns, and finding new prospects, and it integrates with CRMs, APIs, and no-code platforms. Ocean.io focuses on data enrichment and audience building rather than acting as a CRM or email marketing tool."
+  ]
+}

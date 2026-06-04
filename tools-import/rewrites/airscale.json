@@ -1,0 +1,9 @@
+{
+  "description": "Airscale is a lead list builder and enrichment tool that sources verified contacts from 30+ data providers in real time.",
+  "tagline": "Scale growth with real-time data enrichment",
+  "overview": "Airscale helps sales and marketing teams build targeted lead lists and enrich contacts in real time, pulling from more than 30 data providers so you only pay for verified emails and phone numbers.",
+  "what_is": [
+    "Airscale is a data sourcing and enrichment platform that helps teams build targeted lists of leads and accounts quickly. It draws on more than 30 data providers and 450+ data points, combining real-time data with intent-based sourcing, and you only pay for verified emails and phone numbers.",
+    "It is built for sales and marketing workflows where finding verified contact data, segmenting lists, and enriching records fast matters most. Airscale can scrape sources like LinkedIn Sales Navigator and Apollo and integrates with CRMs such as HubSpot and campaign tools like lemlist and Smartlead. It handles sourcing and enrichment rather than running campaigns end to end, so it sits alongside the rest of your stack."
+  ]
+}

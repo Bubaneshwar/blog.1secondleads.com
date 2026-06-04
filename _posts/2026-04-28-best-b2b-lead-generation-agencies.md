@@ -2,7 +2,7 @@
 title: "The 27 Best B2B Lead Generation Agencies in 2026"
 slug: best-b2b-lead-generation-agencies
 date: 2026-04-28
-description: "Honest 2026 comparison of 27 top B2B lead generation agencies — pricing, ICP, channels, AI usage, and what genuinely sets each one apart."
+description: "Honest 2026 comparison of 27 top B2B lead generation agencies: pricing, ICP, channels, AI usage, and what genuinely sets each one apart."
 categories: research
 tags:
   - lead generation
@@ -13,7 +13,7 @@ tags:
   - linkedin outreach
 image:
   path: /assets/img/agency-roundup/1secondleads.webp
-  alt: The 27 best B2B lead generation agencies in 2026 — comparison guide
+  alt: The 27 best B2B lead generation agencies in 2026 comparison guide
 ---
 
 The B2B outbound market has fragmented faster than any other corner of go-to-market in the last two years.

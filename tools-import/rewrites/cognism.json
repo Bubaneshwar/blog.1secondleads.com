@@ -1,0 +1,10 @@
+{
+  "description": "Cognism is B2B sales intelligence with phone-verified mobile numbers, buyer intent, and compliant contact data, built for prospecting across the US and EMEA.",
+  "tagline": "Phone-verified B2B contact data",
+  "overview": "Cognism supplies revenue teams with compliant company and contact data, including phone-verified mobile numbers and intent signals, with unusually deep coverage across Europe and North America.",
+  "what_is": [
+    "Cognism is a sales intelligence service that sells accurate, compliant B2B data. Its draw is phone-verified mobile numbers and GDPR- and CCPA-aware contact records, which makes it a common choice for teams prospecting into the US and across EMEA where coverage and compliance matter.",
+    "Teams lean on it to build targeted lists, reach senior decision-makers by phone, and add intent signals so reps prioritize accounts showing interest. Because the numbers are checked, sales and SDR teams tend to get more live connects and booked meetings from the same effort.",
+    "It plugs into CRMs like Salesforce, HubSpot, and Pipedrive plus the usual sales tools, and supports enrichment and LinkedIn prospecting. Cognism is a data layer, not a marketing-automation or support suite, so it works best paired with your sending and pipeline tools."
+  ]
+}

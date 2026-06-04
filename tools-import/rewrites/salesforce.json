@@ -1,0 +1,11 @@
+{
+  "website": "https://www.salesforce.com",
+  "primary_category": "CRMs",
+  "description": "Salesforce is a CRM platform that unifies sales, service, and marketing with AI, automation, and a deep integration ecosystem.",
+  "tagline": "CRM software and cloud solutions",
+  "overview": "Salesforce is a CRM platform that helps businesses manage customer relationships and grow revenue by unifying data, automating tasks, and adding AI-driven insights across sales, service, and marketing.",
+  "what_is": [
+    "Salesforce is an all-in-one CRM that helps businesses manage sales, service, and marketing in one platform. It combines AI agents, unified data, and broad integrations so teams of any size can track relationships and automate work.",
+    "It is strongest for managing customer relationships, email marketing, service cases, and workflow automation, usable from the browser without complex setup. Salesforce sits at the center of a go-to-market stack, connecting data and apps through tools like MuleSoft and AppExchange, rather than replacing every specialized point solution."
+  ]
+}

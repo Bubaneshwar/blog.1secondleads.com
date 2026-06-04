@@ -1,0 +1,10 @@
+{
+  "description": "Prospeo is an email finder with domain search, a Sales Navigator export, a mobile-number finder, and verification, built for accurate B2B outreach lists.",
+  "tagline": "Find verified business emails and mobiles",
+  "overview": "Prospeo finds and verifies business emails and mobile numbers through domain search, a Sales Navigator export, and a Chrome extension that pulls contacts from LinkedIn and websites.",
+  "what_is": [
+    "Prospeo is a lead-data tool for finding verified emails and mobile numbers quickly. It covers single lookups and bulk runs, and leans on verification so the contacts you export are deliverable rather than guesses.",
+    "It shines when building targeted lists, verifying existing contacts, or enriching profiles. The Chrome extension surfaces details directly from websites, LinkedIn, and search results, and a Sales Navigator export turns saved searches into clean contact lists.",
+    "Prospeo connects to CRMs and email-outreach systems to feed enriched data into campaigns. It is focused on B2B contact discovery and verification, not consumer data or full campaign management."
+  ]
+}

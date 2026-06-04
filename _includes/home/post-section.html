@@ -1,0 +1,21 @@
+{% comment %}
+  Renders a home content section: a centered title + lead, the newest post as a large
+  featured card, and any remaining posts in a grid. Renders nothing when posts is empty.
+  Params: posts (array), title, lead, id
+{% endcomment %}
+{% assign posts = include.posts %}
+{% if posts.size > 0 %}
+  <section class="tools-section home-section{% if posts.size == 1 %} home-section--solo{% endif %}" id="{{ include.id }}" aria-labelledby="home-{{ include.id }}-title">
+    <h2 id="home-{{ include.id }}-title" class="tools-section__title-center">{{ include.title }}</h2>
+    {% if include.lead %}<p class="home-section__lead">{{ include.lead }}</p>{% endif %}
+    {% assign lead_post = posts | first %}
+    {% include home/featured-card.html post=lead_post %}
+    {% if posts.size > 1 %}
+      <div class="home-grid home-grid--rest">
+        {% for post in posts offset: 1 %}
+          {% include home/post-card.html post=post %}
+        {% endfor %}
+      </div>
+    {% endif %}
+  </section>
+{% endif %}

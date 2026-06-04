@@ -1,0 +1,9 @@
+{
+  "description": "Enrich Layer is a data enrichment API with over a billion verified people and company records, refreshed monthly.",
+  "tagline": "Pull rich, verified data on people and companies",
+  "overview": "Enrich Layer provides data enrichment APIs with access to more than a billion verified records on people, companies, and jobs, with millions of data points refreshed every month.",
+  "what_is": [
+    "Enrich Layer is a data enrichment platform for teams that need reliable, current information on people, companies, and jobs. Its APIs reach over a billion verified records worldwide, including 245 million US and 790 million global people records and 70 million companies, with 150 million data points refreshed monthly.",
+    "It is strongest for lead enrichment, hiring-trend analysis, and market research, helping sales, HR, and marketing teams fill data gaps and speed up outreach. Enrich Layer fits into the stack as an enrichment and intelligence source powering CRM updates, targeting, and recruitment tools, rather than consumer contact discovery or social media management."
+  ]
+}

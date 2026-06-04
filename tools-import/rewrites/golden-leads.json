@@ -1,0 +1,9 @@
+{
+  "description": "Golden Leads is a cloud-based LinkedIn Sales Navigator extractor that pulls real-time lead data with no search limits.",
+  "tagline": "Your golden key to LinkedIn leads",
+  "overview": "Golden Leads extracts real-time, high-volume lead data from LinkedIn Sales Navigator using virtual accounts, bypassing search limits and keeping your own profile safe.",
+  "what_is": [
+    "Golden Leads is a cloud-based LinkedIn data extractor for fast, accurate lead generation. It pulls real-time data using virtual LinkedIn accounts to keep your profile safe, with unlimited daily searches and up to 18 data points per contact.",
+    "It is strongest for extracting up-to-date leads from Sales Navigator URLs, company followers, groups, and event attendees, and it cleans out false positives. Golden Leads enriches lead data before it reaches your CRM or email tools, focused on real-time LinkedIn extraction rather than broad database management."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "description": "Genesy is an AI sales platform that sources targeted lead lists and runs AI agents for personalized multichannel outreach.",
+  "tagline": "Unlock your B2B sales potential with AI",
+  "overview": "Genesy helps sales teams find leads and close faster with AI data sourcing for targeted lists and AI agents that engage prospects with personalized messages across channels.",
+  "what_is": [
+    "Genesy AI is a sales acceleration platform for lead generation and automated outreach. It uses AI-driven data sourcing across more than 30 providers to build reliable contact lists, then personalizes messaging at scale to grow pipeline and meeting rates.",
+    "It is strongest for automating multichannel campaigns and warming up leads with conditional outreach. Genesy syncs enriched data into CRMs like HubSpot and Salesforce and centralizes email and social conversations in one inbox, focusing on sourcing and outreach automation rather than full CRM or deep analytics."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "description": "LeadMagic is a B2B data enrichment tool that validates and fills in emails, mobile numbers, and company details in real time, with a pay-for-valid-data model.",
+  "tagline": "Real-time B2B data enrichment",
+  "overview": "LeadMagic cleans, validates, and enriches prospect data with accurate emails, mobile numbers, and company information in real time, pushing it into outbound tools via integrations and API.",
+  "what_is": [
+    "LeadMagic is an enrichment tool for B2B sales and marketing teams. It validates and fills in missing contact details in real time, and its pricing leans on paying for valid data, which keeps spend tied to usable records.",
+    "It is handy for refreshing stale spreadsheets, finding missing emails or mobile numbers, and verifying lists before a send. Results come back immediately after an upload or through the API, turning raw lists into outreach-ready leads.",
+    "LeadMagic plugs into the GTM stack through webhooks and integrations with tools like Clay and Smartlead. It is an enrichment and validation layer, not a CRM or campaign tool, so it pairs with your sending and pipeline software."
+  ]
+}

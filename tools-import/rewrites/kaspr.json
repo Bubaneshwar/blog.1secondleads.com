@@ -1,0 +1,10 @@
+{
+  "description": "Kaspr is a LinkedIn prospecting tool with a Chrome extension that reveals GDPR-compliant B2B emails and phone numbers, plus lead management and CRM sync.",
+  "tagline": "B2B contact data from a LinkedIn extension",
+  "overview": "Kaspr's Chrome extension reveals verified, GDPR-compliant emails and phone numbers on LinkedIn profiles, with lead management and CRM integrations for sales teams, recruiters, and founders.",
+  "what_is": [
+    "Kaspr is a contact-data tool that pulls verified phone numbers and emails straight from LinkedIn. Its Chrome extension surfaces details as you view a profile, drawing on a large, compliance-minded database so reps can reach prospects without manual digging.",
+    "It fits sales teams chasing quota, recruiters sourcing candidates, and founders building a network. Setup takes minutes and you can start pulling data right away, with lead lists and integrations that keep prospecting moving.",
+    "Kaspr slots into a go-to-market stack as a data and prospecting layer, syncing with CRMs and sales tools. It is not a CRM or marketing-automation platform; it concentrates on accurate contact discovery and enrichment."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "description": "Folderly is an email deliverability platform that analyzes your sending infrastructure, monitors spam placement, and fixes issues to keep email in the inbox.",
+  "tagline": "Email deliverability platform",
+  "overview": "Folderly improves email deliverability by analyzing infrastructure, IPs, and DNS, monitoring spam placement in real time, and giving actionable fixes to protect sender reputation.",
+  "what_is": [
+    "Folderly is an email deliverability tool that helps teams reach the inbox instead of spam. It analyzes and fixes email placement, IP, and DNS issues, with real-time monitoring and alerts that protect sender reputation and campaign performance.",
+    "It is strongest at email warm-up, troubleshooting inbox issues, and tracking email health, with improvements in deliverability and reply rates often appearing soon after setup. It is built for teams that treat deliverability as ongoing maintenance.",
+    "Folderly integrates via API and SMTP with major email providers to fit a CRM and email-marketing stack. It is not a bulk sender or campaign platform itself; it focuses purely on deliverability and inbox placement."
+  ]
+}

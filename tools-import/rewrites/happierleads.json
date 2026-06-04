@@ -1,0 +1,10 @@
+{
+  "description": "Happierleads identifies anonymous B2B website visitors at the person and company level, turning traffic into qualified leads with CRM and Slack integrations.",
+  "tagline": "Identify and engage website visitors",
+  "overview": "Happierleads reveals who is visiting your B2B website, identifying visitors across many countries and pushing qualified leads into CRMs, email, and Slack for fast follow-up.",
+  "what_is": [
+    "Happierleads is a visitor identification tool that turns anonymous B2B website traffic into leads. It identifies visitors across many countries, going beyond basic IP lookup toward person-level detail, so teams can act on real interest.",
+    "It is strongest for sales, growth, and marketing teams that want fast lead generation: install a tracking pixel and visitor details appear within minutes, which helps prioritize follow-up and ad spend.",
+    "Happierleads integrates with CRMs, email marketing, Slack, and automation tools to streamline lead handling. It is built for B2B sites rather than consumer traffic, and is not a full marketing-automation platform."
+  ]
+}

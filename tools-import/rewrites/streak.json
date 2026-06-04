@@ -1,0 +1,10 @@
+{
+  "description": "Streak is a CRM built inside Gmail, with customizable pipelines, automatic email capture, tracking, and mail merge to manage deals without leaving the inbox.",
+  "tagline": "CRM inside Gmail",
+  "overview": "Streak runs pipelines for sales and other processes directly in Gmail, capturing email data automatically and adding tracking, mail merge, and collaboration to the inbox.",
+  "what_is": [
+    "Streak is a CRM that works inside Gmail. It lets teams manage deals and contacts without leaving their inbox, capturing email activity automatically and organizing it into customizable pipelines as messages arrive.",
+    "It suits teams that run on email and want a CRM that fits their daily workflow. Logging, pipeline tracking, and task prioritization happen in place, so there is little extra data entry and value shows up quickly.",
+    "Streak doubles as a CRM and an email tool, integrating deeply with Gmail. It is less suited to large enterprises that need a complex standalone CRM or to teams that do not use Gmail; its strength is simple, inbox-native pipeline management."
+  ]
+}

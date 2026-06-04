@@ -1,0 +1,10 @@
+{
+  "description": "Seamless.AI is a real-time sales intelligence tool that finds verified B2B emails and phone numbers, helping sales teams build accurate prospect lists fast.",
+  "tagline": "Real-time B2B contact search",
+  "overview": "Seamless.AI uses a real-time search engine to find verified B2B contact details for sales and marketing teams, with one-click exports into popular CRMs.",
+  "what_is": [
+    "Seamless.AI is a sales intelligence tool that helps teams find accurate B2B contact information quickly. Its real-time search engine returns fresh data on a large database of contacts and companies, so records stay current rather than going stale in a static list.",
+    "It is most useful when you need to build or enrich a prospect list fast, identify ready-to-buy accounts, or track job changes at key companies. Results come back in seconds, which speeds up list building and helps teams get into outreach sooner.",
+    "Seamless.AI integrates with CRMs and sales platforms like Salesforce and HubSpot for one-click exports and enrichment. It is not a full CRM or marketing-automation tool; it works best as a contact-data source inside your existing stack."
+  ]
+}

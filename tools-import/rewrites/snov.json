@@ -1,0 +1,10 @@
+{
+  "description": "Snov.io is an outreach platform that finds and verifies emails, runs automated email and LinkedIn sequences, and tracks deals in a built-in sales CRM.",
+  "tagline": "Find emails and automate outreach",
+  "overview": "Snov.io pairs an email finder and verifier with multichannel drip campaigns and a lightweight CRM, so teams can build lists and run cold outreach from one place.",
+  "what_is": [
+    "Snov.io bundles the pieces of a cold outreach motion into one tool: finding prospect emails, verifying them, sending automated email and LinkedIn sequences, and tracking the resulting deals in a built-in CRM. The idea is to run campaigns without stitching several apps together.",
+    "It works well for startups, agencies, and sales teams that want to generate leads, send personalized sequences, and manage a pipeline without much overhead. Lists and campaigns come together quickly, which keeps the time from setup to first sends short.",
+    "Snov.io connects to popular CRMs and email providers and exposes an API for your wider stack. It is not trying to be an enterprise CRM or a full marketing suite; it concentrates on lead enrichment, multichannel outreach, and basic deal tracking."
+  ]
+}

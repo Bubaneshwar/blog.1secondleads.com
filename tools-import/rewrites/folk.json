@@ -1,0 +1,10 @@
+{
+  "description": "folk is an all-in-one CRM that connects to LinkedIn and other platforms, enriches contacts in one click, and automates outreach for sales and partnership teams.",
+  "tagline": "The all-in-one CRM",
+  "overview": "folk is a lightweight CRM that captures and enriches contacts from LinkedIn and other sources in one click, with messaging, sequences, dashboards, and pipeline management.",
+  "what_is": [
+    "folk is a sales CRM that simplifies lead management and outreach. It connects to LinkedIn and several other platforms and enriches contact data in a click, so building and maintaining a pipeline takes less manual work.",
+    "It adds automated messaging, sequences, dashboards, and pipeline views, and fits sales teams, agencies, startups, and partnership teams that need fast lead capture and personalized outreach. Enrichment and AI-assisted follow-ups mean value shows up quickly.",
+    "folk sits in the GTM stack by combining CRM functions with email, social, and enrichment tools. It is not built for complex project management or ERP; it keeps the sales process connected and data-driven."
+  ]
+}

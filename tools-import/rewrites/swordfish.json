@@ -1,0 +1,9 @@
+{
+  "description": "Swordfish is a contact finder for cell phone numbers and emails, with a Chrome extension, reverse lookup, and an API.",
+  "tagline": "Find cell phone numbers and email addresses",
+  "overview": "Swordfish helps recruiters, sales reps, and real estate agents find verified cell phone numbers and emails through a Chrome extension, prospect search, file enrichment, reverse lookup, and an API.",
+  "what_is": [
+    "Swordfish is a contact data tool for recruiting, sales, and real estate professionals. It finds accurate cell phone numbers and emails with real-time validation, and is used to bulk-find contacts, fill missing CRM details, and verify email accuracy.",
+    "Results come in seconds through search filters, file uploads, or the Chrome extension, and it fits into a GTM stack by enriching CRM records and powering API integrations. Swordfish focuses on quality contact data and enrichment rather than acting as a full CRM or marketing automation platform."
+  ]
+}

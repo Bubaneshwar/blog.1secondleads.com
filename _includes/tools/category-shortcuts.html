@@ -1,0 +1,18 @@
+{% assign featured_categories = "Best Sales Tools|Sales Assistant|AI Multichannel Outreach|CRMs|LinkedIn Automation|Deliverability Infrastructure|Waterfall Enrichment|Prospecting Database|Integrations & Workflows|Web Scrapers" | split: "|" %}
+
+<section class="tools-section tools-categories" aria-labelledby="tools-categories-title">
+  <div class="tools-section__header tools-section__header--compact">
+    <div>
+      <p class="tools-eyebrow">Browse</p>
+      <h2 id="tools-categories-title">Featured categories</h2>
+    </div>
+  </div>
+
+  <div class="tools-category-chips" aria-label="Featured categories">
+    {% for category in featured_categories %}
+      <a class="tools-chip" href="#tools-category-{{ category | slugify }}">
+        <span class="tools-chip__name">{{ category }}</span>
+      </a>
+    {% endfor %}
+  </div>
+</section>

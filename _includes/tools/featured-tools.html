@@ -1,0 +1,66 @@
+{% assign featured_tools = site.data.tools | where: 'featured', true %}
+{% comment %}
+  Build the featured filter from the featured tools' clean categories. A curated
+  tool with a short category list (e.g. Instantly: Email Outreach, Deliverability,
+  Automation) contributes all of them; an imported tool with ~10 granular scraped
+  categories contributes only its clean PRIMARY category, so this small showcase
+  filter stays a tidy, curated list instead of a 40-item jumble. Cards keep their
+  full category lists for the directory filter and matching.
+{% endcomment %}
+{% assign category_list = "|" %}
+{% for tool in featured_tools %}
+  {% for category in tool.categories %}
+    {% if tool.categories.size > 3 and forloop.index > 1 %}{% continue %}{% endif %}
+    {% assign needle = "|" | append: category | append: "|" %}
+    {% unless category_list contains needle %}
+      {% assign category_list = category_list | append: category | append: "|" %}
+    {% endunless %}
+  {% endfor %}
+{% endfor %}
+{% assign categories = category_list | remove_first: "|" | split: "|" %}
+{% assign tools_with_pricing = site.data.tools | where_exp: 'tool', 'tool.pricing_tier' %}
+{% assign pricing_tiers = tools_with_pricing | map: 'pricing_tier' | uniq | sort %}
+<section class="tools-section" id="featured-tools-section" aria-labelledby="featured-tools-title">
+  <h2 id="featured-tools-title" class="tools-section__title-center">Best SaaS Sales Tools Everyone Uses</h2>
+
+  <input id="featured-category-filter" type="hidden" data-filter-group="featured" data-filter-type="category" value="">
+
+  <div class="tools-directory-layout tools-directory-layout--featured">
+    <div class="tools-directory-aside">
+      <div class="tools-filter-row" aria-label="Featured tools filters">
+        <label>
+          <span>Pricing</span>
+          <select id="featured-pricing-filter" data-filter-group="featured" data-filter-type="pricing">
+            <option value="">All Pricing Tiers</option>
+            {% for tier in pricing_tiers %}
+              <option value="{{ tier | downcase | escape }}">{{ tier }}</option>
+            {% endfor %}
+          </select>
+        </label>
+        <button type="button" class="tools-clear d-none" data-clear-group="featured"><span class="tools-clear__icon" aria-hidden="true">X</span> Clear Filter</button>
+      </div>
+
+      <aside class="tools-category-sidebar" aria-label="Featured tools categories">
+        <p>Featured Categories</p>
+        <button type="button" class="tools-category-toggle is-active" data-featured-category-toggle="">All Featured</button>
+        {% for category in categories %}
+          {% assign icon = site.data.category_icons[category] | default: site.data.category_icons.default %}
+          <button type="button" class="tools-category-toggle" data-featured-category-toggle="{{ category | downcase | escape }}" title="{{ category | escape }}">
+            <i data-lucide="{{ icon.name }}" class="tools-category-toggle__icon" aria-hidden="true"></i>
+            <span>{{ category }}</span>
+          </button>
+        {% endfor %}
+      </aside>
+    </div>
+
+    <div class="tools-grid tools-grid--featured" id="featured-tools">
+      {% for tool in site.data.tools %}
+        {% if tool.featured %}
+          {% include tools/tool-card.html tool=tool featured=true %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+
+  <p class="tools-empty d-none" id="featured-tools-empty">No featured tools match those filters.</p>
+</section>

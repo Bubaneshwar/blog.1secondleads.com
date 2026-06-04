@@ -1,0 +1,10 @@
+{
+  "description": "Vector is a contact-level intent tool that de-anonymizes website visitors and builds dynamic ad audiences from real buyer signals across LinkedIn, Google, and Meta.",
+  "tagline": "Turn buyer signals into pipeline",
+  "overview": "Vector de-anonymizes website visitors and captures contact-level intent, then syncs dynamic ad audiences across LinkedIn, Google, Meta, and Reddit to target buyers showing interest.",
+  "what_is": [
+    "Vector is a contact-level marketing tool for B2B teams. It builds ad audiences from real buyer signals so you reach the right people when they show intent, and it de-anonymizes visitors on high-intent pages to fuel targeting.",
+    "It is strongest when you want to activate ads on real-time behavior instead of waiting for form fills. Dynamic audiences sync across platforms like LinkedIn, Google, Meta, and Reddit with strong match rates, and campaigns can start immediately.",
+    "Vector integrates with CRMs and many other platforms to create and activate audiences. It is not a CRM or enrichment tool; it focuses on signal-driven audience building and ad activation."
+  ]
+}

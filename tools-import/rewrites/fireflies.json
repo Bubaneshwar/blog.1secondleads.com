@@ -1,0 +1,10 @@
+{
+  "description": "Fireflies.ai is an AI meeting assistant that records, transcribes, summarizes, and analyzes calls across 100+ languages, automating notes and CRM tasks.",
+  "tagline": "Meeting recording and transcription",
+  "overview": "Fireflies.ai records, transcribes, and summarizes meetings with high accuracy and speaker recognition, automating note-taking and task creation across CRMs and collaboration tools.",
+  "what_is": [
+    "Fireflies.ai is an AI meeting assistant that captures and analyzes conversations. It records, transcribes, summarizes, and lets teams search across calls, with strong transcription accuracy, speaker recognition, and support for many languages.",
+    "It is useful across sales, recruiting, marketing, and other teams that need to review notes, action items, and summaries right after a call. Results appear instantly, which speeds decisions and cuts manual note-taking.",
+    "Fireflies.ai integrates with CRMs, project management, dialers, and collaboration tools to automate workflows like note logging and task creation. It is focused on meeting transcription and analysis rather than audio or video production."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "description": "QuickMail is a cold outreach tool for email and LinkedIn campaigns, with unlimited connected accounts, inbox rotation, and deliverability features to lift replies.",
+  "tagline": "Send cold email and get replies",
+  "overview": "QuickMail runs cold email and LinkedIn outreach at scale with unlimited connected accounts, inbox rotation, and AI deliverability tooling to keep messages landing and replies flowing.",
+  "what_is": [
+    "QuickMail is a multichannel outreach tool for email and LinkedIn. It lets teams connect many sending accounts, rotate sends across them, and lean on deliverability features so more messages reach the inbox without simply sending more.",
+    "It suits growth teams and lead-gen agencies that need to run cold email and LinkedIn outreach together and manage the replies in one place. Teams tend to see better deliverability and faster meeting booking as campaigns scale.",
+    "QuickMail integrates with CRMs like HubSpot and Pipedrive, imports leads from Google Drive, and automates through Zapier or its API. It is an outreach and reply-management engine rather than a standalone CRM or full email-marketing suite."
+  ]
+}

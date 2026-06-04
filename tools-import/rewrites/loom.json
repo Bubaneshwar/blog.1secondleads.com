@@ -1,0 +1,10 @@
+{
+  "description": "Loom is a video messaging tool for recording and sharing quick screen and camera videos, useful for sales pitches, support, and async team updates.",
+  "tagline": "Video messaging for work",
+  "overview": "Loom records screen and camera videos and shares them instantly, letting teams send clear visual messages instead of long emails or calls, with AI enhancements and integrations.",
+  "what_is": [
+    "Loom is a video messaging tool for quick screen and camera recordings. It lets people share a clear visual message in a few clicks rather than writing long emails or scheduling a call, with AI features that tidy up recordings.",
+    "It works well for sales pitches, customer support, and feedback, and is especially useful for async communication across time zones. Recording and sharing take seconds, so it speeds up everyday communication.",
+    "Loom integrates with tools like Google Workspace and Slack to fit a communication stack. It is not a full video editor or live conferencing tool; its strength is fast, shareable video messages."
+  ]
+}

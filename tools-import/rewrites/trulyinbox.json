@@ -1,0 +1,10 @@
+{
+  "description": "TrulyInbox is an AI email warm-up tool that builds sender reputation with realistic inbox activity and tracks a deliverability score to lift inbox placement.",
+  "tagline": "Boost your email deliverability",
+  "overview": "TrulyInbox warms up email accounts with realistic, human-like interactions to build sender reputation, tracking a deliverability score so teams can scale sending safely.",
+  "what_is": [
+    "TrulyInbox is an AI email warm-up tool that improves deliverability. It sends realistic, human-like email interactions to strengthen sender reputation and reduce the chance of landing in spam, with a one-click setup.",
+    "It is most useful when you need to lift sending limits and engagement: as reputation grows, you can increase volume safely, and a deliverability score shows how well emails are reaching inboxes.",
+    "TrulyInbox works alongside email providers and cold email software as a warm-up layer in the stack. It does not replace email-marketing or CRM tools; it focuses on sender reputation and inbox placement before scaling outreach."
+  ]
+}

@@ -1,0 +1,31 @@
+<section class="tools-search" aria-label="Search for a tool">
+  <div class="tools-search__box">
+    <input
+      id="tools-search-input"
+      class="tools-search__input"
+      type="search"
+      placeholder="Search tools by keyword — e.g. cold outreach"
+      autocomplete="off"
+      role="combobox"
+      aria-controls="tools-search-dropdown"
+      aria-expanded="false"
+      aria-autocomplete="list"
+    >
+    <div class="tools-search__dropdown d-none" id="tools-search-dropdown" role="listbox"></div>
+  </div>
+
+  {%- capture tools_json -%}
+  [
+  {%- for tool in site.data.tools -%}
+    {%- if tool.categories -%}{%- assign cats = tool.categories -%}{%- else -%}{%- assign cats = tool.category | split: '||' -%}{%- endif -%}
+    {%- assign use_cases_text = tool.use_cases | join: ' ' -%}
+    {%- capture meta_text -%}{{ cats | first }}{%- if tool.use_cases and tool.use_cases.size > 0 %} · {{ tool.use_cases | first }}{% endif -%}{%- endcapture -%}
+    {%- capture search_text -%}{{ tool.name }} {{ cats | join: ' ' }} {{ tool.pricing_tier }} {{ use_cases_text }} {{ tool.description }}{%- endcapture -%}
+    {%- if tool.logoUrl -%}{%- assign logo_url = tool.logoUrl | relative_url -%}{%- else -%}{%- assign logo_url = '' -%}{%- endif -%}
+    {%- assign nav_url = tool.url | default: '/' -%}{%- if nav_url contains '://' -%}{%- assign nav_url = '/' -%}{%- endif -%}
+    {"name": {{ tool.name | jsonify }}, "url": {{ nav_url | relative_url | jsonify }}, "logo": {{ logo_url | jsonify }}, "meta": {{ meta_text | strip | jsonify }}, "search": {{ search_text | strip | downcase | jsonify }}}{%- unless forloop.last -%},{%- endunless -%}
+  {%- endfor -%}
+  ]
+  {%- endcapture -%}
+  <script type="application/json" id="tools-search-data">{{ tools_json }}</script>
+</section>

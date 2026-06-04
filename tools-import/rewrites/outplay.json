@@ -1,0 +1,10 @@
+{
+  "description": "Outplay is a multichannel sales engagement platform for SMB teams, automating outreach across email, phone, social, and chat with CRM and scheduler integrations.",
+  "tagline": "Multichannel sales engagement for SMBs",
+  "overview": "Outplay automates personalized sequences across email, phone, social, and chat for fast-scaling SMB sales teams, integrating with CRMs, inboxes, and meeting schedulers as a central hub.",
+  "what_is": [
+    "Outplay is a sales engagement platform aimed at fast-scaling small and mid-size teams. It coordinates outreach across email, phone, social, and chat, so reps run personalized sequences with follow-ups instead of working from spreadsheets and a single channel.",
+    "It is most useful when a team is moving past manual outreach and needs automation that ramps new reps quickly and scales sends without hurting deliverability. The multichannel approach and hands-on support help teams hit targets sooner.",
+    "Outplay integrates with CRMs, schedulers, and inboxes to act as the engagement hub, but you bring your own cleaned leads; it is not a data or scraping tool. It fits teams wanting an affordable, fast way to automate multichannel outreach while keeping control of their data."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "description": "Bizzy is an AI B2B database that helps sales teams find ICP-matched leads and track buying signals like hiring and funding.",
+  "tagline": "Search by person, company name, or VAT number",
+  "overview": "Bizzy is an AI-powered B2B database that helps sales, marketing, staffing, and investment teams find and qualify companies, combining official data with real-time web, news, and social signals.",
+  "what_is": [
+    "Bizzy is an AI-powered sales tool that helps teams find and qualify leads matched to their ideal customer profile. It tracks markets automatically and detects buying signals such as hiring or funding announcements, which can save reps significant manual research time each week.",
+    "It is strongest when you need a steady flow of qualified leads for outbound or inbound, enriched with verified contact data and company context, fed straight into your CRM and outreach tools. Bizzy focuses on lead discovery and qualification rather than acting as a full marketing platform or CRM."
+  ]
+}

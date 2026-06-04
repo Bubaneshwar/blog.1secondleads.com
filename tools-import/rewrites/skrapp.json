@@ -1,0 +1,10 @@
+{
+  "description": "Skrapp is a B2B email finder and verifier that builds prospect lists from LinkedIn and the web, with company data and CRM integrations for outreach.",
+  "tagline": "B2B email finder and list builder",
+  "overview": "Skrapp finds and verifies business emails from LinkedIn and the web, returning contact and company data fast, with API and CRM integrations for scalable prospecting.",
+  "what_is": [
+    "Skrapp is an email-finding and verification tool for B2B prospecting. It pulls verified business emails from LinkedIn and the open web and checks them, so teams can reach decision-makers without manual searching.",
+    "It suits sales teams, recruiters, and founders who need to build targeted lead lists quickly. Verified emails and company details come back in seconds, which removes the slow, manual part of building a prospect list.",
+    "Skrapp connects to CRMs and workflows through its API to support enrichment and scaled outreach. It focuses on verified B2B contacts rather than consumer data or broad social scraping."
+  ]
+}

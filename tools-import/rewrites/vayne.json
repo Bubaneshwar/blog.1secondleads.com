@@ -1,0 +1,9 @@
+{
+  "description": "Vayne is a LinkedIn scraper with email enrichment that exports clean, ready-to-use profile data in bulk.",
+  "tagline": "LinkedIn scraper with email enrichment",
+  "overview": "Vayne extracts LinkedIn profiles at scale and enriches them with emails, exporting clean, ready-to-use lead data into CRMs and outreach tools.",
+  "what_is": [
+    "Vayne is a data scraper built for LinkedIn lead generation. It extracts large volumes of LinkedIn profiles quickly and safely, scraping thousands of profiles a day and delivering clean, ready-to-use data without putting your account at risk.",
+    "It suits freelancers, sales teams, and growth marketers who need targeted prospect lists fast, with bulk exports of thousands of leads and scheduled extraction. Vayne feeds clean LinkedIn data into CRMs or outreach platforms and stays focused on professional lead scraping and bulk exporting rather than general social media use."
+  ]
+}

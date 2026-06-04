@@ -1,0 +1,10 @@
+{
+  "description": "Surfe connects LinkedIn to your CRM, capturing and enriching contacts in one click with multi-source verified data, plus job-change alerts for sales teams.",
+  "tagline": "Connect LinkedIn to your CRM",
+  "overview": "Surfe captures contacts from LinkedIn into your CRM in one click and enriches them with verified data from multiple providers, adding job-change alerts to keep records current.",
+  "what_is": [
+    "Surfe is a sales-productivity tool that links LinkedIn with your CRM. It captures prospects from profiles in a click and enriches them with contact data pulled and cross-checked across multiple providers, so records land clean rather than half-filled.",
+    "It is most useful for sourcing leads, enriching contacts, and catching job changes that signal a new opportunity. Setup is quick, and it cuts the manual copy-paste and tab-switching that usually slows LinkedIn prospecting.",
+    "Surfe integrates natively with CRMs like Salesforce, HubSpot, Copper, and Pipedrive, fitting into the sales stack as an enrichment and capture layer. It is not a marketing-automation or analytics platform; it focuses on prospecting efficiency and data quality."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "description": "Clearbit is a B2B data enrichment tool that adds accurate company and contact details to leads, so sales and marketing teams can score, route, and target the right accounts.",
+  "tagline": "B2B data enrichment, scoring, and routing",
+  "overview": "Clearbit enriches leads, contacts, and accounts with company and person data in real time, helping teams score fit, route faster, and spot intent from anonymous website visitors.",
+  "what_is": [
+    "Clearbit is a B2B data tool that gives sales and marketing teams clean, enriched information on leads, contacts, and accounts. It combines public web data with proprietary sources and AI to keep records accurate, with broad coverage and detailed firmographic classification.",
+    "It is most useful for lead scoring, routing, and identifying high-fit prospects. Clearbit can reveal buying intent from anonymous website traffic and shorten forms by auto-filling known details, which helps lift conversion. Because data updates in real time, enrichment takes effect as soon as it is connected.",
+    "Clearbit acts as the data foundation in a go-to-market stack, complementing CRMs and marketing tools. It is not a CRM or an outreach platform on its own; it supplies the data that other tools use to run campaigns and communications."
+  ]
+}

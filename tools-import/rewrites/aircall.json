@@ -1,0 +1,10 @@
+{
+  "description": "Aircall is a cloud phone system for sales and support teams, with call workflows, AI conversation intelligence, and CRM and help-desk integrations.",
+  "tagline": "Cloud call center for teams",
+  "overview": "Aircall is a cloud-based business phone system that unifies voice and messaging, adds AI conversation intelligence and real-time coaching, and integrates with CRMs and help desks.",
+  "what_is": [
+    "Aircall is a cloud phone system for sales and customer support teams. It brings calls, texts, and messaging into one platform and layers on AI conversation intelligence and live coaching, so each call is easier to run and follow up on.",
+    "It is a fit for call centers and support and sales teams that want quick setup and better connect and resolution rates. Voice and messaging sit together, and the analytics make call activity easy to review and improve.",
+    "Aircall integrates with CRMs and help-desk tools like Salesforce, HubSpot, Zendesk, and Intercom, fitting into the stack as the voice layer. It is not a CRM or marketing-automation tool; it focuses on voice and messaging within your existing software."
+  ]
+}

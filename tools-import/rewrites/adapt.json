@@ -1,0 +1,10 @@
+{
+  "description": "Adapt is a B2B lead intelligence database with verified contact data and real-time enrichment, built to help sales and marketing teams target the right accounts.",
+  "tagline": "B2B lead intelligence database",
+  "overview": "Adapt gives sales and marketing teams a B2B contact database with real-time enrichment across dozens of attributes, helping them build targeted lists and run account-based prospecting.",
+  "what_is": [
+    "Adapt is a B2B prospecting database that helps teams find and reach their ideal customers. It covers a wide range of tech sectors and high-growth companies, and enriches records with dozens of attributes so account discovery and list building are precise rather than guesswork.",
+    "It is most useful for building targeted contact lists, supporting account-based marketing, and enriching existing data for cleaner segmentation. Teams tend to see better email success and faster prospecting once the data is feeding their workflow.",
+    "Adapt fits the GTM stack by syncing with CRMs and exporting clean data for outreach. It sits at the top of the funnel as a data and enrichment source rather than an outbound-automation or CRM platform on its own."
+  ]
+}

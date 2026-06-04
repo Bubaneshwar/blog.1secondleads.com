@@ -1,0 +1,10 @@
+{
+  "description": "Mailmeteor is a privacy-friendly mail-merge tool for Gmail and Outlook that sends personalized mass emails from Google Sheets with tracking and follow-ups.",
+  "tagline": "Personalized mass email for Gmail",
+  "overview": "Mailmeteor sends personalized mass emails through Gmail or Outlook from Google Sheets, with scheduling, tracking, and follow-ups, focused on privacy and deliverability.",
+  "what_is": [
+    "Mailmeteor is a mail-merge tool for sending personalized mass emails from Gmail or Outlook. It keeps messages personal at scale, is known for being simple and privacy-respecting, and is built to maintain good deliverability.",
+    "It is most useful for sales outreach, follow-ups, and event invitations, with campaigns launching in seconds and real-time tracking and follow-up built in. It pulls recipients from Google Sheets and sends through your own inbox.",
+    "Mailmeteor integrates with Google Sheets, Gmail, Outlook, and its own dashboard to fit a lightweight outreach stack. It is built for straightforward personal email rather than large enterprise campaigns or complex CRM functions."
+  ]
+}

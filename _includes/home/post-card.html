@@ -1,0 +1,15 @@
+{% comment %} Reusable home post card. Param: post {% endcomment %}
+{% assign post = include.post %}
+{% if post.image %}{% assign card_img = post.image.path | default: post.image %}{% endif %}
+<a class="home-card" href="{{ post.url | relative_url }}">
+  <span class="home-card__media{% unless card_img %} home-card__media--placeholder{% endunless %}"{% if card_img %} style="background-image: url('{{ card_img | relative_url }}')"{% endif %} aria-hidden="true">
+    {% unless card_img %}{{ post.title | slice: 0 | upcase }}{% endunless %}
+  </span>
+  <span class="home-card__body">
+    {% assign card_cat = post.categories | first %}
+    {% if card_cat %}<span class="home-card__cat">{{ card_cat }}</span>{% endif %}
+    <span class="home-card__title">{{ post.title }}</span>
+    {% if post.description %}<span class="home-card__desc">{{ post.description | strip_html | truncate: 130 }}</span>{% endif %}
+    <span class="home-card__date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%b %d, %Y' }}</time></span>
+  </span>
+</a>

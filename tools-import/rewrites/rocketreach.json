@@ -1,0 +1,10 @@
+{
+  "description": "RocketReach is a B2B contact finder with emails, phone numbers, and social profiles for hundreds of millions of professionals, plus CRM integrations.",
+  "tagline": "Emails, phones, and social links for anyone",
+  "overview": "RocketReach surfaces verified emails, direct dials, and social profiles across a database of hundreds of millions of professionals, with AI outreach and CRM sync to speed prospecting.",
+  "what_is": [
+    "RocketReach is a contact-data tool that helps sales, recruiting, and marketing teams reach decision-makers. It draws on a very large database of professional profiles and companies, and emphasizes high email deliverability so the addresses you export are usable.",
+    "It is most useful for building prospect lists fast, finding a specific person's contact details, and enriching records before outreach. Searches return in minutes rather than hours, and AI features help with follow-ups and outreach at volume.",
+    "RocketReach connects to CRMs and marketing tools like Salesforce and HubSpot to enrich leads inside your existing workflow. It is a contact-discovery and enrichment layer rather than a full marketing-automation or analytics platform."
+  ]
+}

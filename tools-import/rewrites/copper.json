@@ -1,0 +1,10 @@
+{
+  "description": "Copper is a CRM built for Google Workspace that centralizes contacts, tracks deals, and automates follow-ups inside Gmail, Calendar, and Drive.",
+  "tagline": "CRM for Google Workspace",
+  "overview": "Copper is a CRM that works natively with Google Workspace, organizing contacts, tracking deals, and automating tasks and reporting from inside Gmail, Calendar, and Drive.",
+  "what_is": [
+    "Copper is a CRM designed around Google Workspace. Its deep Gmail, Calendar, and Drive integration suits teams that live in Google, keeping customer info and communication in one place without leaving the inbox.",
+    "It is strongest at pipeline management, client relationships, and workflow automation, with quick activation and a free trial. Sales, consulting, and project teams use it to move from lead capture through closing and delivery.",
+    "Copper sits in the stack as a Gmail-centered CRM with strong email integration and automated follow-ups and reporting. It is not built for complex ERP or heavy customization; it suits teams wanting a user-friendly, Google-native CRM."
+  ]
+}

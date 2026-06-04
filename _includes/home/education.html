@@ -1,0 +1,6 @@
+{% assign edu_posts = site.posts | where_exp: 'p', 'p.categories contains "education"' %}
+{% include home/post-section.html
+  posts=edu_posts
+  id="education"
+  title='Guides &amp; <span class="brand-accent">playbooks</span>.'
+  lead="Tool breakdowns and outbound guides to help you choose and implement the right stack." %}

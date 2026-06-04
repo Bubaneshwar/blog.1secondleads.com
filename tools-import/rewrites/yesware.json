@@ -1,0 +1,10 @@
+{
+  "description": "Yesware is an inbox-based sales tool that adds email tracking, templates, sequences, and scheduling to Gmail and Outlook, with Salesforce and Dynamics sync.",
+  "tagline": "Email tracking and outreach for reps",
+  "overview": "Yesware adds email tracking, templates, automated follow-ups, and meeting scheduling inside Gmail and Outlook, with CRM integrations to Salesforce and Microsoft Dynamics.",
+  "what_is": [
+    "Yesware is a sales engagement tool that lives in the inbox. It helps reps track email opens and engagement, use proven templates, and time follow-ups, all within Gmail or Outlook so there is no separate app to learn.",
+    "It works well for individual reps, managers, and small teams that want to make email outreach more effective quickly. Setup is fast, and real-time tracking plus campaign testing help reps see what messaging earns replies.",
+    "Yesware integrates with CRMs like Salesforce and Microsoft Dynamics, fitting the stack as an email tracking and outreach layer. It is not a full CRM or support platform; it focuses on personalized, scalable sales email."
+  ]
+}

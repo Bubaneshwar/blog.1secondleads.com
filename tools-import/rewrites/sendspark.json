@@ -1,0 +1,10 @@
+{
+  "description": "Sendspark is a personalized video tool that uses AI to customize one recording for each prospect at scale, embedding videos in sales sequences and emails.",
+  "tagline": "Personalized sales video at scale",
+  "overview": "Sendspark lets teams record one video and use AI to personalize it for each prospect with their name and background, sending it inside email sequences and marketing campaigns.",
+  "what_is": [
+    "Sendspark is a video platform for sales and marketing teams that makes personalized video practical at scale. You record once, and AI customizes the video for each prospect, so outreach feels personal without hours of recording.",
+    "It suits SDRs, account executives, marketers, and recruiters who want to connect personally, with more replies and conversions typically appearing within weeks. Contacts import via CSV, CRM, or API so campaigns launch fast.",
+    "Sendspark integrates with email and CRM tools to drop personalized videos into sequences. It is not a complex video editor or a tool for generic marketing videos; it focuses on personalized outreach video."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "description": "Salesrobot is a LinkedIn and cold email automation tool for personalized outreach with messages, voice notes, and videos.",
+  "tagline": "LinkedIn and cold email automation",
+  "overview": "Salesrobot automates LinkedIn and cold email outreach with personalized messages, voice notes, and videos, using mobile APIs to keep LinkedIn accounts safe.",
+  "what_is": [
+    "SalesRobot is a combined LinkedIn and cold email automation tool for B2B sales and lead generation teams. It sends personalized messages, voice notes, and videos to many leads each week, and uses mobile APIs to reduce LinkedIn ban risk without requiring LinkedIn Premium.",
+    "It suits agencies and sales teams automating LinkedIn outreach and cold email with high personalization, running multi-message campaigns and AI-assisted inbox management to book meetings. SalesRobot integrates with CRMs and connects via native integrations and webhooks, focused on outreach rather than full sales management."
+  ]
+}

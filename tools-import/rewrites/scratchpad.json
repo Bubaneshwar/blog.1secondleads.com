@@ -1,0 +1,10 @@
+{
+  "description": "Scratchpad is a Salesforce workspace that automates CRM updates and note-taking, helping reps keep data clean and spend more time selling.",
+  "tagline": "Fast Salesforce updates and notes",
+  "overview": "Scratchpad is a sales workspace built on Salesforce that captures notes, automates CRM updates, and adds coaching, so reps keep records accurate with less admin.",
+  "what_is": [
+    "Scratchpad is a workspace for Salesforce-based sales teams. It strips out admin by capturing notes and updating Salesforce automatically, which frees reps to spend more of their time on revenue-generating work.",
+    "It is strongest at CRM accuracy, deal execution, follow-ups, and pipeline visibility, with coaching layered in. It connects instantly to Salesforce and starts streamlining work right away, so cleaner data and better process adherence show up quickly.",
+    "Scratchpad sits on top of Salesforce, inheriting its permissions and security. It is not a standalone CRM or a marketing tool; it enhances existing CRM data and makes forecasts more reliable."
+  ]
+}

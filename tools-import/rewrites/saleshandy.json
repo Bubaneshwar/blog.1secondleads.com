@@ -1,0 +1,10 @@
+{
+  "description": "Saleshandy is cold email software with a built-in lead finder, unlimited sending inboxes, deliverability tools, and reply management to automate outreach.",
+  "tagline": "Cold email and lead generation",
+  "overview": "Saleshandy combines a B2B lead finder, automated cold email, deliverability testing, and inbox management in one platform, so teams can build lists and book meetings without extra tools.",
+  "what_is": [
+    "Saleshandy is a cold email and lead-generation platform. It bundles a lead finder, an email sender, deliverability checks, and inbox management together, and lets you connect unlimited sending accounts so volume is not gated by per-inbox fees.",
+    "It works well for agencies, sales teams, and recruiters who want to find verified leads and run personalized campaigns in one place. Automation and tracking mean most teams start booking meetings within days rather than after a long setup.",
+    "Saleshandy integrates with popular CRMs and email providers for workflow automation and enrichment. Its strength is cold email and lead management; it is not built for complex marketing automation or non-email channels."
+  ]
+}

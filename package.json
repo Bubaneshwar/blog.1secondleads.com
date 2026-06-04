@@ -21,7 +21,8 @@
     "lint:scss": "stylelint _sass/**/*.scss",
     "lint:fix:scss": "npm run lint:scss -- --fix",
     "test": "npm run lint:scss",
-    "prepare": "husky"
+    "prepare": "husky",
+    "scrape": "node tools/scrape-coldiq.js"
   },
   "dependencies": {
     "@popperjs/core": "^2.11.8",
@@ -43,6 +44,7 @@
     "concurrently": "^9.1.0",
     "conventional-changelog-conventionalcommits": "^8.0.0",
     "husky": "^9.1.7",
+    "playwright": "^1.60.0",
     "purgecss": "^7.0.2",
     "rollup": "^4.27.4",
     "semantic-release": "^24.2.0",

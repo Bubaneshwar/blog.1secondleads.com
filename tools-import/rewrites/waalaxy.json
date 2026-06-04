@@ -1,0 +1,10 @@
+{
+  "description": "Waalaxy is a LinkedIn and email automation tool that runs safe outreach campaigns with templates, a Chrome extension for importing leads, and CRM integrations.",
+  "tagline": "LinkedIn and email lead generation",
+  "overview": "Waalaxy automates LinkedIn invitations, messages, and follow-ups alongside email, with safety limits, ready-made campaign templates, and a Chrome extension to import prospects.",
+  "what_is": [
+    "Waalaxy is a LinkedIn automation tool that also reaches prospects by email. It runs invitations, messages, and profile visits automatically while keeping activity within safe limits, and ships with a library of campaign templates to start from.",
+    "It suits sales and marketing teams that want LinkedIn-led lead generation without technical setup. You import leads with the Chrome extension, launch a sequence, and can see responses within days, with email finding to enrich and follow up.",
+    "Waalaxy integrates with CRMs like HubSpot and Pipedrive and connects to thousands of apps through Zapier. It is a prospecting and outreach tool rather than a full marketing-automation or analytics platform, focused on simplifying LinkedIn outreach."
+  ]
+}

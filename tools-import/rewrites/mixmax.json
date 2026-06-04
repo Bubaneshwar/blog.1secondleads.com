@@ -1,0 +1,10 @@
+{
+  "description": "Mixmax is an inbox-based sales engagement tool for Gmail that adds tracking, templates, sequences, scheduling, and CRM sync to personalize and automate outreach.",
+  "tagline": "Sales engagement inside your inbox",
+  "overview": "Mixmax brings sales engagement into Gmail and Outlook with email tracking, sequences, meeting scheduling, and real-time signals, syncing with Salesforce and HubSpot.",
+  "what_is": [
+    "Mixmax is a sales engagement tool that works inside your inbox. It lets reps run personalized sequences, schedule meetings, and track engagement from Gmail or Outlook, so prospecting and follow-up happen where they already spend their day.",
+    "It fits sales development, account executives, and RevOps teams that want to automate follow-ups, prioritize prospects, and move quickly without switching tools. Setup is light, so teams usually see time savings and better response rates within days.",
+    "Mixmax integrates tightly with CRMs like Salesforce and HubSpot, embedding data and automating updates from the inbox. It is a lightweight, inbox-centric engagement tool rather than a heavy marketing-automation or enrichment platform."
+  ]
+}

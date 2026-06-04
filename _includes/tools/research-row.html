@@ -1,0 +1,20 @@
+{% comment %}
+  A horizontal research row for the "See how teams use" section: a label on the
+  left and one shared "Ask ChatGPT / Ask Claude" pair on the right (instead of
+  repeating the buttons on every use case). Params: title, prompt.
+{% endcomment %}
+<div class="single-tool-use-cases__row">
+  <span class="single-tool-use-cases__row-title">{{ include.title }}</span>
+  <div class="single-tool-use-cases__card-actions">
+    <a class="single-tool-use-cases__open" href="https://chatgpt.com/?q={{ include.prompt | uri_escape }}" target="_blank" rel="noopener noreferrer">
+      <span class="single-tool-use-cases__open-logo single-tool-use-cases__open-logo--gpt" aria-hidden="true"></span>
+      Ask ChatGPT
+      <i data-lucide="external-link" class="single-tool-use-cases__open-ext" aria-hidden="true"></i>
+    </a>
+    <a class="single-tool-use-cases__open" href="https://claude.ai/new?q={{ include.prompt | uri_escape }}" target="_blank" rel="noopener noreferrer">
+      <span class="single-tool-use-cases__open-logo single-tool-use-cases__open-logo--claude" aria-hidden="true"></span>
+      Ask Claude
+      <i data-lucide="external-link" class="single-tool-use-cases__open-ext" aria-hidden="true"></i>
+    </a>
+  </div>
+</div>

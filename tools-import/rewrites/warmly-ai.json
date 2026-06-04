@@ -1,0 +1,10 @@
+{
+  "description": "Warmly is a warm-outbound platform that de-anonymizes website visitors, combines intent signals, and helps sales teams engage in-market accounts at the right moment.",
+  "tagline": "Warm outbound from website and intent signals",
+  "overview": "Warmly reveals the companies and people visiting your website, layers in intent signals, and helps reps engage warm prospects through chat, email, and LinkedIn while interest is high.",
+  "what_is": [
+    "Warmly is a signal-based outbound tool that focuses on prospects already showing interest. It de-anonymizes website traffic to show which companies and people are visiting, then combines that with intent and CRM data so reps reach out when an account is in-market.",
+    "It is most useful for turning anonymous site visits into timely conversations: surfacing warm accounts, alerting reps, and triggering engagement across chat, email, and LinkedIn. The aim is to prioritize accounts that are likely to respond rather than cold lists.",
+    "Warmly connects to CRMs, enrichment, and outreach tools to fit a go-to-market stack. It concentrates on visitor identification, intent, and engagement rather than acting as a full CRM or marketing-automation suite."
+  ]
+}

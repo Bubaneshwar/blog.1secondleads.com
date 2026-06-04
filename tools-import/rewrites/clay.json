@@ -1,0 +1,12 @@
+{
+  "website": "https://www.clay.com",
+  "primary_category": "GTM Automation",
+  "description": "Clay is a data enrichment and GTM automation tool that pulls from 100+ sources and AI agents to build and update lead lists.",
+  "tagline": "Prospect differently",
+  "overview": "Clay lets go-to-market teams enrich records from more than 100 data providers and AI research agents, automating list building, scoring, and CRM updates.",
+  "what_is": [
+    "Clay is a go-to-market automation tool that helps teams build and enrich lead lists from over 100 data sources in one workflow. It runs waterfall enrichment and AI research agents to fill in contact details, company data, and buying signals, keeping a CRM accurate without manual research.",
+    "Teams reach for Clay when they need targeted prospect lists, inbound lead enrichment, or signal-based outbound at scale. It connects to CRMs, email sequencers, and data warehouses so enriched data flows into the tools reps already use.",
+    "Clay is built for data and outreach workflows rather than full marketing campaign management or deep analytics, so it usually sits alongside the rest of a GTM stack."
+  ]
+}

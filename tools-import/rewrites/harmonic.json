@@ -1,0 +1,9 @@
+{
+  "description": "Harmonic is a startup discovery database with 30M+ companies and 190M+ people, with AI search and real-time alerts.",
+  "tagline": "Discover startups before anyone else",
+  "overview": "Harmonic is a startup discovery engine for venture investors and founders, with a database of over 30 million companies and 190 million people, AI-powered search, and real-time alerts.",
+  "what_is": [
+    "Harmonic is a startup discovery engine built for venture capitalists and founders. Its database covers more than 30 million companies and 190 million people, and AI-powered search with real-time alerts helps users find emerging, fast-growing companies and investment opportunities early.",
+    "It is strongest for sourcing new companies, evaluating founding teams, tracking talent moves, and monitoring funding rounds, and it integrates with CRMs, outreach tools, and data warehouses through REST and GraphQL APIs. Harmonic focuses on discovery and early-stage opportunity tracking rather than financial modeling or long-term portfolio management."
+  ]
+}

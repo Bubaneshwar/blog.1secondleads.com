@@ -1,0 +1,10 @@
+{
+  "description": "Demandbase is an account-based GTM platform that identifies target accounts, reads buying signals, and orchestrates advertising and sales outreach to grow pipeline.",
+  "tagline": "Account-based GTM platform",
+  "overview": "Demandbase helps B2B revenue teams identify and engage buying groups inside target accounts, combining intent data, advertising, personalization, and orchestration across the GTM stack.",
+  "what_is": [
+    "Demandbase is an account-based go-to-market platform for B2B sales and marketing. It uses data and AI to identify the accounts and buying groups worth pursuing, then helps teams engage them across advertising, sales outreach, and personalization rather than chasing isolated contacts.",
+    "It fits sales, marketing, RevOps, and customer success teams running account-based strategies, helping them prioritize purchase-ready accounts and coordinate outreach. The platform automates actions from real-time signals to move pipeline and larger deals forward.",
+    "Demandbase connects to CRM, email, and other sales and marketing tools through integrations and APIs. It is built for complex account-based programs and larger B2B teams rather than small businesses or simple lead generation."
+  ]
+}

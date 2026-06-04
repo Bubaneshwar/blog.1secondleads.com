@@ -1,0 +1,10 @@
+{
+  "description": "lemwarm is an email warm-up and deliverability tool that builds sender reputation through a large network of inboxes and monitors your sending health daily.",
+  "tagline": "Email warm-up and deliverability monitoring",
+  "overview": "lemwarm warms up inboxes by exchanging natural automated replies across a large network of domains, then monitors sending patterns and setup to keep deliverability healthy.",
+  "what_is": [
+    "lemwarm is an email deliverability tool that warms up sending addresses so messages land in the inbox rather than spam. It sends natural, automated replies across a large network of domains to build sender reputation over time.",
+    "It is most useful when starting new campaigns or cold outreach. The initial warm-up takes a few weeks, after which deliverability improves, and daily insights into sending patterns and technical setup keep performance steady.",
+    "lemwarm fits the GTM stack as a deliverability layer alongside CRM and email tools. It is not an all-in-one email platform or list verifier; it focuses on warm-up and monitoring, and works best run continuously."
+  ]
+}

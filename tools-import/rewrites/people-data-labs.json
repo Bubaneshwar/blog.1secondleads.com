@@ -1,0 +1,9 @@
+{
+  "description": "People Data Labs is a B2B data provider offering people and company datasets via API for sales, HR, and investment teams.",
+  "tagline": "A single source of truth for people data",
+  "overview": "People Data Labs provides clean, frequently refreshed people and company datasets through flexible APIs, powering sales, HR tech, and investment-intelligence tools.",
+  "what_is": [
+    "People Data Labs (PDL) is a data platform for building AI-driven sales and marketing tools. It offers clean, current datasets on people and companies, giving teams accurate contact information and firmographic detail to enrich their data reliably.",
+    "It works best for HR tech, sales and marketing, and investment research, helping users find leads, understand companies, and source opportunities. PDL integrates with CRMs, email workflows, and enrichment tools through APIs and platforms like Zapier and Snowflake, and is built for automated, large-scale data processes rather than manual data entry."
+  ]
+}

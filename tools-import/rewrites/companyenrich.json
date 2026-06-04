@@ -1,0 +1,10 @@
+{
+  "description": "CompanyEnrich is a B2B data API with real-time company and contact insights on millions of businesses and profiles.",
+  "tagline": "Real-time verified B2B data APIs",
+  "overview": "CompanyEnrich delivers real-time, verified B2B company and contact data through simple APIs, covering tens of millions of companies and profiles.",
+  "what_is": [
+    "CompanyEnrich is a B2B data platform that serves real-time company and contact information through easy-to-use APIs. It draws on data for more than 30 million companies and 170 million profiles from sources like the web, social media, and public records.",
+    "It suits sales teams, AI agents, recruiters, and platforms that need enriched company data on demand, with live results in minutes. Common uses include discovering new companies, finding lookalikes, and filling gaps in CRM records.",
+    "CompanyEnrich powers CRM enrichment, sales automation, and AI workflows from a single API suite. It focuses on business data only, so it is not meant for consumer data or offline market analysis."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "description": "Koala identifies the companies behind your website traffic, unifies intent signals, and helps sales teams prioritize and engage high-intent accounts.",
+  "tagline": "See the companies behind your website traffic",
+  "overview": "Koala reveals which companies are visiting your site, unifies intent and product signals into one view, and helps reps prioritize high-intent accounts and keep the CRM accurate.",
+  "what_is": [
+    "Koala is a signal and intent tool that helps sales and RevOps teams work the right accounts. It identifies the companies behind website traffic and pulls signals from many sources into a single view, so reps can see who is showing interest and act on it.",
+    "It is most useful for sales development and marketing teams that want to prioritize high-intent accounts and build a repeatable pipeline. Setup is quick, and account scoring plus a clear view of the buying committee make outreach more timely and relevant.",
+    "Koala integrates with CRMs, email platforms, and data warehouses to automate enrichment and keep records current. It is not a CRM or marketing-automation platform itself; it aggregates intent and helps reps prioritize and engage."
+  ]
+}
