@@ -1,0 +1,10 @@
+{
+  "description": "FullContact is an identity resolution platform that turns anonymous website visitors into known contacts by unifying data across 900+ attributes.",
+  "tagline": "Build trust between people and brands",
+  "overview": "FullContact resolves anonymous visitor identities and unifies fragmented customer data into dynamic profiles, giving marketing, sales, and product teams richer intelligence for personalization and targeting. It enhances first-party data rather than replacing the tools already in your stack.",
+  "what_is": [
+    "FullContact is an identity resolution platform built to identify website visitors, map their journeys, and convert anonymous traffic into actionable leads. It sits within the customer intelligence and data enrichment category. The platform differentiates itself by consolidating fragmented data points into unified customer records and appending more than 900 unique attributes for deeper audience understanding.",
+    "Teams typically see value within days, as the enriched profiles can immediately inform personalized outreach and more precise ad targeting. FullContact is well suited to marketing, sales, and product teams that need a complete picture of their customers across touchpoints. It connects with CRMs, CDPs, and marketing platforms to strengthen first-party data and extend media reach.",
+    "FullContact is not a standalone CRM or email marketing solution. Its core function is identity resolution and data enrichment, designed to improve the tools already in place rather than replace them."
+  ]
+}

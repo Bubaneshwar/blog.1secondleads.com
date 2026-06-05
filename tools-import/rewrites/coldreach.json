@@ -1,0 +1,10 @@
+{
+  "description": "Coldreach is an AI sales prospecting tool that monitors 79M+ accounts for buying signals and automates personalized outreach to help teams book more meetings.",
+  "tagline": "Your own AI assistant for prospecting",
+  "overview": "Coldreach helps sales teams identify leads who are ready to buy and automates personalized outreach to them. Its AI monitors over 79 million accounts around the clock, surfaces customizable buying signals, and drafts relevant messaging so reps can focus on closing.",
+  "what_is": [
+    "Coldreach is a sales automation tool built for outbound lead generation and engagement. It uses AI to monitor more than 79 million accounts 24/7, identifying buying signals that are fully customizable to match the specific intent criteria for a given product. This continuous monitoring lets sales teams reach the right accounts at the right time rather than guessing who is in market.",
+    "The platform is most effective when teams need to build targeted lead lists quickly and want personalized outreach to run at scale. Lead lists are refreshed weekly, and AI-powered outreach to high-intent accounts begins immediately. Sales teams using Coldreach typically book more meetings by sending tailored emails tied to real-time account activity rather than generic sequences.",
+    "Coldreach connects with CRMs, email platforms, and engagement tools including Salesforce, HubSpot, and Sales Navigator, fitting naturally into an existing tech stack. It is not a full CRM or pipeline management platform; its focus is exclusively on prospecting and outreach automation, so separate tools remain necessary for deal tracking and sales reporting."
+  ]
+}

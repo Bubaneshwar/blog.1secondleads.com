@@ -1,0 +1,10 @@
+{
+  "description": "MailerCheck is an email deliverability platform that verifies lists, analyzes content for spam triggers, tests inbox placement, and monitors domains to improve campaign ROI.",
+  "tagline": "Email list verification and deliverability testing",
+  "overview": "MailerCheck gives email marketers and sales teams a comprehensive set of tools to verify contact lists, analyze content for spam risk, test where messages land before sending, and receive real-time alerts when sending domains appear on blocklists.",
+  "what_is": [
+    "MailerCheck is an email verification and deliverability testing platform with over 12 years of industry experience behind it. It helps businesses improve inbox placement and open rates by verifying that email addresses are active and checking that message content does not trigger spam filters. Teams rely on its track record for accuracy when maintaining large contact databases.",
+    "The platform covers the full pre-send quality cycle: cleaning lists of invalid addresses, scoring content against common spam rules, predicting whether messages will reach the inbox or the junk folder, and monitoring sending domains for blocklist appearances. Each check returns actionable data within seconds, keeping list maintenance and campaign preparation on a fast timeline.",
+    "MailerCheck integrates with widely used email platforms such as Mailchimp and ActiveCampaign, slotting in as a verification and monitoring layer alongside CRM and sending tools. It is not a list-building or campaign-creation product; it is focused on ensuring that whatever emails a team sends have the best possible chance of reaching the intended inbox."
+  ]
+}

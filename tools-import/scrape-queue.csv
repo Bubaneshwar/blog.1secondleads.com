@@ -1,6 +1,6 @@
 name,slug,source_url,status
 10web,10web,https://coldiq.com/tools/10web,scraped
-11x,11x,https://coldiq.com/tools/11x,scraped
+11x,11x,https://coldiq.com/tools/11x,imported
 15five,15five,https://coldiq.com/tools/15five,scraped
 1703 Media,1703-media,https://coldiq.com/tools/1703-media,scraped
 17hats,17hats,https://coldiq.com/tools/17hats,scraped
@@ -14,10 +14,10 @@ name,slug,source_url,status
 30characters,30characters,https://coldiq.com/tools/30characters,scraped
 360 Sms App,360-sms-app,https://coldiq.com/tools/360-sms-app,scraped
 3dcart,3dcart,https://coldiq.com/tools/3dcart,scraped
-6sense,6sense,https://coldiq.com/tools/6sense,scraped
+6sense,6sense,https://coldiq.com/tools/6sense,imported
 7targets,7targets,https://coldiq.com/tools/7targets,scraped
 8x8,8x8,https://coldiq.com/tools/8x8,scraped
-A Leads,a-leads,https://coldiq.com/tools/a-leads,scraped
+A Leads,a-leads,https://coldiq.com/tools/a-leads,imported
 A0dev,a0dev,https://coldiq.com/tools/a0dev,scraped
 A2x,a2x,https://coldiq.com/tools/a2x,scraped
 Aampe,aampe,https://coldiq.com/tools/aampe,scraped
@@ -45,7 +45,7 @@ Acumatica,acumatica,https://coldiq.com/tools/acumatica,scraped
 Ada,ada,https://coldiq.com/tools/ada,scraped
 Adalo,adalo,https://coldiq.com/tools/adalo,scraped
 Adamai,adamai,https://coldiq.com/tools/adamai,scraped
-Adapt,adapt,https://coldiq.com/tools/adapt,scraped
+Adapt,adapt,https://coldiq.com/tools/adapt,imported
 Adaptify Seo,adaptify-seo,https://coldiq.com/tools/adaptify-seo,scraped
 Adauris,adauris,https://coldiq.com/tools/adauris,scraped
 Adbeacon,adbeacon,https://coldiq.com/tools/adbeacon,scraped
@@ -83,7 +83,7 @@ Advisr,advisr,https://coldiq.com/tools/advisr,scraped
 Adyen,adyen,https://coldiq.com/tools/adyen,scraped
 Adyntel,adyntel,https://coldiq.com/tools/adyntel,scraped
 Adzooma,adzooma,https://coldiq.com/tools/adzooma,scraped
-Aeroleads,aeroleads,https://coldiq.com/tools/aeroleads,scraped
+Aeroleads,aeroleads,https://coldiq.com/tools/aeroleads,imported
 Affiliatewp,affiliatewp,https://coldiq.com/tools/affiliatewp,scraped
 Affinity,affinity,https://coldiq.com/tools/affinity,scraped
 Affise,affise,https://coldiq.com/tools/affise,scraped
@@ -107,7 +107,7 @@ Agentscale Ai,agentscale-ai,https://coldiq.com/tools/agentscale-ai,scraped
 Agentso,agentso,https://coldiq.com/tools/agentso,scraped
 Agenty,agenty,https://coldiq.com/tools/agenty,scraped
 Agience,agience,https://coldiq.com/tools/agience,scraped
-Agilecrm,agilecrm,https://coldiq.com/tools/agilecrm,scraped
+Agilecrm,agilecrm,https://coldiq.com/tools/agilecrm,imported
 Agility,agility,https://coldiq.com/tools/agility,scraped
 Agilone,agilone,https://coldiq.com/tools/agilone,scraped
 Agora,agora,https://coldiq.com/tools/agora,scraped
@@ -135,26 +135,26 @@ Aidbase,aidbase,https://coldiq.com/tools/aidbase,scraped
 Aidentified Inc,aidentified-inc,https://coldiq.com/tools/aidentified-inc,scraped
 Aider,aider,https://coldiq.com/tools/aider,scraped
 Aimdoc,aimdoc,https://coldiq.com/tools/aimdoc,scraped
-Aimfox,aimfox,https://coldiq.com/tools/aimfox,scraped
+Aimfox,aimfox,https://coldiq.com/tools/aimfox,imported
 Aiml Api,aiml-api,https://coldiq.com/tools/aiml-api,scraped
 Aimtell,aimtell,https://coldiq.com/tools/aimtell,scraped
-Aindleads,aindleads,https://coldiq.com/tools/aindleads,scraped
+Aindleads,aindleads,https://coldiq.com/tools/aindleads,imported
 Ainisa,ainisa,https://coldiq.com/tools/ainisa,scraped
 Air Traffic Control,air-traffic-control,https://coldiq.com/tools/air-traffic-control,scraped
 Airbyte,airbyte,https://coldiq.com/tools/airbyte,scraped
-Aircall,aircall,https://coldiq.com/tools/aircall,scraped
+Aircall,aircall,https://coldiq.com/tools/aircall,imported
 Aircover,aircover,https://coldiq.com/tools/aircover,scraped
 Airflow,airflow,https://coldiq.com/tools/airflow,scraped
 Airops,airops,https://coldiq.com/tools/airops,scraped
 Airpost,airpost,https://coldiq.com/tools/airpost,scraped
-Airscale,airscale,https://coldiq.com/tools/airscale,scraped
+Airscale,airscale,https://coldiq.com/tools/airscale,imported
 Airship,airship,https://coldiq.com/tools/airship,scraped
 Airtable,airtable,https://coldiq.com/tools/airtable,scraped
 Airtop,airtop,https://coldiq.com/tools/airtop,scraped
 Airwallex,airwallex,https://coldiq.com/tools/airwallex,scraped
 Airychat,airychat,https://coldiq.com/tools/airychat,scraped
 Aiscraper,aiscraper,https://coldiq.com/tools/aiscraper,scraped
-Aisdr,aisdr,https://coldiq.com/tools/aisdr,scraped
+Aisdr,aisdr,https://coldiq.com/tools/aisdr,imported
 Aisensy,aisensy,https://coldiq.com/tools/aisensy,scraped
 Aisera,aisera,https://coldiq.com/tools/aisera,scraped
 Aissistio,aissistio,https://coldiq.com/tools/aissistio,scraped
@@ -170,7 +170,7 @@ Akkio,akkio,https://coldiq.com/tools/akkio,scraped
 Akool,akool,https://coldiq.com/tools/akool,scraped
 Aktify,aktify,https://coldiq.com/tools/aktify,scraped
 Alan Ai,alan-ai,https://coldiq.com/tools/alan-ai,scraped
-Albacross,albacross,https://coldiq.com/tools/albacross,scraped
+Albacross,albacross,https://coldiq.com/tools/albacross,imported
 Albato,albato,https://coldiq.com/tools/albato,scraped
 Albertai,albertai,https://coldiq.com/tools/albertai,scraped
 Aleah Ai,aleah-ai,https://coldiq.com/tools/aleah-ai,scraped
@@ -182,7 +182,7 @@ Algopix,algopix,https://coldiq.com/tools/algopix,scraped
 Algops,algops,https://coldiq.com/tools/algops,scraped
 Aligned,aligned,https://coldiq.com/tools/aligned,scraped
 Allego,allego,https://coldiq.com/tools/allego,scraped
-Allegrow,allegrow,https://coldiq.com/tools/allegrow,scraped
+Allegrow,allegrow,https://coldiq.com/tools/allegrow,imported
 Alli Ai,alli-ai,https://coldiq.com/tools/alli-ai,scraped
 Allii,allii,https://coldiq.com/tools/allii,scraped
 Allinwriter,allinwriter,https://coldiq.com/tools/allinwriter,scraped
@@ -199,7 +199,7 @@ Ambassify,ambassify,https://coldiq.com/tools/ambassify,scraped
 Ambition,ambition,https://coldiq.com/tools/ambition,scraped
 Ambitionbox,ambitionbox,https://coldiq.com/tools/ambitionbox,scraped
 Amoeba,amoeba,https://coldiq.com/tools/amoeba,scraped
-Amplemarket,amplemarket,https://coldiq.com/tools/amplemarket,scraped
+Amplemarket,amplemarket,https://coldiq.com/tools/amplemarket,imported
 Amplitude,amplitude,https://coldiq.com/tools/amplitude,scraped
 Anantyaai,anantyaai,https://coldiq.com/tools/anantyaai,scraped
 Anaplan,anaplan,https://coldiq.com/tools/anaplan,scraped
@@ -212,8 +212,8 @@ Anybiz,anybiz,https://coldiq.com/tools/anybiz,scraped
 Anyclip,anyclip,https://coldiq.com/tools/anyclip,scraped
 Anycrawl,anycrawl,https://coldiq.com/tools/anycrawl,scraped
 Anyimageio,anyimageio,https://coldiq.com/tools/anyimageio,scraped
-Anyleads,anyleads,https://coldiq.com/tools/anyleads,scraped
-Anymail Finder,anymail-finder,https://coldiq.com/tools/anymail-finder,scraped
+Anyleads,anyleads,https://coldiq.com/tools/anyleads,imported
+Anymail Finder,anymail-finder,https://coldiq.com/tools/anymail-finder,imported
 Anyroad,anyroad,https://coldiq.com/tools/anyroad,scraped
 Anyword,anyword,https://coldiq.com/tools/anyword,scraped
 Aomni,aomni,https://coldiq.com/tools/aomni,scraped
@@ -222,7 +222,7 @@ Apidog,apidog,https://coldiq.com/tools/apidog,scraped
 Apifiddler,apifiddler,https://coldiq.com/tools/apifiddler,scraped
 Apify,apify,https://coldiq.com/tools/apify,scraped
 Apimatic,apimatic,https://coldiq.com/tools/apimatic,scraped
-Apollo,apollo,https://coldiq.com/tools/apollo,scraped
+Apollo,apollo,https://coldiq.com/tools/apollo,imported
 Appagent,appagent,https://coldiq.com/tools/appagent,scraped
 Appcast Inc,appcast-inc,https://coldiq.com/tools/appcast-inc,scraped
 Appearonai,appearonai,https://coldiq.com/tools/appearonai,scraped
@@ -249,13 +249,13 @@ Arcads,arcads,https://coldiq.com/tools/arcads,scraped
 Ardor,ardor,https://coldiq.com/tools/ardor,scraped
 Argil,argil,https://coldiq.com/tools/argil,scraped
 Arnold,arnold,https://coldiq.com/tools/arnold,scraped
-Arounddeal,arounddeal,https://coldiq.com/tools/arounddeal,scraped
+Arounddeal,arounddeal,https://coldiq.com/tools/arounddeal,imported
 Arphie,arphie,https://coldiq.com/tools/arphie,scraped
 Arrows,arrows,https://coldiq.com/tools/arrows,scraped
 Artflowai,artflowai,https://coldiq.com/tools/artflowai,scraped
 Article Forge,article-forge,https://coldiq.com/tools/article-forge,scraped
 Articlyai,articlyai,https://coldiq.com/tools/articlyai,scraped
-Artisan,artisan,https://coldiq.com/tools/artisan,scraped
+Artisan,artisan,https://coldiq.com/tools/artisan,imported
 Artisk,artisk,https://coldiq.com/tools/artisk,scraped
 Artlist,artlist,https://coldiq.com/tools/artlist,scraped
 Artsai,artsai,https://coldiq.com/tools/artsai,scraped
@@ -285,7 +285,7 @@ Atlas,atlas,https://coldiq.com/tools/atlas,scraped
 Atomic,atomic,https://coldiq.com/tools/atomic,scraped
 Attention,attention,https://coldiq.com/tools/attention,scraped
 Attentive,attentive,https://coldiq.com/tools/attentive,scraped
-Attio,attio,https://coldiq.com/tools/attio,scraped
+Attio,attio,https://coldiq.com/tools/attio,imported
 Attribution,attribution,https://coldiq.com/tools/attribution,scraped
 Audiense,audiense,https://coldiq.com/tools/audiense,scraped
 Augment Cxm,augment-cxm,https://coldiq.com/tools/augment-cxm,scraped
@@ -296,7 +296,7 @@ Authoredup,authoredup,https://coldiq.com/tools/authoredup,scraped
 Authorizenet,authorizenet,https://coldiq.com/tools/authorizenet,scraped
 Auto Funnel System,auto-funnel-system,https://coldiq.com/tools/auto-funnel-system,scraped
 Auto Gpt,auto-gpt,https://coldiq.com/tools/auto-gpt,scraped
-Auto Mailer,auto-mailer,https://coldiq.com/tools/auto-mailer,scraped
+Auto Mailer,auto-mailer,https://coldiq.com/tools/auto-mailer,imported
 Autobound,autobound,https://coldiq.com/tools/autobound,scraped
 Autocallsai,autocallsai,https://coldiq.com/tools/autocallsai,scraped
 Autom,autom,https://coldiq.com/tools/autom,scraped
@@ -322,7 +322,7 @@ Avehr,avehr,https://coldiq.com/tools/avehr,scraped
 Avian,avian,https://coldiq.com/tools/avian,scraped
 Avidestal,avidestal,https://coldiq.com/tools/avidestal,scraped
 Aviso,aviso,https://coldiq.com/tools/aviso,scraped
-Avoma,avoma,https://coldiq.com/tools/avoma,scraped
+Avoma,avoma,https://coldiq.com/tools/avoma,imported
 Awarathon,awarathon,https://coldiq.com/tools/awarathon,scraped
 Awardco,awardco,https://coldiq.com/tools/awardco,scraped
 Awario,awario,https://coldiq.com/tools/awario,scraped
@@ -333,7 +333,7 @@ Axify,axify,https://coldiq.com/tools/axify,scraped
 Axiom,axiom,https://coldiq.com/tools/axiom,scraped
 Axomo,axomo,https://coldiq.com/tools/axomo,scraped
 B12,b12,https://coldiq.com/tools/b12,scraped
-B2b Rocket,b2b-rocket,https://coldiq.com/tools/b2b-rocket,scraped
+B2b Rocket,b2b-rocket,https://coldiq.com/tools/b2b-rocket,imported
 B2brain,b2brain,https://coldiq.com/tools/b2brain,scraped
 B2metric,b2metric,https://coldiq.com/tools/b2metric,scraped
 Backlinkbot Ai,backlinkbot-ai,https://coldiq.com/tools/backlinkbot-ai,scraped
@@ -350,7 +350,7 @@ Base44,base44,https://coldiq.com/tools/base44,scraped
 Baseloop,baseloop,https://coldiq.com/tools/baseloop,scraped
 Basis Technologies,basis-technologies,https://coldiq.com/tools/basis-technologies,scraped
 Bazaarvoice,bazaarvoice,https://coldiq.com/tools/bazaarvoice,scraped
-Bdrai,bdrai,https://coldiq.com/tools/bdrai,scraped
+Bdrai,bdrai,https://coldiq.com/tools/bdrai,imported
 Beacon Ai,beacon-ai,https://coldiq.com/tools/beacon-ai,scraped
 Beam Ai,beam-ai,https://coldiq.com/tools/beam-ai,scraped
 Beamer,beamer,https://coldiq.com/tools/beamer,scraped
@@ -374,7 +374,7 @@ Bestever,bestever,https://coldiq.com/tools/bestever,scraped
 Better Proposals,better-proposals,https://coldiq.com/tools/better-proposals,scraped
 Better Stack,better-stack,https://coldiq.com/tools/better-stack,scraped
 Bettercomp,bettercomp,https://coldiq.com/tools/bettercomp,scraped
-Bettercontact,bettercontact,https://coldiq.com/tools/bettercontact,scraped
+Bettercontact,bettercontact,https://coldiq.com/tools/bettercontact,imported
 Bhuman,bhuman,https://coldiq.com/tools/bhuman,scraped
 Bidease,bidease,https://coldiq.com/tools/bidease,scraped
 Bidprime,bidprime,https://coldiq.com/tools/bidprime,scraped
@@ -398,12 +398,12 @@ Bizmagnets,bizmagnets,https://coldiq.com/tools/bizmagnets,scraped
 Bizway,bizway,https://coldiq.com/tools/bizway,scraped
 Bizzabo,bizzabo,https://coldiq.com/tools/bizzabo,scraped
 Bizzit Ai,bizzit-ai,https://coldiq.com/tools/bizzit-ai,scraped
-Bizzy,bizzy,https://coldiq.com/tools/bizzy,scraped
+Bizzy,bizzy,https://coldiq.com/tools/bizzy,imported
 Blackbox,blackbox,https://coldiq.com/tools/blackbox,scraped
 Bland,bland,https://coldiq.com/tools/bland,scraped
 Blings,blings,https://coldiq.com/tools/blings,scraped
 Bliro,bliro,https://coldiq.com/tools/bliro,scraped
-Blitzapi,blitzapi,https://coldiq.com/tools/blitzapi,scraped
+Blitzapi,blitzapi,https://coldiq.com/tools/blitzapi,imported
 Blitzbear,blitzbear,https://coldiq.com/tools/blitzbear,scraped
 Blobr,blobr,https://coldiq.com/tools/blobr,scraped
 Blockit Ai,blockit-ai,https://coldiq.com/tools/blockit-ai,scraped
@@ -428,7 +428,7 @@ Bolster,bolster,https://coldiq.com/tools/bolster,scraped
 Boltnew,boltnew,https://coldiq.com/tools/boltnew,scraped
 Boltweb,boltweb,https://coldiq.com/tools/boltweb,scraped
 Bombbomb,bombbomb,https://coldiq.com/tools/bombbomb,scraped
-Bombora,bombora,https://coldiq.com/tools/bombora,scraped
+Bombora,bombora,https://coldiq.com/tools/bombora,imported
 Bonjoro,bonjoro,https://coldiq.com/tools/bonjoro,scraped
 Bonusly,bonusly,https://coldiq.com/tools/bonusly,scraped
 Bookkeep,bookkeep,https://coldiq.com/tools/bookkeep,scraped
@@ -478,7 +478,7 @@ Bravoclient,bravoclient,https://coldiq.com/tools/bravoclient,scraped
 Braze,braze,https://coldiq.com/tools/braze,scraped
 Breadcrumbai,breadcrumbai,https://coldiq.com/tools/breadcrumbai,scraped
 Breadcrumbs,breadcrumbs,https://coldiq.com/tools/breadcrumbs,scraped
-Breakcold,breakcold,https://coldiq.com/tools/breakcold,scraped
+Breakcold,breakcold,https://coldiq.com/tools/breakcold,imported
 Breakout,breakout,https://coldiq.com/tools/breakout,scraped
 Breeze,breeze,https://coldiq.com/tools/breeze,scraped
 Breezy Hr,breezy-hr,https://coldiq.com/tools/breezy-hr,scraped
@@ -536,7 +536,7 @@ C3 Metrics,c3-metrics,https://coldiq.com/tools/c3-metrics,scraped
 Cabal,cabal,https://coldiq.com/tools/cabal,scraped
 Cake,cake,https://coldiq.com/tools/cake,scraped
 Calcom,calcom,https://coldiq.com/tools/calcom,scraped
-Calendly,calendly,https://coldiq.com/tools/calendly,scraped
+Calendly,calendly,https://coldiq.com/tools/calendly,imported
 Calibermind,calibermind,https://coldiq.com/tools/calibermind,scraped
 Callbell,callbell,https://coldiq.com/tools/callbell,scraped
 Callfluent Ai,callfluent-ai,https://coldiq.com/tools/callfluent-ai,scraped
@@ -558,14 +558,14 @@ Capalyze,capalyze,https://coldiq.com/tools/capalyze,scraped
 Capcut,capcut,https://coldiq.com/tools/capcut,scraped
 Capgo Ai,capgo-ai,https://coldiq.com/tools/capgo-ai,scraped
 Capsule,capsule,https://coldiq.com/tools/capsule,scraped
-Captain Data,captain-data,https://coldiq.com/tools/captain-data,scraped
+Captain Data,captain-data,https://coldiq.com/tools/captain-data,imported
 Capterra,capterra,https://coldiq.com/tools/capterra,scraped
 Captions,captions,https://coldiq.com/tools/captions,scraped
 Captiv8,captiv8,https://coldiq.com/tools/captiv8,scraped
 Captivateiq,captivateiq,https://coldiq.com/tools/captivateiq,scraped
 Captiwate,captiwate,https://coldiq.com/tools/captiwate,scraped
 Capturify,capturify,https://coldiq.com/tools/capturify,scraped
-Cargo,cargo,https://coldiq.com/tools/cargo,scraped
+Cargo,cargo,https://coldiq.com/tools/cargo,imported
 Cargowise,cargowise,https://coldiq.com/tools/cargowise,scraped
 Carrd,carrd,https://coldiq.com/tools/carrd,scraped
 Carta,carta,https://coldiq.com/tools/carta,scraped
@@ -577,7 +577,7 @@ Cassidy Ai,cassidy-ai,https://coldiq.com/tools/cassidy-ai,scraped
 Castmagic,castmagic,https://coldiq.com/tools/castmagic,scraped
 Causalens,causalens,https://coldiq.com/tools/causalens,scraped
 Cb Insights,cb-insights,https://coldiq.com/tools/cb-insights,scraped
-Cccleads,cccleads,https://coldiq.com/tools/cccleads,scraped
+Cccleads,cccleads,https://coldiq.com/tools/cccleads,imported
 Cello,cello,https://coldiq.com/tools/cello,scraped
 Celtra,celtra,https://coldiq.com/tools/celtra,scraped
 Cenote,cenote,https://coldiq.com/tools/cenote,scraped
@@ -585,7 +585,7 @@ Censhare,censhare,https://coldiq.com/tools/censhare,scraped
 Census,census,https://coldiq.com/tools/census,scraped
 Centralize,centralize,https://coldiq.com/tools/centralize,scraped
 Ceralytics,ceralytics,https://coldiq.com/tools/ceralytics,scraped
-Cerebria Tech,cerebria-tech,https://coldiq.com/tools/cerebria-tech,scraped
+Cerebria Tech,cerebria-tech,https://coldiq.com/tools/cerebria-tech,imported
 Certain,certain,https://coldiq.com/tools/certain,scraped
 Certainly,certainly,https://coldiq.com/tools/certainly,scraped
 Certn,certn,https://coldiq.com/tools/certn,scraped
@@ -638,7 +638,7 @@ Checkr,checkr,https://coldiq.com/tools/checkr,scraped
 Cheepcode,cheepcode,https://coldiq.com/tools/cheepcode,scraped
 Cheetah Digital,cheetah-digital,https://coldiq.com/tools/cheetah-digital,scraped
 Chief,chief,https://coldiq.com/tools/chief,scraped
-Chili Piper,chili-piper,https://coldiq.com/tools/chili-piper,scraped
+Chili Piper,chili-piper,https://coldiq.com/tools/chili-piper,imported
 Chipp,chipp,https://coldiq.com/tools/chipp,scraped
 Choozle,choozle,https://coldiq.com/tools/choozle,scraped
 Chorus Zoominfo,chorus-zoominfo,https://coldiq.com/tools/chorus-zoominfo,scraped
@@ -658,10 +658,10 @@ Clarityux,clarityux,https://coldiq.com/tools/clarityux,scraped
 Claritywrite,claritywrite,https://coldiq.com/tools/claritywrite,scraped
 Claude,claude,https://coldiq.com/tools/claude,scraped
 Claude Code,claude-code,https://coldiq.com/tools/claude-code,scraped
-Clay,clay,https://coldiq.com/tools/clay,scraped
+Clay,clay,https://coldiq.com/tools/clay,imported
 Clean Email,clean-email,https://coldiq.com/tools/clean-email,scraped
 Clean Spreadsheets,clean-spreadsheets,https://coldiq.com/tools/clean-spreadsheets,scraped
-Clearbit,clearbit,https://coldiq.com/tools/clearbit,scraped
+Clearbit,clearbit,https://coldiq.com/tools/clearbit,imported
 Clearcompany,clearcompany,https://coldiq.com/tools/clearcompany,scraped
 Clearcue,clearcue,https://coldiq.com/tools/clearcue,scraped
 Clearout,clearout,https://coldiq.com/tools/clearout,scraped
@@ -680,18 +680,18 @@ Clickup,clickup,https://coldiq.com/tools/clickup,scraped
 Cliently,cliently,https://coldiq.com/tools/cliently,scraped
 Cline,cline,https://coldiq.com/tools/cline,scraped
 Clockwise,clockwise,https://coldiq.com/tools/clockwise,scraped
-Clodura,clodura,https://coldiq.com/tools/clodura,scraped
+Clodura,clodura,https://coldiq.com/tools/clodura,imported
 Cloodot,cloodot,https://coldiq.com/tools/cloodot,scraped
 Cloro,cloro,https://coldiq.com/tools/cloro,scraped
-Close,close,https://coldiq.com/tools/close,scraped
+Close,close,https://coldiq.com/tools/close,imported
 Closebot,closebot,https://coldiq.com/tools/closebot,scraped
 Closefactor,closefactor,https://coldiq.com/tools/closefactor,scraped
-Closely,closely,https://coldiq.com/tools/closely,scraped
+Closely,closely,https://coldiq.com/tools/closely,imported
 Closerscopy,closerscopy,https://coldiq.com/tools/closerscopy,scraped
 Cloud Hero,cloud-hero,https://coldiq.com/tools/cloud-hero,scraped
 Cloudapps,cloudapps,https://coldiq.com/tools/cloudapps,scraped
 Cloudflare,cloudflare,https://coldiq.com/tools/cloudflare,scraped
-Cloudlead,cloudlead,https://coldiq.com/tools/cloudlead,scraped
+Cloudlead,cloudlead,https://coldiq.com/tools/cloudlead,imported
 Cloudtalk,cloudtalk,https://coldiq.com/tools/cloudtalk,scraped
 Cloudways,cloudways,https://coldiq.com/tools/cloudways,scraped
 Cluep,cluep,https://coldiq.com/tools/cluep,scraped
@@ -718,18 +718,18 @@ Coffeespace,coffeespace,https://coldiq.com/tools/coffeespace,scraped
 Cofounderlab,cofounderlab,https://coldiq.com/tools/cofounderlab,scraped
 Coframe,coframe,https://coldiq.com/tools/coframe,scraped
 Cognigy,cognigy,https://coldiq.com/tools/cognigy,scraped
-Cognism,cognism,https://coldiq.com/tools/cognism,scraped
+Cognism,cognism,https://coldiq.com/tools/cognism,imported
 Cognitiveseo,cognitiveseo,https://coldiq.com/tools/cognitiveseo,scraped
 Cognosys,cognosys,https://coldiq.com/tools/cognosys,scraped
 Cohesive Ai,cohesive-ai,https://coldiq.com/tools/cohesive-ai,scraped
 Cohley,cohley,https://coldiq.com/tools/cohley,scraped
-Coldbeanai,coldbeanai,https://coldiq.com/tools/coldbeanai,scraped
-Coldclicks,coldclicks,https://coldiq.com/tools/coldclicks,scraped
+Coldbeanai,coldbeanai,https://coldiq.com/tools/coldbeanai,imported
+Coldclicks,coldclicks,https://coldiq.com/tools/coldclicks,imported
 Coldiq,coldiq,https://coldiq.com/tools/coldiq,scraped
-Coldlist,coldlist,https://coldiq.com/tools/coldlist,scraped
-Coldlytics,coldlytics,https://coldiq.com/tools/coldlytics,scraped
-Coldreach,coldreach,https://coldiq.com/tools/coldreach,scraped
-Coldsire,coldsire,https://coldiq.com/tools/coldsire,scraped
+Coldlist,coldlist,https://coldiq.com/tools/coldlist,imported
+Coldlytics,coldlytics,https://coldiq.com/tools/coldlytics,imported
+Coldreach,coldreach,https://coldiq.com/tools/coldreach,imported
+Coldsire,coldsire,https://coldiq.com/tools/coldsire,imported
 Collabstr,collabstr,https://coldiq.com/tools/collabstr,scraped
 Collectivei,collectivei,https://coldiq.com/tools/collectivei,scraped
 Collextr,collextr,https://coldiq.com/tools/collextr,scraped
@@ -745,9 +745,9 @@ Commentbuddyai,commentbuddyai,https://coldiq.com/tools/commentbuddyai,scraped
 Commenter Ai,commenter-ai,https://coldiq.com/tools/commenter-ai,scraped
 Commentsold,commentsold,https://coldiq.com/tools/commentsold,scraped
 Common Crawl,common-crawl,https://coldiq.com/tools/common-crawl,scraped
-Common Room,common-room,https://coldiq.com/tools/common-room,scraped
+Common Room,common-room,https://coldiq.com/tools/common-room,imported
 Commsor,commsor,https://coldiq.com/tools/commsor,scraped
-Companyenrich,companyenrich,https://coldiq.com/tools/companyenrich,scraped
+Companyenrich,companyenrich,https://coldiq.com/tools/companyenrich,imported
 Companyhub,companyhub,https://coldiq.com/tools/companyhub,scraped
 Compelling,compelling,https://coldiq.com/tools/compelling,scraped
 Competely,competely,https://coldiq.com/tools/competely,scraped
@@ -765,8 +765,8 @@ Connected Stories,connected-stories,https://coldiq.com/tools/connected-stories,s
 Consensus,consensus,https://coldiq.com/tools/consensus,scraped
 Constant Contact,constant-contact,https://coldiq.com/tools/constant-contact,scraped
 Constructor,constructor,https://coldiq.com/tools/constructor,scraped
-Contactlevel,contactlevel,https://coldiq.com/tools/contactlevel,scraped
-Contactout,contactout,https://coldiq.com/tools/contactout,scraped
+Contactlevel,contactlevel,https://coldiq.com/tools/contactlevel,imported
+Contactout,contactout,https://coldiq.com/tools/contactout,imported
 Contadu,contadu,https://coldiq.com/tools/contadu,scraped
 Content Codex,content-codex,https://coldiq.com/tools/content-codex,scraped
 Content Flash Ai,content-flash-ai,https://coldiq.com/tools/content-flash-ai,scraped
@@ -801,7 +801,7 @@ Convin,convin,https://coldiq.com/tools/convin,scraped
 Convincely,convincely,https://coldiq.com/tools/convincely,scraped
 Convirza,convirza,https://coldiq.com/tools/convirza,scraped
 Copilot Ai,copilot-ai,https://coldiq.com/tools/copilot-ai,scraped
-Copper,copper,https://coldiq.com/tools/copper,scraped
+Copper,copper,https://coldiq.com/tools/copper,imported
 Copyai,copyai,https://coldiq.com/tools/copyai,scraped
 Copycat,copycat,https://coldiq.com/tools/copycat,scraped
 Copyfactory,copyfactory,https://coldiq.com/tools/copyfactory,scraped
@@ -812,7 +812,7 @@ Copylime,copylime,https://coldiq.com/tools/copylime,scraped
 Copymatic,copymatic,https://coldiq.com/tools/copymatic,scraped
 Copysmith,copysmith,https://coldiq.com/tools/copysmith,scraped
 Cordial,cordial,https://coldiq.com/tools/cordial,scraped
-Coresignal,coresignal,https://coldiq.com/tools/coresignal,scraped
+Coresignal,coresignal,https://coldiq.com/tools/coresignal,imported
 Correlated,correlated,https://coldiq.com/tools/correlated,scraped
 Coschedule,coschedule,https://coldiq.com/tools/coschedule,scraped
 Cosoai,cosoai,https://coldiq.com/tools/cosoai,scraped
@@ -844,8 +844,8 @@ Cresta,cresta,https://coldiq.com/tools/cresta,scraped
 Crewai,crewai,https://coldiq.com/tools/crewai,scraped
 Crisp,crisp,https://coldiq.com/tools/crisp,scraped
 Criteo,criteo,https://coldiq.com/tools/criteo,scraped
-Crmone,crmone,https://coldiq.com/tools/crmone,scraped
-Crmx,crmx,https://coldiq.com/tools/crmx,scraped
+Crmone,crmone,https://coldiq.com/tools/crmone,imported
+Crmx,crmx,https://coldiq.com/tools/crmx,imported
 Crono,crono,https://coldiq.com/tools/crono,scraped
 Crossbeam,crossbeam,https://coldiq.com/tools/crossbeam,scraped
 Crowdaa,crowdaa,https://coldiq.com/tools/crowdaa,scraped
@@ -854,7 +854,7 @@ Crustdata,crustdata,https://coldiq.com/tools/crustdata,scraped
 Crystal,crystal,https://coldiq.com/tools/crystal,scraped
 Cubeo Ai,cubeo-ai,https://coldiq.com/tools/cubeo-ai,scraped
 Cue,cue,https://coldiq.com/tools/cue,scraped
-Cufinder,cufinder,https://coldiq.com/tools/cufinder,scraped
+Cufinder,cufinder,https://coldiq.com/tools/cufinder,imported
 Curata,curata,https://coldiq.com/tools/curata,scraped
 Curious Thing,curious-thing,https://coldiq.com/tools/curious-thing,scraped
 Cursor,cursor,https://coldiq.com/tools/cursor,scraped
@@ -877,7 +877,7 @@ Cygentive,cygentive,https://coldiq.com/tools/cygentive,scraped
 Cykel,cykel,https://coldiq.com/tools/cykel,scraped
 Cypress,cypress,https://coldiq.com/tools/cypress,scraped
 D Id,d-id,https://coldiq.com/tools/d-id,scraped
-D7 Lead Finder,d7-lead-finder,https://coldiq.com/tools/d7-lead-finder,scraped
+D7 Lead Finder,d7-lead-finder,https://coldiq.com/tools/d7-lead-finder,imported
 Daasity,daasity,https://coldiq.com/tools/daasity,scraped
 Dacast,dacast,https://coldiq.com/tools/dacast,scraped
 Dadan Ai Assist,dadan-ai-assist,https://coldiq.com/tools/dadan-ai-assist,scraped
@@ -910,7 +910,7 @@ Datadog,datadog,https://coldiq.com/tools/datadog,scraped
 Datafast,datafast,https://coldiq.com/tools/datafast,scraped
 Dataforseo,dataforseo,https://coldiq.com/tools/dataforseo,scraped
 Datagenie,datagenie,https://coldiq.com/tools/datagenie,scraped
-Datagma,datagma,https://coldiq.com/tools/datagma,scraped
+Datagma,datagma,https://coldiq.com/tools/datagma,imported
 Datagran,datagran,https://coldiq.com/tools/datagran,scraped
 Datagrid,datagrid,https://coldiq.com/tools/datagrid,scraped
 Datahawk,datahawk,https://coldiq.com/tools/datahawk,scraped
@@ -927,11 +927,11 @@ Dbt Labs,dbt-labs,https://coldiq.com/tools/dbt-labs,scraped
 Dealavo,dealavo,https://coldiq.com/tools/dealavo,scraped
 Dealcoach,dealcoach,https://coldiq.com/tools/dealcoach,scraped
 Dealcode Ai,dealcode-ai,https://coldiq.com/tools/dealcode-ai,scraped
-Dealfront,dealfront,https://coldiq.com/tools/dealfront,scraped
+Dealfront,dealfront,https://coldiq.com/tools/dealfront,imported
 Dealhub,dealhub,https://coldiq.com/tools/dealhub,scraped
 Dealigence,dealigence,https://coldiq.com/tools/dealigence,scraped
 Dealroomco,dealroomco,https://coldiq.com/tools/dealroomco,scraped
-Dealsignal,dealsignal,https://coldiq.com/tools/dealsignal,scraped
+Dealsignal,dealsignal,https://coldiq.com/tools/dealsignal,imported
 Debounce,debounce,https://coldiq.com/tools/debounce,scraped
 Decagon,decagon,https://coldiq.com/tools/decagon,scraped
 Decipher Ai,decipher-ai,https://coldiq.com/tools/decipher-ai,scraped
@@ -954,17 +954,17 @@ Deepseek,deepseek,https://coldiq.com/tools/deepseek,scraped
 Deeptalk,deeptalk,https://coldiq.com/tools/deeptalk,scraped
 Deeta Analytics,deeta-analytics,https://coldiq.com/tools/deeta-analytics,scraped
 Deeto,deeto,https://coldiq.com/tools/deeto,scraped
-Default,default,https://coldiq.com/tools/default,scraped
+Default,default,https://coldiq.com/tools/default,imported
 Deformity,deformity,https://coldiq.com/tools/deformity,scraped
 Delighted,delighted,https://coldiq.com/tools/delighted,scraped
 Dell Boomi,dell-boomi,https://coldiq.com/tools/dell-boomi,scraped
 Delphi Ai,delphi-ai,https://coldiq.com/tools/delphi-ai,scraped
 Delve Ai,delve-ai,https://coldiq.com/tools/delve-ai,scraped
-Demandbase,demandbase,https://coldiq.com/tools/demandbase,scraped
+Demandbase,demandbase,https://coldiq.com/tools/demandbase,imported
 Demandscience,demandscience,https://coldiq.com/tools/demandscience,scraped
 Demio,demio,https://coldiq.com/tools/demio,scraped
 Demoboost,demoboost,https://coldiq.com/tools/demoboost,scraped
-Demodesk,demodesk,https://coldiq.com/tools/demodesk,scraped
+Demodesk,demodesk,https://coldiq.com/tools/demodesk,imported
 Demoeasel,demoeasel,https://coldiq.com/tools/demoeasel,scraped
 Demostack,demostack,https://coldiq.com/tools/demostack,scraped
 Den,den,https://coldiq.com/tools/den,scraped
@@ -979,7 +979,7 @@ Dex,dex,https://coldiq.com/tools/dex,scraped
 Dia Browswer,dia-browswer,https://coldiq.com/tools/dia-browswer,scraped
 Dialoft Ai,dialoft-ai,https://coldiq.com/tools/dialoft-ai,scraped
 Dialoraai,dialoraai,https://coldiq.com/tools/dialoraai,scraped
-Dialpad,dialpad,https://coldiq.com/tools/dialpad,scraped
+Dialpad,dialpad,https://coldiq.com/tools/dialpad,imported
 Dicerai,dicerai,https://coldiq.com/tools/dicerai,scraped
 Diffbot,diffbot,https://coldiq.com/tools/diffbot,scraped
 Dify,dify,https://coldiq.com/tools/dify,scraped
@@ -996,7 +996,7 @@ Discoverorg,discoverorg,https://coldiq.com/tools/discoverorg,scraped
 Discuss,discuss,https://coldiq.com/tools/discuss,scraped
 Distillio,distillio,https://coldiq.com/tools/distillio,scraped
 Distribute,distribute,https://coldiq.com/tools/distribute,scraped
-Ditlead,ditlead,https://coldiq.com/tools/ditlead,scraped
+Ditlead,ditlead,https://coldiq.com/tools/ditlead,imported
 Diyva,diyva,https://coldiq.com/tools/diyva,scraped
 Dmsp Streaming Publisher,dmsp-streaming-publisher,https://coldiq.com/tools/dmsp-streaming-publisher,scraped
 Do Browser,do-browser,https://coldiq.com/tools/do-browser,scraped
@@ -1023,28 +1023,28 @@ Dovetail,dovetail,https://coldiq.com/tools/dovetail,scraped
 Drafter,drafter,https://coldiq.com/tools/drafter,scraped
 Draftly,draftly,https://coldiq.com/tools/draftly,scraped
 Draup,draup,https://coldiq.com/tools/draup,scraped
-Dreamdata,dreamdata,https://coldiq.com/tools/dreamdata,scraped
+Dreamdata,dreamdata,https://coldiq.com/tools/dreamdata,imported
 Dreamwell,dreamwell,https://coldiq.com/tools/dreamwell,scraped
 Dreamwriter,dreamwriter,https://coldiq.com/tools/dreamwriter,scraped
 Dremio,dremio,https://coldiq.com/tools/dremio,scraped
 Dribble,dribble,https://coldiq.com/tools/dribble,scraped
 Drift,drift,https://coldiq.com/tools/drift,scraped
 Drip,drip,https://coldiq.com/tools/drip,scraped
-Dripify,dripify,https://coldiq.com/tools/dripify,scraped
+Dripify,dripify,https://coldiq.com/tools/dripify,imported
 Drippiai,drippiai,https://coldiq.com/tools/drippiai,scraped
 Dropbox Sign,dropbox-sign,https://coldiq.com/tools/dropbox-sign,scraped
-Dropcontact,dropcontact,https://coldiq.com/tools/dropcontact,scraped
+Dropcontact,dropcontact,https://coldiq.com/tools/dropcontact,imported
 Droxy,droxy,https://coldiq.com/tools/droxy,scraped
 Drupal,drupal,https://coldiq.com/tools/drupal,scraped
 Drymerge,drymerge,https://coldiq.com/tools/drymerge,scraped
 Dub,dub,https://coldiq.com/tools/dub,scraped
-Dubb,dubb,https://coldiq.com/tools/dubb,scraped
+Dubb,dubb,https://coldiq.com/tools/dubb,imported
 Dubber,dubber,https://coldiq.com/tools/dubber,scraped
 Duckie,duckie,https://coldiq.com/tools/duckie,scraped
 Dunbar,dunbar,https://coldiq.com/tools/dunbar,scraped
 Durable,durable,https://coldiq.com/tools/durable,scraped
 Dust,dust,https://coldiq.com/tools/dust,scraped
-Dux Soup,dux-soup,https://coldiq.com/tools/dux-soup,scraped
+Dux Soup,dux-soup,https://coldiq.com/tools/dux-soup,imported
 Dx,dx,https://coldiq.com/tools/dx,scraped
 Dydas,dydas,https://coldiq.com/tools/dydas,scraped
 Dynadot,dynadot,https://coldiq.com/tools/dynadot,scraped
@@ -1065,7 +1065,7 @@ Easypost,easypost,https://coldiq.com/tools/easypost,scraped
 Ebanqo,ebanqo,https://coldiq.com/tools/ebanqo,scraped
 Ebsta,ebsta,https://coldiq.com/tools/ebsta,scraped
 Eclipse Ai,eclipse-ai,https://coldiq.com/tools/eclipse-ai,scraped
-Ecomleads,ecomleads,https://coldiq.com/tools/ecomleads,scraped
+Ecomleads,ecomleads,https://coldiq.com/tools/ecomleads,imported
 Ecore Services,ecore-services,https://coldiq.com/tools/ecore-services,scraped
 Ecwid,ecwid,https://coldiq.com/tools/ecwid,scraped
 Editgpt,editgpt,https://coldiq.com/tools/editgpt,scraped
@@ -1088,21 +1088,21 @@ Elixbrand,elixbrand,https://coldiq.com/tools/elixbrand,scraped
 Elizaos,elizaos,https://coldiq.com/tools/elizaos,scraped
 Elp Data,elp-data,https://coldiq.com/tools/elp-data,scraped
 Ema,ema,https://coldiq.com/tools/ema,scraped
-Email On Acid,email-on-acid,https://coldiq.com/tools/email-on-acid,scraped
-Emailable,emailable,https://coldiq.com/tools/emailable,scraped
-Emailbison,emailbison,https://coldiq.com/tools/emailbison,scraped
-Emailchaser,emailchaser,https://coldiq.com/tools/emailchaser,scraped
-Emaildojo,emaildojo,https://coldiq.com/tools/emaildojo,scraped
-Emailflowai,emailflowai,https://coldiq.com/tools/emailflowai,scraped
-Emailguard,emailguard,https://coldiq.com/tools/emailguard,scraped
-Emaillistvalidation,emaillistvalidation,https://coldiq.com/tools/emaillistvalidation,scraped
-Emaillistverify,emaillistverify,https://coldiq.com/tools/emaillistverify,scraped
-Emailmarker,emailmarker,https://coldiq.com/tools/emailmarker,scraped
+Email On Acid,email-on-acid,https://coldiq.com/tools/email-on-acid,imported
+Emailable,emailable,https://coldiq.com/tools/emailable,imported
+Emailbison,emailbison,https://coldiq.com/tools/emailbison,imported
+Emailchaser,emailchaser,https://coldiq.com/tools/emailchaser,imported
+Emaildojo,emaildojo,https://coldiq.com/tools/emaildojo,imported
+Emailflowai,emailflowai,https://coldiq.com/tools/emailflowai,imported
+Emailguard,emailguard,https://coldiq.com/tools/emailguard,imported
+Emaillistvalidation,emaillistvalidation,https://coldiq.com/tools/emaillistvalidation,imported
+Emaillistverify,emaillistverify,https://coldiq.com/tools/emaillistverify,imported
+Emailmarker,emailmarker,https://coldiq.com/tools/emailmarker,imported
 Emaze,emaze,https://coldiq.com/tools/emaze,scraped
 Embedai,embedai,https://coldiq.com/tools/embedai,scraped
 Embeddable,embeddable,https://coldiq.com/tools/embeddable,scraped
 Embedsocial,embedsocial,https://coldiq.com/tools/embedsocial,scraped
-Emelia,emelia,https://coldiq.com/tools/emelia,scraped
+Emelia,emelia,https://coldiq.com/tools/emelia,imported
 Emlen,emlen,https://coldiq.com/tools/emlen,scraped
 Emma,emma,https://coldiq.com/tools/emma,scraped
 Emodo,emodo,https://coldiq.com/tools/emodo,scraped
@@ -1117,15 +1117,15 @@ Encharge,encharge,https://coldiq.com/tools/encharge,scraped
 Endgame,endgame,https://coldiq.com/tools/endgame,scraped
 Endorsal,endorsal,https://coldiq.com/tools/endorsal,scraped
 Endorsed,endorsed,https://coldiq.com/tools/endorsed,scraped
-Energy Leads,energy-leads,https://coldiq.com/tools/energy-leads,scraped
+Energy Leads,energy-leads,https://coldiq.com/tools/energy-leads,imported
 Engagedly,engagedly,https://coldiq.com/tools/engagedly,scraped
 Engagetech,engagetech,https://coldiq.com/tools/engagetech,scraped
 Engini,engini,https://coldiq.com/tools/engini,scraped
 Enjo,enjo,https://coldiq.com/tools/enjo,scraped
 Enlyft,enlyft,https://coldiq.com/tools/enlyft,scraped
 Enreach,enreach,https://coldiq.com/tools/enreach,scraped
-Enrich Layer,enrich-layer,https://coldiq.com/tools/enrich-layer,scraped
-Enrichley,enrichley,https://coldiq.com/tools/enrichley,scraped
+Enrich Layer,enrich-layer,https://coldiq.com/tools/enrich-layer,imported
+Enrichley,enrichley,https://coldiq.com/tools/enrichley,imported
 Enrow,enrow,https://coldiq.com/tools/enrow,scraped
 Ensighten,ensighten,https://coldiq.com/tools/ensighten,scraped
 Epiclyai,epiclyai,https://coldiq.com/tools/epiclyai,scraped
@@ -1139,7 +1139,7 @@ Etailinsights,etailinsights,https://coldiq.com/tools/etailinsights,scraped
 Etrigue Corp,etrigue-corp,https://coldiq.com/tools/etrigue-corp,scraped
 Eva,eva,https://coldiq.com/tools/eva,scraped
 Evaai,evaai,https://coldiq.com/tools/evaai,scraped
-Evaboot,evaboot,https://coldiq.com/tools/evaboot,scraped
+Evaboot,evaboot,https://coldiq.com/tools/evaboot,imported
 Evabot,evabot,https://coldiq.com/tools/evabot,scraped
 Event Panda,event-panda,https://coldiq.com/tools/event-panda,scraped
 Eventbrite,eventbrite,https://coldiq.com/tools/eventbrite,scraped
@@ -1154,7 +1154,7 @@ Evolbot,evolbot,https://coldiq.com/tools/evolbot,scraped
 Evov Ai,evov-ai,https://coldiq.com/tools/evov-ai,scraped
 Evyai,evyai,https://coldiq.com/tools/evyai,scraped
 Exa,exa,https://coldiq.com/tools/exa,scraped
-Exactbuyer,exactbuyer,https://coldiq.com/tools/exactbuyer,scraped
+Exactbuyer,exactbuyer,https://coldiq.com/tools/exactbuyer,imported
 Exactly,exactly,https://coldiq.com/tools/exactly,scraped
 Exasol,exasol,https://coldiq.com/tools/exasol,scraped
 Excalidraw,excalidraw,https://coldiq.com/tools/excalidraw,scraped
@@ -1163,7 +1163,7 @@ Execvision,execvision,https://coldiq.com/tools/execvision,scraped
 Exei,exei,https://coldiq.com/tools/exei,scraped
 Exemplary Ai,exemplary-ai,https://coldiq.com/tools/exemplary-ai,scraped
 Exolyt,exolyt,https://coldiq.com/tools/exolyt,scraped
-Expandi,expandi,https://coldiq.com/tools/expandi,scraped
+Expandi,expandi,https://coldiq.com/tools/expandi,imported
 Expensify,expensify,https://coldiq.com/tools/expensify,scraped
 Explee,explee,https://coldiq.com/tools/explee,scraped
 Explorium,explorium,https://coldiq.com/tools/explorium,scraped
@@ -1174,14 +1174,14 @@ Eyeeyeai,eyeeyeai,https://coldiq.com/tools/eyeeyeai,scraped
 Ez Texting,ez-texting,https://coldiq.com/tools/ez-texting,scraped
 Ezai App,ezai-app,https://coldiq.com/tools/ezai-app,scraped
 Ezoic,ezoic,https://coldiq.com/tools/ezoic,scraped
-Ezsalesai,ezsalesai,https://coldiq.com/tools/ezsalesai,scraped
+Ezsalesai,ezsalesai,https://coldiq.com/tools/ezsalesai,imported
 F5bot,f5bot,https://coldiq.com/tools/f5bot,scraped
 Fable,fable,https://coldiq.com/tools/fable,scraped
 Fabric,fabric,https://coldiq.com/tools/fabric,scraped
 Facet,facet,https://coldiq.com/tools/facet,scraped
 Factivate,factivate,https://coldiq.com/tools/factivate,scraped
 Factohr,factohr,https://coldiq.com/tools/factohr,scraped
-Factors,factors,https://coldiq.com/tools/factors,scraped
+Factors,factors,https://coldiq.com/tools/factors,imported
 Factoryai,factoryai,https://coldiq.com/tools/factoryai,scraped
 Facts,facts,https://coldiq.com/tools/facts,scraped
 Factset,factset,https://coldiq.com/tools/factset,scraped
@@ -1195,7 +1195,7 @@ Fastbase,fastbase,https://coldiq.com/tools/fastbase,scraped
 Fastbots,fastbots,https://coldiq.com/tools/fastbots,scraped
 Fastcut,fastcut,https://coldiq.com/tools/fastcut,scraped
 Fastspring,fastspring,https://coldiq.com/tools/fastspring,scraped
-Fathom,fathom,https://coldiq.com/tools/fathom,scraped
+Fathom,fathom,https://coldiq.com/tools/fathom,imported
 Fathom Analytics,fathom-analytics,https://coldiq.com/tools/fathom-analytics,scraped
 Fay,fay,https://coldiq.com/tools/fay,scraped
 Featurewave,featurewave,https://coldiq.com/tools/featurewave,scraped
@@ -1218,10 +1218,10 @@ Finaloop,finaloop,https://coldiq.com/tools/finaloop,scraped
 Finalscout,finalscout,https://coldiq.com/tools/finalscout,scraped
 Finderexpert,finderexpert,https://coldiq.com/tools/finderexpert,scraped
 Finderio,finderio,https://coldiq.com/tools/finderio,scraped
-Findmassleads,findmassleads,https://coldiq.com/tools/findmassleads,scraped
-Findthatlead,findthatlead,https://coldiq.com/tools/findthatlead,scraped
-Findy By Reply,findy-by-reply,https://coldiq.com/tools/findy-by-reply,scraped
-Findymail,findymail,https://coldiq.com/tools/findymail,scraped
+Findmassleads,findmassleads,https://coldiq.com/tools/findmassleads,imported
+Findthatlead,findthatlead,https://coldiq.com/tools/findthatlead,imported
+Findy By Reply,findy-by-reply,https://coldiq.com/tools/findy-by-reply,imported
+Findymail,findymail,https://coldiq.com/tools/findymail,imported
 Fineguideai,fineguideai,https://coldiq.com/tools/fineguideai,scraped
 Finiite,finiite,https://coldiq.com/tools/finiite,scraped
 Finseoai,finseoai,https://coldiq.com/tools/finseoai,scraped
@@ -1230,10 +1230,10 @@ Firebase,firebase,https://coldiq.com/tools/firebase,scraped
 Firebay Studios,firebay-studios,https://coldiq.com/tools/firebay-studios,scraped
 Firecrawl,firecrawl,https://coldiq.com/tools/firecrawl,scraped
 Firecut Ai,firecut-ai,https://coldiq.com/tools/firecut-ai,scraped
-Fireflies,fireflies,https://coldiq.com/tools/fireflies,scraped
-Firmable,firmable,https://coldiq.com/tools/firmable,scraped
+Fireflies,fireflies,https://coldiq.com/tools/fireflies,imported
+Firmable,firmable,https://coldiq.com/tools/firmable,imported
 Firmograph,firmograph,https://coldiq.com/tools/firmograph,scraped
-First Sales,first-sales,https://coldiq.com/tools/first-sales,scraped
+First Sales,first-sales,https://coldiq.com/tools/first-sales,imported
 First Touch,first-touch,https://coldiq.com/tools/first-touch,scraped
 Firstpromoter,firstpromoter,https://coldiq.com/tools/firstpromoter,scraped
 Firstquadrant,firstquadrant,https://coldiq.com/tools/firstquadrant,scraped
@@ -1269,8 +1269,8 @@ Fluid Ai,fluid-ai,https://coldiq.com/tools/fluid-ai,scraped
 Fluidseo,fluidseo,https://coldiq.com/tools/fluidseo,scraped
 Fluint,fluint,https://coldiq.com/tools/fluint,scraped
 Flutter,flutter,https://coldiq.com/tools/flutter,scraped
-Folderly,folderly,https://coldiq.com/tools/folderly,scraped
-Folk,folk,https://coldiq.com/tools/folk,scraped
+Folderly,folderly,https://coldiq.com/tools/folderly,imported
+Folk,folk,https://coldiq.com/tools/folk,imported
 Follow,follow,https://coldiq.com/tools/follow,scraped
 Followingg,followingg,https://coldiq.com/tools/followingg,scraped
 Followr Ai Social Media Management Platform,followr-ai-social-media-management-platform,https://coldiq.com/tools/followr-ai-social-media-management-platform,scraped
@@ -1325,8 +1325,8 @@ Frontspin,frontspin,https://coldiq.com/tools/frontspin,scraped
 Fulfil,fulfil,https://coldiq.com/tools/fulfil,scraped
 Full Circle,full-circle,https://coldiq.com/tools/full-circle,scraped
 Fullcast,fullcast,https://coldiq.com/tools/fullcast,scraped
-Fullcontact,fullcontact,https://coldiq.com/tools/fullcontact,scraped
-Fullenrich,fullenrich,https://coldiq.com/tools/fullenrich,scraped
+Fullcontact,fullcontact,https://coldiq.com/tools/fullcontact,imported
+Fullenrich,fullenrich,https://coldiq.com/tools/fullenrich,imported
 Fullstory,fullstory,https://coldiq.com/tools/fullstory,scraped
 Funnelcast,funnelcast,https://coldiq.com/tools/funnelcast,scraped
 Funnelflux,funnelflux,https://coldiq.com/tools/funnelflux,scraped
@@ -1334,7 +1334,7 @@ Funnelytics,funnelytics,https://coldiq.com/tools/funnelytics,scraped
 Fuseai,fuseai,https://coldiq.com/tools/fuseai,scraped
 Fyxer Ai,fyxer-ai,https://coldiq.com/tools/fyxer-ai,scraped
 G2,g2,https://coldiq.com/tools/g2,scraped
-G2 Buyer Intent,g2-buyer-intent,https://coldiq.com/tools/g2-buyer-intent,scraped
+G2 Buyer Intent,g2-buyer-intent,https://coldiq.com/tools/g2-buyer-intent,imported
 Gaggleamp,gaggleamp,https://coldiq.com/tools/gaggleamp,scraped
 Gali Ai,gali-ai,https://coldiq.com/tools/gali-ai,scraped
 Gallabox,gallabox,https://coldiq.com/tools/gallabox,scraped
@@ -1349,7 +1349,7 @@ Gemini,gemini,https://coldiq.com/tools/gemini,scraped
 Gemini Pro Nano Banana,gemini-pro-nano-banana,https://coldiq.com/tools/gemini-pro-nano-banana,scraped
 Gene,gene,https://coldiq.com/tools/gene,scraped
 Generect,generect,https://coldiq.com/tools/generect,scraped
-Genesy,genesy,https://coldiq.com/tools/genesy,scraped
+Genesy,genesy,https://coldiq.com/tools/genesy,imported
 Genesys Cloud Cx,genesys-cloud-cx,https://coldiq.com/tools/genesys-cloud-cx,scraped
 Geneva,geneva,https://coldiq.com/tools/geneva,scraped
 Genfuse Ai,genfuse-ai,https://coldiq.com/tools/genfuse-ai,scraped
@@ -1363,16 +1363,16 @@ Germin8,germin8,https://coldiq.com/tools/germin8,scraped
 Geru,geru,https://coldiq.com/tools/geru,scraped
 Getaccept,getaccept,https://coldiq.com/tools/getaccept,scraped
 Getbot,getbot,https://coldiq.com/tools/getbot,scraped
-Getemailio,getemailio,https://coldiq.com/tools/getemailio,scraped
+Getemailio,getemailio,https://coldiq.com/tools/getemailio,imported
 Getfeedback,getfeedback,https://coldiq.com/tools/getfeedback,scraped
 Getgenie Ai,getgenie-ai,https://coldiq.com/tools/getgenie-ai,scraped
 Getgroio,getgroio,https://coldiq.com/tools/getgroio,scraped
 Gethookd,gethookd,https://coldiq.com/tools/gethookd,scraped
 Getlista,getlista,https://coldiq.com/tools/getlista,scraped
-Getprospect,getprospect,https://coldiq.com/tools/getprospect,scraped
+Getprospect,getprospect,https://coldiq.com/tools/getprospect,imported
 Getreplies,getreplies,https://coldiq.com/tools/getreplies,scraped
 Getresponse,getresponse,https://coldiq.com/tools/getresponse,scraped
-Getsalesio,getsalesio,https://coldiq.com/tools/getsalesio,scraped
+Getsalesio,getsalesio,https://coldiq.com/tools/getsalesio,imported
 Getvocal,getvocal,https://coldiq.com/tools/getvocal,scraped
 Ghost,ghost,https://coldiq.com/tools/ghost,scraped
 Ghostcut,ghostcut,https://coldiq.com/tools/ghostcut,scraped
@@ -1405,17 +1405,17 @@ Globalseo,globalseo,https://coldiq.com/tools/globalseo,scraped
 Globus Copilot,globus-copilot,https://coldiq.com/tools/globus-copilot,scraped
 Glockapps,glockapps,https://coldiq.com/tools/glockapps,scraped
 Gluetools,gluetools,https://coldiq.com/tools/gluetools,scraped
-Gmass,gmass,https://coldiq.com/tools/gmass,scraped
+Gmass,gmass,https://coldiq.com/tools/gmass,imported
 Goatcounter,goatcounter,https://coldiq.com/tools/goatcounter,scraped
 Godaddy,godaddy,https://coldiq.com/tools/godaddy,scraped
 Godatafeed,godatafeed,https://coldiq.com/tools/godatafeed,scraped
 Godmodehq,godmodehq,https://coldiq.com/tools/godmodehq,scraped
 Goku Ai,goku-ai,https://coldiq.com/tools/goku-ai,scraped
 Goldcast,goldcast,https://coldiq.com/tools/goldcast,scraped
-Golden Leads,golden-leads,https://coldiq.com/tools/golden-leads,scraped
+Golden Leads,golden-leads,https://coldiq.com/tools/golden-leads,imported
 Golo,golo,https://coldiq.com/tools/golo,scraped
 Gologin,gologin,https://coldiq.com/tools/gologin,scraped
-Gong,gong,https://coldiq.com/tools/gong,scraped
+Gong,gong,https://coldiq.com/tools/gong,imported
 Goodcall,goodcall,https://coldiq.com/tools/goodcall,scraped
 Goodfit,goodfit,https://coldiq.com/tools/goodfit,scraped
 Goodhire,goodhire,https://coldiq.com/tools/goodhire,scraped
@@ -1462,11 +1462,11 @@ Grin,grin,https://coldiq.com/tools/grin,scraped
 Groas,groas,https://coldiq.com/tools/groas,scraped
 Grocliq,grocliq,https://coldiq.com/tools/grocliq,scraped
 Grok,grok,https://coldiq.com/tools/grok,scraped
-Groove,groove,https://coldiq.com/tools/groove,scraped
+Groove,groove,https://coldiq.com/tools/groove,imported
 Groundswell,groundswell,https://coldiq.com/tools/groundswell,scraped
 Groundtruth,groundtruth,https://coldiq.com/tools/groundtruth,scraped
 Growave,growave,https://coldiq.com/tools/growave,scraped
-Growbots,growbots,https://coldiq.com/tools/growbots,scraped
+Growbots,growbots,https://coldiq.com/tools/growbots,imported
 Groweasy,groweasy,https://coldiq.com/tools/groweasy,scraped
 Growfol,growfol,https://coldiq.com/tools/growfol,scraped
 Growmatik,growmatik,https://coldiq.com/tools/growmatik,scraped
@@ -1496,11 +1496,11 @@ Hamming Ai,hamming-ai,https://coldiq.com/tools/hamming-ai,scraped
 Handwrite,handwrite,https://coldiq.com/tools/handwrite,scraped
 Handwrytten,handwrytten,https://coldiq.com/tools/handwrytten,scraped
 Happenstance,happenstance,https://coldiq.com/tools/happenstance,scraped
-Happierleads,happierleads,https://coldiq.com/tools/happierleads,scraped
+Happierleads,happierleads,https://coldiq.com/tools/happierleads,imported
 Happy Returns,happy-returns,https://coldiq.com/tools/happy-returns,scraped
 Happyrobot,happyrobot,https://coldiq.com/tools/happyrobot,scraped
 Haptik,haptik,https://coldiq.com/tools/haptik,scraped
-Harmonic,harmonic,https://coldiq.com/tools/harmonic,scraped
+Harmonic,harmonic,https://coldiq.com/tools/harmonic,imported
 Harmonizeai,harmonizeai,https://coldiq.com/tools/harmonizeai,scraped
 Harpa Ai,harpa-ai,https://coldiq.com/tools/harpa-ai,scraped
 Hasdata,hasdata,https://coldiq.com/tools/hasdata,scraped
@@ -1537,7 +1537,7 @@ Heyfriday,heyfriday,https://coldiq.com/tools/heyfriday,scraped
 Heygen,heygen,https://coldiq.com/tools/heygen,scraped
 Heylibby,heylibby,https://coldiq.com/tools/heylibby,scraped
 Heyorca,heyorca,https://coldiq.com/tools/heyorca,scraped
-Heyreach,heyreach,https://coldiq.com/tools/heyreach,scraped
+Heyreach,heyreach,https://coldiq.com/tools/heyreach,imported
 Hg Insights,hg-insights,https://coldiq.com/tools/hg-insights,scraped
 Higgsfield,higgsfield,https://coldiq.com/tools/higgsfield,scraped
 Higher Logic,higher-logic,https://coldiq.com/tools/higher-logic,scraped
@@ -1561,7 +1561,7 @@ Hivebrite,hivebrite,https://coldiq.com/tools/hivebrite,scraped
 Hiver,hiver,https://coldiq.com/tools/hiver,scraped
 Hivesight,hivesight,https://coldiq.com/tools/hivesight,scraped
 Hivoe,hivoe,https://coldiq.com/tools/hivoe,scraped
-Hockeystack,hockeystack,https://coldiq.com/tools/hockeystack,scraped
+Hockeystack,hockeystack,https://coldiq.com/tools/hockeystack,imported
 Honeybook,honeybook,https://coldiq.com/tools/honeybook,scraped
 Hook,hook,https://coldiq.com/tools/hook,scraped
 Hookle,hookle,https://coldiq.com/tools/hookle,scraped
@@ -1578,15 +1578,15 @@ Hoverbot,hoverbot,https://coldiq.com/tools/hoverbot,scraped
 Howdygo,howdygo,https://coldiq.com/tools/howdygo,scraped
 Httpie,httpie,https://coldiq.com/tools/httpie,scraped
 Hubflo,hubflo,https://coldiq.com/tools/hubflo,scraped
-Hublead,hublead,https://coldiq.com/tools/hublead,scraped
-Hubspot,hubspot,https://coldiq.com/tools/hubspot,scraped
+Hublead,hublead,https://coldiq.com/tools/hublead,imported
+Hubspot,hubspot,https://coldiq.com/tools/hubspot,imported
 Hubspot Ai,hubspot-ai,https://coldiq.com/tools/hubspot-ai,scraped
 Hubtype,hubtype,https://coldiq.com/tools/hubtype,scraped
 Hugging Face,hugging-face,https://coldiq.com/tools/hugging-face,scraped
 Humains,humains,https://coldiq.com/tools/humains,scraped
 Humanfirst,humanfirst,https://coldiq.com/tools/humanfirst,scraped
 Humanic,humanic,https://coldiq.com/tools/humanic,scraped
-Humanlinker,humanlinker,https://coldiq.com/tools/humanlinker,scraped
+Humanlinker,humanlinker,https://coldiq.com/tools/humanlinker,imported
 Humanly,humanly,https://coldiq.com/tools/humanly,scraped
 Humantic,humantic,https://coldiq.com/tools/humantic,scraped
 Humatron,humatron,https://coldiq.com/tools/humatron,scraped
@@ -1594,13 +1594,13 @@ Hume,hume,https://coldiq.com/tools/hume,scraped
 Humen,humen,https://coldiq.com/tools/humen,scraped
 Hummans,hummans,https://coldiq.com/tools/hummans,scraped
 Hunch,hunch,https://coldiq.com/tools/hunch,scraped
-Hunter,hunter,https://coldiq.com/tools/hunter,scraped
+Hunter,hunter,https://coldiq.com/tools/hunter,imported
 Hurree,hurree,https://coldiq.com/tools/hurree,scraped
 Hyly,hyly,https://coldiq.com/tools/hyly,scraped
 Hypeauditor,hypeauditor,https://coldiq.com/tools/hypeauditor,scraped
 Hypedesk,hypedesk,https://coldiq.com/tools/hypedesk,scraped
 Hypefury,hypefury,https://coldiq.com/tools/hypefury,scraped
-Hyperbound,hyperbound,https://coldiq.com/tools/hyperbound,scraped
+Hyperbound,hyperbound,https://coldiq.com/tools/hyperbound,imported
 Hyperbrowser,hyperbrowser,https://coldiq.com/tools/hyperbrowser,scraped
 Hyperclapper,hyperclapper,https://coldiq.com/tools/hyperclapper,scraped
 Hyperfeedai,hyperfeedai,https://coldiq.com/tools/hyperfeedai,scraped
@@ -1611,7 +1611,7 @@ Hyperscale,hyperscale,https://coldiq.com/tools/hyperscale,scraped
 Hypertide,hypertide,https://coldiq.com/tools/hypertide,scraped
 Hyperwrite,hyperwrite,https://coldiq.com/tools/hyperwrite,scraped
 Hyros,hyros,https://coldiq.com/tools/hyros,scraped
-I Love My Crm,i-love-my-crm,https://coldiq.com/tools/i-love-my-crm,scraped
+I Love My Crm,i-love-my-crm,https://coldiq.com/tools/i-love-my-crm,imported
 Ibm Watsonx,ibm-watsonx,https://coldiq.com/tools/ibm-watsonx,scraped
 Icereach,icereach,https://coldiq.com/tools/icereach,scraped
 Icertis,icertis,https://coldiq.com/tools/icertis,scraped
@@ -1672,14 +1672,14 @@ Inprofiler,inprofiler,https://coldiq.com/tools/inprofiler,scraped
 Inriver,inriver,https://coldiq.com/tools/inriver,scraped
 Inro,inro,https://coldiq.com/tools/inro,scraped
 Insider,insider,https://coldiq.com/tools/insider,scraped
-Insidesales,insidesales,https://coldiq.com/tools/insidesales,scraped
+Insidesales,insidesales,https://coldiq.com/tools/insidesales,imported
 Insight7,insight7,https://coldiq.com/tools/insight7,scraped
-Insightly,insightly,https://coldiq.com/tools/insightly,scraped
+Insightly,insightly,https://coldiq.com/tools/insightly,imported
 Insomnia,insomnia,https://coldiq.com/tools/insomnia,scraped
 Instabot,instabot,https://coldiq.com/tools/instabot,scraped
-Instantly,instantly,https://coldiq.com/tools/instantly,scraped
+Instantly,instantly,https://coldiq.com/tools/instantly,imported
 Instapage,instapage,https://coldiq.com/tools/instapage,scraped
-Instreamcrm,instreamcrm,https://coldiq.com/tools/instreamcrm,scraped
+Instreamcrm,instreamcrm,https://coldiq.com/tools/instreamcrm,imported
 Insyghtful Ai,insyghtful-ai,https://coldiq.com/tools/insyghtful-ai,scraped
 Intandemly,intandemly,https://coldiq.com/tools/intandemly,scraped
 Integry,integry,https://coldiq.com/tools/integry,scraped
@@ -1687,8 +1687,8 @@ Intelligence,intelligence,https://coldiq.com/tools/intelligence,scraped
 Intelligencenode,intelligencenode,https://coldiq.com/tools/intelligencenode,scraped
 Intelliparse,intelliparse,https://coldiq.com/tools/intelliparse,scraped
 Intellizence,intellizence,https://coldiq.com/tools/intellizence,scraped
-Intentmacro,intentmacro,https://coldiq.com/tools/intentmacro,scraped
-Intentsify,intentsify,https://coldiq.com/tools/intentsify,scraped
+Intentmacro,intentmacro,https://coldiq.com/tools/intentmacro,imported
+Intentsify,intentsify,https://coldiq.com/tools/intentsify,imported
 Interakt,interakt,https://coldiq.com/tools/interakt,scraped
 Intercom,intercom,https://coldiq.com/tools/intercom,scraped
 Interseller,interseller,https://coldiq.com/tools/interseller,scraped
@@ -1714,7 +1714,7 @@ Jamie,jamie,https://coldiq.com/tools/jamie,scraped
 Jampp,jampp,https://coldiq.com/tools/jampp,scraped
 Jan,jan,https://coldiq.com/tools/jan,scraped
 Jarvis Ai,jarvis-ai,https://coldiq.com/tools/jarvis-ai,scraped
-Jason Ai Sdr,jason-ai-sdr,https://coldiq.com/tools/jason-ai-sdr,scraped
+Jason Ai Sdr,jason-ai-sdr,https://coldiq.com/tools/jason-ai-sdr,imported
 Jasper,jasper,https://coldiq.com/tools/jasper,scraped
 Jebbit,jebbit,https://coldiq.com/tools/jebbit,scraped
 Jeeva,jeeva,https://coldiq.com/tools/jeeva,scraped
@@ -1759,7 +1759,7 @@ Kameleoon,kameleoon,https://coldiq.com/tools/kameleoon,scraped
 Kapwing,kapwing,https://coldiq.com/tools/kapwing,scraped
 Karaboai,karaboai,https://coldiq.com/tools/karaboai,scraped
 Kartra,kartra,https://coldiq.com/tools/kartra,scraped
-Kaspr,kaspr,https://coldiq.com/tools/kaspr,scraped
+Kaspr,kaspr,https://coldiq.com/tools/kaspr,imported
 Katalist Ai,katalist-ai,https://coldiq.com/tools/katalist-ai,scraped
 Katalon Studio,katalon-studio,https://coldiq.com/tools/katalon-studio,scraped
 Katteb,katteb,https://coldiq.com/tools/katteb,scraped
@@ -1791,12 +1791,12 @@ Kit,kit,https://coldiq.com/tools/kit,scraped
 Kitt Ai,kitt-ai,https://coldiq.com/tools/kitt-ai,scraped
 Kittl,kittl,https://coldiq.com/tools/kittl,scraped
 Kiva By Wellows,kiva-by-wellows,https://coldiq.com/tools/kiva-by-wellows,scraped
-Kixie,kixie,https://coldiq.com/tools/kixie,scraped
+Kixie,kixie,https://coldiq.com/tools/kixie,imported
 Kizen,kizen,https://coldiq.com/tools/kizen,scraped
 Klaaryo,klaaryo,https://coldiq.com/tools/klaaryo,scraped
 Klaviyo,klaviyo,https://coldiq.com/tools/klaviyo,scraped
-Klemail,klemail,https://coldiq.com/tools/klemail,scraped
-Klenty,klenty,https://coldiq.com/tools/klenty,scraped
+Klemail,klemail,https://coldiq.com/tools/klemail,imported
+Klenty,klenty,https://coldiq.com/tools/klenty,imported
 Kleo,kleo,https://coldiq.com/tools/kleo,scraped
 Klipfolio,klipfolio,https://coldiq.com/tools/klipfolio,scraped
 Klue,klue,https://coldiq.com/tools/klue,scraped
@@ -1807,9 +1807,9 @@ Knock Ai,knock-ai,https://coldiq.com/tools/knock-ai,scraped
 Knorex,knorex,https://coldiq.com/tools/knorex,scraped
 Knotch,knotch,https://coldiq.com/tools/knotch,scraped
 Knowatoa,knowatoa,https://coldiq.com/tools/knowatoa,scraped
-Knowfirst,knowfirst,https://coldiq.com/tools/knowfirst,scraped
+Knowfirst,knowfirst,https://coldiq.com/tools/knowfirst,imported
 Koah,koah,https://coldiq.com/tools/koah,scraped
-Koala,koala,https://coldiq.com/tools/koala,scraped
+Koala,koala,https://coldiq.com/tools/koala,imported
 Koastai,koastai,https://coldiq.com/tools/koastai,scraped
 Kodif,kodif,https://coldiq.com/tools/kodif,scraped
 Kokoro Tts,kokoro-tts,https://coldiq.com/tools/kokoro-tts,scraped
@@ -1838,7 +1838,7 @@ Kwanzoo,kwanzoo,https://coldiq.com/tools/kwanzoo,scraped
 Kwatchio,kwatchio,https://coldiq.com/tools/kwatchio,scraped
 Kwhero,kwhero,https://coldiq.com/tools/kwhero,scraped
 Kwrdsai,kwrdsai,https://coldiq.com/tools/kwrdsai,scraped
-Lagrowthmachine,lagrowthmachine,https://coldiq.com/tools/lagrowthmachine,scraped
+Lagrowthmachine,lagrowthmachine,https://coldiq.com/tools/lagrowthmachine,imported
 Lancey,lancey,https://coldiq.com/tools/lancey,scraped
 Landbase,landbase,https://coldiq.com/tools/landbase,scraped
 Landbot,landbot,https://coldiq.com/tools/landbot,scraped
@@ -1858,49 +1858,49 @@ Launch Gravity,launch-gravity,https://coldiq.com/tools/launch-gravity,scraped
 Launchdarkly,launchdarkly,https://coldiq.com/tools/launchdarkly,scraped
 Launchpal,launchpal,https://coldiq.com/tools/launchpal,scraped
 Lavareach,lavareach,https://coldiq.com/tools/lavareach,scraped
-Lavender,lavender,https://coldiq.com/tools/lavender,scraped
+Lavender,lavender,https://coldiq.com/tools/lavender,imported
 Laxis,laxis,https://coldiq.com/tools/laxis,scraped
 Layerpath,layerpath,https://coldiq.com/tools/layerpath,scraped
-Lead 411,lead-411,https://coldiq.com/tools/lead-411,scraped
-Lead Liaison,lead-liaison,https://coldiq.com/tools/lead-liaison,scraped
-Lead Onion,lead-onion,https://coldiq.com/tools/lead-onion,scraped
-Lead Scrape,lead-scrape,https://coldiq.com/tools/lead-scrape,scraped
-Leadbay,leadbay,https://coldiq.com/tools/leadbay,scraped
-Leadberry,leadberry,https://coldiq.com/tools/leadberry,scraped
-Leadboxer,leadboxer,https://coldiq.com/tools/leadboxer,scraped
-Leadbright,leadbright,https://coldiq.com/tools/leadbright,scraped
-Leadbring,leadbring,https://coldiq.com/tools/leadbring,scraped
-Leadconnect,leadconnect,https://coldiq.com/tools/leadconnect,scraped
-Leaddelta,leaddelta,https://coldiq.com/tools/leaddelta,scraped
+Lead 411,lead-411,https://coldiq.com/tools/lead-411,imported
+Lead Liaison,lead-liaison,https://coldiq.com/tools/lead-liaison,imported
+Lead Onion,lead-onion,https://coldiq.com/tools/lead-onion,imported
+Lead Scrape,lead-scrape,https://coldiq.com/tools/lead-scrape,imported
+Leadbay,leadbay,https://coldiq.com/tools/leadbay,imported
+Leadberry,leadberry,https://coldiq.com/tools/leadberry,imported
+Leadboxer,leadboxer,https://coldiq.com/tools/leadboxer,imported
+Leadbright,leadbright,https://coldiq.com/tools/leadbright,imported
+Leadbring,leadbring,https://coldiq.com/tools/leadbring,imported
+Leadconnect,leadconnect,https://coldiq.com/tools/leadconnect,imported
+Leaddelta,leaddelta,https://coldiq.com/tools/leaddelta,imported
 Leaddyno,leaddyno,https://coldiq.com/tools/leaddyno,scraped
-Leadenrich,leadenrich,https://coldiq.com/tools/leadenrich,scraped
-Leadforensics,leadforensics,https://coldiq.com/tools/leadforensics,scraped
-Leadfuze,leadfuze,https://coldiq.com/tools/leadfuze,scraped
-Leadgeneratorio,leadgeneratorio,https://coldiq.com/tools/leadgeneratorio,scraped
-Leadgenius,leadgenius,https://coldiq.com/tools/leadgenius,scraped
-Leadgibbon,leadgibbon,https://coldiq.com/tools/leadgibbon,scraped
-Leadgraph,leadgraph,https://coldiq.com/tools/leadgraph,scraped
-Leadinfo,leadinfo,https://coldiq.com/tools/leadinfo,scraped
-Leadiq,leadiq,https://coldiq.com/tools/leadiq,scraped
-Leadlabs,leadlabs,https://coldiq.com/tools/leadlabs,scraped
-Leadleaper,leadleaper,https://coldiq.com/tools/leadleaper,scraped
-Leadloft,leadloft,https://coldiq.com/tools/leadloft,scraped
-Leadmagic,leadmagic,https://coldiq.com/tools/leadmagic,scraped
-Leadmatic,leadmatic,https://coldiq.com/tools/leadmatic,scraped
-Leadmine,leadmine,https://coldiq.com/tools/leadmine,scraped
+Leadenrich,leadenrich,https://coldiq.com/tools/leadenrich,imported
+Leadforensics,leadforensics,https://coldiq.com/tools/leadforensics,imported
+Leadfuze,leadfuze,https://coldiq.com/tools/leadfuze,imported
+Leadgeneratorio,leadgeneratorio,https://coldiq.com/tools/leadgeneratorio,imported
+Leadgenius,leadgenius,https://coldiq.com/tools/leadgenius,imported
+Leadgibbon,leadgibbon,https://coldiq.com/tools/leadgibbon,imported
+Leadgraph,leadgraph,https://coldiq.com/tools/leadgraph,imported
+Leadinfo,leadinfo,https://coldiq.com/tools/leadinfo,imported
+Leadiq,leadiq,https://coldiq.com/tools/leadiq,imported
+Leadlabs,leadlabs,https://coldiq.com/tools/leadlabs,imported
+Leadleaper,leadleaper,https://coldiq.com/tools/leadleaper,imported
+Leadloft,leadloft,https://coldiq.com/tools/leadloft,imported
+Leadmagic,leadmagic,https://coldiq.com/tools/leadmagic,imported
+Leadmatic,leadmatic,https://coldiq.com/tools/leadmatic,imported
+Leadmine,leadmine,https://coldiq.com/tools/leadmine,imported
 Leadpages,leadpages,https://coldiq.com/tools/leadpages,scraped
-Leadpost,leadpost,https://coldiq.com/tools/leadpost,scraped
-Leads Otter,leads-otter,https://coldiq.com/tools/leads-otter,scraped
-Leadsapp,leadsapp,https://coldiq.com/tools/leadsapp,scraped
-Leadsfactory,leadsfactory,https://coldiq.com/tools/leadsfactory,scraped
-Leadsnavi,leadsnavi,https://coldiq.com/tools/leadsnavi,scraped
-Leadspace,leadspace,https://coldiq.com/tools/leadspace,scraped
-Leadspicker,leadspicker,https://coldiq.com/tools/leadspicker,scraped
-Leadspot,leadspot,https://coldiq.com/tools/leadspot,scraped
-Leadsquared,leadsquared,https://coldiq.com/tools/leadsquared,scraped
-Leadsrx,leadsrx,https://coldiq.com/tools/leadsrx,scraped
-Leadviewio,leadviewio,https://coldiq.com/tools/leadviewio,scraped
-Leady,leady,https://coldiq.com/tools/leady,scraped
+Leadpost,leadpost,https://coldiq.com/tools/leadpost,imported
+Leads Otter,leads-otter,https://coldiq.com/tools/leads-otter,imported
+Leadsapp,leadsapp,https://coldiq.com/tools/leadsapp,imported
+Leadsfactory,leadsfactory,https://coldiq.com/tools/leadsfactory,imported
+Leadsnavi,leadsnavi,https://coldiq.com/tools/leadsnavi,imported
+Leadspace,leadspace,https://coldiq.com/tools/leadspace,imported
+Leadspicker,leadspicker,https://coldiq.com/tools/leadspicker,imported
+Leadspot,leadspot,https://coldiq.com/tools/leadspot,imported
+Leadsquared,leadsquared,https://coldiq.com/tools/leadsquared,imported
+Leadsrx,leadsrx,https://coldiq.com/tools/leadsrx,imported
+Leadviewio,leadviewio,https://coldiq.com/tools/leadviewio,imported
+Leady,leady,https://coldiq.com/tools/leady,imported
 Leandata,leandata,https://coldiq.com/tools/leandata,scraped
 Leanplum By Clevertap,leanplum-by-clevertap,https://coldiq.com/tools/leanplum-by-clevertap,scraped
 Leap Ai,leap-ai,https://coldiq.com/tools/leap-ai,scraped
@@ -1912,11 +1912,11 @@ Leexi,leexi,https://coldiq.com/tools/leexi,scraped
 Lefty,lefty,https://coldiq.com/tools/lefty,scraped
 Lekhakai,lekhakai,https://coldiq.com/tools/lekhakai,scraped
 Lemcal,lemcal,https://coldiq.com/tools/lemcal,scraped
-Lemlist,lemlist,https://coldiq.com/tools/lemlist,scraped
+Lemlist,lemlist,https://coldiq.com/tools/lemlist,imported
 Lemon Slice Formerly Infinity Ai,lemon-slice-formerly-infinity-ai,https://coldiq.com/tools/lemon-slice-formerly-infinity-ai,scraped
 Lemonspeak,lemonspeak,https://coldiq.com/tools/lemonspeak,scraped
 Lempod,lempod,https://coldiq.com/tools/lempod,scraped
-Lemwarm,lemwarm,https://coldiq.com/tools/lemwarm,scraped
+Lemwarm,lemwarm,https://coldiq.com/tools/lemwarm,imported
 Leo Ai,leo-ai,https://coldiq.com/tools/leo-ai,scraped
 Leonardo Ai,leonardo-ai,https://coldiq.com/tools/leonardo-ai,scraped
 Letta,letta,https://coldiq.com/tools/letta,scraped
@@ -1933,9 +1933,9 @@ Liftcertain,liftcertain,https://coldiq.com/tools/liftcertain,scraped
 Liftoff,liftoff,https://coldiq.com/tools/liftoff,scraped
 Liftpilot,liftpilot,https://coldiq.com/tools/liftpilot,scraped
 Lightmeter,lightmeter,https://coldiq.com/tools/lightmeter,scraped
-Lima Data,lima-data,https://coldiq.com/tools/lima-data,scraped
+Lima Data,lima-data,https://coldiq.com/tools/lima-data,imported
 Limecall,limecall,https://coldiq.com/tools/limecall,scraped
-Limeleads,limeleads,https://coldiq.com/tools/limeleads,scraped
+Limeleads,limeleads,https://coldiq.com/tools/limeleads,imported
 Limelight,limelight,https://coldiq.com/tools/limelight,scraped
 Limitless Ai,limitless-ai,https://coldiq.com/tools/limitless-ai,scraped
 Lindoai,lindoai,https://coldiq.com/tools/lindoai,scraped
@@ -1946,18 +1946,18 @@ Linkamber,linkamber,https://coldiq.com/tools/linkamber,scraped
 Linkder,linkder,https://coldiq.com/tools/linkder,scraped
 Linkdex,linkdex,https://coldiq.com/tools/linkdex,scraped
 Linked Api,linked-api,https://coldiq.com/tools/linked-api,scraped
-Linked Helper,linked-helper,https://coldiq.com/tools/linked-helper,scraped
-Linkedcamp,linkedcamp,https://coldiq.com/tools/linkedcamp,scraped
+Linked Helper,linked-helper,https://coldiq.com/tools/linked-helper,imported
+Linkedcamp,linkedcamp,https://coldiq.com/tools/linkedcamp,imported
 Linkeddit,linkeddit,https://coldiq.com/tools/linkeddit,scraped
 Linkedfusion,linkedfusion,https://coldiq.com/tools/linkedfusion,scraped
-Linkedin Sales Navigator,linkedin-sales-navigator,https://coldiq.com/tools/linkedin-sales-navigator,scraped
+Linkedin Sales Navigator,linkedin-sales-navigator,https://coldiq.com/tools/linkedin-sales-navigator,imported
 Linkedradar,linkedradar,https://coldiq.com/tools/linkedradar,scraped
 Linkmatch,linkmatch,https://coldiq.com/tools/linkmatch,scraped
 Linkup,linkup,https://coldiq.com/tools/linkup,scraped
 Linnworks,linnworks,https://coldiq.com/tools/linnworks,scraped
 Linqia,linqia,https://coldiq.com/tools/linqia,scraped
 Lipdub Ai,lipdub-ai,https://coldiq.com/tools/lipdub-ai,scraped
-Liprospect,liprospect,https://coldiq.com/tools/liprospect,scraped
+Liprospect,liprospect,https://coldiq.com/tools/liprospect,imported
 Listen Labs,listen-labs,https://coldiq.com/tools/listen-labs,scraped
 Listen Notes,listen-notes,https://coldiq.com/tools/listen-notes,scraped
 Listingbott,listingbott,https://coldiq.com/tools/listingbott,scraped
@@ -1984,7 +1984,7 @@ Loadsys,loadsys,https://coldiq.com/tools/loadsys,scraped
 Lob,lob,https://coldiq.com/tools/lob,scraped
 Lobby,lobby,https://coldiq.com/tools/lobby,scraped
 Lobechat,lobechat,https://coldiq.com/tools/lobechat,scraped
-Lobster Lead,lobster-lead,https://coldiq.com/tools/lobster-lead,scraped
+Lobster Lead,lobster-lead,https://coldiq.com/tools/lobster-lead,imported
 Local Scraper,local-scraper,https://coldiq.com/tools/local-scraper,scraped
 Localesai,localesai,https://coldiq.com/tools/localesai,scraped
 Localiq,localiq,https://coldiq.com/tools/localiq,scraped
@@ -1995,7 +1995,7 @@ Logseq,logseq,https://coldiq.com/tools/logseq,scraped
 Loisa,loisa,https://coldiq.com/tools/loisa,scraped
 Lonescale,lonescale,https://coldiq.com/tools/lonescale,scraped
 Longlist,longlist,https://coldiq.com/tools/longlist,scraped
-Loom,loom,https://coldiq.com/tools/loom,scraped
+Loom,loom,https://coldiq.com/tools/loom,imported
 Loomly,loomly,https://coldiq.com/tools/loomly,scraped
 Loop Returns,loop-returns,https://coldiq.com/tools/loop-returns,scraped
 Loopme,loopme,https://coldiq.com/tools/loopme,scraped
@@ -2016,7 +2016,7 @@ Lumen5,lumen5,https://coldiq.com/tools/lumen5,scraped
 Lumeo,lumeo,https://coldiq.com/tools/lumeo,scraped
 Lumi Global,lumi-global,https://coldiq.com/tools/lumi-global,scraped
 Lumin,lumin,https://coldiq.com/tools/lumin,scraped
-Luminous Crm,luminous-crm,https://coldiq.com/tools/luminous-crm,scraped
+Luminous Crm,luminous-crm,https://coldiq.com/tools/luminous-crm,imported
 Lumoa,lumoa,https://coldiq.com/tools/lumoa,scraped
 Lumos,lumos,https://coldiq.com/tools/lumos,scraped
 Lunaai,lunaai,https://coldiq.com/tools/lunaai,scraped
@@ -2024,8 +2024,8 @@ Lunacalai,lunacalai,https://coldiq.com/tools/lunacalai,scraped
 Lunatromx,lunatromx,https://coldiq.com/tools/lunatromx,scraped
 Lunio,lunio,https://coldiq.com/tools/lunio,scraped
 Luru,luru,https://coldiq.com/tools/luru,scraped
-Lusha,lusha,https://coldiq.com/tools/lusha,scraped
-Lyne,lyne,https://coldiq.com/tools/lyne,scraped
+Lusha,lusha,https://coldiq.com/tools/lusha,imported
+Lyne,lyne,https://coldiq.com/tools/lyne,imported
 Lynq,lynq,https://coldiq.com/tools/lynq,scraped
 Lysto Ai,lysto-ai,https://coldiq.com/tools/lysto-ai,scraped
 Lytics,lytics,https://coldiq.com/tools/lytics,scraped
@@ -2043,34 +2043,34 @@ Magicblocks,magicblocks,https://coldiq.com/tools/magicblocks,scraped
 Magicblog,magicblog,https://coldiq.com/tools/magicblog,scraped
 Magiclight,magiclight,https://coldiq.com/tools/magiclight,scraped
 Magicpost,magicpost,https://coldiq.com/tools/magicpost,scraped
-Magicsalesai,magicsalesai,https://coldiq.com/tools/magicsalesai,scraped
-Mail Tester,mail-tester,https://coldiq.com/tools/mail-tester,scraped
-Mailboxvalidator,mailboxvalidator,https://coldiq.com/tools/mailboxvalidator,scraped
+Magicsalesai,magicsalesai,https://coldiq.com/tools/magicsalesai,imported
+Mail Tester,mail-tester,https://coldiq.com/tools/mail-tester,imported
+Mailboxvalidator,mailboxvalidator,https://coldiq.com/tools/mailboxvalidator,imported
 Mailbum,mailbum,https://coldiq.com/tools/mailbum,scraped
 Mailbutler,mailbutler,https://coldiq.com/tools/mailbutler,scraped
-Mailcheck,mailcheck,https://coldiq.com/tools/mailcheck,scraped
+Mailcheck,mailcheck,https://coldiq.com/tools/mailcheck,imported
 Mailchimp,mailchimp,https://coldiq.com/tools/mailchimp,scraped
-Maileadio,maileadio,https://coldiq.com/tools/maileadio,scraped
-Mailercheck,mailercheck,https://coldiq.com/tools/mailercheck,scraped
+Maileadio,maileadio,https://coldiq.com/tools/maileadio,imported
+Mailercheck,mailercheck,https://coldiq.com/tools/mailercheck,imported
 Mailercloud,mailercloud,https://coldiq.com/tools/mailercloud,scraped
 Mailerlite,mailerlite,https://coldiq.com/tools/mailerlite,scraped
 Mailersend,mailersend,https://coldiq.com/tools/mailersend,scraped
-Mailfloss,mailfloss,https://coldiq.com/tools/mailfloss,scraped
-Mailforge,mailforge,https://coldiq.com/tools/mailforge,scraped
+Mailfloss,mailfloss,https://coldiq.com/tools/mailfloss,imported
+Mailforge,mailforge,https://coldiq.com/tools/mailforge,imported
 Mailgenius,mailgenius,https://coldiq.com/tools/mailgenius,scraped
 Mailgun,mailgun,https://coldiq.com/tools/mailgun,scraped
 Mailivery,mailivery,https://coldiq.com/tools/mailivery,scraped
 Mailjet,mailjet,https://coldiq.com/tools/mailjet,scraped
-Mailmeteor,mailmeteor,https://coldiq.com/tools/mailmeteor,scraped
+Mailmeteor,mailmeteor,https://coldiq.com/tools/mailmeteor,imported
 Mailmo,mailmo,https://coldiq.com/tools/mailmo,scraped
-Mailmonitor,mailmonitor,https://coldiq.com/tools/mailmonitor,scraped
+Mailmonitor,mailmonitor,https://coldiq.com/tools/mailmonitor,imported
 Mailmunch,mailmunch,https://coldiq.com/tools/mailmunch,scraped
 Mailook,mailook,https://coldiq.com/tools/mailook,scraped
 Mailoptimal,mailoptimal,https://coldiq.com/tools/mailoptimal,scraped
-Mailreach,mailreach,https://coldiq.com/tools/mailreach,scraped
+Mailreach,mailreach,https://coldiq.com/tools/mailreach,imported
 Mailreef,mailreef,https://coldiq.com/tools/mailreef,scraped
-Mailscale,mailscale,https://coldiq.com/tools/mailscale,scraped
-Mailshake,mailshake,https://coldiq.com/tools/mailshake,scraped
+Mailscale,mailscale,https://coldiq.com/tools/mailscale,imported
+Mailshake,mailshake,https://coldiq.com/tools/mailshake,imported
 Mailstand,mailstand,https://coldiq.com/tools/mailstand,scraped
 Mailtoaster,mailtoaster,https://coldiq.com/tools/mailtoaster,scraped
 Mailtrap,mailtrap,https://coldiq.com/tools/mailtrap,scraped
@@ -2121,10 +2121,10 @@ Mediafly,mediafly,https://coldiq.com/tools/mediafly,scraped
 Mediavalet,mediavalet,https://coldiq.com/tools/mediavalet,scraped
 Medusa,medusa,https://coldiq.com/tools/medusa,scraped
 Meera,meera,https://coldiq.com/tools/meera,scraped
-Meet Alfred,meet-alfred,https://coldiq.com/tools/meet-alfred,scraped
+Meet Alfred,meet-alfred,https://coldiq.com/tools/meet-alfred,imported
 Meetedgar,meetedgar,https://coldiq.com/tools/meetedgar,scraped
 Meetgeek,meetgeek,https://coldiq.com/tools/meetgeek,scraped
-Meetz,meetz,https://coldiq.com/tools/meetz,scraped
+Meetz,meetz,https://coldiq.com/tools/meetz,imported
 Mega Hr,mega-hr,https://coldiq.com/tools/mega-hr,scraped
 Meilisearch,meilisearch,https://coldiq.com/tools/meilisearch,scraped
 Meltwater,meltwater,https://coldiq.com/tools/meltwater,scraped
@@ -2175,7 +2175,7 @@ Missive,missive,https://coldiq.com/tools/missive,scraped
 Mistral Ai,mistral-ai,https://coldiq.com/tools/mistral-ai,scraped
 Mitra,mitra,https://coldiq.com/tools/mitra,scraped
 Mixdesk,mixdesk,https://coldiq.com/tools/mixdesk,scraped
-Mixmax,mixmax,https://coldiq.com/tools/mixmax,scraped
+Mixmax,mixmax,https://coldiq.com/tools/mixmax,imported
 Mixpanel,mixpanel,https://coldiq.com/tools/mixpanel,scraped
 Mixrank,mixrank,https://coldiq.com/tools/mixrank,scraped
 Mobile Text Alerts,mobile-text-alerts,https://coldiq.com/tools/mobile-text-alerts,scraped
@@ -2189,7 +2189,7 @@ Mogli,mogli,https://coldiq.com/tools/mogli,scraped
 Mokahr,mokahr,https://coldiq.com/tools/mokahr,scraped
 Molly,molly,https://coldiq.com/tools/molly,scraped
 Momen,momen,https://coldiq.com/tools/momen,scraped
-Momentum,momentum,https://coldiq.com/tools/momentum,scraped
+Momentum,momentum,https://coldiq.com/tools/momentum,imported
 Monaco,monaco,https://coldiq.com/tools/monaco,scraped
 Monday,monday,https://coldiq.com/tools/monday,scraped
 Mondo Metrics,mondo-metrics,https://coldiq.com/tools/mondo-metrics,scraped
@@ -2226,7 +2226,7 @@ Myemailverifier,myemailverifier,https://coldiq.com/tools/myemailverifier,scraped
 Myko,myko,https://coldiq.com/tools/myko,scraped
 Myphoner,myphoner,https://coldiq.com/tools/myphoner,scraped
 Mysiteai,mysiteai,https://coldiq.com/tools/mysiteai,scraped
-N8n,n8n,https://coldiq.com/tools/n8n,scraped
+N8n,n8n,https://coldiq.com/tools/n8n,imported
 Name2email,name2email,https://coldiq.com/tools/name2email,scraped
 Namecheap,namecheap,https://coldiq.com/tools/namecheap,scraped
 Nanonets,nanonets,https://coldiq.com/tools/nanonets,scraped
@@ -2283,7 +2283,7 @@ Nocodebackend,nocodebackend,https://coldiq.com/tools/nocodebackend,scraped
 Nocrm,nocrm,https://coldiq.com/tools/nocrm,scraped
 Nodac Intel,nodac-intel,https://coldiq.com/tools/nodac-intel,scraped
 Node Red,node-red,https://coldiq.com/tools/node-red,scraped
-Nooks,nooks,https://coldiq.com/tools/nooks,scraped
+Nooks,nooks,https://coldiq.com/tools/nooks,imported
 Norby Ai,norby-ai,https://coldiq.com/tools/norby-ai,scraped
 Nordpass,nordpass,https://coldiq.com/tools/nordpass,scraped
 Northbeam,northbeam,https://coldiq.com/tools/northbeam,scraped
@@ -2304,7 +2304,7 @@ Numerousai,numerousai,https://coldiq.com/tools/numerousai,scraped
 Nuqualis,nuqualis,https://coldiq.com/tools/nuqualis,scraped
 Nurix Ai,nurix-ai,https://coldiq.com/tools/nurix-ai,scraped
 Nurtureai,nurtureai,https://coldiq.com/tools/nurtureai,scraped
-Nutshell,nutshell,https://coldiq.com/tools/nutshell,scraped
+Nutshell,nutshell,https://coldiq.com/tools/nutshell,imported
 Nuvei,nuvei,https://coldiq.com/tools/nuvei,scraped
 Nuvia,nuvia,https://coldiq.com/tools/nuvia,scraped
 Nventr Agent,nventr-agent,https://coldiq.com/tools/nventr-agent,scraped
@@ -2316,9 +2316,9 @@ Obs Studio,obs-studio,https://coldiq.com/tools/obs-studio,scraped
 Observeai,observeai,https://coldiq.com/tools/observeai,scraped
 Obsidian,obsidian,https://coldiq.com/tools/obsidian,scraped
 Occamise,occamise,https://coldiq.com/tools/occamise,scraped
-Oceanio,oceanio,https://coldiq.com/tools/oceanio,scraped
+Oceanio,oceanio,https://coldiq.com/tools/oceanio,imported
 Ocoya,ocoya,https://coldiq.com/tools/ocoya,scraped
-Octave,octave,https://coldiq.com/tools/octave,scraped
+Octave,octave,https://coldiq.com/tools/octave,imported
 Octo Browser,octo-browser,https://coldiq.com/tools/octo-browser,scraped
 Octofy,octofy,https://coldiq.com/tools/octofy,scraped
 Octolane,octolane,https://coldiq.com/tools/octolane,scraped
@@ -2395,7 +2395,7 @@ Orion Browser,orion-browser,https://coldiq.com/tools/orion-browser,scraped
 Orm,orm,https://coldiq.com/tools/orm,scraped
 Orqai,orqai,https://coldiq.com/tools/orqai,scraped
 Ortto,ortto,https://coldiq.com/tools/ortto,scraped
-Orum,orum,https://coldiq.com/tools/orum,scraped
+Orum,orum,https://coldiq.com/tools/orum,imported
 Oryn,oryn,https://coldiq.com/tools/oryn,scraped
 Osum,osum,https://coldiq.com/tools/osum,scraped
 Othor Ai,othor-ai,https://coldiq.com/tools/othor-ai,scraped
@@ -2412,10 +2412,10 @@ Outfunnel,outfunnel,https://coldiq.com/tools/outfunnel,scraped
 Outgrow,outgrow,https://coldiq.com/tools/outgrow,scraped
 Outlitai,outlitai,https://coldiq.com/tools/outlitai,scraped
 Outlyne,outlyne,https://coldiq.com/tools/outlyne,scraped
-Outplay,outplay,https://coldiq.com/tools/outplay,scraped
+Outplay,outplay,https://coldiq.com/tools/outplay,imported
 Outpost,outpost,https://coldiq.com/tools/outpost,scraped
 Outranking,outranking,https://coldiq.com/tools/outranking,scraped
-Outreach,outreach,https://coldiq.com/tools/outreach,scraped
+Outreach,outreach,https://coldiq.com/tools/outreach,imported
 Outreach Magic,outreach-magic,https://coldiq.com/tools/outreach-magic,scraped
 Outreachly,outreachly,https://coldiq.com/tools/outreachly,scraped
 Outreachwriter,outreachwriter,https://coldiq.com/tools/outreachwriter,scraped
@@ -2424,7 +2424,7 @@ Outsystems,outsystems,https://coldiq.com/tools/outsystems,scraped
 Outverse,outverse,https://coldiq.com/tools/outverse,scraped
 Outxai,outxai,https://coldiq.com/tools/outxai,scraped
 Overlap,overlap,https://coldiq.com/tools/overlap,scraped
-Overloopai,overloopai,https://coldiq.com/tools/overloopai,scraped
+Overloopai,overloopai,https://coldiq.com/tools/overloopai,imported
 Owler,owler,https://coldiq.com/tools/owler,scraped
 Owox Data Marts,owox-data-marts,https://coldiq.com/tools/owox-data-marts,scraped
 Oxylabs,oxylabs,https://coldiq.com/tools/oxylabs,scraped
@@ -2476,7 +2476,7 @@ Pencil,pencil,https://coldiq.com/tools/pencil,scraped
 Pendoio,pendoio,https://coldiq.com/tools/pendoio,scraped
 Penny,penny,https://coldiq.com/tools/penny,scraped
 Penpot,penpot,https://coldiq.com/tools/penpot,scraped
-People Data Labs,people-data-labs,https://coldiq.com/tools/people-data-labs,scraped
+People Data Labs,people-data-labs,https://coldiq.com/tools/people-data-labs,imported
 Peopleai,peopleai,https://coldiq.com/tools/peopleai,scraped
 Peopleforce,peopleforce,https://coldiq.com/tools/peopleforce,scraped
 Peppertypeai,peppertypeai,https://coldiq.com/tools/peppertypeai,scraped
@@ -2490,7 +2490,7 @@ Permut,permut,https://coldiq.com/tools/permut,scraped
 Perpetua,perpetua,https://coldiq.com/tools/perpetua,scraped
 Perplexity,perplexity,https://coldiq.com/tools/perplexity,scraped
 Persado,persado,https://coldiq.com/tools/persado,scraped
-Persana,persana,https://coldiq.com/tools/persana,scraped
+Persana,persana,https://coldiq.com/tools/persana,imported
 Persistiq,persistiq,https://coldiq.com/tools/persistiq,scraped
 Personadeck,personadeck,https://coldiq.com/tools/personadeck,scraped
 Personal Ai,personal-ai,https://coldiq.com/tools/personal-ai,scraped
@@ -2499,7 +2499,7 @@ Personizeai,personizeai,https://coldiq.com/tools/personizeai,scraped
 Personyze,personyze,https://coldiq.com/tools/personyze,scraped
 Perspective Funnels,perspective-funnels,https://coldiq.com/tools/perspective-funnels,scraped
 Pfl,pfl,https://coldiq.com/tools/pfl,scraped
-Phantombuster,phantombuster,https://coldiq.com/tools/phantombuster,scraped
+Phantombuster,phantombuster,https://coldiq.com/tools/phantombuster,imported
 Phantomwriter,phantomwriter,https://coldiq.com/tools/phantomwriter,scraped
 Pharosiq,pharosiq,https://coldiq.com/tools/pharosiq,scraped
 Pharow,pharow,https://coldiq.com/tools/pharow,scraped
@@ -2529,9 +2529,9 @@ Pint Ai,pint-ai,https://coldiq.com/tools/pint-ai,scraped
 Pintel,pintel,https://coldiq.com/tools/pintel,scraped
 Pipe0,pipe0,https://coldiq.com/tools/pipe0,scraped
 Pipedream,pipedream,https://coldiq.com/tools/pipedream,scraped
-Pipedrive,pipedrive,https://coldiq.com/tools/pipedrive,scraped
+Pipedrive,pipedrive,https://coldiq.com/tools/pipedrive,imported
 Pipefy,pipefy,https://coldiq.com/tools/pipefy,scraped
-Pipelaunch,pipelaunch,https://coldiq.com/tools/pipelaunch,scraped
+Pipelaunch,pipelaunch,https://coldiq.com/tools/pipelaunch,imported
 Pipeline Crm,pipeline-crm,https://coldiq.com/tools/pipeline-crm,scraped
 Pipeliner,pipeliner,https://coldiq.com/tools/pipeliner,scraped
 Piper,piper,https://coldiq.com/tools/piper,scraped
@@ -2575,7 +2575,7 @@ Pluralytics,pluralytics,https://coldiq.com/tools/pluralytics,scraped
 Plusvibe,plusvibe,https://coldiq.com/tools/plusvibe,scraped
 Plytix,plytix,https://coldiq.com/tools/plytix,scraped
 Pocketbase,pocketbase,https://coldiq.com/tools/pocketbase,scraped
-Pocus,pocus,https://coldiq.com/tools/pocus,scraped
+Pocus,pocus,https://coldiq.com/tools/pocus,imported
 Pod,pod,https://coldiq.com/tools/pod,scraped
 Podcastdb,podcastdb,https://coldiq.com/tools/podcastdb,scraped
 Podchaser,podchaser,https://coldiq.com/tools/podchaser,scraped
@@ -2679,7 +2679,7 @@ Prospecdit,prospecdit,https://coldiq.com/tools/prospecdit,scraped
 Prospect,prospect,https://coldiq.com/tools/prospect,scraped
 Prospect Ai,prospect-ai,https://coldiq.com/tools/prospect-ai,scraped
 Prospectoo,prospectoo,https://coldiq.com/tools/prospectoo,scraped
-Prospeo,prospeo,https://coldiq.com/tools/prospeo,scraped
+Prospeo,prospeo,https://coldiq.com/tools/prospeo,imported
 Prospera Ai,prospera-ai,https://coldiq.com/tools/prospera-ai,scraped
 Proton,proton,https://coldiq.com/tools/proton,scraped
 Proton Pass,proton-pass,https://coldiq.com/tools/proton-pass,scraped
@@ -2723,7 +2723,7 @@ Quickbooks,quickbooks,https://coldiq.com/tools/quickbooks,scraped
 Quickemailverification,quickemailverification,https://coldiq.com/tools/quickemailverification,scraped
 Quickenrich,quickenrich,https://coldiq.com/tools/quickenrich,scraped
 Quicklizard,quicklizard,https://coldiq.com/tools/quicklizard,scraped
-Quickmail,quickmail,https://coldiq.com/tools/quickmail,scraped
+Quickmail,quickmail,https://coldiq.com/tools/quickmail,imported
 Quickvideo,quickvideo,https://coldiq.com/tools/quickvideo,scraped
 Quid,quid,https://coldiq.com/tools/quid,scraped
 Quikrun,quikrun,https://coldiq.com/tools/quikrun,scraped
@@ -2751,7 +2751,7 @@ Rankiq,rankiq,https://coldiq.com/tools/rankiq,scraped
 Ranklytics,ranklytics,https://coldiq.com/tools/ranklytics,scraped
 Rankwatch,rankwatch,https://coldiq.com/tools/rankwatch,scraped
 Rannkly,rannkly,https://coldiq.com/tools/rannkly,scraped
-Rapidapi,rapidapi,https://coldiq.com/tools/rapidapi,scraped
+Rapidapi,rapidapi,https://coldiq.com/tools/rapidapi,imported
 Rapidcanvas,rapidcanvas,https://coldiq.com/tools/rapidcanvas,scraped
 Rasayel,rasayel,https://coldiq.com/tools/rasayel,scraped
 Rask Ai,rask-ai,https://coldiq.com/tools/rask-ai,scraped
@@ -2759,15 +2759,15 @@ Ratinge,ratinge,https://coldiq.com/tools/ratinge,scraped
 Rattle,rattle,https://coldiq.com/tools/rattle,scraped
 Raygun,raygun,https://coldiq.com/tools/raygun,scraped
 Rayst,rayst,https://coldiq.com/tools/rayst,scraped
-Rb2b,rb2b,https://coldiq.com/tools/rb2b,scraped
+Rb2b,rb2b,https://coldiq.com/tools/rb2b,imported
 Reachdesk,reachdesk,https://coldiq.com/tools/reachdesk,scraped
 Reachfast,reachfast,https://coldiq.com/tools/reachfast,scraped
 Reachifyme,reachifyme,https://coldiq.com/tools/reachifyme,scraped
-Reachinbox,reachinbox,https://coldiq.com/tools/reachinbox,scraped
+Reachinbox,reachinbox,https://coldiq.com/tools/reachinbox,imported
 Reachiq,reachiq,https://coldiq.com/tools/reachiq,scraped
 Reachout,reachout,https://coldiq.com/tools/reachout,scraped
 Reachowl,reachowl,https://coldiq.com/tools/reachowl,scraped
-Reachstream,reachstream,https://coldiq.com/tools/reachstream,scraped
+Reachstream,reachstream,https://coldiq.com/tools/reachstream,imported
 Reachy,reachy,https://coldiq.com/tools/reachy,scraped
 React Native,react-native,https://coldiq.com/tools/react-native,scraped
 Reactin,reactin,https://coldiq.com/tools/reactin,scraped
@@ -2809,7 +2809,7 @@ Refinefast,refinefast,https://coldiq.com/tools/refinefast,scraped
 Refiner,refiner,https://coldiq.com/tools/refiner,scraped
 Regal,regal,https://coldiq.com/tools/regal,scraped
 Regfox,regfox,https://coldiq.com/tools/regfox,scraped
-Regie,regie,https://coldiq.com/tools/regie,scraped
+Regie,regie,https://coldiq.com/tools/regie,imported
 Reintent,reintent,https://coldiq.com/tools/reintent,scraped
 Rejoiner,rejoiner,https://coldiq.com/tools/rejoiner,scraped
 Reklaai,reklaai,https://coldiq.com/tools/reklaai,scraped
@@ -2835,7 +2835,7 @@ Rephonic,rephonic,https://coldiq.com/tools/rephonic,scraped
 Replientai,replientai,https://coldiq.com/tools/replientai,scraped
 Repliq,repliq,https://coldiq.com/tools/repliq,scraped
 Replit,replit,https://coldiq.com/tools/replit,scraped
-Reply,reply,https://coldiq.com/tools/reply,scraped
+Reply,reply,https://coldiq.com/tools/reply,imported
 Replyguy,replyguy,https://coldiq.com/tools/replyguy,scraped
 Replyhunt,replyhunt,https://coldiq.com/tools/replyhunt,scraped
 Replyify,replyify,https://coldiq.com/tools/replyify,scraped
@@ -2914,7 +2914,7 @@ Robylon,robylon,https://coldiq.com/tools/robylon,scraped
 Rockerbox,rockerbox,https://coldiq.com/tools/rockerbox,scraped
 Rocketpages,rocketpages,https://coldiq.com/tools/rocketpages,scraped
 Rocketphone,rocketphone,https://coldiq.com/tools/rocketphone,scraped
-Rocketreach,rocketreach,https://coldiq.com/tools/rocketreach,scraped
+Rocketreach,rocketreach,https://coldiq.com/tools/rocketreach,imported
 Rocketseed,rocketseed,https://coldiq.com/tools/rocketseed,scraped
 Roivenue,roivenue,https://coldiq.com/tools/roivenue,scraped
 Rollbar,rollbar,https://coldiq.com/tools/rollbar,scraped
@@ -2925,7 +2925,7 @@ Roojoom,roojoom,https://coldiq.com/tools/roojoom,scraped
 Rork,rork,https://coldiq.com/tools/rork,scraped
 Roshu,roshu,https://coldiq.com/tools/roshu,scraped
 Rossum,rossum,https://coldiq.com/tools/rossum,scraped
-Rows,rows,https://coldiq.com/tools/rows,scraped
+Rows,rows,https://coldiq.com/tools/rows,imported
 Rox,rox,https://coldiq.com/tools/rox,scraped
 Rtb House,rtb-house,https://coldiq.com/tools/rtb-house,scraped
 Rtrvrai,rtrvrai,https://coldiq.com/tools/rtrvrai,scraped
@@ -2943,7 +2943,7 @@ Sailes,sailes,https://coldiq.com/tools/sailes,scraped
 Sakari,sakari,https://coldiq.com/tools/sakari,scraped
 Salarycom,salarycom,https://coldiq.com/tools/salarycom,scraped
 Salee Ai,salee-ai,https://coldiq.com/tools/salee-ai,scraped
-Saleleads,saleleads,https://coldiq.com/tools/saleleads,scraped
+Saleleads,saleleads,https://coldiq.com/tools/saleleads,imported
 Saleo,saleo,https://coldiq.com/tools/saleo,scraped
 Saleor,saleor,https://coldiq.com/tools/saleor,scraped
 Sales Closer Ai,sales-closer-ai,https://coldiq.com/tools/sales-closer-ai,scraped
@@ -2951,34 +2951,34 @@ Sales Compass,sales-compass,https://coldiq.com/tools/sales-compass,scraped
 Sales Cookie,sales-cookie,https://coldiq.com/tools/sales-cookie,scraped
 Sales Stack,sales-stack,https://coldiq.com/tools/sales-stack,scraped
 Salesapeai,salesapeai,https://coldiq.com/tools/salesapeai,scraped
-Salesblink,salesblink,https://coldiq.com/tools/salesblink,scraped
+Salesblink,salesblink,https://coldiq.com/tools/salesblink,imported
 Salesbolt,salesbolt,https://coldiq.com/tools/salesbolt,scraped
 Salesbox,salesbox,https://coldiq.com/tools/salesbox,scraped
 Salescamp,salescamp,https://coldiq.com/tools/salescamp,scraped
-Salesflare,salesflare,https://coldiq.com/tools/salesflare,scraped
+Salesflare,salesflare,https://coldiq.com/tools/salesflare,imported
 Salesflow,salesflow,https://coldiq.com/tools/salesflow,scraped
-Salesforce,salesforce,https://coldiq.com/tools/salesforce,scraped
+Salesforce,salesforce,https://coldiq.com/tools/salesforce,imported
 Salesforge,salesforge,https://coldiq.com/tools/salesforge,scraped
 Salesfully,salesfully,https://coldiq.com/tools/salesfully,scraped
 Salesgear,salesgear,https://coldiq.com/tools/salesgear,scraped
 Salesgroup Ai,salesgroup-ai,https://coldiq.com/tools/salesgroup-ai,scraped
-Saleshandy,saleshandy,https://coldiq.com/tools/saleshandy,scraped
+Saleshandy,saleshandy,https://coldiq.com/tools/saleshandy,imported
 Saleshiker,saleshiker,https://coldiq.com/tools/saleshiker,scraped
 Saleshood,saleshood,https://coldiq.com/tools/saleshood,scraped
 Saleshookup,saleshookup,https://coldiq.com/tools/saleshookup,scraped
 Salesify,salesify,https://coldiq.com/tools/salesify,scraped
-Salesintel,salesintel,https://coldiq.com/tools/salesintel,scraped
-Salesken,salesken,https://coldiq.com/tools/salesken,scraped
-Salesloft,salesloft,https://coldiq.com/tools/salesloft,scraped
+Salesintel,salesintel,https://coldiq.com/tools/salesintel,imported
+Salesken,salesken,https://coldiq.com/tools/salesken,imported
+Salesloft,salesloft,https://coldiq.com/tools/salesloft,imported
 Salesloop,salesloop,https://coldiq.com/tools/salesloop,scraped
-Salesmate,salesmate,https://coldiq.com/tools/salesmate,scraped
+Salesmate,salesmate,https://coldiq.com/tools/salesmate,imported
 Salesmonk,salesmonk,https://coldiq.com/tools/salesmonk,scraped
 Salesmotion,salesmotion,https://coldiq.com/tools/salesmotion,scraped
 Salesmsg,salesmsg,https://coldiq.com/tools/salesmsg,scraped
 Salesnudge,salesnudge,https://coldiq.com/tools/salesnudge,scraped
 Salespanel,salespanel,https://coldiq.com/tools/salespanel,scraped
 Salesql,salesql,https://coldiq.com/tools/salesql,scraped
-Salesrobot,salesrobot,https://coldiq.com/tools/salesrobot,scraped
+Salesrobot,salesrobot,https://coldiq.com/tools/salesrobot,imported
 Salesrocks,salesrocks,https://coldiq.com/tools/salesrocks,scraped
 Salesscreen,salesscreen,https://coldiq.com/tools/salesscreen,scraped
 Salestools Ai,salestools-ai,https://coldiq.com/tools/salestools-ai,scraped
@@ -2997,14 +2997,14 @@ Saystory,saystory,https://coldiq.com/tools/saystory,scraped
 Scadepro,scadepro,https://coldiq.com/tools/scadepro,scraped
 Scal E,scal-e,https://coldiq.com/tools/scal-e,scraped
 Scaledmail,scaledmail,https://coldiq.com/tools/scaledmail,scraped
-Scalelist,scalelist,https://coldiq.com/tools/scalelist,scraped
+Scalelist,scalelist,https://coldiq.com/tools/scalelist,imported
 Scalenut,scalenut,https://coldiq.com/tools/scalenut,scraped
 Scanlist,scanlist,https://coldiq.com/tools/scanlist,scraped
 Scheduler,scheduler,https://coldiq.com/tools/scheduler,scraped
 Schedx,schedx,https://coldiq.com/tools/schedx,scraped
 Sciosai,sciosai,https://coldiq.com/tools/sciosai,scraped
 Scogoai,scogoai,https://coldiq.com/tools/scogoai,scraped
-Scout,scout,https://coldiq.com/tools/scout,scraped
+Scout,scout,https://coldiq.com/tools/scout,imported
 Scrabin,scrabin,https://coldiq.com/tools/scrabin,scraped
 Scrape Magic,scrape-magic,https://coldiq.com/tools/scrape-magic,scraped
 Scrapedo,scrapedo,https://coldiq.com/tools/scrapedo,scraped
@@ -3030,7 +3030,7 @@ Scrapx,scrapx,https://coldiq.com/tools/scrapx,scraped
 Scrapy,scrapy,https://coldiq.com/tools/scrapy,scraped
 Scrapybara,scrapybara,https://coldiq.com/tools/scrapybara,scraped
 Scrapybird,scrapybird,https://coldiq.com/tools/scrapybird,scraped
-Scratchpad,scratchpad,https://coldiq.com/tools/scratchpad,scraped
+Scratchpad,scratchpad,https://coldiq.com/tools/scratchpad,imported
 Screen Studio,screen-studio,https://coldiq.com/tools/screen-studio,scraped
 Screencastify,screencastify,https://coldiq.com/tools/screencastify,scraped
 Screenpipe,screenpipe,https://coldiq.com/tools/screenpipe,scraped
@@ -3043,12 +3043,12 @@ Scriptbee,scriptbee,https://coldiq.com/tools/scriptbee,scraped
 Scriptuio,scriptuio,https://coldiq.com/tools/scriptuio,scraped
 Scritta,scritta,https://coldiq.com/tools/scritta,scraped
 Scrubby,scrubby,https://coldiq.com/tools/scrubby,scraped
-Scrupp,scrupp,https://coldiq.com/tools/scrupp,scraped
+Scrupp,scrupp,https://coldiq.com/tools/scrupp,imported
 Sculptor,sculptor,https://coldiq.com/tools/sculptor,scraped
 Sdrx,sdrx,https://coldiq.com/tools/sdrx,scraped
 Se Ranking,se-ranking,https://coldiq.com/tools/se-ranking,scraped
 Seam Ai,seam-ai,https://coldiq.com/tools/seam-ai,scraped
-Seamless,seamless,https://coldiq.com/tools/seamless,scraped
+Seamless,seamless,https://coldiq.com/tools/seamless,imported
 Search Atlas,search-atlas,https://coldiq.com/tools/search-atlas,scraped
 Searchspring,searchspring,https://coldiq.com/tools/searchspring,scraped
 Second Nature,second-nature,https://coldiq.com/tools/second-nature,scraped
@@ -3086,7 +3086,7 @@ Sendible,sendible,https://coldiq.com/tools/sendible,scraped
 Sendpilot,sendpilot,https://coldiq.com/tools/sendpilot,scraped
 Sendpulse,sendpulse,https://coldiq.com/tools/sendpulse,scraped
 Sendshort,sendshort,https://coldiq.com/tools/sendshort,scraped
-Sendspark,sendspark,https://coldiq.com/tools/sendspark,scraped
+Sendspark,sendspark,https://coldiq.com/tools/sendspark,imported
 Sendstepsai,sendstepsai,https://coldiq.com/tools/sendstepsai,scraped
 Senja,senja,https://coldiq.com/tools/senja,scraped
 Sensor Tower,sensor-tower,https://coldiq.com/tools/sensor-tower,scraped
@@ -3200,7 +3200,7 @@ Skail,skail,https://coldiq.com/tools/skail,scraped
 Skeepers,skeepers,https://coldiq.com/tools/skeepers,scraped
 Skillaccess,skillaccess,https://coldiq.com/tools/skillaccess,scraped
 Skool,skool,https://coldiq.com/tools/skool,scraped
-Skrapp,skrapp,https://coldiq.com/tools/skrapp,scraped
+Skrapp,skrapp,https://coldiq.com/tools/skrapp,imported
 Skylead,skylead,https://coldiq.com/tools/skylead,scraped
 Skyvern,skyvern,https://coldiq.com/tools/skyvern,scraped
 Skywork Ai,skywork-ai,https://coldiq.com/tools/skywork-ai,scraped
@@ -3223,14 +3223,14 @@ Smarte,smarte,https://coldiq.com/tools/smarte,scraped
 Smartereply,smartereply,https://coldiq.com/tools/smartereply,scraped
 Smartflowai,smartflowai,https://coldiq.com/tools/smartflowai,scraped
 Smartiepal,smartiepal,https://coldiq.com/tools/smartiepal,scraped
-Smartlead,smartlead,https://coldiq.com/tools/smartlead,scraped
+Smartlead,smartlead,https://coldiq.com/tools/smartlead,imported
 Smartlook,smartlook,https://coldiq.com/tools/smartlook,scraped
 Smartly,smartly,https://coldiq.com/tools/smartly,scraped
 Smartpages,smartpages,https://coldiq.com/tools/smartpages,scraped
 Smartsheet,smartsheet,https://coldiq.com/tools/smartsheet,scraped
 Smartsupp,smartsupp,https://coldiq.com/tools/smartsupp,scraped
 Smartwinnr,smartwinnr,https://coldiq.com/tools/smartwinnr,scraped
-Smartwriter,smartwriter,https://coldiq.com/tools/smartwriter,scraped
+Smartwriter,smartwriter,https://coldiq.com/tools/smartwriter,imported
 Smartyads,smartyads,https://coldiq.com/tools/smartyads,scraped
 Smile,smile,https://coldiq.com/tools/smile,scraped
 Smocai,smocai,https://coldiq.com/tools/smocai,scraped
@@ -3243,9 +3243,9 @@ Snapfusionai,snapfusionai,https://coldiq.com/tools/snapfusionai,scraped
 Snappa,snappa,https://coldiq.com/tools/snappa,scraped
 Snatchbot,snatchbot,https://coldiq.com/tools/snatchbot,scraped
 Sniff,sniff,https://coldiq.com/tools/sniff,scraped
-Snitcher,snitcher,https://coldiq.com/tools/snitcher,scraped
+Snitcher,snitcher,https://coldiq.com/tools/snitcher,imported
 Snoika,snoika,https://coldiq.com/tools/snoika,scraped
-Snov,snov,https://coldiq.com/tools/snov,scraped
+Snov,snov,https://coldiq.com/tools/snov,imported
 Snowball,snowball,https://coldiq.com/tools/snowball,scraped
 Snowflake,snowflake,https://coldiq.com/tools/snowflake,scraped
 Snowplow Analytics,snowplow-analytics,https://coldiq.com/tools/snowplow-analytics,scraped
@@ -3349,7 +3349,7 @@ Strada,strada,https://coldiq.com/tools/strada,scraped
 Strama,strama,https://coldiq.com/tools/strama,scraped
 Strapi,strapi,https://coldiq.com/tools/strapi,scraped
 Strata Insights,strata-insights,https://coldiq.com/tools/strata-insights,scraped
-Streak,streak,https://coldiq.com/tools/streak,scraped
+Streak,streak,https://coldiq.com/tools/streak,imported
 Streamlabs,streamlabs,https://coldiq.com/tools/streamlabs,scraped
 Streamrai,streamrai,https://coldiq.com/tools/streamrai,scraped
 Streamyard,streamyard,https://coldiq.com/tools/streamyard,scraped
@@ -3365,7 +3365,7 @@ Subpage,subpage,https://coldiq.com/tools/subpage,scraped
 Substack,substack,https://coldiq.com/tools/substack,scraped
 Substrata,substrata,https://coldiq.com/tools/substrata,scraped
 Subtle Reply,subtle-reply,https://coldiq.com/tools/subtle-reply,scraped
-Success,success,https://coldiq.com/tools/success,scraped
+Success,success,https://coldiq.com/tools/success,imported
 Sucuri,sucuri,https://coldiq.com/tools/sucuri,scraped
 Sugarcrm,sugarcrm,https://coldiq.com/tools/sugarcrm,scraped
 Sumble,sumble,https://coldiq.com/tools/sumble,scraped
@@ -3377,7 +3377,7 @@ Supadata,supadata,https://coldiq.com/tools/supadata,scraped
 Supademo,supademo,https://coldiq.com/tools/supademo,scraped
 Super,super,https://coldiq.com/tools/super,scraped
 Super Comments,super-comments,https://coldiq.com/tools/super-comments,scraped
-Super Send,super-send,https://coldiq.com/tools/super-send,scraped
+Super Send,super-send,https://coldiq.com/tools/super-send,imported
 Superagent,superagent,https://coldiq.com/tools/superagent,scraped
 Superagi,superagi,https://coldiq.com/tools/superagi,scraped
 Superbo,superbo,https://coldiq.com/tools/superbo,scraped
@@ -3397,7 +3397,7 @@ Superstudio,superstudio,https://coldiq.com/tools/superstudio,scraped
 Superu,superu,https://coldiq.com/tools/superu,scraped
 Supervity,supervity,https://coldiq.com/tools/supervity,scraped
 Superwhisper,superwhisper,https://coldiq.com/tools/superwhisper,scraped
-Surfe,surfe,https://coldiq.com/tools/surfe,scraped
+Surfe,surfe,https://coldiq.com/tools/surfe,imported
 Surfer Seo,surfer-seo,https://coldiq.com/tools/surfer-seo,scraped
 Surfside,surfside,https://coldiq.com/tools/surfside,scraped
 Surgegraph,surgegraph,https://coldiq.com/tools/surgegraph,scraped
@@ -3418,9 +3418,9 @@ Swiftkey,swiftkey,https://coldiq.com/tools/swiftkey,scraped
 Swiftype,swiftype,https://coldiq.com/tools/swiftype,scraped
 Swipe Pages,swipe-pages,https://coldiq.com/tools/swipe-pages,scraped
 Switchpitch,switchpitch,https://coldiq.com/tools/switchpitch,scraped
-Swordfish,swordfish,https://coldiq.com/tools/swordfish,scraped
+Swordfish,swordfish,https://coldiq.com/tools/swordfish,imported
 Swyft Ai,swyft-ai,https://coldiq.com/tools/swyft-ai,scraped
-Sybill,sybill,https://coldiq.com/tools/sybill,scraped
+Sybill,sybill,https://coldiq.com/tools/sybill,imported
 Syft,syft,https://coldiq.com/tools/syft,scraped
 Syften,syften,https://coldiq.com/tools/syften,scraped
 Syllable,syllable,https://coldiq.com/tools/syllable,scraped
@@ -3443,7 +3443,7 @@ Tabnine,tabnine,https://coldiq.com/tools/tabnine,scraped
 Taboola,taboola,https://coldiq.com/tools/taboola,scraped
 Tabula,tabula,https://coldiq.com/tools/tabula,scraped
 Tact,tact,https://coldiq.com/tools/tact,scraped
-Tactic,tactic,https://coldiq.com/tools/tactic,scraped
+Tactic,tactic,https://coldiq.com/tools/tactic,imported
 Tactiqio,tactiqio,https://coldiq.com/tools/tactiqio,scraped
 Tagembed,tagembed,https://coldiq.com/tools/tagembed,scraped
 Taggbox,taggbox,https://coldiq.com/tools/taggbox,scraped
@@ -3463,14 +3463,14 @@ Talkstack Ai,talkstack-ai,https://coldiq.com/tools/talkstack-ai,scraped
 Talkwalker,talkwalker,https://coldiq.com/tools/talkwalker,scraped
 Tally,tally,https://coldiq.com/tools/tally,scraped
 Talroo,talroo,https://coldiq.com/tools/talroo,scraped
-Tami Ai,tami-ai,https://coldiq.com/tools/tami-ai,scraped
+Tami Ai,tami-ai,https://coldiq.com/tools/tami-ai,imported
 Tamtam Ai,tamtam-ai,https://coldiq.com/tools/tamtam-ai,scraped
 Tango,tango,https://coldiq.com/tools/tango,scraped
 Tanka,tanka,https://coldiq.com/tools/tanka,scraped
 Tapclicks,tapclicks,https://coldiq.com/tools/tapclicks,scraped
 Tapfiliate,tapfiliate,https://coldiq.com/tools/tapfiliate,scraped
 Tapjoy,tapjoy,https://coldiq.com/tools/tapjoy,scraped
-Taplio,taplio,https://coldiq.com/tools/taplio,scraped
+Taplio,taplio,https://coldiq.com/tools/taplio,imported
 Taptica,taptica,https://coldiq.com/tools/taptica,scraped
 Tars,tars,https://coldiq.com/tools/tars,scraped
 Taskade,taskade,https://coldiq.com/tools/taskade,scraped
@@ -3486,7 +3486,7 @@ Taya Ai,taya-ai,https://coldiq.com/tools/taya-ai,scraped
 Teachable,teachable,https://coldiq.com/tools/teachable,scraped
 Tealium,tealium,https://coldiq.com/tools/tealium,scraped
 Teameet,teameet,https://coldiq.com/tools/teameet,scraped
-Teamfluence,teamfluence,https://coldiq.com/tools/teamfluence,scraped
+Teamfluence,teamfluence,https://coldiq.com/tools/teamfluence,imported
 Teamgate,teamgate,https://coldiq.com/tools/teamgate,scraped
 Teammatesai,teammatesai,https://coldiq.com/tools/teammatesai,scraped
 Teampal,teampal,https://coldiq.com/tools/teampal,scraped
@@ -3570,7 +3570,7 @@ Tomi,tomi,https://coldiq.com/tools/tomi,scraped
 Topaz Studio,topaz-studio,https://coldiq.com/tools/topaz-studio,scraped
 Topical,topical,https://coldiq.com/tools/topical,scraped
 Topicfinder,topicfinder,https://coldiq.com/tools/topicfinder,scraped
-Topo,topo,https://coldiq.com/tools/topo,scraped
+Topo,topo,https://coldiq.com/tools/topo,imported
 Topviewai,topviewai,https://coldiq.com/tools/topviewai,scraped
 Topyappers,topyappers,https://coldiq.com/tools/topyappers,scraped
 Torii,torii,https://coldiq.com/tools/torii,scraped
@@ -3593,7 +3593,7 @@ Trellus,trellus,https://coldiq.com/tools/trellus,scraped
 Trengo,trengo,https://coldiq.com/tools/trengo,scraped
 Trestle,trestle,https://coldiq.com/tools/trestle,scraped
 Triggerdev,triggerdev,https://coldiq.com/tools/triggerdev,scraped
-Trigify,trigify,https://coldiq.com/tools/trigify,scraped
+Trigify,trigify,https://coldiq.com/tools/trigify,imported
 Trino,trino,https://coldiq.com/tools/trino,scraped
 Trint,trint,https://coldiq.com/tools/trint,scraped
 Triple Session,triple-session,https://coldiq.com/tools/triple-session,scraped
@@ -3601,7 +3601,7 @@ Triple Whale,triple-whale,https://coldiq.com/tools/triple-whale,scraped
 Truefoundry,truefoundry,https://coldiq.com/tools/truefoundry,scraped
 Truescope,truescope,https://coldiq.com/tools/truescope,scraped
 Truffle Ai,truffle-ai,https://coldiq.com/tools/truffle-ai,scraped
-Trulyinbox,trulyinbox,https://coldiq.com/tools/trulyinbox,scraped
+Trulyinbox,trulyinbox,https://coldiq.com/tools/trulyinbox,imported
 Trumpet,trumpet,https://coldiq.com/tools/trumpet,scraped
 Trupeer,trupeer,https://coldiq.com/tools/trupeer,scraped
 Trustindex,trustindex,https://coldiq.com/tools/trustindex,scraped
@@ -3643,7 +3643,7 @@ Typemat,typemat,https://coldiq.com/tools/typemat,scraped
 Typewise,typewise,https://coldiq.com/tools/typewise,scraped
 Typliai,typliai,https://coldiq.com/tools/typliai,scraped
 Ubersuggest,ubersuggest,https://coldiq.com/tools/ubersuggest,scraped
-Ubico,ubico,https://coldiq.com/tools/ubico,scraped
+Ubico,ubico,https://coldiq.com/tools/ubico,imported
 Ubique,ubique,https://coldiq.com/tools/ubique,scraped
 Uipath,uipath,https://coldiq.com/tools/uipath,scraped
 Uizard,uizard,https://coldiq.com/tools/uizard,scraped
@@ -3654,7 +3654,7 @@ Understory,understory,https://coldiq.com/tools/understory,scraped
 Unfold,unfold,https://coldiq.com/tools/unfold,scraped
 Unframe,unframe,https://coldiq.com/tools/unframe,scraped
 Unifireai,unifireai,https://coldiq.com/tools/unifireai,scraped
-Unify,unify,https://coldiq.com/tools/unify,scraped
+Unify,unify,https://coldiq.com/tools/unify,imported
 Unique,unique,https://coldiq.com/tools/unique,scraped
 Unleashed,unleashed,https://coldiq.com/tools/unleashed,scraped
 Unmixr,unmixr,https://coldiq.com/tools/unmixr,scraped
@@ -3666,7 +3666,7 @@ Upcell,upcell,https://coldiq.com/tools/upcell,scraped
 Upcontent,upcontent,https://coldiq.com/tools/upcontent,scraped
 Updateai,updateai,https://coldiq.com/tools/updateai,scraped
 Upfluence,upfluence,https://coldiq.com/tools/upfluence,scraped
-Uplead,uplead,https://coldiq.com/tools/uplead,scraped
+Uplead,uplead,https://coldiq.com/tools/uplead,imported
 Uplodio,uplodio,https://coldiq.com/tools/uplodio,scraped
 Upscale,upscale,https://coldiq.com/tools/upscale,scraped
 Upsonic,upsonic,https://coldiq.com/tools/upsonic,scraped
@@ -3694,16 +3694,16 @@ Vagents,vagents,https://coldiq.com/tools/vagents,scraped
 Vainu,vainu,https://coldiq.com/tools/vainu,scraped
 Valid8,valid8,https://coldiq.com/tools/valid8,scraped
 Validatoraicom,validatoraicom,https://coldiq.com/tools/validatoraicom,scraped
-Valley,valley,https://coldiq.com/tools/valley,scraped
+Valley,valley,https://coldiq.com/tools/valley,imported
 Valuecase,valuecase,https://coldiq.com/tools/valuecase,scraped
 Vanillasoft,vanillasoft,https://coldiq.com/tools/vanillasoft,scraped
 Vanta,vanta,https://coldiq.com/tools/vanta,scraped
 Vapi,vapi,https://coldiq.com/tools/vapi,scraped
 Variant,variant,https://coldiq.com/tools/variant,scraped
-Vayne,vayne,https://coldiq.com/tools/vayne,scraped
+Vayne,vayne,https://coldiq.com/tools/vayne,imported
 Vcita,vcita,https://coldiq.com/tools/vcita,scraped
 Vectalai,vectalai,https://coldiq.com/tools/vectalai,scraped
-Vector,vector,https://coldiq.com/tools/vector,scraped
+Vector,vector,https://coldiq.com/tools/vector,imported
 Vectorshift,vectorshift,https://coldiq.com/tools/vectorshift,scraped
 Vectr,vectr,https://coldiq.com/tools/vectr,scraped
 Veed,veed,https://coldiq.com/tools/veed,scraped
@@ -3748,7 +3748,7 @@ Vidtags,vidtags,https://coldiq.com/tools/vidtags,scraped
 Vidtao,vidtao,https://coldiq.com/tools/vidtao,scraped
 Vidu,vidu,https://coldiq.com/tools/vidu,scraped
 Vidu Ai,vidu-ai,https://coldiq.com/tools/vidu-ai,scraped
-Vidyard,vidyard,https://coldiq.com/tools/vidyard,scraped
+Vidyard,vidyard,https://coldiq.com/tools/vidyard,imported
 Viewed,viewed,https://coldiq.com/tools/viewed,scraped
 Viewstats,viewstats,https://coldiq.com/tools/viewstats,scraped
 Village,village,https://coldiq.com/tools/village,scraped
@@ -3800,7 +3800,7 @@ Vyond,vyond,https://coldiq.com/tools/vyond,scraped
 Vyte,vyte,https://coldiq.com/tools/vyte,scraped
 W3techs,w3techs,https://coldiq.com/tools/w3techs,scraped
 Waakif,waakif,https://coldiq.com/tools/waakif,scraped
-Waalaxy,waalaxy,https://coldiq.com/tools/waalaxy,scraped
+Waalaxy,waalaxy,https://coldiq.com/tools/waalaxy,imported
 Wachete,wachete,https://coldiq.com/tools/wachete,scraped
 Wafrow,wafrow,https://coldiq.com/tools/wafrow,scraped
 Waizypro,waizypro,https://coldiq.com/tools/waizypro,scraped
@@ -3812,10 +3812,10 @@ Walnut,walnut,https://coldiq.com/tools/walnut,scraped
 Wand Ai,wand-ai,https://coldiq.com/tools/wand-ai,scraped
 Wappalyzer,wappalyzer,https://coldiq.com/tools/wappalyzer,scraped
 Warm Up Your Email,warm-up-your-email,https://coldiq.com/tools/warm-up-your-email,scraped
-Warmbox,warmbox,https://coldiq.com/tools/warmbox,scraped
+Warmbox,warmbox,https://coldiq.com/tools/warmbox,imported
 Warmer,warmer,https://coldiq.com/tools/warmer,scraped
 Warmforge,warmforge,https://coldiq.com/tools/warmforge,scraped
-Warmly,warmly,https://coldiq.com/tools/warmly,scraped
+Warmly,warmly,https://coldiq.com/tools/warmly,imported
 Warmupinbox,warmupinbox,https://coldiq.com/tools/warmupinbox,scraped
 Warmy,warmy,https://coldiq.com/tools/warmy,scraped
 Warp,warp,https://coldiq.com/tools/warp,scraped
@@ -3828,7 +3828,7 @@ Wavel Ai,wavel-ai,https://coldiq.com/tools/wavel-ai,scraped
 Wavo,wavo,https://coldiq.com/tools/wavo,scraped
 Wavve Ai,wavve-ai,https://coldiq.com/tools/wavve-ai,scraped
 Wayde,wayde,https://coldiq.com/tools/wayde,scraped
-We Connect,we-connect,https://coldiq.com/tools/we-connect,scraped
+We Connect,we-connect,https://coldiq.com/tools/we-connect,imported
 Wealthbox,wealthbox,https://coldiq.com/tools/wealthbox,scraped
 Weavy,weavy,https://coldiq.com/tools/weavy,scraped
 Web Gremlin,web-gremlin,https://coldiq.com/tools/web-gremlin,scraped
@@ -3882,7 +3882,7 @@ Wistia,wistia,https://coldiq.com/tools/wistia,scraped
 Witai,witai,https://coldiq.com/tools/witai,scraped
 Witfy,witfy,https://coldiq.com/tools/witfy,scraped
 Wix,wix,https://coldiq.com/tools/wix,scraped
-Wiza,wiza,https://coldiq.com/tools/wiza,scraped
+Wiza,wiza,https://coldiq.com/tools/wiza,imported
 Wizzy,wizzy,https://coldiq.com/tools/wizzy,scraped
 Wolfia,wolfia,https://coldiq.com/tools/wolfia,scraped
 Wonderchat,wonderchat,https://coldiq.com/tools/wonderchat,scraped
@@ -3890,7 +3890,7 @@ Wonderflow,wonderflow,https://coldiq.com/tools/wonderflow,scraped
 Wonderway,wonderway,https://coldiq.com/tools/wonderway,scraped
 Wooclap,wooclap,https://coldiq.com/tools/wooclap,scraped
 Woocommerce,woocommerce,https://coldiq.com/tools/woocommerce,scraped
-Woodpecker,woodpecker,https://coldiq.com/tools/woodpecker,scraped
+Woodpecker,woodpecker,https://coldiq.com/tools/woodpecker,imported
 Woorank,woorank,https://coldiq.com/tools/woorank,scraped
 Woosender,woosender,https://coldiq.com/tools/woosender,scraped
 Word Wandai,word-wandai,https://coldiq.com/tools/word-wandai,scraped
@@ -3950,7 +3950,7 @@ Ycbm,ycbm,https://coldiq.com/tools/ycbm,scraped
 Yellow,yellow,https://coldiq.com/tools/yellow,scraped
 Yepic,yepic,https://coldiq.com/tools/yepic,scraped
 Yess,yess,https://coldiq.com/tools/yess,scraped
-Yesware,yesware,https://coldiq.com/tools/yesware,scraped
+Yesware,yesware,https://coldiq.com/tools/yesware,imported
 Yext,yext,https://coldiq.com/tools/yext,scraped
 Yieldmo,yieldmo,https://coldiq.com/tools/yieldmo,scraped
 Yoast Seo,yoast-seo,https://coldiq.com/tools/yoast-seo,scraped
@@ -3970,7 +3970,7 @@ Zapprai,zapprai,https://coldiq.com/tools/zapprai,scraped
 Zarla,zarla,https://coldiq.com/tools/zarla,scraped
 Zedaio,zedaio,https://coldiq.com/tools/zedaio,scraped
 Zefram,zefram,https://coldiq.com/tools/zefram,scraped
-Zeliq,zeliq,https://coldiq.com/tools/zeliq,scraped
+Zeliq,zeliq,https://coldiq.com/tools/zeliq,imported
 Zenabm,zenabm,https://coldiq.com/tools/zenabm,scraped
 Zenai,zenai,https://coldiq.com/tools/zenai,scraped
 Zendesk,zendesk,https://coldiq.com/tools/zendesk,scraped
@@ -4003,7 +4003,7 @@ Zocket,zocket,https://coldiq.com/tools/zocket,scraped
 Zoho,zoho,https://coldiq.com/tools/zoho,scraped
 Zonka Feedback,zonka-feedback,https://coldiq.com/tools/zonka-feedback,scraped
 Zoom,zoom,https://coldiq.com/tools/zoom,scraped
-Zoominfo,zoominfo,https://coldiq.com/tools/zoominfo,scraped
+Zoominfo,zoominfo,https://coldiq.com/tools/zoominfo,imported
 Zoovu,zoovu,https://coldiq.com/tools/zoovu,scraped
 Zovo,zovo,https://coldiq.com/tools/zovo,scraped
 Zowie,zowie,https://coldiq.com/tools/zowie,scraped

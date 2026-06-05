@@ -1,0 +1,10 @@
+{
+  "description": "AeroLeads is a B2B contact discovery tool that uses AI to find verified emails, phone numbers, and company data from a database of 750 million profiles.",
+  "tagline": "AI-powered email finder and B2B contact lookup",
+  "overview": "AeroLeads helps sales and marketing teams build accurate prospect lists by surfacing verified contact data in real time. It connects directly to CRMs like HubSpot and Salesforce, so enriched leads flow straight into existing workflows.",
+  "what_is": [
+    "AeroLeads is a B2B data and contact discovery platform that locates verified emails, phone numbers, and company information for sales and marketing teams. Drawing on a database of 750 million profiles, it applies AI-driven validation to return accurate, real-time contact records rather than stale bulk exports.",
+    "The tool is particularly useful for building targeted prospect lists, enriching existing contact records, or sourcing leads from LinkedIn URLs and CSV uploads. Results are typically available within minutes, letting teams launch outreach campaigns without the delays associated with manual research or slow data providers.",
+    "AeroLeads sits in the GTM stack as a data enrichment and prospecting layer, syncing verified contacts directly into CRMs such as HubSpot and Salesforce. It is focused exclusively on clean B2B lead data and does not offer consumer data, social media management, or standalone CRM functionality."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "description": "Emailable is an email verification platform that validates addresses in bulk or in real time, guaranteeing 99% deliverability and processing over 30,000 emails per minute.",
+  "tagline": "Email Verification and List Cleaning Platform",
+  "overview": "Emailable is an email verification and list hygiene platform that checks addresses in bulk or at point of capture, guaranteeing 99% deliverability by removing invalid and risky contacts. It processes more than 30,000 verifications per minute and enriches each record with domain and SMTP details to help teams protect sender reputation and reduce bounce rates.",
+  "what_is": [
+    "Emailable is an email verification platform built to improve deliverability by cleaning and validating email lists before they go to work in campaigns. It sits within the email marketing and data validation category, distinguishing itself with a 99% deliverability guarantee and the capacity to verify more than 30,000 addresses per minute. Marketing and sales teams use it to ensure their contact data is accurate before hitting send.",
+    "The platform protects sender reputation by flagging and removing invalid, disposable, or high-risk addresses that would otherwise generate bounces or spam complaints. Bulk list verification, real-time validation at web form capture points, and ongoing inbox placement monitoring are its core capabilities. Teams see cleaner lists and improved deliverability almost immediately, which supports faster and safer campaign execution.",
+    "Emailable connects to CRMs, marketing platforms, and other email tools through an API or embeddable widgets, and it enriches records with domain and SMTP metadata in the process. It does not send emails itself and is not a marketing automation platform. It is designed to work alongside existing email infrastructure as the validation layer that keeps lists healthy and campaigns out of the spam folder."
+  ]
+}

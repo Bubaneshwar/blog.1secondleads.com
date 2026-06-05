@@ -3525,3 +3525,337 @@
     employees, and jobs, delivered via datasets and APIs.
   url: "/tools/coresignal/"
   featured: false
+- name: AeroLeads
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-aeroleads-image-J0v80i2mHJA7NAUbyiD9x6OnhUiGoR.avif
+  categories:
+  - Prospecting Database
+  - Phone Number Finders
+  - Business Information APIs
+  - Linkedin Profile Lookup APIs
+  - People Search APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - Find verified B2B emails
+  - phone numbers
+  - Enrich data with emails and phones
+  description: AeroLeads is a B2B contact discovery tool that uses AI to find verified
+    emails, phone numbers, and company data from a database of 750 million profiles.
+  url: "/tools/aeroleads/"
+  featured: false
+- name: Coldreach
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-coldreach-image-7lYUfzky9txw2A0Ku047JyxYtVY13j.avif
+  categories:
+  - AI Personalization
+  - AI Copywriting
+  - Copywriting
+  - Local Businesses Database
+  - AI Content Writing
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - Find and engage best leads
+  - 24/7 monitoring and alerts
+  - Tailored intent signal detection
+  description: Coldreach is an AI sales prospecting tool that monitors 79M+ accounts
+    for buying signals and automates personalized outreach to help teams book more
+    meetings.
+  url: "/tools/coldreach/"
+  featured: false
+- name: ContactOut
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-contactout-image-Q9GvyCAb1WTkWyMUnYCPmj6i2Y5e5g.avif
+  categories:
+  - Email Finder
+  - Linkedin Profile Lookup APIs
+  - Email Lookup APIs
+  - Email Finder APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - Unlock accurate contact data
+  - Find emails and phone numbers
+  - Add prospects to email campaigns
+  description: ContactOut is a contact-finding tool trusted by 1.4M recruiters and
+    sales reps to locate verified emails and phone numbers across 300M professional
+    profiles.
+  url: "/tools/contactout/"
+  featured: false
+- name: DealSignal
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-dealsignal-image-I3tnzNyLwcgjWV7sl3RVS2wMrzivOB.png
+  categories:
+  - Data Enrichment
+  - B2B Databases
+  pricing_tier: Free Trial
+  pricing_starting_at: "$499.00"
+  use_cases:
+  - Fresh B2B data verified regularly
+  - Precise decision-maker lists building
+  - Improve email deliverability rates
+  description: DealSignal is a B2B data platform giving sales and marketing teams
+    on-demand access to over 1 billion verified contacts at 97% or higher accuracy.
+  url: "/tools/dealsignal/"
+  featured: false
+- name: Emailable
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-emailable-image-cZv2uv73LB90zCfqhVTZJCxM9fiRCF.avif
+  categories:
+  - Email Verification
+  - Data Validation & Verification
+  - Email Finder
+  - Email APIs
+  - Email Validation APIs
+  - Email Verification APIs
+  - Email Checker APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$38.00"
+  use_cases:
+  - Accurate email verification platform
+  - Real-time email validation widget
+  - Bulk email list verification
+  description: Emailable is an email verification platform that validates addresses
+    in bulk or in real time, guaranteeing 99% deliverability and processing over 30,000
+    emails
+  url: "/tools/emailable/"
+  featured: false
+- name: EmailBison
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-emailbison-image-0OtHrNOcWOycFgdIA7F4E4Y5OzdjqR.png
+  categories:
+  - Email Sender
+  - AI Email Outreach
+  - AI Email Personalization
+  pricing_tier: Free Trial
+  pricing_starting_at: "$499.00"
+  use_cases:
+  - Bison powered
+  - isolated email sequencing
+  - Dedicated IPs and VPCs
+  description: EmailBison is an email sequencing platform for agencies and GTM teams,
+    using isolated IP clusters and dedicated sending pools to maximize deliverability
+    on
+  url: "/tools/emailbison/"
+  featured: false
+- name: EmailGuard
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-emailguard-image-SdhEY55P9WWEakylxLMVR1m52pCp37.png
+  categories:
+  - Deliverability Infrastructure
+  - Automated Email Campaigns
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - Blacklist monitoring
+  - Contact verification
+  - DMARC monitoring
+  description: EmailGuard is an email deliverability and security platform that monitors
+    SPF, DKIM, DMARC, blacklist status, and inbox placement in one dashboard to protect
+  url: "/tools/emailguard/"
+  featured: false
+- name: FullContact
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-fullcontact-image-lRYt5brGF2W9XaOurRy74jojU1FfrS.avif
+  categories:
+  - Data Enrichment
+  - Audience Targeting & Segmentation
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - Identify high-intent website visitors
+  - Create unified customer records
+  - Append unique data attributes
+  description: FullContact is an identity resolution platform that turns anonymous
+    website visitors into known contacts by unifying data across 900+ attributes.
+  url: "/tools/fullcontact/"
+  featured: false
+- name: G2 Buyer Intent
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-g2-buyer-intent-image-V3Wj0vvE4OnEU6xJgS4e5FalAMtQ0u.png
+  categories:
+  - Intent Signals
+  - Audience Targeting & Segmentation
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - Find best-fit buyers fast
+  - Capture verified real-time activity
+  - Plug signals into platforms
+  description: G2 Buyer Intent surfaces real-time purchase signals from active software
+    buyers, helping sales and marketing teams focus on accounts most likely to convert.
+  url: "/tools/g2-buyer-intent/"
+  featured: false
+- name: Hublead
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-hublead-image-lr7d0jTXEDBdWZWmho3n9subScFMDf.png
+  categories:
+  - Integrations & Workflows
+  - Contact Syncing & CRM Integration
+  pricing_tier: Free Trial
+  pricing_starting_at: "$32.00"
+  use_cases:
+  - Remove admin work from reps
+  - Create clean workflow in LinkedIn
+  - Make LinkedIn activity trackable
+  description: Hublead is a Chrome extension that syncs LinkedIn contacts and activity
+    into HubSpot CRM with one click, eliminating manual data entry for sales teams.
+  url: "/tools/hublead/"
+  featured: false
+- name: LeadDelta
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-leaddelta-image-mCasj8hytOBp27o3K4ft4Ir16YM0Q2.jpg
+  categories:
+  - LinkedIn Prospecting Tools
+  - Contact Syncing & CRM Integration
+  - Linkedin Scraping APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$17.50"
+  use_cases:
+  - Contact manager
+  - Enrichment
+  - Team collaboration
+  description: LeadDelta is a LinkedIn CRM that lets individuals and teams search,
+    tag, and enrich their professional connections with emails and phone numbers.
+  url: "/tools/leaddelta/"
+  featured: false
+- name: LeadFuze
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-leadfuze-image-yNEh5XwlMjNAOfCsKKIvG14vQ2hdIG.avif
+  categories:
+  - Prospecting Database
+  - B2B Databases
+  - Audience Targeting & Segmentation
+  - Business Information APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$10000.00"
+  use_cases:
+  - Access comprehensive professional contacts
+  - Includes personal and business emails
+  - Mobile and direct phone numbers
+  description: LeadFuze is a lead generation platform giving sales, marketing, and
+    recruiting teams access to 300M+ verified professional profiles with emails, phone
+    numbers,
+  url: "/tools/leadfuze/"
+  featured: false
+- name: LeadGenius
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-leadgenius-image-LddUFkJQKvNJBb40a7TMpkN76GeXZY.avif
+  categories:
+  - AI Data Provider
+  - Prospecting Database
+  - Audience Targeting & Segmentation
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - AI Data Provider
+  - Prospecting Database
+  - Audience Targeting & Segmentation
+  description: LeadGenius is a B2B contact intelligence platform that combines AI
+    with human verification to deliver custom-sourced, GDPR and CCPA-compliant prospect
+    data for
+  url: "/tools/leadgenius/"
+  featured: false
+- name: Leadinfo
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-leadinfo-image-WmoTczjEdDp1Fn7aZExbVYIVxf99RE.avif
+  categories:
+  - Visitor Identification
+  pricing_tier: Free Trial
+  pricing_starting_at: "$69.00"
+  use_cases:
+  - Identify website visitors in real-time
+  - Reveal key decision maker contacts
+  - Build multi-channel outreach campaigns
+  description: Leadinfo is a B2B website visitor identification tool that reveals
+    the companies browsing your site and surfaces key decision-maker contacts, trusted
+    by over
+  url: "/tools/leadinfo/"
+  featured: false
+- name: LeadSquared
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-leadsquared-image-KIBO2UG3U1kXaW5haIuObGGsQhGHQE.png
+  categories:
+  - AI CRM
+  - CRMs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$2000.00"
+  use_cases:
+  - Unite sales and marketing teams
+  - Automate workflows and engagement
+  - AI-driven personalized communication
+  description: LeadSquared is a sales and marketing automation platform that unites
+    sales, field, and service teams on one AI-driven system, trusted by 2,000+ businesses.
+  url: "/tools/leadsquared/"
+  featured: false
+- name: Luminous CRM
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-luminous-crm-image-t1HJz6fymKFljpTqfWasnWAgGMRmXY.png
+  categories:
+  - WhatsApp & Messenger Automation
+  pricing_tier: Free Trial
+  pricing_starting_at: "$90.00"
+  use_cases:
+  - Broadcast bulk promotional offers
+  - Automate messages with AI chatbots
+  - Multi-agent live chat support
+  description: Luminous CRM is a WhatsApp Business API platform for bulk promotional
+    messaging, AI chatbot automation, and multi-agent live chat across eCommerce,
+    healthcare,
+  url: "/tools/luminous-crm/"
+  featured: false
+- name: MailboxValidator
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-mailboxvalidator-image-KtnGvOv9A1G3xpUlev8z3EKFqIBLy6.avif
+  categories:
+  - Email Verification
+  - Data Validation & Verification
+  - Email Validation APIs
+  - Email Verification APIs
+  - Email Checker APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$19.95"
+  use_cases:
+  - Email syntax checker
+  - MX record verifier
+  - Disposable email checker
+  description: MailboxValidator is an email validation service that verifies addresses,
+    removes duplicates, and checks syntax, MX records, spam traps, and disposable
+  url: "/tools/mailboxvalidator/"
+  featured: false
+- name: MailerCheck
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-mailercheck-image-m0n9dgde7aTw0lWETxspW7Cx1nRGsd.avif
+  categories:
+  - Email Verification
+  - Data Validation & Verification
+  - Email Validation APIs
+  - Email Verification APIs
+  - Email Checker APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$10.00"
+  use_cases:
+  - Email list verification
+  - Email content insights
+  - Inbox placement testing
+  description: MailerCheck is an email deliverability platform that verifies lists,
+    analyzes content for spam triggers, tests inbox placement, and monitors domains
+    to improve
+  url: "/tools/mailercheck/"
+  featured: false
+- name: Mailfloss
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-mailfloss-image-8Typ9EfD16jzj6KbEqB6NWf5Vb3QjV.avif
+  categories:
+  - Email Verification
+  - Data Validation & Verification
+  - Email Validation APIs
+  - Email Verification APIs
+  - Email Checker APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$29.00"
+  use_cases:
+  - Automatically remove invalid email addresses
+  - Fix typos of popular emails
+  - Supports 40 email providers
+  description: Mailfloss is an automatic email verification service that connects
+    to 40-plus email providers and removes invalid addresses from lists every day,
+    including
+  url: "/tools/mailfloss/"
+  featured: false
+- name: Mailscale
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-mailscale-image-YRvfZroEp17HmvrHsekzoUf5gtRYH2.avif
+  categories:
+  - Deliverability Infrastructure
+  pricing_tier: Free Trial
+  pricing_starting_at: "$1.00"
+  use_cases:
+  - Instantly generate affordable email inboxes
+  - Automatically create inboxes for outreach
+  - Save costs with low prices
+  description: Mailscale is a cold outreach inbox provisioning tool for B2B agencies
+    and consultants that creates 50-plus email accounts in under a minute with automated
+    DNS,
+  url: "/tools/mailscale/"
+  featured: false

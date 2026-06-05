@@ -1,0 +1,10 @@
+{
+  "description": "Mailfloss is an automatic email verification service that connects to 40-plus email providers and removes invalid addresses from lists every day, including automatic typo correction.",
+  "tagline": "Automatic daily email list verification",
+  "overview": "Mailfloss runs continuous background verification on connected email lists, removing invalid addresses daily and auto-correcting common typos for providers like Gmail and Yahoo, so businesses maintain clean lists without any manual effort.",
+  "what_is": [
+    "Mailfloss is an automated email verification tool that cleans contact lists on a daily schedule without requiring manual intervention. It removes invalid addresses before they accumulate, prevents emails from drifting into spam, and automatically corrects common typos in addresses tied to major providers like Gmail and Yahoo. Initial setup takes around 60 seconds, after which the cleaning process runs on its own.",
+    "Marketers, agencies, and businesses that send regular email campaigns benefit most from having a continuously maintained list. Because invalid contacts are removed on a daily basis rather than in periodic manual audits, deliverability stays high over time and ROI improves as more messages reach real recipients.",
+    "Mailfloss connects to more than 40 email service providers including Mailchimp and HubSpot, making it straightforward to add to an existing marketing or CRM stack. Its scope is deliberately narrow, focused on verification and ongoing list hygiene rather than segmentation, enrichment, or campaign management, which makes it a practical, low-maintenance addition for any team that depends on email."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "description": "EmailGuard is an email deliverability and security platform that monitors SPF, DKIM, DMARC, blacklist status, and inbox placement in one dashboard to protect sender reputation.",
+  "tagline": "Protect and optimize email deliverability and compliance",
+  "overview": "EmailGuard is an email deliverability and security monitoring platform that consolidates SPF, DKIM, DMARC authentication checks, blacklist monitoring, and inbox placement tracking into a single dashboard. Sales teams and email marketers use it to catch and resolve backend deliverability issues before they affect campaign results.",
+  "what_is": [
+    "EmailGuard is an email monitoring and protection tool built for improving deliverability and maintaining sender security. It sits within the email infrastructure layer, helping teams protect their domains, avoid spam filters, and preserve sender reputation over time. The platform consolidates SPF, DKIM, and DMARC authentication checks alongside blacklist status and inbox placement monitoring into a single interface.",
+    "The tool is particularly well suited for cold email outreach, email marketing teams, and sales organizations that depend on consistent inbox placement. Real-time insights make it possible to detect and resolve authentication or deliverability problems quickly, which reduces bounce rates, limits spam filtering, and helps campaigns perform better shortly after setup.",
+    "EmailGuard fits into the go-to-market stack as a backend health layer that complements CRMs and email service providers rather than replacing them. It does not handle campaign creation, contact enrichment, or direct sending, focusing entirely on the authentication and deliverability signals that determine whether messages reach the inbox. Keeping those signals healthy is what allows the rest of the email stack to work as intended."
+  ]
+}

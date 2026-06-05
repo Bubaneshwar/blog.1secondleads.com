@@ -1,0 +1,10 @@
+{
+  "description": "ContactOut is a contact-finding tool trusted by 1.4M recruiters and sales reps to locate verified emails and phone numbers across 300M professional profiles.",
+  "tagline": "Find verified emails and phone numbers for any professional",
+  "overview": "ContactOut helps recruiters and sales representatives find verified email addresses and phone numbers for professionals through a search portal, a Chrome extension, and an API. Its database covers 300 million professional contacts and 800 million profiles, updated hourly, with 99% data confidence.",
+  "what_is": [
+    "ContactOut is a contact data platform designed to locate emails and phone numbers for professionals. It is trusted by 1.4 million recruiters and sales representatives and provides access to 300 million verified professional contacts with 99% data confidence. The database spans 800 million profiles and includes more than 20 data points per contact, with records updated hourly to maintain accuracy.",
+    "The tool is most valuable for sales prospecting and recruitment, where users need to build precise, targeted lists quickly. Through its Chrome extension, prospects can be added to email campaigns in a single click. It is well suited to situations requiring verified contacts with detailed attributes such as job title, company size, and technologies used. ContactOut plugs into CRMs and email outreach platforms as a contact enrichment and email-finding layer.",
+    "It is not built for full CRM management or marketing automation. Its strength is straightforward, reliable contact discovery, making it the right fit for teams that need accurate contact data without complex additional workflows."
+  ]
+}

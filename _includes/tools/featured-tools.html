@@ -56,7 +56,10 @@
     <div class="tools-grid tools-grid--featured" id="featured-tools">
       {% for tool in site.data.tools %}
         {% if tool.featured %}
-          {% include tools/tool-card.html tool=tool featured=true %}
+          {% comment %} Link each card to its own page; whole card is clickable (stretched-link). {% endcomment %}
+          {% assign card_href = tool.url | default: '/tools/' %}
+          {% if card_href contains '://' %}{% assign card_href = '/tools/' %}{% endif %}
+          {% include tools/tool-card.html tool=tool featured=true href=card_href stretch=true %}
         {% endif %}
       {% endfor %}
     </div>

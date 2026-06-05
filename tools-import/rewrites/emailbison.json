@@ -1,0 +1,10 @@
+{
+  "description": "EmailBison is an email sequencing platform for agencies and GTM teams, using isolated IP clusters and dedicated sending pools to maximize deliverability on multi-step campaigns.",
+  "tagline": "Isolated, deliverability-optimized email sequencing",
+  "overview": "EmailBison is an email sequencing platform built for agencies and go-to-market teams that need reliable deliverability on automated outreach campaigns. It uses isolated sending clusters and dedicated IP pools to prevent shared-reputation issues, and pairs that infrastructure with real-time tracking, A/B testing, and full API access.",
+  "what_is": [
+    "EmailBison is an email sequencing tool built for agencies and go-to-market teams running multi-step automated outreach. Its defining characteristic is infrastructure: each customer operates on isolated clusters with dedicated IP pools, so one sender's reputation problems cannot affect another's deliverability. This architecture is particularly valuable for agencies managing campaigns across multiple clients.",
+    "The platform handles lead management, email scheduling, and A/B testing in one place, giving teams the tools to refine messaging based on real-time results. Full API access and built-in automation mean campaigns can be set up and running quickly. EmailBison is designed for teams that want to scale outbound email volume without sacrificing inbox placement rates.",
+    "EmailBison fits into the GTM stack through CRM sync, webhook notifications, and native compatibility with deliverability tools such as EmailGuard. It is not intended for broadcast email marketing or newsletter distribution, focusing instead on personalized, sequenced sales outreach where precise deliverability control matters most."
+  ]
+}

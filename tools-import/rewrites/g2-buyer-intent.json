@@ -1,0 +1,10 @@
+{
+  "description": "G2 Buyer Intent surfaces real-time purchase signals from active software buyers, helping sales and marketing teams focus on accounts most likely to convert.",
+  "tagline": "Reach buyers the moment they are researching",
+  "overview": "G2 Buyer Intent captures verified, real-time signals from buyers actively researching software on G2, letting revenue teams prioritize accounts showing genuine purchase interest rather than cold prospects. It integrates with leading CRM and marketing platforms to automate follow-up and lead scoring.",
+  "what_is": [
+    "G2 Buyer Intent is a sales intelligence tool that helps businesses identify and connect with buyers who are actively evaluating software. It belongs to the lead generation and sales intelligence category. What distinguishes it is access to verified, real-time intent data sourced directly from G2's platform, so teams can target prospects who are already in a buying motion rather than relying on broad outreach.",
+    "The tool is most valuable when sales efficiency matters and teams want to concentrate effort on accounts showing clear purchase signals. Because intent data flows in real time as buyers research your product or competing solutions, teams can act immediately and personalize outreach to match the prospect's stage. This focus on mid- and bottom-funnel signals helps shorten sales cycles and improve conversion rates.",
+    "G2 Buyer Intent connects with CRM and marketing platforms including Salesforce, HubSpot, and Marketo, enabling automated workflows and more accurate lead scoring. It is not designed for cold lead generation or broad market research; its strength is delivering high-confidence signals for accounts already engaged in an active evaluation."
+  ]
+}

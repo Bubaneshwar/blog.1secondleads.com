@@ -1,0 +1,10 @@
+{
+  "description": "Luminous CRM is a WhatsApp Business API platform for bulk promotional messaging, AI chatbot automation, and multi-agent live chat across eCommerce, healthcare, and more.",
+  "tagline": "Broadcast bulk offers and automate messages",
+  "overview": "Luminous CRM is a WhatsApp-based customer engagement platform built on the official WhatsApp Business API. It lets businesses send unlimited bulk promotional messages, deploy AI chatbots for automated conversations, and manage customer support through a shared multi-agent inbox, serving industries such as eCommerce, banking, healthcare, education, and restaurants.",
+  "what_is": [
+    "Luminous CRM is a WhatsApp engagement platform designed to support marketing, commerce, and customer service over WhatsApp. Businesses use it to broadcast bulk promotional offers, automate customer conversations through AI chatbots, and handle live support via a shared inbox that multiple agents can access simultaneously. The platform is built on the official WhatsApp Business API, providing reliable and secure message delivery at scale.",
+    "The platform serves a wide range of industries including eCommerce, banking, healthcare, education, and restaurants. Businesses can start engaging customers and driving conversions quickly, as the AI chatbot and broadcast tools are ready to use shortly after onboarding. The multi-agent inbox makes it practical for support teams of varying sizes to manage high message volumes without losing conversation context.",
+    "Luminous CRM sits in the customer engagement and conversational CRM category, strengthening WhatsApp as a direct channel for marketing and support. It is not designed for email marketing or complex data enrichment, and its capabilities are scoped specifically to WhatsApp-based interactions. Teams looking to centralize and automate customer communication on WhatsApp will find it a focused and functional solution."
+  ]
+}

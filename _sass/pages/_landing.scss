@@ -154,7 +154,6 @@
   &:focus {
     background: rgba(255, 255, 255, 0.2);
     box-shadow: inset 0 0 0 1px #fff;
-    transform: translateY(-2px);
   }
 }
 
@@ -364,8 +363,10 @@
 // `--tools-border` (defined on `.tools-page` / `.single-tool-page`), so the home
 // directory cards, blog cards, /tools/ grid, and single-tool cards all match.
 
-// Whole-card click target for the home directory teaser (Bootstrap stretched-link).
-.home-landing .tool-card--clickable {
+// Whole-card click target (Bootstrap stretched-link) — used by the home directory
+// teaser and the /tools/ featured grid. Needs position:relative so the stretched
+// link covers the whole card.
+.tool-card--clickable {
   position: relative;
   cursor: pointer;
 }

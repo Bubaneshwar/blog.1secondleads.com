@@ -77,6 +77,12 @@
     max-width: none !important;
     margin-left: auto;
     margin-right: auto;
+
+    // Phones: the 70% desktop column wastes ~30% of the screen as side gutter,
+    // so widen to near-full-width with a small even gutter. Tablet/desktop keep 70%.
+    @include bp.lt(bp.get(md)) {
+      width: 92%;
+    }
   }
 
   main,
@@ -257,17 +263,26 @@
     }
   }
 
-  // Purple CTA button in the nav (like the main site's "Book a call").
+  // Primary CTA button in the nav — same visual language as the home-page CTA
+  // buttons (rounded-12 corners, weight 500, tight letter-spacing, blue base with
+  // a soft ring, red on hover). Kept slightly compact to fit the nav bar.
   .tools-top-nav__cta {
     margin-left: 0.4rem;
-    background: #673ae4;
+    border-radius: 12px;
+    padding: 0.55rem 1.1rem;
+    background: #1e71ff;
     color: #fff;
+    font-size: 0.95rem;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    box-shadow: 0 0 0 1px rgba(30, 113, 255, 0.14);
 
     &:hover,
     &:focus {
-      background: #5326c9;
+      background: rgb(255, 69, 51);
       color: #fff;
       text-decoration: none;
+      box-shadow: 0 0 0 1px rgba(255, 69, 51, 0.32), 0 0.65rem 1.4rem rgba(255, 69, 51, 0.18);
     }
   }
 
@@ -773,6 +788,7 @@
 
   .tools-category-sidebar {
     flex-direction: column;
+    flex-wrap: nowrap;
     align-items: stretch;
     gap: 0.15rem;
     border: none;
@@ -782,6 +798,7 @@
     overflow-x: hidden;
 
     p {
+      flex: 0 0 auto;
       position: static;
       margin: 0 0 0.6rem;
       padding-block: 0;
@@ -1361,53 +1378,39 @@
 .single-tool-layout {
   display: grid;
   gap: 1.4rem;
+  // Mobile: hero first, then the details sidebar (pricing/social/who-for),
+  // then the rest of the article. Desktop keeps hero top-left + sticky sidebar.
+  grid-template-areas:
+    'head'
+    'sidebar'
+    'main';
 
   @include bp.lg {
     grid-template-columns: minmax(0, 1fr) 20rem;
+    grid-template-areas:
+      'head sidebar'
+      'main sidebar';
     align-items: start;
   }
 }
 
+.single-tool-head {
+  grid-area: head;
+  min-width: 0;
+}
+
 .single-tool-main {
+  grid-area: main;
   min-width: 0;
 }
 
 .single-tool-sidebar {
+  grid-area: sidebar;
   min-width: 0;
 
   @include bp.lg {
     position: sticky;
     top: 5.5rem;
-  }
-}
-
-// Mobile-only sticky primary action: on phones the sidebar (and its Visit
-// button) stacks below the whole article, so this keeps the key action reachable.
-.single-tool-mobile-cta {
-  position: fixed;
-  z-index: 1020;
-  right: 0.9rem;
-  bottom: 0.9rem;
-  left: 0.9rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 999px;
-  padding: 0.85rem 1rem;
-  background: var(--link-color);
-  color: #fff;
-  font-weight: 700;
-  text-decoration: none;
-  box-shadow: 0 6px 20px rgba(15, 23, 42, 0.22);
-
-  &:hover,
-  &:focus {
-    color: #fff;
-    text-decoration: none;
-  }
-
-  @include bp.lg {
-    display: none;
   }
 }
 
@@ -1469,11 +1472,63 @@
   }
 }
 
+// Hero header row: title/logo on the left, the "Visit" button pinned to the
+// top-right corner. Flexbox keeps the button in the corner and lets a long tool
+// name wrap beside it instead of overlapping.
+.single-tool-hero__top {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.6rem 1rem;
+  margin-bottom: 1rem;
+}
+
+// Pinned to the top-right on desktop. When the title + button fit on one line
+// (short tool names) it sits in the corner; when they don't (long names) it
+// wraps to its own line and stays right-aligned instead of overflowing.
+.single-tool-hero__visit--corner {
+  flex: 0 0 auto;
+  margin-left: auto;
+  white-space: nowrap;
+}
+
 .single-tool-hero__title-row {
   display: flex;
   gap: 0.85rem;
   align-items: center;
-  margin-bottom: 1rem;
+  min-width: 0;
+}
+
+// Mobile: move the Visit button to the BOTTOM of the hero box (full width).
+// `display: contents` dissolves the header wrapper so the title row and the
+// button become direct flex children of the hero, letting `order` push the
+// button past the lead/updated/categories to the end.
+@include bp.lt(bp.get(lg)) {
+  .single-tool-hero {
+    display: flex;
+    flex-direction: column;
+
+    // Nested under .single-tool-hero for higher specificity than the shared
+    // `.single-tool-hero__visit { width: fit-content }` button rule, so the
+    // full-width, centered override actually wins on mobile.
+    .single-tool-hero__visit--corner {
+      order: 10;
+      width: 100%;
+      justify-content: center;
+      margin-top: 1rem;
+      margin-left: 0;
+      text-align: center;
+    }
+  }
+
+  .single-tool-hero__top {
+    display: contents;
+  }
+
+  .single-tool-hero__title-row {
+    margin-bottom: 1rem;
+  }
 }
 
 .single-tool-hero__logo {
@@ -1875,10 +1930,13 @@
 }
 
 .single-tool-panel__block--first {
-  padding-top: 1.4rem;
+  // First block in the panel (Pricing). The Visit button that used to sit above
+  // it moved to the hero, so drop the now-orphaned top divider and spacing.
+  margin-top: 0;
+  padding-top: 0;
 
   &::before {
-    background: var(--main-border-color);
+    content: none;
   }
 }
 
@@ -2603,7 +2661,7 @@
   summary {
     color: var(--heading-color);
     cursor: pointer;
-    font-weight: 800;
+    font-weight: 500;
   }
 
   p {
@@ -2731,6 +2789,20 @@
   margin: 0 !important;
 }
 
+// Pricing reads as plain fact (black). The "Trial:" label is black too; only the
+// value (e.g. "Available") is green, to read as a positive signal.
+// Scoped under __body to override its generic `small { color: link }` rule.
+.related-tool-item__body .related-tool-item__pricing,
+.related-tool-item__body .related-tool-item__trial {
+  color: var(--heading-color);
+}
+
+.related-tool-item__body .related-tool-item__trial-value {
+  display: inline !important;
+  color: #16a34a;
+  font-weight: 600;
+}
+
 .related-tool-item__categories {
   display: flex !important;
   flex-wrap: wrap;
@@ -2846,9 +2918,12 @@
 // CTA placed at the end of the right-side panel: drop the wide-layout margin,
 // stay single-column in the narrow column, and let the button fill the width.
 .single-tool-cta--panel {
+  // Desktop sidebar only — hidden on mobile (where the sidebar stacks as a section).
+  display: none;
   margin: 1.4rem 0 0;
 
-  @include bp.md {
+  @include bp.lg {
+    display: grid;
     grid-template-columns: 1fr;
     align-items: stretch;
   }
@@ -2979,7 +3054,8 @@
 .single-tool-cta a,
 .single-tool-hero__visit,
 .home-landing .home-cta,
-.layout-post .tools-about .home-cta {
+.layout-post .tools-about .home-cta,
+.layout-single-tool .tools-about .home-cta {
   display: inline-flex;
   width: fit-content;
   align-items: center;
@@ -3007,6 +3083,14 @@
     color: #fff;
     text-decoration: none;
     box-shadow: 0 0 0 1px rgba(255, 69, 51, 0.32), 0 0.65rem 1.4rem rgba(255, 69, 51, 0.18);
-    transform: translateY(-2px) scale(1.02);
+  }
+}
+
+// Single-tool pages: the implementation-help CTA is in the sidebar on desktop,
+// so hide this About-section CTA there to avoid a duplicate. It shows only on
+// mobile (< lg), where the sidebar CTA is hidden.
+.layout-single-tool .tools-about .home-cta {
+  @include bp.lg {
+    display: none;
   }
 }

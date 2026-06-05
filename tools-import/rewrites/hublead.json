@@ -1,0 +1,10 @@
+{
+  "description": "Hublead is a Chrome extension that syncs LinkedIn contacts and activity into HubSpot CRM with one click, eliminating manual data entry for sales teams.",
+  "tagline": "Sync LinkedIn contacts and activity directly to HubSpot",
+  "overview": "Hublead bridges LinkedIn and HubSpot CRM, letting sales reps add contacts and log LinkedIn activity with a single click so prospecting data stays current without manual entry. It is designed for sales reps, managers, founders, and RevOps teams who want cleaner CRM data and faster outreach.",
+  "what_is": [
+    "Hublead is a Chrome extension that connects LinkedIn with HubSpot CRM to eliminate manual data entry and keep contact records accurate. Sales teams can add LinkedIn contacts to HubSpot and sync LinkedIn activity in one click, accelerating prospecting and maintaining data quality without switching between tools.",
+    "It is best suited for sales reps, managers, founders, and RevOps teams who want faster outreach and clearer visibility into LinkedIn-sourced activity. The time savings are immediate, with reps spending less time on administrative work and managers gaining access to more reliable activity data from day one.",
+    "Hublead serves as a focused LinkedIn-to-HubSpot integration layer for CRM enrichment and activity tracking. It does not send LinkedIn messages from HubSpot and does not currently support LinkedIn Recruiter or the Safari browser. Its strength is reliable contact syncing and data enrichment rather than outbound messaging."
+  ]
+}

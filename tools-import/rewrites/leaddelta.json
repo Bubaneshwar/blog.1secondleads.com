@@ -1,0 +1,10 @@
+{
+  "description": "LeadDelta is a LinkedIn CRM that lets individuals and teams search, tag, and enrich their professional connections with emails and phone numbers.",
+  "tagline": "A LinkedIn CRM built to organize and enrich your network",
+  "overview": "LeadDelta is a LinkedIn-native CRM that helps users manage, search, tag, and enrich their professional connections from a single workspace. CEOs, sales teams, recruiters, and marketers use it to keep their networks organized and to surface verified contact details without losing track of who they know or how they connected.",
+  "what_is": [
+    "LeadDelta is a LinkedIn CRM built to help individuals and teams manage and enrich their professional connections. It makes it easy to search across your entire network, apply tags to segment contacts, and retrieve verified emails and phone numbers without switching between tools. The ability to recall every connection and the context around it is what draws users to it, whether they are working independently or collaborating within a team.",
+    "LeadDelta is most valuable for CEOs, sales professionals, recruiters, and marketers who need their LinkedIn contacts organized and actionable. The platform delivers immediate utility after setup, allowing users to begin enriching and segmenting their existing connections right away. It serves the CRM and contact data management layer of a go-to-market stack, improving the quality of LinkedIn outreach and contact records.",
+    "LeadDelta is not designed for traditional pipeline management or deep marketing automation workflows, so teams with those requirements will want to pair it with tools built for those purposes. Its strength lies specifically in organizing and enriching LinkedIn connection data."
+  ]
+}

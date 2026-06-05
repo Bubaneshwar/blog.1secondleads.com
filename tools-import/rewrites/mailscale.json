@@ -1,0 +1,10 @@
+{
+  "description": "Mailscale is a cold outreach inbox provisioning tool for B2B agencies and consultants that creates 50-plus email accounts in under a minute with automated DNS, DKIM, and SPF setup.",
+  "tagline": "Generate email accounts for cold outreach at scale",
+  "overview": "Mailscale helps B2B agencies, software companies, and consultants spin up large numbers of company email inboxes quickly and affordably, automating DNS, DKIM, and SPF configuration to ensure high deliverability from the start.",
+  "what_is": [
+    "Mailscale is an inbox provisioning service built for agencies and B2B firms that run cold email outreach at volume. It automates the creation of multiple company email accounts, handling all DNS, DKIM, and SPF record setup so teams do not need to configure each account manually. The service can generate more than 50 inboxes in under a minute and reduces infrastructure costs by up to 80 percent compared to standard mailbox providers.",
+    "The primary use case is scaling personalized outreach to large prospect lists without running into deliverability problems caused by sending too much volume from too few accounts. Businesses using Mailscale to contact thousands of prospects each month report growth in booked appointments and inbound leads, with accounts ready to use immediately after provisioning.",
+    "Mailscale works as the inbox layer in a cold outreach stack, pairing with sending platforms such as Instantly or Smartlead. It is an infrastructure provider, not a sending tool, and it is not suited for transactional email, newsletters, or subscriber-based communication. Its value is specifically in giving outbound teams the volume of high-deliverability inboxes they need to reach new prospects consistently."
+  ]
+}

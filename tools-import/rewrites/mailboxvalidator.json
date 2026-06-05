@@ -1,0 +1,10 @@
+{
+  "description": "MailboxValidator is an email validation service that verifies addresses, removes duplicates, and checks syntax, MX records, spam traps, and disposable providers to improve list hygiene.",
+  "tagline": "Email Validation API - Verify Email Address",
+  "overview": "MailboxValidator connects directly to mail servers to confirm whether email addresses are live and deliverable, helping marketers and developers reduce bounce rates and cut wasted sending costs through both single and bulk validation.",
+  "what_is": [
+    "MailboxValidator is an email verification service that checks whether addresses are valid and actively receiving mail. It does this by checking syntax, MX records, and live server connections, then returning results in JSON or XML. Users can upload bulk lists in text or CSV format, making it practical for teams managing large contact databases.",
+    "Beyond basic validation, the tool flags disposable addresses, free-provider accounts, role-based emails, and spam traps, and it removes duplicate entries in the same pass. A free plan with 100 credits lets teams evaluate accuracy before committing, and both single and bulk validation modes are supported for flexible workflows.",
+    "MailboxValidator integrates with platforms such as Mailchimp and SendGrid, fitting cleanly into an existing email marketing stack. It is a dedicated list-hygiene tool rather than a full email marketing or CRM solution, so teams use it as a pre-send quality layer that protects deliverability and keeps campaign costs in check."
+  ]
+}

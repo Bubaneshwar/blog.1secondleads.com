@@ -15,19 +15,24 @@ layout: default
   </nav>
 
   <div class="single-tool-layout">
-    <main class="single-tool-main">
+    <div class="single-tool-head">
       <p class="single-tool-intro">{{ page.title }} Review</p>
       <section class="single-tool-hero" aria-labelledby="single-tool-title">
-        <div class="single-tool-hero__title-row">
-          <span class="single-tool-hero__logo{% if page.logoUrl %} single-tool-hero__logo--image{% endif %}"{% if page.logoUrl %} style="background-image: url('{{ page.logoUrl | relative_url }}')"{% endif %} aria-hidden="true">
-            {% unless page.logoUrl %}{{ page.title | slice: 0 | upcase }}{% endunless %}
-          </span>
-          <div>
-            <h1 id="single-tool-title">{{ page.title }}</h1>
-            {% if page.tagline %}
-              <p class="single-tool-hero__tagline">{{ page.tagline }}</p>
-            {% endif %}
+        <div class="single-tool-hero__top">
+          <div class="single-tool-hero__title-row">
+            <span class="single-tool-hero__logo{% if page.logoUrl %} single-tool-hero__logo--image{% endif %}"{% if page.logoUrl %} style="background-image: url('{{ page.logoUrl | relative_url }}')"{% endif %} aria-hidden="true">
+              {% unless page.logoUrl %}{{ page.title | slice: 0 | upcase }}{% endunless %}
+            </span>
+            <div>
+              <h1 id="single-tool-title">{{ page.title }}</h1>
+              {% if page.tagline %}
+                <p class="single-tool-hero__tagline">{{ page.tagline }}</p>
+              {% endif %}
+            </div>
           </div>
+          {% if page.website %}
+            <a class="single-tool-hero__visit single-tool-hero__visit--corner" href="{{ page.website }}" target="_blank" rel="noopener noreferrer">Visit {{ page.title }}</a>
+          {% endif %}
         </div>
 
         <p class="single-tool-hero__lead">{{ page.overview }}</p>
@@ -55,7 +60,9 @@ layout: default
           </div>
         {% endif %}
       </section>
+    </div>
 
+    <main class="single-tool-main">
       {% if page.what_is %}
         <section class="single-tool-section single-tool-what-is" aria-labelledby="single-tool-what-is-title">
           <div class="single-tool-section__header single-tool-section__header--inside">
@@ -250,7 +257,7 @@ Explore more tools: https://blog.1secondleads.com/tools/{% endcapture %}
                     {% endif %}
                   {% endif %}
                   {% if trial_value %}
-                    <small class="related-tool-item__trial">Trial: {{ trial_value }}</small>
+                    <small class="related-tool-item__trial">Trial: <span class="related-tool-item__trial-value">{{ trial_value }}</span></small>
                   {% endif %}
                   {% assign tool_categories = tool.categories | default: tool.category %}
                   {% if tool_categories %}
@@ -317,7 +324,7 @@ Explore more tools: https://blog.1secondleads.com/tools/{% endcapture %}
                     {% endif %}
                   {% endif %}
                   {% if trial_value %}
-                    <small class="related-tool-item__trial">Trial: {{ trial_value }}</small>
+                    <small class="related-tool-item__trial">Trial: <span class="related-tool-item__trial-value">{{ trial_value }}</span></small>
                   {% endif %}
                   {% if tool.categories %}
                     {% assign visible_categories = tool.categories | slice: 0, 6 %}
@@ -345,10 +352,6 @@ Explore more tools: https://blog.1secondleads.com/tools/{% endcapture %}
 
     <aside class="single-tool-sidebar" aria-label="{{ page.title }} details">
       <div class="single-tool-panel">
-        {% if page.website %}
-          <a class="single-tool-panel__cta single-tool-hero__visit" href="{{ page.website }}" target="_blank" rel="noopener noreferrer">Visit {{ page.title }}</a>
-        {% endif %}
-
         {% if page.pricing %}
           <div class="single-tool-panel__block single-tool-panel__block--first">
             <h3>Pricing</h3>
@@ -417,24 +420,23 @@ Explore more tools: https://blog.1secondleads.com/tools/{% endcapture %}
           </div>
         {% endif %}
 
+        {% comment %} Implementation-help CTA: shown in the desktop sidebar only; hidden on mobile via CSS. {% endcomment %}
         <section class="single-tool-cta single-tool-cta--panel" aria-labelledby="single-tool-cta-title">
           <div>
             <p class="tools-eyebrow">Need implementation help?</p>
             <h2 id="single-tool-cta-title">Turn tools into booked meetings</h2>
             <p>We help B2B teams choose the stack, build the workflows, and launch outbound systems that create pipeline.</p>
           </div>
-          <a href="https://www.1secondleads.com/" target="_blank" rel="noopener noreferrer">Talk to 1SecondLeads</a>
+          <a href="https://api.leadconnectorhq.com/widget/bookings/1secondleads" target="_blank" rel="noopener noreferrer">Talk to 1SecondLeads</a>
         </section>
 
       </div>
     </aside>
   </div>
 
-  {% if page.website %}
-    <a class="single-tool-mobile-cta" href="{{ page.website }}" target="_blank" rel="noopener noreferrer">Visit {{ page.title }}</a>
-  {% endif %}
-
-  {% include tools/about.html %}
+  {% comment %} CTA in the About section. On desktop the implementation-help CTA lives in
+     the sidebar; on mobile that's hidden, so this surfaces the CTA here (mobile only via CSS). {% endcomment %}
+  {% include tools/about.html cta=true %}
 </article>
 
 <script src="https://cdn.jsdelivr.net/npm/lucide@0.544.0/dist/umd/lucide.min.js"></script>

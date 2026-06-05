@@ -264,17 +264,9 @@
         {% continue %}
       {% endif %}
 
-      {% assign id = snippet | split: '"' | first %}
-      {% assign anchor = '<a href="#'
-        | append: id
-        | append: '" class="anchor text-muted"><i class="fas fa-hashtag"></i></a>'
-      %}
-
-      {% assign left = snippet | split: mark_end | first %}
-      {% assign right = snippet | slice: left.size, snippet.size %}
-      {% assign left = left | replace_first: '">', '"><span class="me-2">' | append: '</span>' %}
-
-      {% assign _new_content = _new_content | append: mark_start | append: left | append: anchor | append: right %}
+      {% comment %} Heading "#" anchor links intentionally removed site-wide.
+         The heading id (from kramdown) is preserved so the TOC and deep links still work. {% endcomment %}
+      {% assign _new_content = _new_content | append: mark_start | append: snippet %}
     {% endfor %}
 
     {% assign _heading_content = _new_content %}
