@@ -1,0 +1,10 @@
+{
+  "description": "LimeLeads is a US-focused B2B lead database with weekly-verified email and phone contacts, boasting 99% email accuracy and real-time verification for outbound sales teams.",
+  "tagline": "US-based B2B leads database with 98%+ accuracy",
+  "overview": "LimeLeads is a B2B lead generation platform specializing in verified email and phone contact data for US-based businesses. It combines an AI-powered scraper, weekly database updates, and real-time verification to give sales teams accurate, targetable contact lists they can feed directly into CRM or outreach systems.",
+  "what_is": [
+    "LimeLeads is a B2B lead generation platform that provides verified email addresses and phone numbers for US-based businesses. It helps sales teams build accurate, targeted contact lists quickly, with data verified in real time to minimize bounce rates and wasted outreach. The platform's weekly database refresh and claimed 99% email accuracy mean teams are working from current information rather than outdated records.",
+    "LimeLeads is best suited for businesses focused on building targeted US B2B contact lists, especially when filtering by geography or company size is important to the ideal customer profile. The AI-powered scraper and real-time verification reduce research time significantly, letting teams move from prospecting to active outreach within days of signing up.",
+    "Within a typical go-to-market stack, LimeLeads serves as a lead sourcing and data enrichment layer that feeds verified contacts into CRM systems or email outreach tools. It is not designed for international lead sourcing, complex marketing automation, or advanced analytics. Its value proposition is straightforward: fresh, accurate US B2B contact data delivered efficiently to support outbound sales programs."
+  ]
+}

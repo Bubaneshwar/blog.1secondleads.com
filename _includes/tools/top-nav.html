@@ -22,9 +22,12 @@
       <a href="{{ '/tools/#featured-tools-title' | relative_url }}">Featured</a>
       <a href="{{ '/tools/#all-tools-title' | relative_url }}">All Tools</a>
     {% endif %}
-    {% if page.nav_cta %}
-      <a class="tools-top-nav__cta" href="{{ page.nav_cta.url }}"{% if page.nav_cta.external %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ page.nav_cta.label }}</a>
-    {% endif %}
+    {%- comment -%} Always show a "Book a call" CTA. Pages may override label/url/external
+        via page.nav_cta; otherwise default to the 1SecondLeads booking widget. {%- endcomment -%}
+    {% assign nav_cta_url = page.nav_cta.url | default: 'https://api.leadconnectorhq.com/widget/bookings/1secondleads' %}
+    {% assign nav_cta_label = page.nav_cta.label | default: 'Book a call' %}
+    {% if page.nav_cta.external == false %}{% assign nav_cta_external = false %}{% else %}{% assign nav_cta_external = true %}{% endif %}
+    <a class="tools-top-nav__cta" href="{{ nav_cta_url }}"{% if nav_cta_external %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ nav_cta_label }}</a>
   </nav>
 </header>
 

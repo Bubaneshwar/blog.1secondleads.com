@@ -1,0 +1,10 @@
+{
+  "description": "Leadberry is a B2B lead generation tool that identifies anonymous website visitors using Google Analytics data and converts them into actionable sales leads.",
+  "tagline": "Turn website visitors into qualified B2B sales leads",
+  "overview": "Leadberry identifies the companies visiting your website by connecting to your Google Analytics data, then enriches each record with contact details, social profiles, and behavioral metrics. Sales and marketing teams use it to build prospect lists from existing traffic without requiring IT involvement or a credit card to get started.",
+  "what_is": [
+    "Leadberry is a web-based B2B lead generation tool that converts anonymous site visitors into identified, contactable leads. It leverages existing Google Analytics data to determine which companies are browsing your site and then layers in contact information and social details for each. Thousands of companies, from early-stage startups to Fortune 500 organizations, rely on Leadberry to automate the prospecting process without manual research.",
+    "The platform is particularly useful for sales and marketing teams that want to act on inbound interest by identifying qualified visitors, reviewing their on-site behavior, and filtering records against custom criteria. Setup involves adding a lightweight tracking snippet to the site, after which lead data appears almost immediately. The absence of a credit card requirement for signup lowers the barrier to evaluating it quickly.",
+    "Leadberry connects to popular CRMs, email platforms, and sales tools so leads flow directly into existing workflows with configurable alerts. It is designed strictly for B2B visitor identification and is not intended for consumer lead generation or marketing automation. Its value is focused on enriching website traffic data to fuel targeted outreach."
+  ]
+}

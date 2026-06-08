@@ -7,8 +7,10 @@ layout: default
 <article class="px-1 tools-page home-landing {{ page.home_variant }}">
   {% include home/hero.html %}
   {% include home/tools-feature.html %}
-  {% include home/blog.html %}
-  {% include home/education.html %}
+  {% include blog/directory.html
+    id="blog"
+    title='From the <span class="brand-accent">blog</span>.'
+    lead="Research, comparisons, and field notes on B2B outbound. Pick a topic to filter." %}
   {% include tools/about.html cta=true %}
 </article>
 
@@ -25,3 +27,4 @@ layout: default
     }
   })();
 </script>
+<script src="{{ '/assets/js/blog-filter.js?v=1' | relative_url }}" defer></script>

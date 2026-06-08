@@ -1,0 +1,10 @@
+{
+  "description": "LeadGibbon is a B2B lead intelligence tool that finds and verifies work email addresses through a LinkedIn extension and a database of over 26 million records with 97% accuracy.",
+  "tagline": "Find anyone's verified work email with one click",
+  "overview": "LeadGibbon helps sales and marketing professionals find validated work email addresses quickly, using a LinkedIn Chrome extension, a searchable B2B database of more than 26 million records, and a built-in email verifier that confirms deliverability before outreach begins. Its 97% accuracy rate and CRM integrations make it a reliable addition to prospecting workflows.",
+  "what_is": [
+    "LeadGibbon is a B2B lead intelligence platform focused on email discovery and verification. Its core feature is a LinkedIn Chrome extension that retrieves a validated work email address in a single click while browsing any LinkedIn profile. Behind that extension sits a database of more than 26 million records and an integrated email verifier, together delivering 97% accuracy so users send to addresses that actually exist.",
+    "The platform is well suited for building targeted lead lists filtered by role, industry, or company, and for enriching existing contact lists by uploading CSV files for bulk email validation. Because results appear immediately, either through the extension or via batch enrichment, teams can move from prospecting to outreach without a long data-preparation phase. LeadGibbon integrates with popular CRMs and email tools, so verified contacts slot directly into established workflows.",
+    "LeadGibbon is a focused email finder and verifier rather than a full marketing automation or multi-channel campaign management system. It is most valuable as a fast, accurate source of verified email addresses within a broader outreach stack."
+  ]
+}

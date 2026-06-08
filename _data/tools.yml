@@ -3859,3 +3859,162 @@
     DNS,
   url: "/tools/mailscale/"
   featured: false
+- name: AgileCRM
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-agilecrm-image-wMMjhHV9c4vUkEuqiCEyl4ume6HzuW.avif
+  categories:
+  - CRMs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$8.99"
+  use_cases:
+  - All-in-one CRM platform
+  - Contact management and deals
+  - Marketing automation with drag-and-drop
+  description: Agile CRM is an all-in-one cloud platform for small to mid-size businesses,
+    combining contact management, marketing automation, and helpdesk in one affordable
+  url: "/tools/agilecrm/"
+  featured: false
+- name: Anymail Finder
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-anymail-finder-image-9VdotHfxtSM0h4ix3vIjsmcuex1SA5.png
+  categories:
+  - Email Finder
+  pricing_tier: Free Trial
+  pricing_starting_at: "$9.00"
+  use_cases:
+  - Find verified emails by name
+  - Search emails by company domain
+  - Find decision maker emails
+  description: Anymail Finder locates and verifies professional email addresses with
+    over 97% delivery accuracy, charging only for emails that are fully verified.
+  url: "/tools/anymail-finder/"
+  featured: false
+- name: Emailchaser
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-emailchaser-image-Msbtb2MIMS3KAyQTgFi1rIgk3HSDkh.png
+  categories:
+  - Chrome Extensions
+  - AI Email Personalization
+  pricing_tier: Free Trial
+  pricing_starting_at: "$37.00"
+  use_cases:
+  - Access 200M verified leads
+  - Use AI to personalize emails
+  - Send unlimited emails
+  description: Emailchaser is a cold email platform with unlimited accounts, leads,
+    and seats at a flat rate, combining AI personalization, inbox rotation, and a
+    built-in
+  url: "/tools/emailchaser/"
+  featured: false
+- name: GetEmail.io
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-getemailio-image-Bz06lP4mEHxbpOCh70lOrMmjXPOcft.avif
+  categories:
+  - Email Finder
+  - Audience Targeting & Segmentation
+  - Email Lookup APIs
+  - Email Finder APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$58.80"
+  use_cases:
+  - Find professional emails instantly
+  - Use big data and machine learning
+  - Scan websites for email formats
+  description: GetEmail.io is an AI-powered email finder that locates verified professional
+    email addresses using a person's name and company domain in seconds.
+  url: "/tools/getemail-io/"
+  featured: false
+- name: Lead 411
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-lead-411-image-A0XcFKdFfv1i2mBUJ4Kmd0HVSRV3rF.avif
+  categories:
+  - AI Data Provider
+  - Phone Dialers
+  - Intent Signals
+  - B2B Databases
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - Real-time B2B lead generation
+  - Verified decision-maker contact data
+  - Sales intelligence alerts
+  description: Lead411 is a B2B sales intelligence platform providing unlimited verified
+    contact data, direct dials, and buyer intent signals starting at $49/month.
+  url: "/tools/lead-411/"
+  featured: false
+- name: Leadberry
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-leadberry-image-dClvLFLSXM5Xi5zS1saCUSMhAzeGqp.avif
+  categories:
+  - Visitor Identification
+  - Customer Segmentation & Scoring
+  pricing_tier: Free Trial
+  pricing_starting_at: "$24.00"
+  use_cases:
+  - Company identification
+  - In-depth visitor data
+  - Real-time alerts
+  description: Leadberry is a B2B lead generation tool that identifies anonymous website
+    visitors using Google Analytics data and converts them into actionable sales leads.
+  url: "/tools/leadberry/"
+  featured: false
+- name: LeadGibbon
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-leadgibbon-image-Ed6DEIsiF82giKfaGCXkJIJjVwBcUx.png
+  categories:
+  - Email Finder
+  - Email Lookup APIs
+  - Email Finder APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$39.00"
+  use_cases:
+  - Find emails from LinkedIn
+  - Advanced search by position and industry
+  - Upload lists for email enrichment
+  description: LeadGibbon is a B2B lead intelligence tool that finds and verifies
+    work email addresses through a LinkedIn extension and a database of over 26 million
+    records
+  url: "/tools/leadgibbon/"
+  featured: false
+- name: LeadLeaper
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-leadleaper-image-9SLwH1U5ZEZD59nH1fWNNP1UiosSFQ.avif
+  categories:
+  - Email Finder
+  - LinkedIn Prospecting Tools
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - Email finder install
+  - Scalable leads engagement
+  - Sender reputation management
+  description: LeadLeaper is a LinkedIn email finder and lead engagement platform
+    that helps sales and marketing teams build contact lists, track outreach, and
+    manage
+  url: "/tools/leadleaper/"
+  featured: false
+- name: LimeLeads
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-limeleads-image-4jd8xJ0HJvz7Sy1VtBDErqIG5cZGlz.png
+  categories:
+  - Prospecting Database
+  - Local Businesses Database
+  pricing_tier: Free Trial
+  pricing_starting_at: "$99.00"
+  use_cases:
+  - Verified email and phone numbers
+  - Real-time data verification
+  - Advanced lead filtering options
+  description: LimeLeads is a US-focused B2B lead database with weekly-verified email
+    and phone contacts, boasting 99% email accuracy and real-time verification for
+    outbound
+  url: "/tools/limeleads/"
+  featured: false
+- name: LiProspect
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-liprospect-image-BQN2e7GfWciHizqEvcAlon8tEYY6WH.avif
+  categories:
+  - AI LinkedIn Outreach
+  - LinkedIn Automation
+  - Social Media Automation
+  - Automated LinkedIn Messaging
+  pricing_tier: Free Trial
+  pricing_starting_at: "$79.00"
+  use_cases:
+  - Automated follow-ups
+  - Advanced search filters
+  - Personalized messaging
+  description: LiProspect is a cloud-based LinkedIn automation tool for sales managers,
+    recruiters, and entrepreneurs to automate connection requests, messaging, and
+  url: "/tools/liprospect/"
+  featured: false

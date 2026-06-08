@@ -1,0 +1,10 @@
+{
+  "description": "GetEmail.io is an AI-powered email finder that locates verified professional email addresses using a person's name and company domain in seconds.",
+  "tagline": "Find any professional email using big data and AI",
+  "overview": "GetEmail.io uses big data and machine learning to scan web sources and predict professional email addresses from a name and company domain, returning verified results in seconds. It integrates with CRMs, Zapier, Make.com, and a developer API to fit cleanly into sales and recruiting workflows.",
+  "what_is": [
+    "GetEmail.io is an AI-powered email finder built for professionals and businesses that need verified contact emails quickly. It falls within the lead generation and sales prospecting category. The tool uses big data and machine learning to locate anyone's professional email address within seconds, making it far faster than manual research methods.",
+    "Sales teams, recruiters, and marketers rely on it for rapid access to decision-maker contact details. Results are returned almost instantly, supporting high-volume lookup workflows. For instance, users performing 20 searches a day can recover roughly two hours of time previously spent on manual prospecting.",
+    "GetEmail.io connects with CRMs, Zapier, Make.com, and exposes an API for custom integrations, slotting into existing sales and marketing stacks with minimal friction. It is focused purely on email discovery and does not handle email campaigns or automated outreach."
+  ]
+}

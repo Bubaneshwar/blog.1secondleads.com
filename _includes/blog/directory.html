@@ -1,0 +1,96 @@
+{%- comment -%}
+  Blog/resources directory: left category sidebar (reuses the /tools/ featured
+  category-chip style) + a middle content area that lists the existing blog post
+  cards, filtered to the selected category by assets/js/blog-filter.js.
+
+  Categories are derived from the posts themselves; display metadata (label,
+  icon, color, description, order) comes from _data/blog_categories.yml with a
+  graceful fallback for any category not listed there.
+{%- endcomment -%}
+
+{%- assign all_posts = site.posts -%}
+{%- assign total_count = all_posts | size -%}
+
+{%- comment -%} 1. every category string actually used by a post (lowercased) {%- endcomment -%}
+{%- assign used = "" | split: "" -%}
+{%- for post in all_posts -%}
+  {%- for c in post.categories -%}
+    {%- assign cl = c | downcase -%}
+    {%- unless used contains cl -%}{%- assign used = used | push: cl -%}{%- endunless -%}
+  {%- endfor -%}
+{%- endfor -%}
+
+{%- comment -%} 2. order: data-file entries that have posts first, then leftovers {%- endcomment -%}
+{%- assign ordered = "" | split: "" -%}
+{%- for entry in site.data.blog_categories -%}
+  {%- assign key = entry.name | downcase -%}
+  {%- if used contains key -%}{%- assign ordered = ordered | push: key -%}{%- endif -%}
+{%- endfor -%}
+{%- for cl in used -%}
+  {%- unless ordered contains cl -%}{%- assign ordered = ordered | push: cl -%}{%- endunless -%}
+{%- endfor -%}
+
+{%- assign section_id = include.id | default: 'blog' -%}
+<section class="tools-section home-section blog-directory" id="{{ section_id }}" aria-labelledby="{{ section_id }}-title">
+  <h2 id="{{ section_id }}-title" class="tools-section__title-center">{{ include.title | default: 'From the <span class="brand-accent">blog</span>.' }}</h2>
+  {% if include.lead %}<p class="home-section__lead">{{ include.lead }}</p>{% endif %}
+
+  <input id="blog-category-filter" type="hidden" value="">
+
+  <div class="tools-directory-layout tools-directory-layout--featured blog-directory-layout">
+    <div class="tools-directory-aside">
+      <aside class="tools-category-sidebar blog-category-sidebar" aria-label="Blog categories">
+        <p>Browse by topic</p>
+        <div class="blog-category-scroll">
+          <button type="button" class="tools-category-toggle is-active" data-blog-toggle-clear>
+            <i data-lucide="layers" class="tools-category-toggle__icon" aria-hidden="true"></i>
+            <span>All Posts</span>
+            <span class="blog-cat-count">{{ total_count }}</span>
+          </button>
+          {%- for cl in ordered -%}
+            {%- assign meta = site.data.blog_categories | where: 'name', cl | first -%}
+            {%- if meta.label -%}{%- assign label = meta.label -%}{%- else -%}{%- assign label = cl | replace: '-', ' ' | capitalize -%}{%- endif -%}
+            {%- assign icon = meta.icon | default: 'tag' -%}
+            {%- comment -%} count posts whose (lowercased) categories include this key {%- endcomment -%}
+            {%- assign cnt = 0 -%}
+            {%- for post in all_posts -%}
+              {%- assign dc = post.categories | join: "||" | downcase | split: "||" -%}
+              {%- if dc contains cl -%}{%- assign cnt = cnt | plus: 1 -%}{%- endif -%}
+            {%- endfor -%}
+            <button type="button" class="tools-category-toggle" data-blog-toggle="{{ cl | escape }}" title="{{ label | escape }}">
+              <i data-lucide="{{ icon }}" class="tools-category-toggle__icon" aria-hidden="true"></i>
+              <span>{{ label }}</span>
+              <span class="blog-cat-count">{{ cnt }}</span>
+            </button>
+          {%- endfor -%}
+        </div>
+      </aside>
+    </div>
+
+    <div class="blog-directory-main">
+      <header class="blog-cat-head" data-blog-head="">
+        <h3 class="blog-cat-head__title">All Posts</h3>
+        <p class="blog-cat-head__desc">Every article across research, guides, comparisons, and field notes on B2B outbound.</p>
+      </header>
+      {%- for cl in ordered -%}
+        {%- assign meta = site.data.blog_categories | where: 'name', cl | first -%}
+        {%- if meta.label -%}{%- assign label = meta.label -%}{%- else -%}{%- assign label = cl | replace: '-', ' ' | capitalize -%}{%- endif -%}
+        {%- assign desc = meta.description | default: 'Posts in this category.' -%}
+        <header class="blog-cat-head d-none" data-blog-head="{{ cl | escape }}">
+          <h3 class="blog-cat-head__title">{{ label }}</h3>
+          <p class="blog-cat-head__desc">{{ desc }}</p>
+        </header>
+      {%- endfor -%}
+
+      <div class="blog-post-list" id="blog-post-list">
+        {%- for post in all_posts -%}
+          <div class="blog-post-item" data-blog-cats="{{ post.categories | join: '|' | downcase | escape }}">
+            {% include home/post-card.html post=post %}
+          </div>
+        {%- endfor -%}
+      </div>
+
+      <p class="blog-empty d-none" id="blog-empty">No posts in this category yet. Check back soon.</p>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,10 @@
+{
+  "description": "Emailchaser is a cold email platform with unlimited accounts, leads, and seats at a flat rate, combining AI personalization, inbox rotation, and a built-in lead finder.",
+  "tagline": "All-in-one cold email software",
+  "overview": "Emailchaser is a cold email outreach platform that bundles unlimited email accounts, leads, and seats into a single flat-rate subscription, aimed at sales teams and agencies that need to scale campaigns without per-seat cost pressure. It combines AI-driven personalization, inbox rotation for deliverability, and a built-in lead finder with an integrated sales CRM.",
+  "what_is": [
+    "Emailchaser is a cold email outreach platform built for sales teams, agencies, and go-to-market specialists. Its flat-rate pricing model covers unlimited email accounts, leads, and seats, removing the scaling friction that per-seat pricing creates. The core use cases are booking meetings, managing multiple sending accounts, and running automated multi-step follow-up sequences that land in the primary inbox.",
+    "AI-driven personalization helps tailor messages to each prospect, improving response rates over generic templates. Inbox rotation distributes sending load across accounts to maintain strong deliverability and keep emails out of spam folders. Emailchaser functions as both an outreach platform and a lightweight sales CRM within the go-to-market stack, and it connects with Slack, HubSpot, Salesforce, and other tools for workflow continuity.",
+    "The platform is built for outbound cold email campaigns and lead engagement rather than inbound CRM workflows or full marketing automation. Teams that need a cost-effective way to run high-volume personalized outreach across multiple accounts will find it a practical fit, while those requiring advanced inbound pipeline management will need a dedicated CRM alongside it."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "description": "LeadLeaper is a LinkedIn email finder and lead engagement platform that helps sales and marketing teams build contact lists, track outreach, and manage prospects from one dashboard.",
+  "tagline": "Lead discovery and engagement platform",
+  "overview": "LeadLeaper combines LinkedIn email discovery, lead management, and engagement tracking in a single platform built for small to mid-size sales and marketing teams. It is designed for fast setup, allowing teams to build contact lists and begin tracking outreach interactions within days of adoption.",
+  "what_is": [
+    "LeadLeaper is a lead discovery and engagement platform built for sales and marketing teams that need to find contact emails, organize prospects, and track outreach activity in one place. It simplifies the prospecting process by combining email finding from LinkedIn profiles with a lightweight lead CRM and engagement tracking, reducing the number of separate tools a team has to manage.",
+    "The platform is well suited to small and mid-size businesses running outreach campaigns or building targeted contact lists. Because the setup is straightforward, teams typically begin seeing results within a few days rather than weeks. LeadLeaper sits in a GTM stack as an email finder, basic lead manager, and engagement tracker, covering the early stages of the outreach process from discovery through initial contact.",
+    "LeadLeaper is not a full marketing automation platform and does not offer advanced analytics or complex multi-channel campaign orchestration. Its strength is in lead discovery and foundational prospect management, making it a practical starting point for teams that want faster outreach without the overhead of enterprise-grade tooling."
+  ]
+}

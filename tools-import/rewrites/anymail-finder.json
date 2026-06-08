@@ -1,0 +1,10 @@
+{
+  "description": "Anymail Finder locates and verifies professional email addresses with over 97% delivery accuracy, charging only for emails that are fully verified.",
+  "tagline": "Find verified emails with 97%+ accuracy",
+  "overview": "Anymail Finder helps sales, marketing, and recruiting professionals locate verified email addresses by name, company, domain, or decision-maker role. Users are billed only for confirmed valid emails, while unverified or not-found results are free.",
+  "what_is": [
+    "Anymail Finder is an email lookup tool focused on accuracy and cost efficiency. It searches for professional email addresses and verifies each result before delivery, targeting a valid-send rate above 97%. The pay-for-verified model means users are charged only when an email passes verification, and addresses flagged as risky or not found carry no cost.",
+    "The tool serves sales, marketing, HR, and business development professionals who need to reach specific contacts quickly. Searches can be run by full name, company name, domain, or by targeting decision-makers within an organization, and results are typically returned almost instantly. Bulk search capabilities, a browser extension, and a developer API help teams handle larger prospecting volumes without slowing down their pipeline.",
+    "Anymail Finder integrates with CRMs, email platforms, spreadsheets, and automation tools including Zapier and Make.com, making it a practical enrichment layer within an outbound GTM stack. Its scope is intentionally focused: it finds and verifies email addresses efficiently rather than functioning as a full contact database or relationship management platform."
+  ]
+}

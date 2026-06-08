@@ -1,0 +1,192 @@
+@use '../abstracts/breakpoints' as bp;
+
+// =====================================================================
+// Blog directory — the categorized "From the blog." section on the home page.
+// Reuses the /tools/ directory layout + the featured category-chip style
+// (`.tools-directory-layout--featured`, `.tools-category-sidebar`,
+// `.tools-category-toggle`) for the left sidebar, and the home `.home-card`
+// post card (unchanged) for the middle content list. This partial only adds
+// what is blog-specific: the post-count badge, the category header block, and
+// the single-column post list + its mobile (horizontal-scroll) sidebar.
+// =====================================================================
+
+// Breathing room above the blog section so it isn't tight against the tools
+// feature section. (Overrides the default `.home-section` top margin.)
+.home-landing .blog-directory {
+  margin-top: 6rem;
+
+  @include bp.lg {
+    margin-top: 8rem;
+  }
+}
+
+// More space between the left category panel and the middle post list.
+.blog-directory-layout {
+  @include bp.lg {
+    column-gap: 3.25rem;
+  }
+}
+
+// The chips live in a `.blog-category-scroll` wrapper (so they can become a
+// horizontal scroll strip on mobile). On desktop it is just a vertical stack.
+.blog-category-scroll {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  min-width: 0;
+}
+
+// Post-count badge on the right of each category chip.
+.blog-cat-count {
+  flex: 0 0 auto;
+  margin-left: auto;
+  padding: 0 0.4rem;
+  min-width: 1.4rem;
+  border-radius: 999px;
+  background: rgba(15, 23, 42, 0.06);
+  color: var(--tools-muted);
+  font-size: 0.78rem;
+  font-weight: 600;
+  line-height: 1.5;
+  text-align: center;
+}
+
+// In the featured (column) sidebar variant, the active chip turns blue — keep
+// the count legible against the tinted background.
+.tools-directory-layout--featured .tools-category-toggle.is-active .blog-cat-count {
+  background: rgba(30, 113, 255, 0.14);
+  color: var(--link-color);
+}
+
+// The active ">" marker that `--featured` appends would push the count around;
+// the blog chips use the count badge as the trailing element instead.
+.blog-category-sidebar .tools-category-toggle.is-active::after {
+  content: none;
+}
+
+// ---------------------------------------------------------------
+// Content area: category header + single-column post list.
+// ---------------------------------------------------------------
+.blog-directory-main {
+  min-width: 0;
+}
+
+.blog-cat-head {
+  margin-bottom: 1.4rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--tools-border);
+}
+
+.blog-cat-head__title {
+  margin: 0 0 0.3rem;
+  color: var(--heading-color);
+  font-family: 'Satoshi', 'Plus Jakarta Sans', sans-serif;
+  font-size: 1.6rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+}
+
+.blog-cat-head__desc {
+  margin: 0;
+  max-width: 44rem;
+  color: var(--text-muted-color);
+  line-height: 1.55;
+}
+
+// Single-column feed of the existing `.home-card` post cards, laid out as
+// large horizontal "line" cards (big thumbnail left, full text right) — same
+// generous size as the vertical card, just turned on its side. Markup unchanged.
+.blog-post-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  max-width: 50rem;
+
+  .home-card {
+    flex-direction: row;
+    align-items: stretch;
+  }
+
+  // Large thumbnail on the left; divider moves to its right edge.
+  .home-card__media {
+    flex: 0 0 44%;
+    aspect-ratio: auto;
+    min-height: 16.5rem;
+    border-bottom: 0;
+    border-right: 1px solid var(--tools-border);
+  }
+
+  .home-card__body {
+    flex: 1 1 auto;
+    justify-content: center;
+    gap: 0.5rem;
+    padding: 1.25rem 1.4rem;
+  }
+
+  // On narrow screens a 42%/58% split gets cramped — stack back to vertical.
+  @include bp.lt(bp.get(md)) {
+    .home-card {
+      flex-direction: column;
+    }
+
+    .home-card__media {
+      flex: none;
+      aspect-ratio: 16 / 9;
+      min-height: 0;
+      border-right: 0;
+      border-bottom: 1px solid var(--tools-border);
+    }
+  }
+}
+
+.blog-empty {
+  color: var(--tools-muted);
+}
+
+// ---------------------------------------------------------------
+// Mobile: categories move ABOVE the list as a horizontal scroll strip.
+// ---------------------------------------------------------------
+@include bp.lt(bp.get(lg)) {
+  .blog-category-sidebar {
+    // Drop the card chrome so the chips read as a clean scroll strip.
+    border: none;
+    padding: 0;
+    background: transparent;
+    box-shadow: none;
+    overflow: visible;
+
+    p {
+      position: static;
+      margin-bottom: 0.6rem;
+      padding: 0;
+      background: transparent;
+    }
+  }
+
+  .blog-category-scroll {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    gap: 0.5rem;
+    overflow-x: auto;
+    padding-bottom: 0.4rem;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: thin;
+
+    .tools-category-toggle {
+      flex: 0 0 auto;
+      width: auto;
+    }
+
+    // The auto-margin count badge would shove the label; on the strip the chip
+    // hugs its content, so let the badge sit right after the label.
+    .blog-cat-count {
+      margin-left: 0.1rem;
+    }
+  }
+
+  .blog-post-list {
+    max-width: none;
+  }
+}

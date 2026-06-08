@@ -1,0 +1,46 @@
+# Blog/resources category metadata for the /blog/ directory sidebar.
+#
+# `name` MUST match (case-insensitive) a post's `categories:` value. Only
+# categories that actually have published posts are rendered; entries here that
+# have no posts are ignored, and post categories with no entry here fall back to
+# a humanized label + the `tag` icon + a generic description.
+#
+# Order in this file controls the order of the sidebar chips. `icon` is a
+# Lucide icon id (https://lucide.dev/icons). Keep `description` to one short
+# sentence — it shows under the category title in the content area.
+
+- name: research
+  label: Research & Reports
+  icon: flask-conical
+  color: '#8b5cf6'
+  description: Original data studies and analysis on B2B outbound and lead generation.
+
+- name: education
+  label: Guides & Playbooks
+  icon: graduation-cap
+  color: '#7c3aed'
+  description: Step-by-step playbooks to choose, build, and implement your outbound stack.
+
+- name: case-study
+  label: Case Studies
+  icon: trophy
+  color: '#f59e0b'
+  description: Real campaigns and the results they drove, broken down end to end.
+
+- name: comparisons
+  label: Comparisons
+  icon: swords
+  color: '#2563eb'
+  description: Head-to-head tool breakdowns compared by pricing and best-fit use case.
+
+- name: deliverability
+  label: Deliverability
+  icon: shield-check
+  color: '#10b981'
+  description: Inbox placement, warmup, and domain-health deep-dives for cold email.
+
+- name: guides
+  label: How-To Guides
+  icon: book-open
+  color: '#0891b2'
+  description: Practical how-tos for prospecting, enrichment, and cold outreach.
