@@ -370,3 +370,16 @@
   position: relative;
   cursor: pointer;
 }
+
+// `.stretched-link` ships with Bootstrap, but the purged Bootstrap partial
+// (`_sass/vendors/_bootstrap.scss`) is gitignored and never regenerated in CI
+// (the Pages workflow runs no npm/purgecss step), and purgecss strips this
+// selector as "unused" anyway. So the deployed CSS lacks it and whole-card
+// clicks only work on a local dev server. Define it here so the overlay that
+// makes the entire card clickable is always compiled into the site CSS.
+.stretched-link::after {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  content: '';
+}
