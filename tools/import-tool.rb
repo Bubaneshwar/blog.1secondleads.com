@@ -885,7 +885,12 @@ def reader_details(markdown, product_name)
   starting_at = pricing_section.find { |line| line.match?(/\AStarting price\$?\d/i) }&.sub(/^Starting price/i, '')
   billing = lines.find { |line| line.match?(/\ABilling\s+/i) }&.sub(/^Billing\s+/i, '')
   trial = lines.find { |line| line.match?(/\ATrial\s+/i) }&.sub(/^Trial\s+/i, '')
-  pricing_tier = trial&.match?(/available/i) ? 'Free Trial' : (starting_at ? 'Paid' : nil)
+  # "available" alone is not enough: "Trial isn't available." contains the word
+  # too, so a tool with no trial was wrongly tagged Free Trial. Require an
+  # affirmative availability (and exclude the negated phrasings).
+  trial_available = trial.to_s.match?(/available/i) &&
+                    !trial.to_s.match?(/\b(?:isn'?t|is\s+not|not|never|un)\b\s*available|unavailable/i)
+  pricing_tier = trial_available ? 'Free Trial' : (starting_at ? 'Paid' : nil)
 
   faqs = []
   faq_section.each_with_index do |line, index|
