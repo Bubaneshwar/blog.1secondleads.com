@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+{% include lang.html %}
+
+<article class="px-1 tools-page home-landing blog-page">
+  <header class="hero blog-hero">
+    <div class="hero__inner">
+      <span class="hero__eyebrow"><span class="hero__badge">BLOG</span> Research &amp; playbooks</span>
+      <h1 class="hero__title">From the <span class="hero__accent">1SecondLeads</span> blog.</h1>
+      <p class="hero__lead">{{ page.description | default: 'Research, comparisons, and field notes on B2B outbound and lead generation. Pick a topic to filter.' }}</p>
+    </div>
+  </header>
+
+  {% include blog/directory.html id="blog" bare=true %}
+
+  {% include tools/about.html cta=true %}
+</article>
+
+<script src="https://cdn.jsdelivr.net/npm/lucide@0.544.0/dist/umd/lucide.min.js"></script>
+<script>
+  (function () {
+    function renderIcons() {
+      if (window.lucide) window.lucide.createIcons();
+    }
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', renderIcons);
+    } else {
+      renderIcons();
+    }
+  })();
+</script>
+<script src="{{ '/assets/js/blog-filter.js?v=1' | relative_url }}" defer></script>

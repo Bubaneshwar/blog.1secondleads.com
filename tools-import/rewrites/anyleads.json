@@ -1,0 +1,10 @@
+{
+  "description": "Anyleads is a sales automation platform for finding and verifying B2B contacts, running cold email sequences, and enriching lead data at scale.",
+  "tagline": "Find B2B contacts and automate cold email outreach",
+  "overview": "Anyleads helps businesses source and verify B2B contacts, then engage them through automated email sequences, all within a single platform. It also supports data enrichment, chatbot solutions, and online review management to broaden sales and marketing workflows.",
+  "what_is": [
+    "Anyleads is an AI-assisted sales automation platform that handles lead generation from end to end: finding contact emails from social media and websites, verifying them for accuracy, enriching the underlying company and role data, and launching automated outreach sequences. It sits in the sales and marketing software category and is built to reduce the manual effort involved in moving a prospect from discovery to first contact.",
+    "The platform is a strong fit for sales teams, marketers, and recruiters who need to source B2B emails quickly and move into personalized outreach without lengthy manual research. Verified contacts and pre-built email sequence templates let users begin campaigns within minutes of setting up their search criteria. Bulk import support and CRM integrations make it straightforward to fold Anyleads into an existing workflow.",
+    "Anyleads handles lead discovery, communication, and basic nurturing in one place, but it is not intended as a full CRM or a deep analytics platform. Its strength is making the leap from prospect identification to personalized email engagement fast, simple, and repeatable for teams of any size."
+  ]
+}

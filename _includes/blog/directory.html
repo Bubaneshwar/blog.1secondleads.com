@@ -32,8 +32,10 @@
 
 {%- assign section_id = include.id | default: 'blog' -%}
 <section class="tools-section home-section blog-directory" id="{{ section_id }}" aria-labelledby="{{ section_id }}-title">
-  <h2 id="{{ section_id }}-title" class="tools-section__title-center">{{ include.title | default: 'From the <span class="brand-accent">blog</span>.' }}</h2>
-  {% if include.lead %}<p class="home-section__lead">{{ include.lead }}</p>{% endif %}
+  {%- unless include.bare -%}
+    <h2 id="{{ section_id }}-title" class="tools-section__title-center">{{ include.title | default: 'From the <span class="brand-accent">blog</span>.' }}</h2>
+    {% if include.lead %}<p class="home-section__lead">{{ include.lead }}</p>{% endif %}
+  {%- endunless -%}
 
   <input id="blog-category-filter" type="hidden" value="">
 
@@ -85,7 +87,7 @@
       <div class="blog-post-list" id="blog-post-list">
         {%- for post in all_posts -%}
           <div class="blog-post-item" data-blog-cats="{{ post.categories | join: '|' | downcase | escape }}">
-            {% include home/post-card.html post=post %}
+            {% include home/post-card.html post=post desc_length=240 %}
           </div>
         {%- endfor -%}
       </div>

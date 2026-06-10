@@ -1,0 +1,10 @@
+{
+  "description": "Cloudlead is a B2B contact data provider combining human researchers and automated tools to deliver phone-validated, enriched lead records for outbound sales teams.",
+  "tagline": "Human-verified B2B contact data and enrichment",
+  "overview": "Cloudlead supplies sales and marketing teams with human-verified, phone-validated contact data, including decision-maker insights and enriched company profiles. It also offers lead scoring, database cleansing, and custom list building to improve the accuracy and ROI of outbound campaigns.",
+  "what_is": [
+    "Cloudlead is a sales data provider that combines human research with automated tooling to deliver phone-validated contact information and accurate, up-to-date lead records. The dual approach, pairing human researchers with software validation, helps ensure data quality and relevance beyond what fully automated scraping can achieve, reducing time wasted pursuing invalid or outdated contacts.",
+    "The service is particularly effective for outbound sales, lead scoring, and cleaning existing contact databases. Enriched, verified records improve outreach accuracy and campaign ROI shortly after delivery, and the focus on decision-maker insights helps sales teams engage the right people within target accounts.",
+    "Cloudlead fits into the GTM stack as a data enrichment and cleansing layer that feeds more accurate information into CRMs and multi-channel outreach platforms. It is not a marketing automation or CRM tool itself and does not manage campaigns or track engagement. Its value is in improving the quality of the data that powers those downstream tools."
+  ]
+}

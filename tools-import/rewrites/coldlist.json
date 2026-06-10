@@ -1,0 +1,10 @@
+{
+  "description": "ColdList is an AI cold email tool that researches prospects and generates personalized icebreakers to increase reply rates for B2B outreach campaigns.",
+  "tagline": "4x more replies with AI-written cold email icebreakers",
+  "overview": "ColdList helps sales teams, agencies, and freelancers personalize B2B cold outreach at scale by automatically researching prospects and generating unique AI-written icebreakers. It sources data from LinkedIn, company websites, and blogs to produce tailored conversation starters that are delivered 40x faster and at 6x lower cost than manual research.",
+  "what_is": [
+    "ColdList is a cold email AI tool built to help sales teams personalize outreach at scale. It automates prospect research using LinkedIn profiles, company websites, and blogs, then generates unique AI-written icebreakers tailored to each contact. Users report 4x more replies, produced 40x faster and at 6x lower cost compared to researching and writing manually.",
+    "ColdList is well suited to cold email campaigns run by SaaS companies, agencies, and freelancers who want to improve open rates and reply rates without investing hours in manual research. Personalized content is ready to send within minutes, allowing faster engagement across a large prospect list. Within a broader go-to-market stack it acts as a data enrichment and personalization engine that feeds directly into outbound sequences.",
+    "ColdList is not a CRM or a bulk email sending platform and is best used alongside those tools for contact management and campaign delivery."
+  ]
+}

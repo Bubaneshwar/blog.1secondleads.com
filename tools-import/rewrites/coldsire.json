@@ -1,0 +1,10 @@
+{
+  "description": "ColdSire is a premium cold email infrastructure service providing real Google and Microsoft mailboxes with domain isolation and automatic SPF, DKIM, and DMARC setup.",
+  "tagline": "Premium cold email infrastructure with deliverability",
+  "overview": "ColdSire provides dedicated cold email infrastructure built on real Google and Microsoft mailboxes. It uses domain isolation and a capped 15% cold email share across its account pool so senders maintain high inbox placement without risking bans or spam flags.",
+  "what_is": [
+    "ColdSire is a premium cold email infrastructure tool that improves deliverability by providing genuine Google and Microsoft mailboxes rather than synthetic accounts. It belongs to the cold email infrastructure category and helps businesses avoid spam issues by mixing cold-email accounts with active, legitimate business accounts in its pool. A hard cap of 15% on cold email activity within that pool ensures individual senders are not flagged or banned.",
+    "The service suits agencies and companies running high-volume cold email campaigns that require real domain isolation and reliable inbox placement. Account setup averages just five minutes, and SPF, DKIM, and DMARC records are configured automatically, so users can begin sending within the same day.",
+    "ColdSire integrates directly with outreach platforms such as Instantly.ai and SmartLead.ai, serving as the deliverability layer in a broader go-to-market stack. It is not a CRM, a data enrichment tool, or a cold email sequencing platform; its sole purpose is supplying clean, properly authenticated mailboxes for sending cold email safely."
+  ]
+}

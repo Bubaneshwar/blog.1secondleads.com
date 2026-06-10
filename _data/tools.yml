@@ -4018,3 +4018,171 @@
     recruiters, and entrepreneurs to automate connection requests, messaging, and
   url: "/tools/liprospect/"
   featured: false
+- name: Anyleads
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-anyleads-image-jgrqkh6DQaVVNFg58J4SE5oyb2lv6F.avif
+  categories:
+  - Email Finder
+  - Phone Number Finders
+  - Data Validation & Verification
+  - Automated Email Campaigns
+  pricing_tier: Free Trial
+  pricing_starting_at: "$29.00"
+  use_cases:
+  - AI-powered email sequences automation
+  - Extract B2B emails from socials
+  - Enrichment data for lead info
+  description: Anyleads is a sales automation platform for finding and verifying B2B
+    contacts, running cold email sequences, and enriching lead data at scale.
+  url: "/tools/anyleads/"
+  featured: false
+- name: Cloudlead
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-cloudlead-image-1ql3JWzYUr5X5XkAsPB14uTEr9Xnpp.avif
+  categories:
+  - Phone Verification
+  - B2B Databases
+  - Customer Segmentation & Scoring
+  pricing_tier: Free Trial
+  pricing_starting_at: Pricing not listed; talk to sales.
+  use_cases:
+  - Phone-verified contact info
+  - Custom human-verified insights
+  - Data enrichment and cleansing
+  description: Cloudlead is a B2B contact data provider combining human researchers
+    and automated tools to deliver phone-validated, enriched lead records for outbound
+    sales
+  url: "/tools/cloudlead/"
+  featured: false
+- name: ColdClicks
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-coldclicks-image-41ggyxQildVXOodIRLSEdtImhP0cZi.avif
+  categories:
+  - AI Personalization
+  - AI Email Personalization
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - Personalize cold emails at scale
+  - Generate hyper-personalized AI templates
+  - Import and enrich lead lists
+  description: ColdClicks is an AI cold email personalization tool that pulls data
+    from 50+ sources to generate unique, reply-driving copy for each lead at scale.
+  url: "/tools/coldclicks/"
+  featured: false
+- name: ColdList
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-coldlist-image-SYZRDpCvCDjCcWaO6YfsEbVFPxs2Y1.avif
+  categories:
+  - AI Personalization
+  - Copywriting
+  - AI Email Personalization
+  pricing_tier: Free Trial
+  pricing_starting_at: "$29.00"
+  use_cases:
+  - Personalize cold email campaigns
+  - Automate prospect research
+  - Generate AI icebreakers
+  description: ColdList is an AI cold email tool that researches prospects and generates
+    personalized icebreakers to increase reply rates for B2B outreach campaigns.
+  url: "/tools/coldlist/"
+  featured: false
+- name: Coldlytics
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-coldlytics-image-riT7Tl0PSaE3likfVODcOrfMDAwaKe.avif
+  categories:
+  - Technology Lookup
+  - Prospect Insights
+  - Prospecting Database
+  - Account Research
+  - AI Research Assistants
+  pricing_tier: Free Trial
+  pricing_starting_at: "$49.00"
+  use_cases:
+  - Proprietary automation and AI
+  - Human research verification
+  - Targeted prospect list building
+  description: Coldlytics is an on-demand B2B contact list service combining automation,
+    AI, and human researchers to build verified, niche-specific prospect lists for
+  url: "/tools/coldlytics/"
+  featured: false
+- name: ColdSire
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-coldsire-image-p9YrcNRKdeLm6nWOt4wrSyfd9EyhdJ.png
+  categories:
+  - Deliverability Infrastructure
+  pricing_tier: Free Trial
+  pricing_starting_at: "$6.00"
+  use_cases:
+  - Unmatched deliverability with premium mailboxes
+  - True domain isolation and workspace
+  - Instant mailbox setup in minutes
+  description: ColdSire is a premium cold email infrastructure service providing real
+    Google and Microsoft mailboxes with domain isolation and automatic SPF, DKIM,
+    and DMARC
+  url: "/tools/coldsire/"
+  featured: false
+- name: ContactLevel
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-contactlevel-image-UVCjoUmdGbWAczxBZHiCFIpjutcv21.png
+  categories:
+  - Visitor Identification
+  - Audience Targeting & Segmentation
+  - Advertising & Paid Campaign Tools
+  pricing_tier: Free Trial
+  pricing_starting_at: "$1000.00"
+  use_cases:
+  - Contact level marketing
+  - Account based marketing
+  - Targeted advertising
+  description: ContactLevel is a B2B contact-level advertising platform that targets
+    specific decision-makers across LinkedIn, Meta, Google, and Reddit with a 90%+
+    match rate.
+  url: "/tools/contactlevel/"
+  featured: false
+- name: CRMOne
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-crmone-image-R9xuBLsG1frkSQnNzdkl3EpOTjCP3l.png
+  categories:
+  - CRMs
+  - AI CRM
+  - AI Sales Assistant
+  - AI Sales Copilot
+  pricing_tier: Free Trial
+  pricing_starting_at: "$18.00"
+  use_cases:
+  - AI-driven insights and automation
+  - Streamlined sales and marketing workflows
+  - Personalized customer engagement tools
+  description: CRMOne is an AI-first CRM for startups and growing businesses that
+    unifies sales, marketing, and customer support with unlimited users and no feature
+  url: "/tools/crmone/"
+  featured: false
+- name: CRMX
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-crmx-image-bpvFhc6AWtE2dHNHPtd86Nl1l52Pm5.avif
+  categories:
+  - AI Automation
+  - Buyer Engagement
+  - Multichannel Outreach
+  - AI CRM
+  pricing_tier: Free Trial
+  pricing_starting_at: "$199.00"
+  use_cases:
+  - AI automation builder
+  - Multiple dashboards reporting
+  - Automated follow up system
+  description: CRMX is an all-in-one CRM and automation platform for small businesses
+    that centralizes lead management, follow-ups, marketing, and reporting starting
+    at $199
+  url: "/tools/crmx/"
+  featured: false
+- name: D7 Lead Finder
+  logoUrl: https://ib8nrja70n2lsqtp.public.blob.vercel-storage.com/production/products-d7-lead-finder-image-b33RAr5C9tMSo2Cw3dOU7N5FcxDNRu.avif
+  categories:
+  - Email Finder
+  - Prospecting Database
+  - Local Businesses Database
+  - Business Information APIs
+  pricing_tier: Free Trial
+  pricing_starting_at: "$44.99"
+  use_cases:
+  - Find B2B leads worldwide
+  - Export leads in multiple formats
+  - Track paid ads activity
+  description: D7 Lead Finder is a B2B prospecting tool that searches a global database
+    by keyword and location to deliver up to 1,200 contact leads per query in under
+    3
+  url: "/tools/d7-lead-finder/"
+  featured: false

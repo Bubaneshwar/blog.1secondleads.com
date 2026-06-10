@@ -352,6 +352,30 @@
     font-size: 0.85rem;
     line-height: 1.5;
   }
+
+  .home-card__foot {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-top: 0.4rem;
+  }
+
+  .home-card__more {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    color: var(--link-color);
+    font-weight: 700;
+    font-size: 0.85rem;
+    white-space: nowrap;
+
+    i,
+    svg {
+      width: 1rem;
+      height: 1rem;
+    }
+  }
 }
 
 .home-empty {

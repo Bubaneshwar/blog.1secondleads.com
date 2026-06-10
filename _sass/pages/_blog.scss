@@ -101,27 +101,37 @@
   display: flex;
   flex-direction: column;
   gap: 1.25rem;
-  max-width: 50rem;
 
   .home-card {
     flex-direction: row;
     align-items: stretch;
   }
 
-  // Large thumbnail on the left; divider moves to its right edge.
+  // Thumbnail on the left, stretched to the text column's height. No forced
+  // min-height: the card is exactly as tall as the text, so a short post never
+  // leaves empty space under the footer.
   .home-card__media {
-    flex: 0 0 44%;
+    flex: 0 0 34%;
     aspect-ratio: auto;
-    min-height: 16.5rem;
+    min-height: 0;
     border-bottom: 0;
     border-right: 1px solid var(--tools-border);
   }
 
+  // Text column: category + title + description sit at the top, the footer is
+  // pushed to the very bottom. The longer (240-char) description fills the
+  // middle so there is no empty gap.
   .home-card__body {
     flex: 1 1 auto;
-    justify-content: center;
+    justify-content: flex-start;
     gap: 0.5rem;
-    padding: 1.25rem 1.4rem;
+    padding: 1.4rem 1.5rem;
+  }
+
+  // Date bottom-left, "Read article" bottom-right, pinned to the card base.
+  .home-card__foot {
+    margin-top: auto;
+    padding-top: 0.75rem;
   }
 
   // On narrow screens a 42%/58% split gets cramped — stack back to vertical.

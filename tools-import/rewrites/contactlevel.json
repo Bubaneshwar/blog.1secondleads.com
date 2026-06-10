@@ -1,0 +1,10 @@
+{
+  "description": "ContactLevel is a B2B contact-level advertising platform that targets specific decision-makers across LinkedIn, Meta, Google, and Reddit with a 90%+ match rate.",
+  "tagline": "Contact-level advertising for B2B growth",
+  "overview": "ContactLevel is a contact-level advertising platform for B2B marketers and account-based marketing teams. It reaches individual decision-makers on LinkedIn, Meta, Google, and Reddit at a 90%+ match rate, reducing wasted ad spend and accelerating pipeline generation.",
+  "what_is": [
+    "ContactLevel is a contact-level advertising platform built for targeted B2B marketing and account-based marketing (ABM). It enables companies to serve ads to specific decision-makers across LinkedIn, Meta, Google, and Reddit at a match rate exceeding 90%, improving pipeline generation and tightening alignment between sales and marketing. The platform outperforms native ad tools by reaching more precise contacts and cutting wasted spend.",
+    "It excels at warming prospects before outreach, running multi-platform ABM campaigns, and tracking engagement at the individual contact level. Teams adopting it typically see faster deal cycles, up to 4x higher email reply rates, and more booked meetings after rollout. ContactLevel syncs with CRMs including Salesforce and HubSpot for real-time contact updates and campaign automation.",
+    "ContactLevel is not a general-purpose advertising platform or a mass email tool. It is a precision demand generation solution that uses contact-level data to reach the right people, making it best suited to B2B teams with a defined target account list."
+  ]
+}

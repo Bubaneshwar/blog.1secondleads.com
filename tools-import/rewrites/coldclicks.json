@@ -1,0 +1,10 @@
+{
+  "description": "ColdClicks is an AI cold email personalization tool that pulls data from 50+ sources to generate unique, reply-driving copy for each lead at scale.",
+  "tagline": "Cold email personalization powered by AI",
+  "overview": "ColdClicks helps sales teams and lead generation agencies craft unique, hyper-personalized cold emails at scale. It pulls real-time data from over 50 sources and blends AI-generated, dynamic, and static content into custom templates so every message feels individually written.",
+  "what_is": [
+    "ColdClicks is an AI-powered cold email personalization tool built for sales teams and lead generation agencies. It generates unique email copy for each prospect by drawing on real-time data from more than 50 sources, combining AI-generated, dynamic, and static content within a single template. The result is highly relevant messages that increase reply rates while staying out of spam folders.",
+    "The tool is most effective for large-scale cold email campaigns where speed and personalization both matter. Users upload their lead list, map the relevant fields, and ColdClicks produces tailored emails immediately, saving hours of manual writing. Positive reply rates improve without additional effort from the sender.",
+    "ColdClicks connects with widely used CRMs and email platforms including Lemlist, Apollo, and Smartlead, slotting neatly into existing sales workflows. It is not a full CRM or email sending platform; its purpose is specifically to enrich lead data and personalize outreach copy, so a separate tool is still needed to deliver the campaigns."
+  ]
+}
