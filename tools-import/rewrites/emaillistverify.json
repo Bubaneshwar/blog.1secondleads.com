@@ -1,0 +1,10 @@
+{
+  "description": "EmailListVerify is a bulk email verification service that removes invalid, disposable, and spam-trap addresses to protect sender reputation and lift deliverability.",
+  "tagline": "Email checker and bulk list verifier",
+  "overview": "EmailListVerify helps email marketers and businesses lift campaign ROI by verifying lists in bulk and stripping out invalid, disposable, and spam-trap addresses. Using domain and SMTP validation, syntax checks, and hard-bounce detection, it raises deliverability rates and safeguards sender reputation at an accessible price point, including 100 free verifications on signup.",
+  "what_is": [
+    "EmailListVerify is a bulk email verification platform built to clean and validate large contact lists efficiently. It separates itself from other verifiers through a combination of strong accuracy and affordability, giving new users 100 free verifications to evaluate the service before committing. The tool identifies and removes spam traps, hard bounces, disposable addresses, and catch-all emails, protecting sender reputation while pushing deliverability higher.",
+    "Marketers and businesses that want to maximize email campaign ROI by sending only to real, reachable addresses will find the most value here. Users upload their lists in common formats and receive cleaned files within minutes, enabling fast improvements before a campaign goes live. EmailListVerify also integrates with email service providers such as Mailchimp and supports API connections, making it a natural fit inside existing CRM or email marketing workflows.",
+    "It is a focused verification tool rather than a sending or contact management platform. Its value is in validation alone, not in outreach automation or data enrichment, so it works best as a pre-send step alongside a dedicated email service provider or CRM."
+  ]
+}

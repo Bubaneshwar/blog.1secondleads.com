@@ -1,0 +1,10 @@
+{
+  "description": "IntentMacro is a B2B intent intelligence platform that uses AI to track buying signals, map content to contacts, and surface demand within buying committees.",
+  "tagline": "Multilayered B2B intent intelligence for sales and marketing teams",
+  "overview": "IntentMacro helps sales and marketing teams identify in-market accounts by tracking real-time intent signals through a continuously updated database, using AI and machine learning to map content consumption to specific contacts and surface hidden demand within buying committees.",
+  "what_is": [
+    "IntentMacro is a B2B sales and marketing intelligence tool built to identify company-level buying intent and map individual user interests within target accounts. It tracks intent signals to reveal real-time buying activity and demand patterns across the market. The platform uses AI and machine learning to deliver accurate intent data and connect content consumption to specific contacts.",
+    "It is best suited for sales and marketing teams that want to prioritize outreach based on fresh, verified buying signals rather than static firmographic data. The database is continuously updated to reflect current buyer behavior, so teams can act on timely information and uncover demand within entire buying committees rather than just individual contacts.",
+    "Within a go-to-market stack, IntentMacro serves as an intelligence layer that enriches CRM and email workflows with targeted intent data. It does not handle direct communication or campaign execution; its role is to sharpen targeting and improve lead quality before outreach begins."
+  ]
+}

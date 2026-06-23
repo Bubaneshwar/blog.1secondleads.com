@@ -1,0 +1,10 @@
+{
+  "description": "LeadConnect is a LinkedIn outreach automation platform that sends personalized connection requests, sequences up to six follow-ups, and syncs prospect data to HubSpot.",
+  "tagline": "LinkedIn outreach automation with HubSpot sync",
+  "overview": "LeadConnect automates personalized LinkedIn outreach by sending connection requests and chaining up to six follow-up messages, then syncing prospect details directly to HubSpot to eliminate manual data entry. Sales teams and marketers use it to maintain consistent LinkedIn engagement at a pace that manual effort alone cannot match.",
+  "what_is": [
+    "LeadConnect is a LinkedIn outreach automation tool that streamlines lead generation by handling personalized connection requests and automated follow-up sequences. Users can configure up to six follow-up messages per prospect, and the platform syncs resulting contact data to HubSpot automatically, removing the need for manual CRM updates.",
+    "The platform works well for sales teams and marketers who focus their prospecting efforts on LinkedIn. Engagement typically begins appearing within days of launch, and the combination of sequenced messaging and direct CRM sync keeps pipelines moving without adding administrative overhead.",
+    "LeadConnect fits into a go-to-market stack through its HubSpot integration and compatibility with email-finding services like Hunter.io. It is not a full CRM or standalone email marketing platform and requires active LinkedIn use to function. Its value is narrowly focused on making LinkedIn outreach more consistent and less time-intensive."
+  ]
+}

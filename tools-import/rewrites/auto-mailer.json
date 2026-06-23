@@ -1,0 +1,10 @@
+{
+  "description": "Automailer.ai is an email newsletter creation tool that generates responsive, on-brand newsletters in seconds without requiring any coding.",
+  "tagline": "Automate engaging newsletters in seconds",
+  "overview": "Automailer.ai automates email newsletter creation for businesses of all sizes, producing polished, responsive emails without any coding work. It connects to existing email marketing platforms so campaigns can be sent quickly after the content is generated.",
+  "what_is": [
+    "Automailer.ai is a marketing automation tool built around fast newsletter creation. It generates complete, visually responsive emails in seconds without requiring any coding knowledge, making it accessible to both small business owners and larger marketing teams who want to maintain a consistent email presence without a heavy time investment.",
+    "The platform is best suited for businesses that need to run regular email campaigns and want the creation process handled automatically. Setup is minimal, and emails can be transferred to an existing email marketing platform with just a few clicks, giving teams a short path from onboarding to their first send.",
+    "Automailer.ai connects with your current email marketing stack and handles the creation and basic automation side of newsletters. It is narrowly focused on that task and is not a CRM, data enrichment tool, or advanced analytics platform. Teams that need deeper sales functionality or detailed engagement reporting will need to pair it with complementary tools."
+  ]
+}

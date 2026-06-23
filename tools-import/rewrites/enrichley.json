@@ -1,0 +1,10 @@
+{
+  "description": "Enrichley is an email verification and data enrichment tool specializing in catch-all domains, uncovering 20 to 30 percent more valid contacts than standard verifiers.",
+  "tagline": "We verify catch-all emails",
+  "overview": "Enrichley helps sales and marketing teams verify catch-all emails, including those protected by Secure Email Gateways, using a proprietary algorithm that identifies genuinely deliverable addresses. It also enriches contact profiles with more than 50 data points, recovering valid leads that other verification tools mark as unknown.",
+  "what_is": [
+    "Enrichley is an email verification and data enrichment platform serving marketers and sales teams that deal with hard-to-verify contact lists. Its core differentiation is its ability to validate addresses on catch-all domains, including those shielded by Secure Email Gateways, surfacing 20 to 30 percent more genuine contacts than tools that simply mark catch-all addresses as undeliverable. This directly reduces bounce rates and protects sender reputation for teams running outbound programs.",
+    "Beyond verification, Enrichley enriches contact profiles with more than 50 data points, covering work history, company information, and other attributes that make outreach more targeted and relevant. Results are returned quickly, allowing teams to recover real opportunities from lists they would otherwise discard and to add context that improves personalization. The platform fits into a CRM or email workflow as an enrichment and hygiene layer that raises both accuracy and engagement.",
+    "Enrichley is not a bulk data scraping or lead generation service. Its role is verification and enrichment of contacts already in your possession, making outreach smarter rather than expanding the raw size of a list. Teams that invest in contact quality over contact quantity will find it a focused and effective complement to their existing sales and marketing tools."
+  ]
+}

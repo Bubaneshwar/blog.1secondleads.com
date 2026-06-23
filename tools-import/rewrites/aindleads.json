@@ -1,0 +1,10 @@
+{
+  "description": "AIndLeads is an AI-powered B2B lead generation and CRM platform combining a 600 million-profile database with email outreach and pipeline management in one tool.",
+  "tagline": "AI-powered B2B lead generation and CRM",
+  "overview": "AIndLeads gives sales teams a single platform to find targeted contacts, send personalized cold email campaigns, and track pipeline progress without requiring external integrations. Its AI-driven lead recommendations and built-in outreach tools are designed to help teams book more meetings quickly after onboarding.",
+  "what_is": [
+    "AIndLeads is an AI-powered lead generation and CRM platform built for B2B sales teams. It combines a searchable database of more than 600 million validated business profiles with tools for email outreach and deal pipeline management, all within a single interface that requires no third-party integration to get started.",
+    "The platform is well suited to building targeted contact lists, sending personalized cold email sequences, and monitoring outreach activity in one place. AI-driven lead recommendations and automated campaign features are designed to reduce manual effort, helping startups and small sales teams book meetings within weeks of getting started.",
+    "AIndLeads functions as a combined lead database, outreach system, and CRM, streamlining the prospecting-to-pipeline workflow without relying on tools like Gmail or HubSpot. It is not designed for complex enterprise CRM requirements or deep data enrichment beyond its own contact database, making it best suited to teams that want a consolidated, low-friction sales solution."
+  ]
+}

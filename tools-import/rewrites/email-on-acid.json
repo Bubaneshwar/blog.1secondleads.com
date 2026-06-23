@@ -1,0 +1,10 @@
+{
+  "description": "Email on Acid is an email testing platform offering unlimited previews across 100-plus clients and devices, pre-send deliverability checks, and campaign analytics.",
+  "tagline": "Email pre-deployment testing and QA platform",
+  "overview": "Email on Acid helps marketers and developers build, test, optimize, and collaborate on email campaigns before sending. It provides unlimited rendering previews across more than 100 email clients and devices, including dark mode, alongside deliverability checks and campaign analytics that cut QA time and reduce errors in production sends.",
+  "what_is": [
+    "Email on Acid is an email testing and optimization platform designed for marketers who need certainty that their campaigns render correctly before deployment. It falls within the email marketing toolset and stands out by offering unlimited previews across more than 100 devices and email clients, including dark mode environments. This breadth of coverage ensures that a message looks as intended for every recipient, regardless of what app or device they use to open it.",
+    "The platform is most valuable when flawless rendering and inbox placement are non-negotiable, such as during large promotional campaigns or time-sensitive communications. Preview results load in under 10 seconds, which dramatically reduces QA cycle time and allows teams to iterate quickly. Email on Acid functions as an essential quality assurance and analytics layer in a go-to-market stack, sitting alongside CRMs and email service providers rather than replacing them.",
+    "The tool complements existing delivery infrastructure by providing deep pre-send insight and post-send analytics, but it is not designed for building emails from scratch or managing subscriber lists. Its scope is focused entirely on rendering fidelity, deliverability diagnostics, and content optimization. Teams that need a dedicated QA step between email creation and deployment will find it a reliable addition to their workflow."
+  ]
+}

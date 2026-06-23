@@ -1,0 +1,10 @@
+{
+  "description": "LeadsRx is a multi-touch marketing attribution platform that uses a Universal Pixel to track 100% of digital inbound traffic and show which channels drive revenue.",
+  "tagline": "Impartial multi-touch attribution for marketers",
+  "overview": "LeadsRx is a multi-touch attribution platform that gives marketers a clear, unbiased view of which campaigns and channels are driving conversions. Its Universal Pixel tracks every digital inbound visitor without requiring ad retagging, making it straightforward to implement across eCommerce, media, agency, and enterprise use cases.",
+  "what_is": [
+    "LeadsRx is a marketing attribution platform built to measure and optimize performance across every channel a business uses. It helps teams understand precisely which marketing activities are generating sales by providing detailed, multi-touch attribution data. The platform's defining feature is its Universal Pixel, which captures 100% of digital inbound traffic without the need to retag individual ads, making deployment simple and the resulting data highly reliable.",
+    "LeadsRx is well suited to eCommerce, media companies, agencies, and enterprise marketing teams where mapping the full customer journey and attributing revenue accurately across multiple funnels is critical. Setup is straightforward, and teams generally gain actionable campaign insights within a short period after going live. The platform connects with tag managers and data platforms to enrich existing marketing datasets and fits naturally into a broader go-to-market technology stack.",
+    "LeadsRx does not manage CRM records or execute email campaigns. Its purpose is attribution clarity, offering a straightforward and comprehensive measurement layer for marketers who need to make confident, data-backed decisions about where to invest their budgets."
+  ]
+}

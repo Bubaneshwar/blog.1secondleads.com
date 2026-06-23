@@ -1,0 +1,10 @@
+{
+  "description": "Leadbright LOOP is an AI-powered B2B revenue growth platform that automates website SEO analysis and lead generation using machine learning and competitor data.",
+  "tagline": "AI-powered revenue growth for B2B websites",
+  "overview": "Leadbright LOOP is an AI-driven platform that analyzes a company's website and competitor landscape to generate actionable SEO and marketing recommendations, then automates the resulting optimization tasks. B2B businesses from startups to large enterprises use it to grow organic lead volume and improve conversion rates with less manual effort.",
+  "what_is": [
+    "Leadbright LOOP is an AI-powered lead generation and revenue growth platform built for B2B companies. It applies machine learning and big data to analyze your website alongside competitor sites, surfacing clear SEO and marketing insights without requiring weeks of manual analysis. By automating the tasks that flow from those insights, it reduces the time and cost traditionally associated with digital growth programs.",
+    "The platform is most effective for teams focused on organic lead generation, improving website conversion rates, and staying current with industry trends. LOOP runs continuously in the background, optimizing your digital presence with minimal ongoing input, which makes it practical for both lean startups and larger organizations that want efficient, scalable growth.",
+    "Within a marketing technology stack, LOOP acts as a growth and analytics engine that feeds quality leads into CRMs and email platforms downstream. It is not designed for direct sales outreach or CRM management. Its purpose is to simplify the data analysis and lead capture work that amplifies the impact of those other tools."
+  ]
+}

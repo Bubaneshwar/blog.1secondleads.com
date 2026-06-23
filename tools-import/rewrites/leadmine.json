@@ -1,0 +1,10 @@
+{
+  "description": "LeadMine is a B2B lead generation tool with a database of over 200 million contacts, offering 95% email deliverability and a free-to-start plan.",
+  "tagline": "Powerful lead generation with verified emails",
+  "overview": "LeadMine helps businesses find and verify B2B contacts using a database of more than 200 million records, with verified emails that achieve 95% deliverability. Users can start for free with 10 monthly credits and no credit card required, and can filter prospects by location, industry, or company details.",
+  "what_is": [
+    "LeadMine is a lead generation tool built to help businesses find accurate B2B contacts alongside verified email addresses. It draws on a database of over 200 million business contacts and targets 95% email deliverability, giving users confidence that the data they export will actually reach the inbox. Getting started costs nothing: a free tier provides 10 monthly credits with no credit card required, and search filters covering location, industry, and company attributes let users build tightly targeted prospect lists.",
+    "The platform also supports fast email discovery by name and domain, making it practical for quickly verifying whether a specific contact is reachable before reaching out. Leads are available immediately after a search completes, which speeds up sales outreach cycles. Within a go-to-market stack, LeadMine functions primarily as a data enrichment and email discovery layer, accessible through a web dashboard and a Chrome extension that allows exports at any point in the workflow.",
+    "LeadMine is not built for managing CRM records or running email campaigns, so teams will need separate tools to handle those functions. Its value lies specifically in precise lead finding and email verification, giving sales pipelines a steady supply of accurate, deliverable contact data."
+  ]
+}
