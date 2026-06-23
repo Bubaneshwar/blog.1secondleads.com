@@ -1,0 +1,10 @@
+{
+  "description": "Mail-Tester is a free spam score tool for newsletters and email campaigns that checks content, DNS configuration, and sending setup to identify deliverability issues before sending.",
+  "tagline": "Check your newsletter's spam score before sending",
+  "overview": "Mail-Tester gives marketers and email senders a quick way to assess their spam risk by analyzing an email sent to a dedicated test address, returning a scored report covering content, DNS records, and sending configuration within minutes.",
+  "what_is": [
+    "Mail-Tester is a deliverability testing tool that evaluates how likely an email is to be flagged as spam before it reaches a real recipient. The process is simple: send a message to the unique test address the tool provides and receive a detailed score covering email content, authentication records, and sender configuration. It is valued for its straightforward approach and the speed with which it returns actionable results.",
+    "The tool is most useful in the pre-send stage of a campaign, when there is still time to adjust content or fix configuration issues. Marketers, business owners, and anyone who depends on reliable email communication can use the scored report to identify specific problems, such as missing SPF or DKIM records or content patterns that trigger spam filters, and correct them before the campaign goes out.",
+    "Within a marketing or outbound stack, Mail-Tester functions as a quality-assurance checkpoint that complements CRM and email marketing platforms. It is not a replacement for a spam filter, a full deliverability monitoring service, or a campaign management tool. Its role is narrow and practical: give senders a clear view of their spam risk so they can address it before going live."
+  ]
+}

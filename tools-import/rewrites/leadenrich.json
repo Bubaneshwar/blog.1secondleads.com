@@ -1,0 +1,10 @@
+{
+  "description": "LeadEnrich is an AI-powered skip-tracing and lead enrichment tool for real estate professionals, delivering property owner contact data with a 95% average match rate.",
+  "tagline": "AI-powered lead enrichment for real estate professionals",
+  "overview": "LeadEnrich is an AI-driven skip-tracing platform built for real estate agents, wholesalers, and brokers who need accurate property owner contact information quickly. It accepts bulk uploads in CSV, Excel, or TXT format and returns enriched contact records within seconds, with a 95% average match rate and compliance with TCPA and FCRA requirements.",
+  "what_is": [
+    "LeadEnrich is an AI-powered lead enrichment tool built specifically for real estate professionals. It takes incomplete owner data and resolves it into accurate, actionable contact records, covering phone numbers and other details needed for outreach. With a reported 95% average match rate and design choices that keep it compliant with TCPA and FCRA regulations, it is built for reliable and legally sound prospecting.",
+    "The platform is most useful when speed and data accuracy matter, such as rapid prospecting or following up on time-sensitive leads. Users upload their lists in CSV, Excel, or TXT format and receive enriched contact information within seconds. Wholesalers, agents, and brokers who want to reduce research time and increase the proportion of contactable leads in their pipelines are the primary audience.",
+    "LeadEnrich connects with CRMs and supports multi-format data exports for easy handoff to downstream tools. It also includes AI-driven data cleaning and an AI chat assistant for querying results. The platform is not a property listing service or direct marketing tool; its scope is skip tracing and lead enrichment for real estate outreach."
+  ]
+}

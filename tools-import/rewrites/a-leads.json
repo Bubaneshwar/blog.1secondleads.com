@@ -1,0 +1,10 @@
+{
+  "description": "A-Leads is a B2B lead database delivering real-time, triple-verified emails and phone numbers, so teams pay only for valid contacts.",
+  "tagline": "Most up-to-date verified B2B leads",
+  "overview": "A-Leads gives sales and marketing teams instant access to verified B2B contacts. Unused credits roll over, and you are only charged for leads that pass verification.",
+  "what_is": [
+    "A-Leads is a real-time B2B lead generation tool that provides verified, up-to-date emails and phone numbers for sales and marketing outreach. Its billing model charges only for valid leads, with unused data credits rolling over rather than expiring. Triple-verified emails and intent signals set it apart from providers that deliver unvalidated bulk contact exports.",
+    "The tool is designed for sales teams, marketers, and entrepreneurs who need fresh contact data to fill their pipeline quickly. Search criteria such as job title, industry, and company size surface relevant results immediately, letting users begin outreach without waiting on manual research. This direct access to verified contacts helps maximize campaign efficiency and reduces time spent cleaning bad data.",
+    "A-Leads fits into the GTM stack as a contact search and data enrichment layer that complements CRM and email automation platforms by supplying clean, accurate contact information. Its scope is intentionally narrow: it delivers actionable lead data reliably and does not attempt to replace relationship management or complex marketing workflow tools."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "description": "DitLead is a multi-channel sales automation platform for running LinkedIn, email, and call outreach sequences with AI personalization and unlimited sending accounts.",
+  "tagline": "LinkedIn, email, and call outreach automation",
+  "overview": "DitLead is an all-in-one cold outreach platform that lets sales teams automate LinkedIn, email, and phone campaigns across unlimited sending accounts. Its AI personalization layer and multi-step sequence builder allow teams to deliver more than 1,000 leads per day without triggering blocks or blacklists.",
+  "what_is": [
+    "DitLead is a multi-channel outreach platform built for sales teams and marketers who need to run cold campaigns across LinkedIn, email, and phone simultaneously. It supports unlimited LinkedIn and email accounts, enabling teams to scale outreach well beyond what a single account allows. The platform is designed to send over 1,000 leads daily while managing sending patterns to minimize the risk of blocks or blacklisting.",
+    "Outreach sequences can be fully automated, covering connection requests, follow-up messages, and email campaigns in a single workflow. The built-in AI personalization layer helps tailor each message to the individual prospect, which improves response rates compared to generic templates. DitLead functions as a sales engagement CRM within the go-to-market stack and integrates with major email providers including Gmail, Outlook, and AWS SES for reliable delivery.",
+    "The platform is focused on cold outreach and lead management rather than complex CRM workflows or deep data enrichment. Teams that need a single tool to coordinate and scale multi-channel prospecting will find it fits naturally into their outbound process, while those looking for advanced pipeline analytics or inbound lead handling will need complementary tools."
+  ]
+}

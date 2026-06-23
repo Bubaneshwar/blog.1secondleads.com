@@ -1,0 +1,10 @@
+{
+  "description": "Leadgenerator.io is an AI-powered outbound sales platform that autonomously finds prospects, writes personalized emails, automates LinkedIn outreach, and updates CRM records.",
+  "tagline": "AI-powered outbound sales automation running 24/7",
+  "overview": "Leadgenerator.io automates the full outbound sales cycle, from finding ideal companies and contacts to crafting personalized messages and managing follow-ups without human intervention. Its AI agents operate around the clock, reducing manual prospecting effort by up to 99% and delivering response rates that consistently outperform industry averages.",
+  "what_is": [
+    "Leadgenerator.io is an AI-driven outbound sales automation platform built for businesses that want to scale pipeline generation without adding headcount. Its autonomous agents run continuously, identifying ideal-fit companies and contacts, writing personalized outreach emails, and executing LinkedIn sequences. According to the platform, adopters have seen lead volume increase by up to 300% and email response rates reach 12.6%, well above typical benchmarks.",
+    "The platform is best suited to teams that want to compress time-to-pipeline. Rather than manually assembling prospect lists and drafting individual messages, users configure their targeting criteria and let the system handle prospecting, personalization, and follow-up cadences until a prospect responds. Most teams report measurable improvements in booked meetings within the first week of deployment.",
+    "Leadgenerator.io connects directly with CRM systems to handle data entry, contact updates, and lead enrichment, keeping records accurate without manual intervention. It fits into a go-to-market stack as a combined lead generation, email outreach, and LinkedIn automation layer. It is not designed for inbound lead management, complex multi-stage sales negotiations, or use cases outside of outbound prospecting."
+  ]
+}

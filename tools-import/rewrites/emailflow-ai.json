@@ -1,0 +1,10 @@
+{
+  "description": "EmailFlow AI is a B2B outbound prospecting platform that uses autonomous AI agents to find leads, write personalized cold emails, and manage large-scale sending with built-in domain warmup.",
+  "tagline": "AI-powered outbound email prospecting at scale",
+  "overview": "EmailFlow AI is a B2B outbound sales platform that deploys autonomous AI agents to handle lead discovery, email copywriting, and campaign delivery at scale. It combines a large B2B contact database with email infrastructure including domain setup and warmup, allowing teams to run continuous prospecting without manual intervention.",
+  "what_is": [
+    "EmailFlow AI is an outbound sales tool designed for B2B teams that want to automate the full cold email prospecting cycle. Autonomous AI agents handle lead research, craft personalized email pitches, and manage sending at scale, continually refining outreach based on engagement signals. The result is a system that can sustain large-scale prospecting with minimal day-to-day management.",
+    "The platform is best suited for companies that need to generate and run high-volume B2B email campaigns quickly. Because the AI agent team manages research, messaging, and delivery in sequence, users can move from setup to active outreach without the usual manual preparation time. It bundles a large B2B email database with email infrastructure including domain configuration and warmup technology, reducing the number of separate tools needed.",
+    "EmailFlow AI is focused on outbound prospecting and delivery automation rather than inbound marketing or CRM-style relationship management. Teams looking to replace or augment a manual outbound process with an AI-driven pipeline will find it a strong fit, while those needing sophisticated post-reply CRM workflows will want a dedicated tool alongside it."
+  ]
+}

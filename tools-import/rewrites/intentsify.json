@@ -1,0 +1,10 @@
+{
+  "description": "Intentsify is an AI-powered intent platform that analyzes over 1.1 trillion monthly signals to help B2B teams identify and engage in-market buying groups.",
+  "tagline": "AI-powered buying group intent intelligence platform",
+  "overview": "Intentsify delivers persona-level buyer intent intelligence derived from more than 1.1 trillion monthly signals, enabling B2B marketing and sales teams to identify in-market accounts and engage buying groups with precision. Its managed service model lets teams scale intent-driven programs without adopting additional platforms.",
+  "what_is": [
+    "Intentsify is an AI-powered buyer intent platform designed to help B2B marketing and sales teams identify and engage buying groups at the right moment. It processes more than 1.1 trillion intent signals per month to produce persona-level insights, making it suitable for precisely targeted campaigns. The managed service model is a key differentiator, allowing customers to run and scale programs without integrating new self-serve software.",
+    "The platform is most effective when teams need to understand which accounts are actively in-market and want to accelerate sales cycles with higher campaign accuracy. Actionable insights for ad solutions, lead generation, and integrated campaigns become available as soon as customer data is connected, shortening the time from setup to results.",
+    "Intentsify complements existing CRM and marketing platforms by adding enriched intent data and audience intelligence rather than replacing them. It specializes in intent-driven identification and activation and requires integration with other sales or marketing tools to support full campaign execution. It is not a general-purpose marketing automation or standalone CRM solution."
+  ]
+}

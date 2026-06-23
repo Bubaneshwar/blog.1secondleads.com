@@ -1,0 +1,10 @@
+{
+  "description": "Leadspace is a B2B customer data platform combining 30+ data sources and 700M+ contacts to help teams identify, enrich, and prioritize accounts for sales.",
+  "tagline": "The B2B Customer Data Platform for Closeable Business",
+  "overview": "Leadspace is a B2B customer data platform that combines more than 30 third-party data sources with a company's own records to map total addressable markets, define ideal customer profiles, and score accounts for sales and marketing prioritization. Its database covers over 700 million contacts and 200 million companies, with advanced account hierarchies and buying signals built in.",
+  "what_is": [
+    "Leadspace is a B2B data platform built for sales and marketing teams that need to find, prioritize, and engage the right accounts faster. It combines data from more than 30 third-party providers with a company's own first-party records to give a clear picture of the Total Addressable Market and the Ideal Customer Profile. With coverage of more than 700 million contacts and 200 million companies, plus account hierarchy mapping and buying signal scoring, it provides the depth of data needed for precise lead matching and segmentation.",
+    "The platform is particularly strong when teams want to improve targeting accuracy, sharpen campaign segmentation, and align sales engagement around the best opportunities. Market exploration and ICP modeling are available quickly, as the enrichment and scoring capabilities work against integrated data to surface high-confidence account and contact recommendations. This accelerates demand generation planning and territory assignment by grounding both in current, enriched data rather than assumptions.",
+    "Leadspace integrates with CRM and marketing automation platforms, serving as a data enrichment, segmentation, and activation layer within the existing go-to-market stack. It is not a CRM itself, nor is it a standalone sales outreach tool. It is best suited to teams running data-driven account-based marketing and sales programs that require robust enrichment and scoring rather than basic contact management or cold outreach."
+  ]
+}

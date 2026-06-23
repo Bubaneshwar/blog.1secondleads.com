@@ -1,0 +1,10 @@
+{
+  "description": "Findy by Reply is a LinkedIn Chrome extension that finds verified prospect emails at 97% accuracy and automates personalized sales outreach with 95% deliverability.",
+  "tagline": "Find verified emails and automate outreach",
+  "overview": "Findy by Reply is a LinkedIn Chrome extension that lets sales teams locate verified prospect emails directly from LinkedIn profiles and launch personalized outreach campaigns without leaving their browser. With 97% data accuracy and 95% email deliverability, it helps reps qualify leads faster and convert prospecting time into active pipeline.",
+  "what_is": [
+    "Findy is a Chrome extension for LinkedIn built to make contact sourcing and outreach setup fast and low-friction. It locates verified email addresses for prospects found on LinkedIn and automates the creation of personalized sales sequences, removing the manual lookup and copy-writing steps that slow down prospecting. Two figures define its quality claims: 97% real-time data accuracy and 95% email deliverability, both of which directly affect reply rates and campaign success.",
+    "The extension is most useful when a sales rep needs to qualify leads using LinkedIn's own filtering capabilities and immediately gather contact details without switching tools. After a short setup, teams can launch targeted campaigns the same day, saving significant time compared to manual enrichment workflows. Its design targets sales teams that run email and LinkedIn outreach as their primary channels.",
+    "Findy connects natively with Reply.io for smooth data transfer and campaign management, making it a natural extension of that platform's outreach capabilities. It is built for lead discovery and outreach initiation, not for replacing a full CRM or managing complex multi-stage sales workflows. Teams that use it as a front-end prospecting accelerator alongside a CRM and sending platform will get the most from it."
+  ]
+}

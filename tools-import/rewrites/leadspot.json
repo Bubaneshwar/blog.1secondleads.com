@@ -1,0 +1,10 @@
+{
+  "description": "LeadSpot is an AI-driven OSINT tool for B2B lead generation, offering a 50-million-company database, prospect qualification, and personalized outreach from one platform.",
+  "tagline": "Transform the art of outreach into science",
+  "overview": "LeadSpot is an AI-powered sales intelligence platform that mines public and corporate data to surface qualified prospects from a database of 50 million companies. It combines contact retrieval, brand monitoring across 15,000+ news sources, CRM integration, and AI-generated personalized messaging to help sales and marketing teams find and engage new customers efficiently.",
+  "what_is": [
+    "LeadSpot is an AI-driven Open-Source Intelligence (OSINT) platform built for lead generation and data enrichment. It searches public and corporate sources to surface actionable business insights from a database of 50 million companies. The platform differentiates itself through AI-powered prospect search and personalized outreach capabilities that help teams identify and engage the right contacts faster.",
+    "The tool is particularly well suited for lead qualification, brand monitoring, and opportunity detection, making it a practical fit for sales and marketing teams focused on new customer acquisition or competitive tracking. Integration with CRM systems, combined with email enrichment and AI-generated messaging, slots LeadSpot into existing sales workflows without requiring major process changes. Teams typically begin seeing useful insights and measurable outreach improvements shortly after initial setup.",
+    "LeadSpot is not intended for deep analytics or complex enterprise data management. Its core focus is practical sales intelligence and outreach support, so teams needing advanced reporting or data warehousing will want to complement it with dedicated tools for those functions."
+  ]
+}

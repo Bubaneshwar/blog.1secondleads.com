@@ -1,0 +1,10 @@
+{
+  "description": "LeadsFactory scrapes Sales Navigator in real time without a LinkedIn account, using waterfall persona matching to surface the closest decision-maker title fits.",
+  "tagline": "Real-time Sales Nav scraping, smart matches.",
+  "overview": "LeadsFactory is a lead sourcing tool that scrapes Sales Navigator in real time to find decision-makers at target companies, without requiring the user to hold a LinkedIn account. It uses waterfall persona search logic to match job titles as closely as possible to a defined ideal profile, including fallback rules for companies that use non-standard titles.",
+  "what_is": [
+    "LeadsFactory is a lead generation tool built to identify the right contacts within target companies by scraping Sales Navigator live, with no LinkedIn account required on the user's side. Its core capability is smart waterfall persona search: users define a target job title and a set of fallback criteria, and the tool matches the closest available title in each company. This makes it practical for finding decision-makers such as CMOs or Heads of Growth even when organizations use unconventional role names.",
+    "The workflow starts by uploading a list of target companies and configuring persona rules with fallback logic. LeadsFactory then scrapes live Sales Navigator data to return the best-matched contacts for each account. Because the data is pulled in real time rather than from a static database, the contacts returned reflect current organizational structures, and results are available shortly after the search is configured.",
+    "LeadsFactory fits into a go-to-market stack as a data enrichment and lead sourcing layer that feeds accurate, persona-matched contacts into CRM systems and sales outreach tools. It is not designed for bulk data management or end-to-end workflow automation; its focus is precise, real-time people finding based on defined persona criteria."
+  ]
+}

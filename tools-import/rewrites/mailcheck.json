@@ -1,0 +1,10 @@
+{
+  "description": "Mailcheck is an email verification tool that cleans mailing lists by removing bots and inactive addresses, using social network data and smart algorithms to improve deliverability.",
+  "tagline": "Bulk email verification and list cleaning tool",
+  "overview": "Mailcheck validates email lists by cross-referencing public data, social networks, and open databases to remove bots and inactive users, helping marketers and sales teams increase delivery rates and reduce bounce rates before launching outreach campaigns.",
+  "what_is": [
+    "Mailcheck is an email verification service that cleans and validates mailing lists to ensure every address belongs to a real, active user. It uses social network signals and proprietary algorithms to filter out bots and dormant accounts, with the aim of increasing email delivery rates by up to five times. A 40-day money-back guarantee gives teams a risk-free way to evaluate the service.",
+    "For teams running high-volume campaigns, Mailcheck processes up to one million emails in roughly 15 minutes, delivering results quickly enough to fit into fast-moving outreach schedules. Marketers, sales teams, and e-commerce operators benefit most from the speed and accuracy, saving time and budget that would otherwise be wasted on undeliverable contacts.",
+    "The tool connects to marketing platforms via API, making it straightforward to incorporate into existing workflows as a data-quality layer. It is not a campaign management or bulk-sending platform; its purpose is to verify and clean lists before outreach begins, so teams launch every campaign with the highest-quality data available."
+  ]
+}

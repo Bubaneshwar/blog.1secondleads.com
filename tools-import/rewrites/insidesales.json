@@ -1,0 +1,10 @@
+{
+  "description": "InsideSales Playbooks is a sales engagement platform that uses AI to help reps prioritize the right prospects and automate multi-channel outreach.",
+  "tagline": "AI-driven sales engagement and prioritization platform",
+  "overview": "InsideSales Playbooks helps sales teams work more efficiently by using AI trained on billions of interactions to guide reps toward the highest-priority contacts and most effective outreach methods. It reduces administrative work so reps can spend more time selling and less time managing tasks.",
+  "what_is": [
+    "InsideSales Playbooks is a sales engagement platform built to help sales teams engage the right prospects at the right time. It fits into the sales productivity category by combining AI-driven prioritization with structured multi-channel plays. The platform draws on data from billions of sales interactions to suggest optimal outreach methods and contact sequences, helping teams close deals more efficiently.",
+    "Playbooks is a strong fit for remote sales teams that need better organization and clearer guidance on where to focus their effort. By reducing data entry and administrative overhead, it frees reps to concentrate on selling. Teams typically see improved engagement rates and faster response times shortly after rolling it out.",
+    "The platform integrates with CRMs including Salesforce and Microsoft Dynamics, enriching existing customer data with buyer intelligence. Playbooks is not a standalone CRM or marketing automation tool; it is designed to complement those systems by focusing on sales prioritization and execution. Deep marketing analytics and back-office functions fall outside its scope."
+  ]
+}

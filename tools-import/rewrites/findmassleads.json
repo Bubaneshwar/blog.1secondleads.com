@@ -1,0 +1,10 @@
+{
+  "description": "Findmassleads is a web-based lead generation tool for small businesses, freelancers, and agencies that surfaces bulk contact lists filtered by technology stack and other criteria.",
+  "tagline": "Discover thousands of quality leads for your company",
+  "overview": "Findmassleads helps small business owners, freelancers, and agencies find prospects by identifying websites based on the technologies they run, such as Shopify, Magento, or Facebook Pixel, and providing bulk contact information for their owners. Users can refine searches by language, tech stack, estimated monthly tech spend, and other filters to build targeted lead lists ready for outreach.",
+  "what_is": [
+    "Findmassleads is a web lead generation tool aimed at small businesses, freelancers, and agencies that want to identify and reach potential clients based on the technology those clients use on their websites. Instead of relying on a static general-purpose database, it queries live web data and filters prospects by tech stack, giving users a targeted and current pool of leads to work from.",
+    "The tool is particularly effective when a seller needs to quickly pinpoint potential clients running specific platforms, such as Shopify, Magento, or Facebook Pixel, because that technology use is itself a buying signal. Searches return results within minutes, so users can move into outreach without lengthy data preparation. Leads can be exported via CSV or pulled through an API, making it straightforward to push contacts into a CRM or cold email platform.",
+    "Findmassleads is not an email marketing or campaign automation platform and does not send messages on its own. Its function is solely to surface fresh, relevant lead data based on technology criteria, leaving campaign execution to whatever outreach tools are already in a user's stack."
+  ]
+}
